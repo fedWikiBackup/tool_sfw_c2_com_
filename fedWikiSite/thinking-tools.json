@@ -1,0 +1,47 @@
+{
+  "title": "Thinking Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "A thinking tool is an extension of your brain and body.  Books, internet, spoken languages, pencils and paper, computers, libraries, wikis, databases (on paper cards or computers), are all [[Thinking Tools]].",
+      "id": "7a5491f602e08e995baea0c1adede450"
+    },
+    {
+      "type": "html",
+      "text": "\nWe have more access to thinking tools today than we did hundreds of years ago. Google is a great thinking tool because there is no need to drive your vehicle to the library or book shop in order to get quick information.  ",
+      "id": "6857a416e38f109f618861a5c296f809"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ThinkingTools c2.com]",
+      "id": "5f62c17530370419ff4d9173f6490ac6"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1332877322000,
+      "id": "96c3576a9876fdc40070a493fd128562",
+      "type": "create",
+      "item": {
+        "title": "Thinking Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "A thinking tool is an extension of your brain and body.  Books, internet, spoken languages, pencils and paper, computers, libraries, wikis, databases (on paper cards or computers), are all [[Thinking Tools]].",
+            "id": "7a5491f602e08e995baea0c1adede450"
+          },
+          {
+            "type": "html",
+            "text": "\nWe have more access to thinking tools today than we did hundreds of years ago. Google is a great thinking tool because there is no need to drive your vehicle to the library or book shop in order to get quick information.  ",
+            "id": "6857a416e38f109f618861a5c296f809"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ThinkingTools c2.com]",
+            "id": "5f62c17530370419ff4d9173f6490ac6"
+          }
+        ]
+      }
+    }
+  ]
+}
