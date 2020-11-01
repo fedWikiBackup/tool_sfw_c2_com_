@@ -1,0 +1,127 @@
+{
+  "title": "Anti Productivity Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "A software product ostensibly intended to increase productivity but having the opposite effect. Patronising pseudo-intelligence and [[Feature Bloat]] can lead to the user spending more time trying to make the tool do what they want than doing their job. The battle of wills between human and software is invariably lost by the human.",
+      "id": "8f1995734d21d71f46d80213a0f4f782"
+    },
+    {
+      "type": "html",
+      "text": "\nSee [[Microsoft Project]], [[Net Hack]]",
+      "id": "31a1037d1b1a0cc09854b9784d6bf980"
+    },
+    {
+      "type": "html",
+      "text": "<i>[but [[Net Hack]] is designed to waste time, surely?]</i>",
+      "id": "b92571936634d528209e535aee2d04a4"
+    },
+    {
+      "type": "html",
+      "text": "\nSee [[In My Way]], compare [[On My Side]].",
+      "id": "1b82c3dbc484800b41d2cc6a80555adf"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "8a6f94445ff9dd4fd741f8c146496320"
+    },
+    {
+      "type": "html",
+      "text": "\nAny tool that punishes the user into doing things <i>the tool's way.</i> I'm the user, goddangit, I tell <i>it</i> what to do. Well, that's what I <i>want</i> to do. -- [[Sunir Shah]]",
+      "id": "3dbaae36f7efb971ca65f640ccb9f327"
+    },
+    {
+      "type": "html",
+      "text": "\nThe distinction should be made between the true [[Anti Productivity Tool]] and a tool that you are having difficulty using; just as an axe is the wrong tool to sharpen a pencil but the right tool for chopping a tree down, software tools are designed to support a particular way of working at the expense of others.",
+      "id": "9c36b92212d2f82b005525acf84e8027"
+    },
+    {
+      "type": "html",
+      "text": "\nI love my Emacs.  But it makes a really bad Photoshop, and it is unreasonable for me to complain about that.  -- [[Graham Hughes]]",
+      "id": "40309aa17a19bb471d0387f3d229287c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "8a6f94445ff9dd4fd741f8c146496320"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "d5671fff6b1b680d4465b9cbd3a4da62"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?AntiProductivityTool c2.com]",
+      "id": "ff35fb91d9cd25743c9da7fdef2993f5"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1105954956000,
+      "id": "87990fb21be835d719957bb993ff3050",
+      "type": "create",
+      "item": {
+        "title": "Anti Productivity Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "A software product ostensibly intended to increase productivity but having the opposite effect. Patronising pseudo-intelligence and [[Feature Bloat]] can lead to the user spending more time trying to make the tool do what they want than doing their job. The battle of wills between human and software is invariably lost by the human.",
+            "id": "8f1995734d21d71f46d80213a0f4f782"
+          },
+          {
+            "type": "html",
+            "text": "\nSee [[Microsoft Project]], [[Net Hack]]",
+            "id": "31a1037d1b1a0cc09854b9784d6bf980"
+          },
+          {
+            "type": "html",
+            "text": "<i>[but [[Net Hack]] is designed to waste time, surely?]</i>",
+            "id": "b92571936634d528209e535aee2d04a4"
+          },
+          {
+            "type": "html",
+            "text": "\nSee [[In My Way]], compare [[On My Side]].",
+            "id": "1b82c3dbc484800b41d2cc6a80555adf"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "8a6f94445ff9dd4fd741f8c146496320"
+          },
+          {
+            "type": "html",
+            "text": "\nAny tool that punishes the user into doing things <i>the tool's way.</i> I'm the user, goddangit, I tell <i>it</i> what to do. Well, that's what I <i>want</i> to do. -- [[Sunir Shah]]",
+            "id": "3dbaae36f7efb971ca65f640ccb9f327"
+          },
+          {
+            "type": "html",
+            "text": "\nThe distinction should be made between the true [[Anti Productivity Tool]] and a tool that you are having difficulty using; just as an axe is the wrong tool to sharpen a pencil but the right tool for chopping a tree down, software tools are designed to support a particular way of working at the expense of others.",
+            "id": "9c36b92212d2f82b005525acf84e8027"
+          },
+          {
+            "type": "html",
+            "text": "\nI love my Emacs.  But it makes a really bad Photoshop, and it is unreasonable for me to complain about that.  -- [[Graham Hughes]]",
+            "id": "40309aa17a19bb471d0387f3d229287c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "8a6f94445ff9dd4fd741f8c146496320"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "d5671fff6b1b680d4465b9cbd3a4da62"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?AntiProductivityTool c2.com]",
+            "id": "ff35fb91d9cd25743c9da7fdef2993f5"
+          }
+        ]
+      }
+    }
+  ]
+}
