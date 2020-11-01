@@ -1,0 +1,437 @@
+{
+  "title": "Scrum Web Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "Scrum Web Tool",
+      "id": "24afe080345e49eb1e03a2d8c78b9a79"
+    },
+    {
+      "type": "html",
+      "text": "\nThe first brainstorm",
+      "id": "b4ac7f3105789115d75da526cc40d7f0"
+    },
+    {
+      "type": "html",
+      "text": "\nProject Description\nSCRUM is a software project management methodology.\nIts major benefits are the increase of team productivity, the increase of software\nquality and the meet of all the goals. Business Requirement and Non Functional\nstatements are every day observed.\nThe Web Based tool for managing scrum help project manager, team members and\nproject owners to focus on their commitments.",
+      "id": "e81288a980535cfffd15993879aac873"
+    },
+    {
+      "type": "html",
+      "text": "Features:",
+      "id": "55ac638255158b274d00dacb0d87779c"
+    },
+    {
+      "type": "html",
+      "text": " Web User Interface;",
+      "id": "6219015dd3104586e1ebe4047212c677"
+    },
+    {
+      "type": "html",
+      "text": " Multi user account;",
+      "id": "7b305733733621e7f07dfbfbb3032be2"
+    },
+    {
+      "type": "html",
+      "text": " Multi project scalability;",
+      "id": "f0dd3f77af290de42eecbaeb084a25f0"
+    },
+    {
+      "type": "html",
+      "text": "For each project the features are:",
+      "id": "e94835f6608f316c37484d7f6a1e2cae"
+    },
+    {
+      "type": "html",
+      "text": " Product Backlog;",
+      "id": "894e0600776d3e4f69b0fe2f2ef16039"
+    },
+    {
+      "type": "html",
+      "text": " Sprint Backlog;",
+      "id": "a8ecda80046333e2ba342c9a239b1083"
+    },
+    {
+      "type": "html",
+      "text": " Sprint managements;",
+      "id": "764455f16e3481899a91da2d3fe17cda"
+    },
+    {
+      "type": "html",
+      "text": " Sprint goal definition;",
+      "id": "e4cce62bc4a0a1285b7f248d3ccdf1be"
+    },
+    {
+      "type": "html",
+      "text": " Team Planner;",
+      "id": "2523a6c113a087a3fd96e99ddc1cee0b"
+    },
+    {
+      "type": "html",
+      "text": " Issue management;",
+      "id": "61ed555a3699830f4547256f31b58383"
+    },
+    {
+      "type": "html",
+      "text": " Project/Sprint budget estimation;",
+      "id": "3697c47994c7accf399d473b75cac3bf"
+    },
+    {
+      "type": "html",
+      "text": " Project/Sprint budget estimation evaluation considering drag factors and scenarios",
+      "id": "88d6e1a596de0bc2e99beb82fcf0513c"
+    },
+    {
+      "type": "html",
+      "text": " Reporting (Work Remaining Graph, and others)",
+      "id": "5214548acf3aabdad53a8b0e53db852a"
+    },
+    {
+      "type": "html",
+      "text": " User account management (Team members, Scrum master, Project Owner)",
+      "id": "22a311e8d4e324adbf298f45f33d302c"
+    },
+    {
+      "type": "html",
+      "text": " Daily team backlog management",
+      "id": "d0ed788858582fcbf230b314bf5a3db0"
+    },
+    {
+      "type": "html",
+      "text": " Integration with Microsoft Excel,  with Microsoft Project and with Open Office",
+      "id": "a79d58538ba926c53f2438a235e60f43"
+    },
+    {
+      "type": "html",
+      "text": " Scheduling of Virtual Scrum",
+      "id": "cfda9359cb2bea5ca22c8e6b548465f7"
+    },
+    {
+      "type": "html",
+      "text": " Mobile Daily Task management for the team member",
+      "id": "f8f88aaa2892c1d4b9709bfa7ef02db9"
+    },
+    {
+      "type": "html",
+      "text": " Sashimi management",
+      "id": "ab4056864605729354a227b0ba29d4aa"
+    },
+    {
+      "type": "html",
+      "text": "Non functional requirement:",
+      "id": "c23593187dad7a6528de26b5a2892065"
+    },
+    {
+      "type": "html",
+      "text": " must be able of scaling across platform;",
+      "id": "1f7102f22deff46dfe7ee5fc433e138f"
+    },
+    {
+      "type": "html",
+      "text": " must be able on running on open source platform;",
+      "id": "e2afb6ae78d8458acf27e2877d5ed142"
+    },
+    {
+      "type": "html",
+      "text": " must run on the Web;",
+      "id": "6c6c5a778c6f9433e3c4a69a7ee526f0"
+    },
+    {
+      "type": "html",
+      "text": " must support the whole range of Database",
+      "id": "b76ac71ddf404d9f5efbe820f2a292ad"
+    },
+    {
+      "type": "html",
+      "text": " must expose inquiry model as Web Service ",
+      "id": "6283c8c50ca038ada52a42c9bfc104a3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "20766ff89face5b6d3735f98c108d458"
+    },
+    {
+      "type": "html",
+      "text": "Wishlist:",
+      "id": "39c2ba9bfa8f09153899307aadef9957"
+    },
+    {
+      "type": "html",
+      "text": " allow addition of user-specific columns (to be used in site-specific metrics). Things like \"Workorder Number\" and \"Feature type\" (product or infrastructure) are things I have added to my own spreadsheet, for later correlation with other systems at my workplace. Being my first sprint, I've already added a dozen columns to help us measure the benefits of using Scrum vs. our other ways of working. Hopefully, they'll disappear over time... -- [[Deb Hartmann]] July 19, 2003",
+      "id": "4a4637cd0d46d91dd6689d6331ef1bb2"
+    },
+    {
+      "type": "html",
+      "text": "---- Is this in [[Category Wish List]]?",
+      "id": "69be9117b8d5accf575eccf6e8cb9fc5"
+    },
+    {
+      "type": "html",
+      "text": "\nDoesn't do everything you mention, but you might like to take a look at [http://scrumwiki.org/ scrumwiki.org] (Nov 11 2003)",
+      "id": "c901aa9a92b6a6b30df382d1eec69330"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "20766ff89face5b6d3735f98c108d458"
+    },
+    {
+      "type": "html",
+      "text": "Also doesn't do everything above, but we're using Outreach Project Tool at work.\nSourceforge Project Page: [http://www.sf.net/projects/outreach/ www.sf.net]\nIt's open-source PHP and can be easily extended. ",
+      "id": "f936c217b61523cde0102363c2374c38"
+    },
+    {
+      "type": "html",
+      "text": "-- Guy Davis (2004-02-08)",
+      "id": "462e5898d7a344ac2b8955b3df777d5d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "20766ff89face5b6d3735f98c108d458"
+    },
+    {
+      "type": "html",
+      "text": "[[Scrum Works]] looks to be an excellent tool that approximates the list above.",
+      "id": "f2d4ce5a97778a3e9c0b63c9e2b91a87"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "20766ff89face5b6d3735f98c108d458"
+    },
+    {
+      "type": "html",
+      "text": "[[Target Process]] covers most of main features above.",
+      "id": "38b46c028d4cee24906ed09ca35567f4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ScrumWebTool c2.com]",
+      "id": "ca243bb32cd7ff33649b34cad5d153ba"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1331821062000,
+      "id": "cbdb8f33f97a4c0dbf0631105917f0c1",
+      "type": "create",
+      "item": {
+        "title": "Scrum Web Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "Scrum Web Tool",
+            "id": "24afe080345e49eb1e03a2d8c78b9a79"
+          },
+          {
+            "type": "html",
+            "text": "\nThe first brainstorm",
+            "id": "b4ac7f3105789115d75da526cc40d7f0"
+          },
+          {
+            "type": "html",
+            "text": "\nProject Description\nSCRUM is a software project management methodology.\nIts major benefits are the increase of team productivity, the increase of software\nquality and the meet of all the goals. Business Requirement and Non Functional\nstatements are every day observed.\nThe Web Based tool for managing scrum help project manager, team members and\nproject owners to focus on their commitments.",
+            "id": "e81288a980535cfffd15993879aac873"
+          },
+          {
+            "type": "html",
+            "text": "Features:",
+            "id": "55ac638255158b274d00dacb0d87779c"
+          },
+          {
+            "type": "html",
+            "text": " Web User Interface;",
+            "id": "6219015dd3104586e1ebe4047212c677"
+          },
+          {
+            "type": "html",
+            "text": " Multi user account;",
+            "id": "7b305733733621e7f07dfbfbb3032be2"
+          },
+          {
+            "type": "html",
+            "text": " Multi project scalability;",
+            "id": "f0dd3f77af290de42eecbaeb084a25f0"
+          },
+          {
+            "type": "html",
+            "text": "For each project the features are:",
+            "id": "e94835f6608f316c37484d7f6a1e2cae"
+          },
+          {
+            "type": "html",
+            "text": " Product Backlog;",
+            "id": "894e0600776d3e4f69b0fe2f2ef16039"
+          },
+          {
+            "type": "html",
+            "text": " Sprint Backlog;",
+            "id": "a8ecda80046333e2ba342c9a239b1083"
+          },
+          {
+            "type": "html",
+            "text": " Sprint managements;",
+            "id": "764455f16e3481899a91da2d3fe17cda"
+          },
+          {
+            "type": "html",
+            "text": " Sprint goal definition;",
+            "id": "e4cce62bc4a0a1285b7f248d3ccdf1be"
+          },
+          {
+            "type": "html",
+            "text": " Team Planner;",
+            "id": "2523a6c113a087a3fd96e99ddc1cee0b"
+          },
+          {
+            "type": "html",
+            "text": " Issue management;",
+            "id": "61ed555a3699830f4547256f31b58383"
+          },
+          {
+            "type": "html",
+            "text": " Project/Sprint budget estimation;",
+            "id": "3697c47994c7accf399d473b75cac3bf"
+          },
+          {
+            "type": "html",
+            "text": " Project/Sprint budget estimation evaluation considering drag factors and scenarios",
+            "id": "88d6e1a596de0bc2e99beb82fcf0513c"
+          },
+          {
+            "type": "html",
+            "text": " Reporting (Work Remaining Graph, and others)",
+            "id": "5214548acf3aabdad53a8b0e53db852a"
+          },
+          {
+            "type": "html",
+            "text": " User account management (Team members, Scrum master, Project Owner)",
+            "id": "22a311e8d4e324adbf298f45f33d302c"
+          },
+          {
+            "type": "html",
+            "text": " Daily team backlog management",
+            "id": "d0ed788858582fcbf230b314bf5a3db0"
+          },
+          {
+            "type": "html",
+            "text": " Integration with Microsoft Excel,  with Microsoft Project and with Open Office",
+            "id": "a79d58538ba926c53f2438a235e60f43"
+          },
+          {
+            "type": "html",
+            "text": " Scheduling of Virtual Scrum",
+            "id": "cfda9359cb2bea5ca22c8e6b548465f7"
+          },
+          {
+            "type": "html",
+            "text": " Mobile Daily Task management for the team member",
+            "id": "f8f88aaa2892c1d4b9709bfa7ef02db9"
+          },
+          {
+            "type": "html",
+            "text": " Sashimi management",
+            "id": "ab4056864605729354a227b0ba29d4aa"
+          },
+          {
+            "type": "html",
+            "text": "Non functional requirement:",
+            "id": "c23593187dad7a6528de26b5a2892065"
+          },
+          {
+            "type": "html",
+            "text": " must be able of scaling across platform;",
+            "id": "1f7102f22deff46dfe7ee5fc433e138f"
+          },
+          {
+            "type": "html",
+            "text": " must be able on running on open source platform;",
+            "id": "e2afb6ae78d8458acf27e2877d5ed142"
+          },
+          {
+            "type": "html",
+            "text": " must run on the Web;",
+            "id": "6c6c5a778c6f9433e3c4a69a7ee526f0"
+          },
+          {
+            "type": "html",
+            "text": " must support the whole range of Database",
+            "id": "b76ac71ddf404d9f5efbe820f2a292ad"
+          },
+          {
+            "type": "html",
+            "text": " must expose inquiry model as Web Service ",
+            "id": "6283c8c50ca038ada52a42c9bfc104a3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "20766ff89face5b6d3735f98c108d458"
+          },
+          {
+            "type": "html",
+            "text": "Wishlist:",
+            "id": "39c2ba9bfa8f09153899307aadef9957"
+          },
+          {
+            "type": "html",
+            "text": " allow addition of user-specific columns (to be used in site-specific metrics). Things like \"Workorder Number\" and \"Feature type\" (product or infrastructure) are things I have added to my own spreadsheet, for later correlation with other systems at my workplace. Being my first sprint, I've already added a dozen columns to help us measure the benefits of using Scrum vs. our other ways of working. Hopefully, they'll disappear over time... -- [[Deb Hartmann]] July 19, 2003",
+            "id": "4a4637cd0d46d91dd6689d6331ef1bb2"
+          },
+          {
+            "type": "html",
+            "text": "---- Is this in [[Category Wish List]]?",
+            "id": "69be9117b8d5accf575eccf6e8cb9fc5"
+          },
+          {
+            "type": "html",
+            "text": "\nDoesn't do everything you mention, but you might like to take a look at [http://scrumwiki.org/ scrumwiki.org] (Nov 11 2003)",
+            "id": "c901aa9a92b6a6b30df382d1eec69330"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "20766ff89face5b6d3735f98c108d458"
+          },
+          {
+            "type": "html",
+            "text": "Also doesn't do everything above, but we're using Outreach Project Tool at work.\nSourceforge Project Page: [http://www.sf.net/projects/outreach/ www.sf.net]\nIt's open-source PHP and can be easily extended. ",
+            "id": "f936c217b61523cde0102363c2374c38"
+          },
+          {
+            "type": "html",
+            "text": "-- Guy Davis (2004-02-08)",
+            "id": "462e5898d7a344ac2b8955b3df777d5d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "20766ff89face5b6d3735f98c108d458"
+          },
+          {
+            "type": "html",
+            "text": "[[Scrum Works]] looks to be an excellent tool that approximates the list above.",
+            "id": "f2d4ce5a97778a3e9c0b63c9e2b91a87"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "20766ff89face5b6d3735f98c108d458"
+          },
+          {
+            "type": "html",
+            "text": "[[Target Process]] covers most of main features above.",
+            "id": "38b46c028d4cee24906ed09ca35567f4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ScrumWebTool c2.com]",
+            "id": "ca243bb32cd7ff33649b34cad5d153ba"
+          }
+        ]
+      }
+    }
+  ]
+}
