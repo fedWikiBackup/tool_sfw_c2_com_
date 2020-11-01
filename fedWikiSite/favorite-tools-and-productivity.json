@@ -1,0 +1,77 @@
+{
+  "title": "Favorite Tools And Productivity",
+  "story": [
+    {
+      "type": "html",
+      "text": "In chapter 3 of The \"Rise & Resurrection of the American Programmer\", page 63, [[Edward Yourdon]] gives some statistics from studies about OOP projects. It seems that early Smalltalk projects, for example, were quite successful, but later ones did not score higher than the average language score. Yourdon's speculation for this change is that early projects had more Smalltalk (language-specific) \"fanatics\" on them, but later ones had a more mixed crowd. Smalltalk became the \"in\" language for a while and people rushed into it because that is where the money was. The earlier Smalltalkers chose Smalltalk mostly because they liked it but the later ones chased the money.",
+      "id": "2021d95d3ef0c276a52e086b3805600a"
+    },
+    {
+      "type": "html",
+      "text": "\nThis implies that a programmer's personal preference is more important to getting results than the language or paradigm itself. In other-words, if a programmer can work with the tools and languages that he or she most prefers, then productivity and quality may be much higher than from passing down edicts based on a blanket choice of tool, language, or paradigm. ",
+      "id": "b80cf9c07a797e1d85e185bdbd40b475"
+    },
+    {
+      "type": "html",
+      "text": "\nI feel much more productive around my favorite languages, paradigms, and tools. I am sure many others feel the same. -- top",
+      "id": "c56bf861a145e0a5ea40c840ff6f940f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c173465b23b27388a2b2ed37b744aa20"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Economics]]",
+      "id": "fa12278d18571f95eb9b88b5784316d4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?FavoriteToolsAndProductivity c2.com]",
+      "id": "78eb14096ae2886a855a45e64e7de448"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1108365950000,
+      "id": "f8d21f7e9a146bc9b6f7b60ec300580c",
+      "type": "create",
+      "item": {
+        "title": "Favorite Tools And Productivity",
+        "story": [
+          {
+            "type": "html",
+            "text": "In chapter 3 of The \"Rise & Resurrection of the American Programmer\", page 63, [[Edward Yourdon]] gives some statistics from studies about OOP projects. It seems that early Smalltalk projects, for example, were quite successful, but later ones did not score higher than the average language score. Yourdon's speculation for this change is that early projects had more Smalltalk (language-specific) \"fanatics\" on them, but later ones had a more mixed crowd. Smalltalk became the \"in\" language for a while and people rushed into it because that is where the money was. The earlier Smalltalkers chose Smalltalk mostly because they liked it but the later ones chased the money.",
+            "id": "2021d95d3ef0c276a52e086b3805600a"
+          },
+          {
+            "type": "html",
+            "text": "\nThis implies that a programmer's personal preference is more important to getting results than the language or paradigm itself. In other-words, if a programmer can work with the tools and languages that he or she most prefers, then productivity and quality may be much higher than from passing down edicts based on a blanket choice of tool, language, or paradigm. ",
+            "id": "b80cf9c07a797e1d85e185bdbd40b475"
+          },
+          {
+            "type": "html",
+            "text": "\nI feel much more productive around my favorite languages, paradigms, and tools. I am sure many others feel the same. -- top",
+            "id": "c56bf861a145e0a5ea40c840ff6f940f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c173465b23b27388a2b2ed37b744aa20"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Economics]]",
+            "id": "fa12278d18571f95eb9b88b5784316d4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?FavoriteToolsAndProductivity c2.com]",
+            "id": "78eb14096ae2886a855a45e64e7de448"
+          }
+        ]
+      }
+    }
+  ]
+}
