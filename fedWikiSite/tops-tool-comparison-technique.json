@@ -1,0 +1,197 @@
+{
+  "title": "Tops Tool Comparison Technique",
+  "story": [
+    {
+      "type": "html",
+      "text": "On comparing tools, languages, and paradigms. These three will be collectively referred to as \"tool\" for short.",
+      "id": "d6222d1e78319f510f60695da358c22f"
+    },
+    {
+      "type": "html",
+      "text": "\nI've had to describe this enough times that I decided to create a topic for it rather than re-reinvent the wheel.",
+      "id": "d08ff923f378f44fba29f1adb82fd760"
+    },
+    {
+      "type": "html",
+      "text": "\nThis usually becomes an issue when somebody comes along and says, \"Y tool is better than your X tool.\" Below is generally the approach I recommend for demonstrating your claim.",
+      "id": "bc21369d25f24d5b79a802131caded62"
+    },
+    {
+      "type": "html",
+      "text": "\nThe steps are roughly as follows:",
+      "id": "d5fdb39262d01d01016075bc16c02b35"
+    },
+    {
+      "type": "html",
+      "text": " Describe your tool/language/paradigm's benefits as best possible so that both parties know the scope of the claim, and can weed out assumptions up-front if possible.",
+      "id": "a43d956ea6e9ba95d046b86fa4b2bb8f"
+    },
+    {
+      "type": "html",
+      "text": " Select a few semi-realistic scenarios under which you plan to demonstrate. (More scenarios may be added later.) Run the scenarios by the other party to confirm that both parties agree they are sufficiently representative of their domain. This is because you don't want to be accused of picking a tool optimized for a different domain. Being \"good\" for one domain may not necessarily be good for another. Change scenarios are often a good test because maintenance tends to be the sore side of \"software engineering\". For example, \"I want to add a new column to table Foo.\"",
+      "id": "dd95186d6ee2de258289debdb691d358"
+    },
+    {
+      "type": "html",
+      "text": " Create coded examples of the selected scenarios. If the language is not the primary issue being demonstrated, then try to stick to a C-style derivative if possible (C, C++, [[Java Script]], Java, PHP, etc.). C-style is the Langua Franca of programming for good or bad, and thus reduces time spent reading the code and reduces questions about the language selected. Pseudo-code is fine as long as it's either clear or you are willing to spend the time to explain any new \"inventions\" in it.",
+      "id": "37d991afc4a9fbd0cb8827393020844e"
+    },
+    {
+      "type": "html",
+      "text": " Describe what you are looking at to measure \"better\". The best metrics involve numbers and counts, such as lines of code (or number of tokens, etc.). For example, number of lines of code, functions, and/or blocks that need to be changed per change-scenario. Poor metrics are those that are hard to objectively describe, such as \"elegance\" and \"clean\". Elegance may be in the eye of the beholder. The important thing is to keep the metrics as objective and relevant as as possible. How does the tool save time and prevent errors, for example, and how are you measuring that. Non-numeric metrics may be okay, but you accept more risk of disagreement with them, such as [[Laynes Law]]. Needless to say, metric selection is probably the hardest part of this all.",
+      "id": "b3c5edb4cd952bed2059ee38f36cdc68"
+    },
+    {
+      "type": "html",
+      "text": " Present your scoring sheet to the other party and allow them to review it.",
+      "id": "2d84ca91c887bba2a30c567b57104ec7"
+    },
+    {
+      "type": "html",
+      "text": " The other party may present metrics, or at least descriptive problems of their own based on the examples. For example, maybe the number of ways in which errors can be produced is reduced, but at the expense of having more code. It's best to anticipate these in advance rather than let the other party find them, because otherwise you may appear to be \"obsessing\" on very specific metrics.",
+      "id": "737df06419ff4a2d905fa2d63f2b7965"
+    },
+    {
+      "type": "html",
+      "text": " The other party may present other scenarios that shed light on aspects of the tool that your initial scenarios didn't address well. And it's back to step one.",
+      "id": "9c157191f3d589361672d849700a5143"
+    },
+    {
+      "type": "html",
+      "text": " Ultimately [[Let The Reader Decide]]. You may not convince the other party, but at least you documented your claims of improvement for others in an approach that attempts to be as objective and methodical as possible.",
+      "id": "eac6ef3f49d976d7818bcd231cf09d41"
+    },
+    {
+      "type": "html",
+      "text": "-top",
+      "id": "f34d476b4a369fe547babf17913559cc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6c00b24253ecab04c54ad8cd1ac69ed9"
+    },
+    {
+      "type": "html",
+      "text": "See Also: [[Code Change Impact Analysis]], [[How To Sell Golden Hammers]]",
+      "id": "8641373e6615e8a8ed2b862a5bfe3d11"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6c00b24253ecab04c54ad8cd1ac69ed9"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Metrics]]",
+      "id": "a60aae52d2aa68ca8b207d6ffc2c6ea3"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TopsToolComparisonTechnique c2.com]",
+      "id": "182f9acf5e32e78d7c389985326dc490"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1260380303000,
+      "id": "c9b7577fd26005333de9f19a002f0319",
+      "type": "create",
+      "item": {
+        "title": "Tops Tool Comparison Technique",
+        "story": [
+          {
+            "type": "html",
+            "text": "On comparing tools, languages, and paradigms. These three will be collectively referred to as \"tool\" for short.",
+            "id": "d6222d1e78319f510f60695da358c22f"
+          },
+          {
+            "type": "html",
+            "text": "\nI've had to describe this enough times that I decided to create a topic for it rather than re-reinvent the wheel.",
+            "id": "d08ff923f378f44fba29f1adb82fd760"
+          },
+          {
+            "type": "html",
+            "text": "\nThis usually becomes an issue when somebody comes along and says, \"Y tool is better than your X tool.\" Below is generally the approach I recommend for demonstrating your claim.",
+            "id": "bc21369d25f24d5b79a802131caded62"
+          },
+          {
+            "type": "html",
+            "text": "\nThe steps are roughly as follows:",
+            "id": "d5fdb39262d01d01016075bc16c02b35"
+          },
+          {
+            "type": "html",
+            "text": " Describe your tool/language/paradigm's benefits as best possible so that both parties know the scope of the claim, and can weed out assumptions up-front if possible.",
+            "id": "a43d956ea6e9ba95d046b86fa4b2bb8f"
+          },
+          {
+            "type": "html",
+            "text": " Select a few semi-realistic scenarios under which you plan to demonstrate. (More scenarios may be added later.) Run the scenarios by the other party to confirm that both parties agree they are sufficiently representative of their domain. This is because you don't want to be accused of picking a tool optimized for a different domain. Being \"good\" for one domain may not necessarily be good for another. Change scenarios are often a good test because maintenance tends to be the sore side of \"software engineering\". For example, \"I want to add a new column to table Foo.\"",
+            "id": "dd95186d6ee2de258289debdb691d358"
+          },
+          {
+            "type": "html",
+            "text": " Create coded examples of the selected scenarios. If the language is not the primary issue being demonstrated, then try to stick to a C-style derivative if possible (C, C++, [[Java Script]], Java, PHP, etc.). C-style is the Langua Franca of programming for good or bad, and thus reduces time spent reading the code and reduces questions about the language selected. Pseudo-code is fine as long as it's either clear or you are willing to spend the time to explain any new \"inventions\" in it.",
+            "id": "37d991afc4a9fbd0cb8827393020844e"
+          },
+          {
+            "type": "html",
+            "text": " Describe what you are looking at to measure \"better\". The best metrics involve numbers and counts, such as lines of code (or number of tokens, etc.). For example, number of lines of code, functions, and/or blocks that need to be changed per change-scenario. Poor metrics are those that are hard to objectively describe, such as \"elegance\" and \"clean\". Elegance may be in the eye of the beholder. The important thing is to keep the metrics as objective and relevant as as possible. How does the tool save time and prevent errors, for example, and how are you measuring that. Non-numeric metrics may be okay, but you accept more risk of disagreement with them, such as [[Laynes Law]]. Needless to say, metric selection is probably the hardest part of this all.",
+            "id": "b3c5edb4cd952bed2059ee38f36cdc68"
+          },
+          {
+            "type": "html",
+            "text": " Present your scoring sheet to the other party and allow them to review it.",
+            "id": "2d84ca91c887bba2a30c567b57104ec7"
+          },
+          {
+            "type": "html",
+            "text": " The other party may present metrics, or at least descriptive problems of their own based on the examples. For example, maybe the number of ways in which errors can be produced is reduced, but at the expense of having more code. It's best to anticipate these in advance rather than let the other party find them, because otherwise you may appear to be \"obsessing\" on very specific metrics.",
+            "id": "737df06419ff4a2d905fa2d63f2b7965"
+          },
+          {
+            "type": "html",
+            "text": " The other party may present other scenarios that shed light on aspects of the tool that your initial scenarios didn't address well. And it's back to step one.",
+            "id": "9c157191f3d589361672d849700a5143"
+          },
+          {
+            "type": "html",
+            "text": " Ultimately [[Let The Reader Decide]]. You may not convince the other party, but at least you documented your claims of improvement for others in an approach that attempts to be as objective and methodical as possible.",
+            "id": "eac6ef3f49d976d7818bcd231cf09d41"
+          },
+          {
+            "type": "html",
+            "text": "-top",
+            "id": "f34d476b4a369fe547babf17913559cc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6c00b24253ecab04c54ad8cd1ac69ed9"
+          },
+          {
+            "type": "html",
+            "text": "See Also: [[Code Change Impact Analysis]], [[How To Sell Golden Hammers]]",
+            "id": "8641373e6615e8a8ed2b862a5bfe3d11"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6c00b24253ecab04c54ad8cd1ac69ed9"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Metrics]]",
+            "id": "a60aae52d2aa68ca8b207d6ffc2c6ea3"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TopsToolComparisonTechnique c2.com]",
+            "id": "182f9acf5e32e78d7c389985326dc490"
+          }
+        ]
+      }
+    }
+  ]
+}
