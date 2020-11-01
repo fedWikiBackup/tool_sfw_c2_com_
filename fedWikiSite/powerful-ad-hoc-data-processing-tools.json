@@ -1,0 +1,387 @@
+{
+  "title": "Powerful Ad Hoc Data Processing Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>\"I want [[Powerful Ad Hoc Data Processing Tools]].\"</i>",
+      "id": "5e0bd804eed150e607abe63d463ab739"
+    },
+    {
+      "type": "html",
+      "text": "\nAs a developer, and a power user, I sometimes have a bunch of data that I want to process, and I don't want to have to run a proposal through all the layers of management, and perform a cost-benefit analysis, and form and run a project team over the course of months, just to get some data processed.  What are the best tools available, for me to just crunch some data?",
+      "id": "1ed864282eec20d01d255847f2c30a4c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f071b0fd7265eb97e5082115f863c9d5"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f071b0fd7265eb97e5082115f863c9d5"
+    },
+    {
+      "type": "html",
+      "text": "\nAd-Hoc \"Data Processing\" tasks we might want to do:",
+      "id": "31e51834c54f73f059ee6bfeebfb9ae2"
+    },
+    {
+      "type": "html",
+      "text": " Query all the source control checkins done during an iteration.  Get the User Story number from each.  (Assume that user stories are numbered, and that every checkin comment starts with the appropriate number.)  Produce a list of files changed, by user story.",
+      "id": "6a6e923cd2ce3b6c963a2ebda308d7e2"
+    },
+    {
+      "type": "html",
+      "text": " We got a list of all the boats in our fleet -- in a poorly formatted Word document.  We need to put this in a new database table we just created for this purpose.  Edit (format) and import the data into the table.",
+      "id": "881d75aff3b4178ff34c2b66338b7f1d"
+    },
+    {
+      "type": "html",
+      "text": " Some web server has the time reporting data that I need.  I'm allowed to run a \"report,\" that will display the data in HTML, but I'm not allowed to run queries against their database.  So I need to \"browse\" to a URL, \"screen scrape\" the HTML, and write it to a table in my database.",
+      "id": "d8b4eaf5466c8ced2ff795e5819b1b19"
+    },
+    {
+      "type": "html",
+      "text": " One-time conversion of data from the old system to the new one.",
+      "id": "6f30794736f00ec22a47ee6ae15676d5"
+    },
+    {
+      "type": "html",
+      "text": " Ad-hoc report of all customers who purchased product B in March who had also purchased product A within the last year. Summarize by zip-code, but also provide the detail in a spreadsheet.",
+      "id": "d770828f52bab5eaa8e289fbbfbe8e24"
+    },
+    {
+      "type": "html",
+      "text": " Internal (IT-deptarment) apps and utils that don't need to be pretty but easy for IT clerks to use.",
+      "id": "351dc9386ae20d2fa5ca7cbf5b77f3dc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f071b0fd7265eb97e5082115f863c9d5"
+    },
+    {
+      "type": "html",
+      "text": "<i>SAS or SPSS.</i>",
+      "id": "76e2ca8fd20f4a117e0c9e7c5726fdf3"
+    },
+    {
+      "type": "html",
+      "text": " [[Statistical Analysis System]] (SAS)",
+      "id": "aa4e67944a46cdb443a3b5137dfbcbbb"
+    },
+    {
+      "type": "html",
+      "text": " [[Statistical Package For The Social Sciences]] (SPSS)",
+      "id": "3ffec10145906ff6a40be4e6f534a469"
+    },
+    {
+      "type": "html",
+      "text": "\nComments:",
+      "id": "46c9159473b52d9cfa04f6c22d3a899a"
+    },
+    {
+      "type": "html",
+      "text": " As far as SAS is concerned, do you have any specific scenarios you would like to demonstrate?",
+      "id": "8b331e5903a20d68d3abe18ef8de6666"
+    },
+    {
+      "type": "html",
+      "text": "<i>See the new list above.</i>",
+      "id": "cc561e69c0c9d0220721db622b4fe652"
+    },
+    {
+      "type": "html",
+      "text": "<i>From what I've seen, SAS is a really strong tool for grabbing and crunching data in creative ways.  ...if if you're not doing any math on it.  (And, of course, SAS really shines on the math stuff.)  But it's a pricy tool.  -- [[Jeff Grigg]]</i>",
+      "id": "3290919d2676b35eb36dbadf9de3d001"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f071b0fd7265eb97e5082115f863c9d5"
+    },
+    {
+      "type": "html",
+      "text": "\nIn Unix, shell scripts and piping are often used to process data.\nCommand line tools, scripting languages and custom programs can manipulate data.\nScript languages have progressed from awk, through perl, to python, ruby and others.",
+      "id": "f0ebf8e95e7e2cb413c5db7a564c1b71"
+    },
+    {
+      "type": "html",
+      "text": "\nBut the powerful Unix command line tools and piping are not commonly available on Windows platforms, and many GUI tools are not compatible with command line usage.",
+      "id": "1a727e5079a1fbb277cb72eb20005162"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f071b0fd7265eb97e5082115f863c9d5"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Power Shell]] is an extremely promising tool for the Windows [[Dot Net]] environment.",
+      "id": "42e88055e3846a73db093b5480710fe1"
+    },
+    {
+      "type": "html",
+      "text": "<i>(But there doesn't seem to be any equivilent in the Java environment.)</i>",
+      "id": "c07fe9cfa90b068059c0102d83787ce7"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f071b0fd7265eb97e5082115f863c9d5"
+    },
+    {
+      "type": "html",
+      "text": "<i>See Also: [[Ex Base]]</i>",
+      "id": "afc84dec3cced454a30c028b0ced29fd"
+    },
+    {
+      "type": "html",
+      "text": "<i>Oh please.  [[Ex Base]] is not, by any stretch of the imagination, a \"powerful\" ad-hoc data processing tool.  Comparing [[Ex Base]] to (say) SAS is like comparing a steel-wheeled rollerskate to a Mac truck.  Even for simple database-oriented tasks it is utterly eclipsed by [[Microsoft Access]], which is still firmly in the in-line rollerskate territory.</i>",
+      "id": "4886ed383cdf9ac1fc8a76fd86c7efab"
+    },
+    {
+      "type": "html",
+      "text": " [[Microsoft Access]] does not provide a smooth transition between its mousing-world to its scripting world. Although [[Ex Base]] tends to be keyboard-centric, this is a good thing when you need scripting. MS just tossed their generic VBA engine into the product. VBA is not a [[Domain Specific Language]], unlike [[Ex Base]]'s where the domain is data-diddling. VBA requires filtering stuff through its verbose and unintuitive API's. I agree that with Access one can do an awful lot via point-and-click, but when you hit the limit of the point-and-click world, you hit it hard ([[Discontinuity Spike]]).  As far as SAS is concerned, do you have any specific scenarios you would like to demonstrate?",
+      "id": "7819114180e8ab0d79f1adbf22065e50"
+    },
+    {
+      "type": "html",
+      "text": " <i>[[Microsoft Access]] is not tied to the \"mousing-world\".  While it's true that VBA is not a [[Domain Specific Language]], even despite the slightly more awkward access to database facilities it is every bit as capable as [[Ex Base]] if not much more so.  Despite the die-hards who cling to [[Ex Base]], there's a reason [[Microsoft Access]] dominated (and continues to dominate) the market segment where [[Ex Base]] once held sway -- it's because [[Microsoft Access]] is superior to any [[Ex Base]] implementation in virtually every respect.  SAS, on the other hand, is like SQL on steriods -- though that doesn't capture the power of SAS to extract and report interesting statistics from data sources and recombine them as needed on an ad-hoc basis.  It's designed for that purpose; [[Ex Base]] and SQL aren't.</i>",
+      "id": "9b64ff5ccb0f20ac2d7b9b24e63b2908"
+    },
+    {
+      "type": "html",
+      "text": " I've used [[Microsoft Access]] for almost as long as I've used [[Ex Base]], and still find it wanting. Access dominates because its easy to get a lot done via mere point-and-click by IT generalists, and because it's bundled with MS-Office-Pro. I will agree, though, that both could be made better by borrowing ideas from each other. For example, Access could learn from the tight integration/embedding of the query language to the app language and table-driven configuation (instead of proprietary binary blobs); and [[Ex Base]] could use better GUI & mousing tie-ins and a better relationship with SQL/ODBC data sources.",
+      "id": "b511c1e4c7057e1c23361a9c5ebc7752"
+    },
+    {
+      "type": "html",
+      "text": "\nMore generally, importing the data into a [[Relational Database]] would enable you to use SQL to process the data. This approach could be relatively powerful -- as \"powerful\" as SQL data manipulation (DML).",
+      "id": "a12a8fb4288df9f3b61b7fa49164ac77"
+    },
+    {
+      "type": "html",
+      "text": " Newer dialects of [[Ex Base]] allow SQL queries also. ",
+      "id": "e3e0a054db92c82de26d3268dd5c329b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f071b0fd7265eb97e5082115f863c9d5"
+    },
+    {
+      "type": "html",
+      "text": "See Also: [[Ex Base]], [[Data Manipulation]], [[Nimble Database]], [[Desktop Database]], [[Modernizing Ex Base]]",
+      "id": "1b19e0217be251a2ca3c63df1ec41dec"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Statistics]]",
+      "id": "6578709f330cab96ce5e5f21a35134f9"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PowerfulAdHocDataProcessingTools c2.com]",
+      "id": "9a9af00a8abe4346da584e003459df84"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1241477882000,
+      "id": "ce218e34311c596c3caa8af9a60b43da",
+      "type": "create",
+      "item": {
+        "title": "Powerful Ad Hoc Data Processing Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>\"I want [[Powerful Ad Hoc Data Processing Tools]].\"</i>",
+            "id": "5e0bd804eed150e607abe63d463ab739"
+          },
+          {
+            "type": "html",
+            "text": "\nAs a developer, and a power user, I sometimes have a bunch of data that I want to process, and I don't want to have to run a proposal through all the layers of management, and perform a cost-benefit analysis, and form and run a project team over the course of months, just to get some data processed.  What are the best tools available, for me to just crunch some data?",
+            "id": "1ed864282eec20d01d255847f2c30a4c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f071b0fd7265eb97e5082115f863c9d5"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f071b0fd7265eb97e5082115f863c9d5"
+          },
+          {
+            "type": "html",
+            "text": "\nAd-Hoc \"Data Processing\" tasks we might want to do:",
+            "id": "31e51834c54f73f059ee6bfeebfb9ae2"
+          },
+          {
+            "type": "html",
+            "text": " Query all the source control checkins done during an iteration.  Get the User Story number from each.  (Assume that user stories are numbered, and that every checkin comment starts with the appropriate number.)  Produce a list of files changed, by user story.",
+            "id": "6a6e923cd2ce3b6c963a2ebda308d7e2"
+          },
+          {
+            "type": "html",
+            "text": " We got a list of all the boats in our fleet -- in a poorly formatted Word document.  We need to put this in a new database table we just created for this purpose.  Edit (format) and import the data into the table.",
+            "id": "881d75aff3b4178ff34c2b66338b7f1d"
+          },
+          {
+            "type": "html",
+            "text": " Some web server has the time reporting data that I need.  I'm allowed to run a \"report,\" that will display the data in HTML, but I'm not allowed to run queries against their database.  So I need to \"browse\" to a URL, \"screen scrape\" the HTML, and write it to a table in my database.",
+            "id": "d8b4eaf5466c8ced2ff795e5819b1b19"
+          },
+          {
+            "type": "html",
+            "text": " One-time conversion of data from the old system to the new one.",
+            "id": "6f30794736f00ec22a47ee6ae15676d5"
+          },
+          {
+            "type": "html",
+            "text": " Ad-hoc report of all customers who purchased product B in March who had also purchased product A within the last year. Summarize by zip-code, but also provide the detail in a spreadsheet.",
+            "id": "d770828f52bab5eaa8e289fbbfbe8e24"
+          },
+          {
+            "type": "html",
+            "text": " Internal (IT-deptarment) apps and utils that don't need to be pretty but easy for IT clerks to use.",
+            "id": "351dc9386ae20d2fa5ca7cbf5b77f3dc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f071b0fd7265eb97e5082115f863c9d5"
+          },
+          {
+            "type": "html",
+            "text": "<i>SAS or SPSS.</i>",
+            "id": "76e2ca8fd20f4a117e0c9e7c5726fdf3"
+          },
+          {
+            "type": "html",
+            "text": " [[Statistical Analysis System]] (SAS)",
+            "id": "aa4e67944a46cdb443a3b5137dfbcbbb"
+          },
+          {
+            "type": "html",
+            "text": " [[Statistical Package For The Social Sciences]] (SPSS)",
+            "id": "3ffec10145906ff6a40be4e6f534a469"
+          },
+          {
+            "type": "html",
+            "text": "\nComments:",
+            "id": "46c9159473b52d9cfa04f6c22d3a899a"
+          },
+          {
+            "type": "html",
+            "text": " As far as SAS is concerned, do you have any specific scenarios you would like to demonstrate?",
+            "id": "8b331e5903a20d68d3abe18ef8de6666"
+          },
+          {
+            "type": "html",
+            "text": "<i>See the new list above.</i>",
+            "id": "cc561e69c0c9d0220721db622b4fe652"
+          },
+          {
+            "type": "html",
+            "text": "<i>From what I've seen, SAS is a really strong tool for grabbing and crunching data in creative ways.  ...if if you're not doing any math on it.  (And, of course, SAS really shines on the math stuff.)  But it's a pricy tool.  -- [[Jeff Grigg]]</i>",
+            "id": "3290919d2676b35eb36dbadf9de3d001"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f071b0fd7265eb97e5082115f863c9d5"
+          },
+          {
+            "type": "html",
+            "text": "\nIn Unix, shell scripts and piping are often used to process data.\nCommand line tools, scripting languages and custom programs can manipulate data.\nScript languages have progressed from awk, through perl, to python, ruby and others.",
+            "id": "f0ebf8e95e7e2cb413c5db7a564c1b71"
+          },
+          {
+            "type": "html",
+            "text": "\nBut the powerful Unix command line tools and piping are not commonly available on Windows platforms, and many GUI tools are not compatible with command line usage.",
+            "id": "1a727e5079a1fbb277cb72eb20005162"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f071b0fd7265eb97e5082115f863c9d5"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Power Shell]] is an extremely promising tool for the Windows [[Dot Net]] environment.",
+            "id": "42e88055e3846a73db093b5480710fe1"
+          },
+          {
+            "type": "html",
+            "text": "<i>(But there doesn't seem to be any equivilent in the Java environment.)</i>",
+            "id": "c07fe9cfa90b068059c0102d83787ce7"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f071b0fd7265eb97e5082115f863c9d5"
+          },
+          {
+            "type": "html",
+            "text": "<i>See Also: [[Ex Base]]</i>",
+            "id": "afc84dec3cced454a30c028b0ced29fd"
+          },
+          {
+            "type": "html",
+            "text": "<i>Oh please.  [[Ex Base]] is not, by any stretch of the imagination, a \"powerful\" ad-hoc data processing tool.  Comparing [[Ex Base]] to (say) SAS is like comparing a steel-wheeled rollerskate to a Mac truck.  Even for simple database-oriented tasks it is utterly eclipsed by [[Microsoft Access]], which is still firmly in the in-line rollerskate territory.</i>",
+            "id": "4886ed383cdf9ac1fc8a76fd86c7efab"
+          },
+          {
+            "type": "html",
+            "text": " [[Microsoft Access]] does not provide a smooth transition between its mousing-world to its scripting world. Although [[Ex Base]] tends to be keyboard-centric, this is a good thing when you need scripting. MS just tossed their generic VBA engine into the product. VBA is not a [[Domain Specific Language]], unlike [[Ex Base]]'s where the domain is data-diddling. VBA requires filtering stuff through its verbose and unintuitive API's. I agree that with Access one can do an awful lot via point-and-click, but when you hit the limit of the point-and-click world, you hit it hard ([[Discontinuity Spike]]).  As far as SAS is concerned, do you have any specific scenarios you would like to demonstrate?",
+            "id": "7819114180e8ab0d79f1adbf22065e50"
+          },
+          {
+            "type": "html",
+            "text": " <i>[[Microsoft Access]] is not tied to the \"mousing-world\".  While it's true that VBA is not a [[Domain Specific Language]], even despite the slightly more awkward access to database facilities it is every bit as capable as [[Ex Base]] if not much more so.  Despite the die-hards who cling to [[Ex Base]], there's a reason [[Microsoft Access]] dominated (and continues to dominate) the market segment where [[Ex Base]] once held sway -- it's because [[Microsoft Access]] is superior to any [[Ex Base]] implementation in virtually every respect.  SAS, on the other hand, is like SQL on steriods -- though that doesn't capture the power of SAS to extract and report interesting statistics from data sources and recombine them as needed on an ad-hoc basis.  It's designed for that purpose; [[Ex Base]] and SQL aren't.</i>",
+            "id": "9b64ff5ccb0f20ac2d7b9b24e63b2908"
+          },
+          {
+            "type": "html",
+            "text": " I've used [[Microsoft Access]] for almost as long as I've used [[Ex Base]], and still find it wanting. Access dominates because its easy to get a lot done via mere point-and-click by IT generalists, and because it's bundled with MS-Office-Pro. I will agree, though, that both could be made better by borrowing ideas from each other. For example, Access could learn from the tight integration/embedding of the query language to the app language and table-driven configuation (instead of proprietary binary blobs); and [[Ex Base]] could use better GUI & mousing tie-ins and a better relationship with SQL/ODBC data sources.",
+            "id": "b511c1e4c7057e1c23361a9c5ebc7752"
+          },
+          {
+            "type": "html",
+            "text": "\nMore generally, importing the data into a [[Relational Database]] would enable you to use SQL to process the data. This approach could be relatively powerful -- as \"powerful\" as SQL data manipulation (DML).",
+            "id": "a12a8fb4288df9f3b61b7fa49164ac77"
+          },
+          {
+            "type": "html",
+            "text": " Newer dialects of [[Ex Base]] allow SQL queries also. ",
+            "id": "e3e0a054db92c82de26d3268dd5c329b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f071b0fd7265eb97e5082115f863c9d5"
+          },
+          {
+            "type": "html",
+            "text": "See Also: [[Ex Base]], [[Data Manipulation]], [[Nimble Database]], [[Desktop Database]], [[Modernizing Ex Base]]",
+            "id": "1b19e0217be251a2ca3c63df1ec41dec"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Statistics]]",
+            "id": "6578709f330cab96ce5e5f21a35134f9"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PowerfulAdHocDataProcessingTools c2.com]",
+            "id": "9a9af00a8abe4346da584e003459df84"
+          }
+        ]
+      }
+    }
+  ]
+}
