@@ -1,0 +1,627 @@
+{
+  "title": "Extreme Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "<b>For Java</b> <i>[Started in a post on the [[Xp Mailing List]] by [[Sean Hanly]]]</i>:\nabc",
+      "id": "d7f2a8a4f629c8cfc2998d384927770f"
+    },
+    {
+      "type": "html",
+      "text": "<b>[[Java Ide]]s:</b>",
+      "id": "e03043351d408fbcebbd3c706c8641a8"
+    },
+    {
+      "type": "html",
+      "text": " [[Eclipse Ide]]",
+      "id": "ee78a180159caa3e40241c2dd11cfbde"
+    },
+    {
+      "type": "html",
+      "text": " Modelistic JME ([http://www.modelistic.com www.modelistic.com]) Eclipse plugin for Java XP reverse engineered class diagrams",
+      "id": "b1160a90cd5645c2f014a939624f74da"
+    },
+    {
+      "type": "html",
+      "text": " [[Visual Age Java]] (see:<br>[[Visual Age Java And Xp]])",
+      "id": "c951c86ef8254aee0b7328c4e77dc627"
+    },
+    {
+      "type": "html",
+      "text": " Jedit",
+      "id": "9af8369e84de9521fee84c38ffc53057"
+    },
+    {
+      "type": "html",
+      "text": " [[Net Beans]]",
+      "id": "81662f6055eb5bca9c295efa5e12d561"
+    },
+    {
+      "type": "html",
+      "text": " [[Eclipse Java]] (cmd-1 gives you awesome support for [[Test Driven Development]])",
+      "id": "a0185659a204c0018788cc74facd19f0"
+    },
+    {
+      "type": "html",
+      "text": " [[Intellij Idea]]. All the usual IDE nonsense plus built-in refactoring support.",
+      "id": "4cc6d7b0d1f13165b547d724545cfd97"
+    },
+    {
+      "type": "html",
+      "text": "<b>Refactoring:</b>",
+      "id": "5bb8b55fc8e5b4aa550452f524c71a5c"
+    },
+    {
+      "type": "html",
+      "text": " [[Intellij Idea]]. All the usual IDE nonsense plus built-in refactoring support.",
+      "id": "4cc6d7b0d1f13165b547d724545cfd97"
+    },
+    {
+      "type": "html",
+      "text": " [[Eclipse Ide]] (at least some refactorings)",
+      "id": "bc4a0f7ac289f277767a211fd3cfc133"
+    },
+    {
+      "type": "html",
+      "text": " [[Instantiationsj Factor]]",
+      "id": "44d42e8c8b83f7ba0f4c05b912b03ce7"
+    },
+    {
+      "type": "html",
+      "text": " [[Refactoring Browser]]",
+      "id": "b3e983c84f4528efa5f2e87c225f70b0"
+    },
+    {
+      "type": "html",
+      "text": " Poor man's tools:",
+      "id": "d6016415042b12182491203533637654"
+    },
+    {
+      "type": "html",
+      "text": " grep ",
+      "id": "28e56098cb66fa843d2f362f88713ffd"
+    },
+    {
+      "type": "html",
+      "text": " [[Read Write Grep]]",
+      "id": "04dd7298cbfc9f23ca169119d9b26680"
+    },
+    {
+      "type": "html",
+      "text": " [[Same Tool]]",
+      "id": "3f83109e158af17551495212e5a74a72"
+    },
+    {
+      "type": "html",
+      "text": "<b>[[Version Control]] Systems:</b>",
+      "id": "80c971d23a70eb497018f2b0af2cc5c4"
+    },
+    {
+      "type": "html",
+      "text": " [[Visual Age]]/ENVY",
+      "id": "412da62cac2dcd77e69281624c531eff"
+    },
+    {
+      "type": "html",
+      "text": " CVS, of course! (See:<br>[[Concurrent Versions System]])",
+      "id": "5a8b55a0f70b94535786f15bf0b980d2"
+    },
+    {
+      "type": "html",
+      "text": " [[Sub Version]]",
+      "id": "be9ba1f0f13f3ceb648f56f839ea456c"
+    },
+    {
+      "type": "html",
+      "text": " [[Perforce Version Control]]",
+      "id": "5392bb62db4eb4f37856600f8bf851cc"
+    },
+    {
+      "type": "html",
+      "text": "<b>[[Unit Test]]ing Frameworks:</b>",
+      "id": "9efea841268342b3c9331706a03f78fb"
+    },
+    {
+      "type": "html",
+      "text": " [[Java Unit]]",
+      "id": "ee1cc2cc91bd1f5f18fbb44132dce282"
+    },
+    {
+      "type": "html",
+      "text": " [at this point 7/05, there is a *Unit for most major languages]",
+      "id": "1d7a30c330483375d2268932bf170807"
+    },
+    {
+      "type": "html",
+      "text": "<b>[[Acceptance Test]]ing Frameworks:</b>",
+      "id": "dbd2c6ae03cb756ff4420b5ca541aefb"
+    },
+    {
+      "type": "html",
+      "text": " FIT - [[Framework For Integrated Test]]",
+      "id": "50d01a65bf990c65e48a83897e2092dd"
+    },
+    {
+      "type": "html",
+      "text": " Marathon - known on the Wiki as [[Marathon Man]]",
+      "id": "8a2af5406e628f62d55445b43363667a"
+    },
+    {
+      "type": "html",
+      "text": " Untold home grown solutions",
+      "id": "482fc2756f43b2132691e5144577ecf8"
+    },
+    {
+      "type": "html",
+      "text": "<b>Object Persistence Layers:</b>",
+      "id": "0685a79df62220390332b9cff1292f07"
+    },
+    {
+      "type": "html",
+      "text": " [[Top Link]]",
+      "id": "762e5acd340e9779043fb5d92a9a2742"
+    },
+    {
+      "type": "html",
+      "text": " [[Gem Stone Java]] -- [[Gem Stone]]/S was used by C3 with various success.",
+      "id": "0423b3d40d5f9bf4dbcc94d899812132"
+    },
+    {
+      "type": "html",
+      "text": " [[Entity Bean]]s make reasonable persistence objects, especially with a server that will manage configuring the database tables for you.",
+      "id": "a567f7604a0200642108c4ff116ffd40"
+    },
+    {
+      "type": "html",
+      "text": " Hibernate -- Active [[Open Source]] [[Object Relational Mapping Tool]](see [[Hiber Nate]])",
+      "id": "f338f97e2a00b059215bcbd327fbd292"
+    },
+    {
+      "type": "html",
+      "text": "<b>Performance Measurement:</b>",
+      "id": "9d432bbcbcb79670794585776f3c2213"
+    },
+    {
+      "type": "html",
+      "text": " (See:<br>[[Java Profilers]])",
+      "id": "4f1473210b5ef1e4ce514e6ee3b5103d"
+    },
+    {
+      "type": "html",
+      "text": "<b>Integration/Building:</b>",
+      "id": "003f182398026891ff2d7799bbdf3da5"
+    },
+    {
+      "type": "html",
+      "text": " [[Apache Ant]]",
+      "id": "d262d58a8c8a88d48deec5ce4749b834"
+    },
+    {
+      "type": "html",
+      "text": " [[Ant Hill]]",
+      "id": "eef7be5bb02a01b6aa576678cf4e95da"
+    },
+    {
+      "type": "html",
+      "text": " [[Cruise Control]]",
+      "id": "81467d98dfbedb71c63e3cbf750dd81c"
+    },
+    {
+      "type": "html",
+      "text": " [[Integration Guard]]",
+      "id": "f33b1c94035554e7b7ef3bce8356d875"
+    },
+    {
+      "type": "html",
+      "text": " [[Jwam Integration Server]]",
+      "id": "81f39a0e32c0126ebdbf99b8007675d1"
+    },
+    {
+      "type": "html",
+      "text": " [[Beetle Juice]]",
+      "id": "569f5e6ac75556c058ee2d13214ccbd1"
+    },
+    {
+      "type": "html",
+      "text": "<b>Planning/Tracking:</b>",
+      "id": "a34ecb4b9cf8b72b7702af75a5d0dd78"
+    },
+    {
+      "type": "html",
+      "text": " [[Agile Plan]] XP planning, bug tracking and wiki",
+      "id": "afae281351d73ffe8228cb8a62194f34"
+    },
+    {
+      "type": "html",
+      "text": " [[Index Card]]s",
+      "id": "0a6f396a5e2b993f993b4e9065af329e"
+    },
+    {
+      "type": "html",
+      "text": " Flip Charts",
+      "id": "ae22a7eaab941ecf9294b457e63aadf6"
+    },
+    {
+      "type": "html",
+      "text": " [[Xp Cgi]]",
+      "id": "a0dc99db6c93ba6e4b815be0ba8b7316"
+    },
+    {
+      "type": "html",
+      "text": " [[Xp Plan It]]",
+      "id": "f99dc07a8119abf157f0ef665f90a0c3"
+    },
+    {
+      "type": "html",
+      "text": " [[Iterate By Diamond Sky]]",
+      "id": "5599fb7565afd75a88f45a120e09fc65"
+    },
+    {
+      "type": "html",
+      "text": " [[Xplanner Tool]]",
+      "id": "eb5073ace0da66c23a286fbe477d0c15"
+    },
+    {
+      "type": "html",
+      "text": " [[Select Scope Manager]]",
+      "id": "505b1003ef5fc1e9b7be8ab31483828f"
+    },
+    {
+      "type": "html",
+      "text": " [[Xp Swiki]]",
+      "id": "5c18cd78d81f3e0467609173cf436776"
+    },
+    {
+      "type": "html",
+      "text": " [[Project Planning And Tracking System]]",
+      "id": "ce2d562fa1f132e0dc41dbc7b8f03b64"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "54e0ca053eb45b8667fe9f82b9e38ef7"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Extreme Tools]] is a topic that currently interests me. I originally thought it to be the toolset required to support [[Extreme Programming]]. The more I looked at the idea, though, and the more time I spent trying to put such a toolset, the more [[Extreme Tools]] also came to mean writing tools in an extreme style - which is quite the opposite of what a lot of tools builders do. I'll try to put most of the tools I've written out in the public domain ASAP; some of them will be included in my upcoming book on ENVY. -- [[Joseph Pelrine]]",
+      "id": "52515d8a5ac830262835ac56d3c28cee"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "54e0ca053eb45b8667fe9f82b9e38ef7"
+    },
+    {
+      "type": "html",
+      "text": "\nOne tool category that seems to be missing in the \"tracking\" space is one to generate progress graphs from runs of acceptance test suites. This would be much more valuable to me than \"story database\" tools.",
+      "id": "3161aa973b3af93973956ea46f5e9cc5"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Microsoft Excel]] would be the [[Simplest Thing]], and I'd probably do that for a start. My next stories would be - the tool takes care of counting ATs in my code base, runs them on a periodic basis, and updates the Excel document accordingly.",
+      "id": "1ec0fb68a669c88d46612c424bf3fd3c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ExtremeTools c2.com]",
+      "id": "298f8cfb12c085338be63b7c0034363b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1131223883000,
+      "id": "7b0a430e766e98e202a7cc80c4722c50",
+      "type": "create",
+      "item": {
+        "title": "Extreme Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "<b>For Java</b> <i>[Started in a post on the [[Xp Mailing List]] by [[Sean Hanly]]]</i>:\nabc",
+            "id": "d7f2a8a4f629c8cfc2998d384927770f"
+          },
+          {
+            "type": "html",
+            "text": "<b>[[Java Ide]]s:</b>",
+            "id": "e03043351d408fbcebbd3c706c8641a8"
+          },
+          {
+            "type": "html",
+            "text": " [[Eclipse Ide]]",
+            "id": "ee78a180159caa3e40241c2dd11cfbde"
+          },
+          {
+            "type": "html",
+            "text": " Modelistic JME ([http://www.modelistic.com www.modelistic.com]) Eclipse plugin for Java XP reverse engineered class diagrams",
+            "id": "b1160a90cd5645c2f014a939624f74da"
+          },
+          {
+            "type": "html",
+            "text": " [[Visual Age Java]] (see:<br>[[Visual Age Java And Xp]])",
+            "id": "c951c86ef8254aee0b7328c4e77dc627"
+          },
+          {
+            "type": "html",
+            "text": " Jedit",
+            "id": "9af8369e84de9521fee84c38ffc53057"
+          },
+          {
+            "type": "html",
+            "text": " [[Net Beans]]",
+            "id": "81662f6055eb5bca9c295efa5e12d561"
+          },
+          {
+            "type": "html",
+            "text": " [[Eclipse Java]] (cmd-1 gives you awesome support for [[Test Driven Development]])",
+            "id": "a0185659a204c0018788cc74facd19f0"
+          },
+          {
+            "type": "html",
+            "text": " [[Intellij Idea]]. All the usual IDE nonsense plus built-in refactoring support.",
+            "id": "4cc6d7b0d1f13165b547d724545cfd97"
+          },
+          {
+            "type": "html",
+            "text": "<b>Refactoring:</b>",
+            "id": "5bb8b55fc8e5b4aa550452f524c71a5c"
+          },
+          {
+            "type": "html",
+            "text": " [[Intellij Idea]]. All the usual IDE nonsense plus built-in refactoring support.",
+            "id": "4cc6d7b0d1f13165b547d724545cfd97"
+          },
+          {
+            "type": "html",
+            "text": " [[Eclipse Ide]] (at least some refactorings)",
+            "id": "bc4a0f7ac289f277767a211fd3cfc133"
+          },
+          {
+            "type": "html",
+            "text": " [[Instantiationsj Factor]]",
+            "id": "44d42e8c8b83f7ba0f4c05b912b03ce7"
+          },
+          {
+            "type": "html",
+            "text": " [[Refactoring Browser]]",
+            "id": "b3e983c84f4528efa5f2e87c225f70b0"
+          },
+          {
+            "type": "html",
+            "text": " Poor man's tools:",
+            "id": "d6016415042b12182491203533637654"
+          },
+          {
+            "type": "html",
+            "text": " grep ",
+            "id": "28e56098cb66fa843d2f362f88713ffd"
+          },
+          {
+            "type": "html",
+            "text": " [[Read Write Grep]]",
+            "id": "04dd7298cbfc9f23ca169119d9b26680"
+          },
+          {
+            "type": "html",
+            "text": " [[Same Tool]]",
+            "id": "3f83109e158af17551495212e5a74a72"
+          },
+          {
+            "type": "html",
+            "text": "<b>[[Version Control]] Systems:</b>",
+            "id": "80c971d23a70eb497018f2b0af2cc5c4"
+          },
+          {
+            "type": "html",
+            "text": " [[Visual Age]]/ENVY",
+            "id": "412da62cac2dcd77e69281624c531eff"
+          },
+          {
+            "type": "html",
+            "text": " CVS, of course! (See:<br>[[Concurrent Versions System]])",
+            "id": "5a8b55a0f70b94535786f15bf0b980d2"
+          },
+          {
+            "type": "html",
+            "text": " [[Sub Version]]",
+            "id": "be9ba1f0f13f3ceb648f56f839ea456c"
+          },
+          {
+            "type": "html",
+            "text": " [[Perforce Version Control]]",
+            "id": "5392bb62db4eb4f37856600f8bf851cc"
+          },
+          {
+            "type": "html",
+            "text": "<b>[[Unit Test]]ing Frameworks:</b>",
+            "id": "9efea841268342b3c9331706a03f78fb"
+          },
+          {
+            "type": "html",
+            "text": " [[Java Unit]]",
+            "id": "ee1cc2cc91bd1f5f18fbb44132dce282"
+          },
+          {
+            "type": "html",
+            "text": " [at this point 7/05, there is a *Unit for most major languages]",
+            "id": "1d7a30c330483375d2268932bf170807"
+          },
+          {
+            "type": "html",
+            "text": "<b>[[Acceptance Test]]ing Frameworks:</b>",
+            "id": "dbd2c6ae03cb756ff4420b5ca541aefb"
+          },
+          {
+            "type": "html",
+            "text": " FIT - [[Framework For Integrated Test]]",
+            "id": "50d01a65bf990c65e48a83897e2092dd"
+          },
+          {
+            "type": "html",
+            "text": " Marathon - known on the Wiki as [[Marathon Man]]",
+            "id": "8a2af5406e628f62d55445b43363667a"
+          },
+          {
+            "type": "html",
+            "text": " Untold home grown solutions",
+            "id": "482fc2756f43b2132691e5144577ecf8"
+          },
+          {
+            "type": "html",
+            "text": "<b>Object Persistence Layers:</b>",
+            "id": "0685a79df62220390332b9cff1292f07"
+          },
+          {
+            "type": "html",
+            "text": " [[Top Link]]",
+            "id": "762e5acd340e9779043fb5d92a9a2742"
+          },
+          {
+            "type": "html",
+            "text": " [[Gem Stone Java]] -- [[Gem Stone]]/S was used by C3 with various success.",
+            "id": "0423b3d40d5f9bf4dbcc94d899812132"
+          },
+          {
+            "type": "html",
+            "text": " [[Entity Bean]]s make reasonable persistence objects, especially with a server that will manage configuring the database tables for you.",
+            "id": "a567f7604a0200642108c4ff116ffd40"
+          },
+          {
+            "type": "html",
+            "text": " Hibernate -- Active [[Open Source]] [[Object Relational Mapping Tool]](see [[Hiber Nate]])",
+            "id": "f338f97e2a00b059215bcbd327fbd292"
+          },
+          {
+            "type": "html",
+            "text": "<b>Performance Measurement:</b>",
+            "id": "9d432bbcbcb79670794585776f3c2213"
+          },
+          {
+            "type": "html",
+            "text": " (See:<br>[[Java Profilers]])",
+            "id": "4f1473210b5ef1e4ce514e6ee3b5103d"
+          },
+          {
+            "type": "html",
+            "text": "<b>Integration/Building:</b>",
+            "id": "003f182398026891ff2d7799bbdf3da5"
+          },
+          {
+            "type": "html",
+            "text": " [[Apache Ant]]",
+            "id": "d262d58a8c8a88d48deec5ce4749b834"
+          },
+          {
+            "type": "html",
+            "text": " [[Ant Hill]]",
+            "id": "eef7be5bb02a01b6aa576678cf4e95da"
+          },
+          {
+            "type": "html",
+            "text": " [[Cruise Control]]",
+            "id": "81467d98dfbedb71c63e3cbf750dd81c"
+          },
+          {
+            "type": "html",
+            "text": " [[Integration Guard]]",
+            "id": "f33b1c94035554e7b7ef3bce8356d875"
+          },
+          {
+            "type": "html",
+            "text": " [[Jwam Integration Server]]",
+            "id": "81f39a0e32c0126ebdbf99b8007675d1"
+          },
+          {
+            "type": "html",
+            "text": " [[Beetle Juice]]",
+            "id": "569f5e6ac75556c058ee2d13214ccbd1"
+          },
+          {
+            "type": "html",
+            "text": "<b>Planning/Tracking:</b>",
+            "id": "a34ecb4b9cf8b72b7702af75a5d0dd78"
+          },
+          {
+            "type": "html",
+            "text": " [[Agile Plan]] XP planning, bug tracking and wiki",
+            "id": "afae281351d73ffe8228cb8a62194f34"
+          },
+          {
+            "type": "html",
+            "text": " [[Index Card]]s",
+            "id": "0a6f396a5e2b993f993b4e9065af329e"
+          },
+          {
+            "type": "html",
+            "text": " Flip Charts",
+            "id": "ae22a7eaab941ecf9294b457e63aadf6"
+          },
+          {
+            "type": "html",
+            "text": " [[Xp Cgi]]",
+            "id": "a0dc99db6c93ba6e4b815be0ba8b7316"
+          },
+          {
+            "type": "html",
+            "text": " [[Xp Plan It]]",
+            "id": "f99dc07a8119abf157f0ef665f90a0c3"
+          },
+          {
+            "type": "html",
+            "text": " [[Iterate By Diamond Sky]]",
+            "id": "5599fb7565afd75a88f45a120e09fc65"
+          },
+          {
+            "type": "html",
+            "text": " [[Xplanner Tool]]",
+            "id": "eb5073ace0da66c23a286fbe477d0c15"
+          },
+          {
+            "type": "html",
+            "text": " [[Select Scope Manager]]",
+            "id": "505b1003ef5fc1e9b7be8ab31483828f"
+          },
+          {
+            "type": "html",
+            "text": " [[Xp Swiki]]",
+            "id": "5c18cd78d81f3e0467609173cf436776"
+          },
+          {
+            "type": "html",
+            "text": " [[Project Planning And Tracking System]]",
+            "id": "ce2d562fa1f132e0dc41dbc7b8f03b64"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "54e0ca053eb45b8667fe9f82b9e38ef7"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Extreme Tools]] is a topic that currently interests me. I originally thought it to be the toolset required to support [[Extreme Programming]]. The more I looked at the idea, though, and the more time I spent trying to put such a toolset, the more [[Extreme Tools]] also came to mean writing tools in an extreme style - which is quite the opposite of what a lot of tools builders do. I'll try to put most of the tools I've written out in the public domain ASAP; some of them will be included in my upcoming book on ENVY. -- [[Joseph Pelrine]]",
+            "id": "52515d8a5ac830262835ac56d3c28cee"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "54e0ca053eb45b8667fe9f82b9e38ef7"
+          },
+          {
+            "type": "html",
+            "text": "\nOne tool category that seems to be missing in the \"tracking\" space is one to generate progress graphs from runs of acceptance test suites. This would be much more valuable to me than \"story database\" tools.",
+            "id": "3161aa973b3af93973956ea46f5e9cc5"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Microsoft Excel]] would be the [[Simplest Thing]], and I'd probably do that for a start. My next stories would be - the tool takes care of counting ATs in my code base, runs them on a periodic basis, and updates the Excel document accordingly.",
+            "id": "1ec0fb68a669c88d46612c424bf3fd3c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ExtremeTools c2.com]",
+            "id": "298f8cfb12c085338be63b7c0034363b"
+          }
+        ]
+      }
+    }
+  ]
+}
