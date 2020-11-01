@@ -1,0 +1,397 @@
+{
+  "title": "Cvs Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Brought to you courtesy Panoptic, these are some little scripts that came about by following [[Three Strikes And You Automate]].",
+      "id": "824bc6e52e94b302ba1953c8b9073e9c"
+    },
+    {
+      "type": "html",
+      "text": "[http://panoptic.com/rking/pkg/cvstools.tgz panoptic.com]",
+      "id": "1005622f40950288445283577cef934f"
+    },
+    {
+      "type": "html",
+      "text": "\nIf you work with CVS on the command line, you might find them useful.",
+      "id": "9a0fa1c00040935649171c349c0dae71"
+    },
+    {
+      "type": "html",
+      "text": "\nThe current output of \"make doc\":",
+      "id": "b0dee75b8e4e028617dae52e7ba79022"
+    },
+    {
+      "type": "html",
+      "text": " cvsREVERT - Blows away every change in your local repository.  (Use with caution.)",
+      "id": "c6a87091339fc9a1175c6b0e8171bd5e"
+    },
+    {
+      "type": "html",
+      "text": " cvsadd - Adds all unknown files (?'s) to the repository",
+      "id": "3bdcffac04d31cea534721ac17d19bc1"
+    },
+    {
+      "type": "html",
+      "text": " cvsalldiff - Show the diffs going all the way back in time",
+      "id": "d10f9622878fa54df9e552e64d16870a"
+    },
+    {
+      "type": "html",
+      "text": " cvsci - When you need a down-and-dirty ci.  Meaningful commit messages are YAGNI.",
+      "id": "4bc3c77603c5b406e8ce56e4f3d40683"
+    },
+    {
+      "type": "html",
+      "text": " cvsdiff - Colorize and page 'cvs diff' output",
+      "id": "211eacde17d62d49bd65acd46c772726"
+    },
+    {
+      "type": "html",
+      "text": " cvsignore - Adds all unknown files (?'s) to the .cvsignore",
+      "id": "573258b47ed1150b419cb73587f86a7b"
+    },
+    {
+      "type": "html",
+      "text": " cvslastdiff - Show the most recent diff",
+      "id": "795cd4c7fdad76bae71a7cd99ceb004a"
+    },
+    {
+      "type": "html",
+      "text": " cvslog - Just reverses the cvslog output",
+      "id": "28c0150eb9721f1c16c753a3b3dce326"
+    },
+    {
+      "type": "html",
+      "text": " cvsmeaningfulci - For those not lazy enough to use cvsci, try this.  Thanks to anon. for the idea/code",
+      "id": "0e68fb54ef94fdcdf4ea983e1137d635"
+    },
+    {
+      "type": "html",
+      "text": " cvsmv - Go through the tedious steps of moving a file in CVS.  Don't forget to fully qualify the second arg (i.e.:<br>\"cvsmv a.rb dir/a.rb\", because \"cvsmv a.rb dir/\" won't work as expected)",
+      "id": "b03897aa61c386dce56d84423f0112c1"
+    },
+    {
+      "type": "html",
+      "text": " Rkcvs.pm - Just a couple functions I don't want to copy and paste",
+      "id": "680d10c76f96bf34c1a075ecb8efa8c1"
+    },
+    {
+      "type": "html",
+      "text": " cvsu - Just a typo-workaround.",
+      "id": "840ff06f1da97bce0908de0774e2b409"
+    },
+    {
+      "type": "html",
+      "text": " cvsup - Just a typo-workaround.",
+      "id": "8a2bc780bce43772a3eb234353c47363"
+    },
+    {
+      "type": "html",
+      "text": " rwgrep - [http://c2.com/cgi/wiki?ReadWriteGrep c2.com] (This doesn't have anything to do with CVS, but it's handy to have around.)",
+      "id": "14f423bc49884ed64c4fc725655523ad"
+    },
+    {
+      "type": "html",
+      "text": "\nPlease give me any other feedback you might have.",
+      "id": "3fb417f0c02d85b18215bd7763d8393f"
+    },
+    {
+      "type": "html",
+      "text": "\nSome semisignificant updates:",
+      "id": "fb900f8484aebc8ea0cb800512176bac"
+    },
+    {
+      "type": "html",
+      "text": " No longer depends on ruby and perl - just perl.  More people have it, and I can't say that the now-perl files are that much uglier.",
+      "id": "925cf5d9647e2219cee34e3746b7d54b"
+    },
+    {
+      "type": "html",
+      "text": " Removed \"vim-pager\", \"cdiff\", and \"pdiff\" - [[Color Diff]] takes care of me now.  I like it.",
+      "id": "33b11048d644df6bb0267698fb67b224"
+    },
+    {
+      "type": "html",
+      "text": " Removed the need for \"bin/lib\", which was an annoying symlink.",
+      "id": "9206f87f8190d432b29af7fd123bb806"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d6e31c3c9815eaca3161e94094641e4c"
+    },
+    {
+      "type": "html",
+      "text": "<i>Why do you say that meaningful commit messages are YAGNI?  How else can you easily tell what the purpose for a set of changes was, without diffing and examining the files (which is kind of time consuming)?</i>",
+      "id": "6a25a3e2d87087a77d2a4745099fb734"
+    },
+    {
+      "type": "html",
+      "text": "\nI have found that I commit changes about 50 times more often than I need to know what the purpose for an old set of changes was, and that about 80% of the commit comments that were \"meaningful\" at the time are now unhelpful.",
+      "id": "5699333d1ee4f9d9f44a396983712e09"
+    },
+    {
+      "type": "html",
+      "text": "<i>My experience has been different. I use commit messages not to determine what changes have occurred in a commit, but to locate the origin of a specific change I'm looking for (e.g. using cvs log). If I spent more than 30 seconds writing a commit message, I spent too long. Mind you, I haven't done any math on this.</i>",
+      "id": "92ca80c7abe68ee1835e5447602fc3cc"
+    },
+    {
+      "type": "html",
+      "text": "\nI don't always skip the commit messages.  If there's a really good way to describe it, I'll cvs ci -m \"...\".  But blamelog's really do tell a lot, for the times I might overzealously use cvsci.",
+      "id": "b83179729681b8b238174f7553bc1c45"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d6e31c3c9815eaca3161e94094641e4c"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also [[Cvs Toys]]",
+      "id": "9964c6f1020325e425b95b7824766c17"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d6e31c3c9815eaca3161e94094641e4c"
+    },
+    {
+      "type": "html",
+      "text": "\nFor a long long time I've been depending on a pair of one-liners I call diffprep and diffcommit to help me generate sensible cvs log messages.  diffprep simply runs 'cvs diff ' and prepends a comment character to each line.  I redirect its output to a file, which I then visit in my editor and read through.  As I see each change, I can write the appropriate description into the file (without the comment character), then when done I pipe the annotated diff file into diffcommit, which discards the original diff, spits the annotations into per-file commit messages, and runs the appropriate cvs commands",
+      "id": "91379d6abbf4a177750bf07441c23e3f"
+    },
+    {
+      "type": "code",
+      "text": " :; cat ~/scripts/diffprep \n #!/bin/sh\n cvs diff -u $* | sed 's/^/# /g' \n echo '# Index: done'\n :; cat ~/scripts/diffcommit \n perl -ne 'if(/^\\# Index: (.+)$/) { if($fn) { $out=~s/\\047/\\047\\\\\\047\\047/g;  $out=~s/^\\n+//s;$out=~s/\\n+$//s; print \"cvs commit -m \\047$out\\047 $fn\\n\"}; $out=\"\";$fn=$1}; if(!  /^\\#/) { $out.=$_ };' ",
+      "id": "c306eee123cae8a2bb499de68d2d72ee"
+    },
+    {
+      "type": "html",
+      "text": "<i>I subsumed this into cvsmeaningfulci, above.  Thanks for the great tip!  (Hopefully we'll all use cvsci one day, but this is an excellent bridge.)</i>",
+      "id": "52ec669c5025b3d18a55eae5abf75e88"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d6e31c3c9815eaca3161e94094641e4c"
+    },
+    {
+      "type": "html",
+      "text": "\nA suggestion for cvsmv: how about automatically create log texts \"renamed from ... to ...\"? --[[Slaven Rezic]] (2003-03-21)",
+      "id": "ff4c894ec8e61dc42f2edd3b3ccf94b8"
+    },
+    {
+      "type": "html",
+      "text": "<i>Actually, version 1 of cvsmv had exactly that.  But the scary thing is that it automatically commits the changes.  So, the next best thing is to output a cvs ci -m \"...\" line, that can then be pasted back into the shell... but for some reason I decided against it.  Lately, I've been using [[Sub Version]], which as a real move command.</i> --[[Ryan King]]",
+      "id": "34db13d6f08f216e9ab83b1032bb5b16"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?CvsTools c2.com]",
+      "id": "7e64888f129e6f818be8096f7fa807e7"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1115616645000,
+      "id": "081acafde998a1f7031dd58bc796fe9b",
+      "type": "create",
+      "item": {
+        "title": "Cvs Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Brought to you courtesy Panoptic, these are some little scripts that came about by following [[Three Strikes And You Automate]].",
+            "id": "824bc6e52e94b302ba1953c8b9073e9c"
+          },
+          {
+            "type": "html",
+            "text": "[http://panoptic.com/rking/pkg/cvstools.tgz panoptic.com]",
+            "id": "1005622f40950288445283577cef934f"
+          },
+          {
+            "type": "html",
+            "text": "\nIf you work with CVS on the command line, you might find them useful.",
+            "id": "9a0fa1c00040935649171c349c0dae71"
+          },
+          {
+            "type": "html",
+            "text": "\nThe current output of \"make doc\":",
+            "id": "b0dee75b8e4e028617dae52e7ba79022"
+          },
+          {
+            "type": "html",
+            "text": " cvsREVERT - Blows away every change in your local repository.  (Use with caution.)",
+            "id": "c6a87091339fc9a1175c6b0e8171bd5e"
+          },
+          {
+            "type": "html",
+            "text": " cvsadd - Adds all unknown files (?'s) to the repository",
+            "id": "3bdcffac04d31cea534721ac17d19bc1"
+          },
+          {
+            "type": "html",
+            "text": " cvsalldiff - Show the diffs going all the way back in time",
+            "id": "d10f9622878fa54df9e552e64d16870a"
+          },
+          {
+            "type": "html",
+            "text": " cvsci - When you need a down-and-dirty ci.  Meaningful commit messages are YAGNI.",
+            "id": "4bc3c77603c5b406e8ce56e4f3d40683"
+          },
+          {
+            "type": "html",
+            "text": " cvsdiff - Colorize and page 'cvs diff' output",
+            "id": "211eacde17d62d49bd65acd46c772726"
+          },
+          {
+            "type": "html",
+            "text": " cvsignore - Adds all unknown files (?'s) to the .cvsignore",
+            "id": "573258b47ed1150b419cb73587f86a7b"
+          },
+          {
+            "type": "html",
+            "text": " cvslastdiff - Show the most recent diff",
+            "id": "795cd4c7fdad76bae71a7cd99ceb004a"
+          },
+          {
+            "type": "html",
+            "text": " cvslog - Just reverses the cvslog output",
+            "id": "28c0150eb9721f1c16c753a3b3dce326"
+          },
+          {
+            "type": "html",
+            "text": " cvsmeaningfulci - For those not lazy enough to use cvsci, try this.  Thanks to anon. for the idea/code",
+            "id": "0e68fb54ef94fdcdf4ea983e1137d635"
+          },
+          {
+            "type": "html",
+            "text": " cvsmv - Go through the tedious steps of moving a file in CVS.  Don't forget to fully qualify the second arg (i.e.:<br>\"cvsmv a.rb dir/a.rb\", because \"cvsmv a.rb dir/\" won't work as expected)",
+            "id": "b03897aa61c386dce56d84423f0112c1"
+          },
+          {
+            "type": "html",
+            "text": " Rkcvs.pm - Just a couple functions I don't want to copy and paste",
+            "id": "680d10c76f96bf34c1a075ecb8efa8c1"
+          },
+          {
+            "type": "html",
+            "text": " cvsu - Just a typo-workaround.",
+            "id": "840ff06f1da97bce0908de0774e2b409"
+          },
+          {
+            "type": "html",
+            "text": " cvsup - Just a typo-workaround.",
+            "id": "8a2bc780bce43772a3eb234353c47363"
+          },
+          {
+            "type": "html",
+            "text": " rwgrep - [http://c2.com/cgi/wiki?ReadWriteGrep c2.com] (This doesn't have anything to do with CVS, but it's handy to have around.)",
+            "id": "14f423bc49884ed64c4fc725655523ad"
+          },
+          {
+            "type": "html",
+            "text": "\nPlease give me any other feedback you might have.",
+            "id": "3fb417f0c02d85b18215bd7763d8393f"
+          },
+          {
+            "type": "html",
+            "text": "\nSome semisignificant updates:",
+            "id": "fb900f8484aebc8ea0cb800512176bac"
+          },
+          {
+            "type": "html",
+            "text": " No longer depends on ruby and perl - just perl.  More people have it, and I can't say that the now-perl files are that much uglier.",
+            "id": "925cf5d9647e2219cee34e3746b7d54b"
+          },
+          {
+            "type": "html",
+            "text": " Removed \"vim-pager\", \"cdiff\", and \"pdiff\" - [[Color Diff]] takes care of me now.  I like it.",
+            "id": "33b11048d644df6bb0267698fb67b224"
+          },
+          {
+            "type": "html",
+            "text": " Removed the need for \"bin/lib\", which was an annoying symlink.",
+            "id": "9206f87f8190d432b29af7fd123bb806"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d6e31c3c9815eaca3161e94094641e4c"
+          },
+          {
+            "type": "html",
+            "text": "<i>Why do you say that meaningful commit messages are YAGNI?  How else can you easily tell what the purpose for a set of changes was, without diffing and examining the files (which is kind of time consuming)?</i>",
+            "id": "6a25a3e2d87087a77d2a4745099fb734"
+          },
+          {
+            "type": "html",
+            "text": "\nI have found that I commit changes about 50 times more often than I need to know what the purpose for an old set of changes was, and that about 80% of the commit comments that were \"meaningful\" at the time are now unhelpful.",
+            "id": "5699333d1ee4f9d9f44a396983712e09"
+          },
+          {
+            "type": "html",
+            "text": "<i>My experience has been different. I use commit messages not to determine what changes have occurred in a commit, but to locate the origin of a specific change I'm looking for (e.g. using cvs log). If I spent more than 30 seconds writing a commit message, I spent too long. Mind you, I haven't done any math on this.</i>",
+            "id": "92ca80c7abe68ee1835e5447602fc3cc"
+          },
+          {
+            "type": "html",
+            "text": "\nI don't always skip the commit messages.  If there's a really good way to describe it, I'll cvs ci -m \"...\".  But blamelog's really do tell a lot, for the times I might overzealously use cvsci.",
+            "id": "b83179729681b8b238174f7553bc1c45"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d6e31c3c9815eaca3161e94094641e4c"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also [[Cvs Toys]]",
+            "id": "9964c6f1020325e425b95b7824766c17"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d6e31c3c9815eaca3161e94094641e4c"
+          },
+          {
+            "type": "html",
+            "text": "\nFor a long long time I've been depending on a pair of one-liners I call diffprep and diffcommit to help me generate sensible cvs log messages.  diffprep simply runs 'cvs diff ' and prepends a comment character to each line.  I redirect its output to a file, which I then visit in my editor and read through.  As I see each change, I can write the appropriate description into the file (without the comment character), then when done I pipe the annotated diff file into diffcommit, which discards the original diff, spits the annotations into per-file commit messages, and runs the appropriate cvs commands",
+            "id": "91379d6abbf4a177750bf07441c23e3f"
+          },
+          {
+            "type": "code",
+            "text": " :; cat ~/scripts/diffprep \n #!/bin/sh\n cvs diff -u $* | sed 's/^/# /g' \n echo '# Index: done'\n :; cat ~/scripts/diffcommit \n perl -ne 'if(/^\\# Index: (.+)$/) { if($fn) { $out=~s/\\047/\\047\\\\\\047\\047/g;  $out=~s/^\\n+//s;$out=~s/\\n+$//s; print \"cvs commit -m \\047$out\\047 $fn\\n\"}; $out=\"\";$fn=$1}; if(!  /^\\#/) { $out.=$_ };' ",
+            "id": "c306eee123cae8a2bb499de68d2d72ee"
+          },
+          {
+            "type": "html",
+            "text": "<i>I subsumed this into cvsmeaningfulci, above.  Thanks for the great tip!  (Hopefully we'll all use cvsci one day, but this is an excellent bridge.)</i>",
+            "id": "52ec669c5025b3d18a55eae5abf75e88"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d6e31c3c9815eaca3161e94094641e4c"
+          },
+          {
+            "type": "html",
+            "text": "\nA suggestion for cvsmv: how about automatically create log texts \"renamed from ... to ...\"? --[[Slaven Rezic]] (2003-03-21)",
+            "id": "ff4c894ec8e61dc42f2edd3b3ccf94b8"
+          },
+          {
+            "type": "html",
+            "text": "<i>Actually, version 1 of cvsmv had exactly that.  But the scary thing is that it automatically commits the changes.  So, the next best thing is to output a cvs ci -m \"...\" line, that can then be pasted back into the shell... but for some reason I decided against it.  Lately, I've been using [[Sub Version]], which as a real move command.</i> --[[Ryan King]]",
+            "id": "34db13d6f08f216e9ab83b1032bb5b16"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?CvsTools c2.com]",
+            "id": "7e64888f129e6f818be8096f7fa807e7"
+          }
+        ]
+      }
+    }
+  ]
+}
