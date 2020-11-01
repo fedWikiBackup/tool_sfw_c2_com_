@@ -1,0 +1,157 @@
+{
+  "title": "Google Toolbar",
+  "story": [
+    {
+      "type": "html",
+      "text": "The Google Toolbar is a product of the good folks at google.com.",
+      "id": "14b2d3548442e3261d73bba424707fb7"
+    },
+    {
+      "type": "html",
+      "text": "\nContrast with [[Google Bar]].",
+      "id": "a1681d15b4f27daaef1c5eef86548184"
+    },
+    {
+      "type": "html",
+      "text": "\nThe Google Toolbar is a utility that plugs into Microsoft Internet Explorer and is only available on Microsoft Windows platforms (9x or NT flavors).  ",
+      "id": "32c1bd6309b86beef8c378bb212bd467"
+    },
+    {
+      "type": "html",
+      "text": "\nIt adds a toolbar to IE that includes a search box and an optional Pagerank feature.",
+      "id": "c962184affc01401f8e20c7d7948b124"
+    },
+    {
+      "type": "html",
+      "text": "\nFor more detail see\n[http://toolbar.google.com/ toolbar.google.com]",
+      "id": "9f95c34103f9dc581b8af634246458e9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "ee90d01590f551fdf0fd7af0513d7542"
+    },
+    {
+      "type": "html",
+      "text": "<i>Allegedly the [[Google Toolbar]] also has [[Spy Ware]] functions - can anyone comment?</i>",
+      "id": "71aec4822abe2cc645062cc219609fdb"
+    },
+    {
+      "type": "html",
+      "text": "\nThe [[Google Toolbar]] has NO Spyware functions. Use of the OPTIONAL 'advanced features' known as \"[[Page Rank]] Display\" will result in all your url's being sent to Google servers for extra data, like [[Page Rank]] info.",
+      "id": "df4502ed3fb47a21e62f8114e36f0952"
+    },
+    {
+      "type": "html",
+      "text": "\nGoogle makes this VERY clear on the Google Toolbar download page.",
+      "id": "729d21f2bc5f8275039d1bed117ddeb9"
+    },
+    {
+      "type": "html",
+      "text": "<i>I installed [[Google Toolbar]] and allowed it to pass data back to Google in Dec2004. Since then my [[Internet Explorer]] becomes funny and did not want to work. It may be due to an interaction of this Google send back and firewall software.</i>",
+      "id": "6a25cca7a1343e76f4ca20bf8132a871"
+    },
+    {
+      "type": "html",
+      "text": " How do I switch off the \"back to Google\" option? Or failing that, uninstalling the toolbar? -- dl",
+      "id": "92e2cae6b8e52b57f57368b46b8ba8b2"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "ee90d01590f551fdf0fd7af0513d7542"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Software Tool]]",
+      "id": "078aada628b77ee460ea7d74fb51c3a4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?GoogleToolbar c2.com]",
+      "id": "8841ccb3513f4ee05393e848cb8814b9"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1102574476000,
+      "id": "fc9282f22f587f93111d4fb5b21b0547",
+      "type": "create",
+      "item": {
+        "title": "Google Toolbar",
+        "story": [
+          {
+            "type": "html",
+            "text": "The Google Toolbar is a product of the good folks at google.com.",
+            "id": "14b2d3548442e3261d73bba424707fb7"
+          },
+          {
+            "type": "html",
+            "text": "\nContrast with [[Google Bar]].",
+            "id": "a1681d15b4f27daaef1c5eef86548184"
+          },
+          {
+            "type": "html",
+            "text": "\nThe Google Toolbar is a utility that plugs into Microsoft Internet Explorer and is only available on Microsoft Windows platforms (9x or NT flavors).  ",
+            "id": "32c1bd6309b86beef8c378bb212bd467"
+          },
+          {
+            "type": "html",
+            "text": "\nIt adds a toolbar to IE that includes a search box and an optional Pagerank feature.",
+            "id": "c962184affc01401f8e20c7d7948b124"
+          },
+          {
+            "type": "html",
+            "text": "\nFor more detail see\n[http://toolbar.google.com/ toolbar.google.com]",
+            "id": "9f95c34103f9dc581b8af634246458e9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "ee90d01590f551fdf0fd7af0513d7542"
+          },
+          {
+            "type": "html",
+            "text": "<i>Allegedly the [[Google Toolbar]] also has [[Spy Ware]] functions - can anyone comment?</i>",
+            "id": "71aec4822abe2cc645062cc219609fdb"
+          },
+          {
+            "type": "html",
+            "text": "\nThe [[Google Toolbar]] has NO Spyware functions. Use of the OPTIONAL 'advanced features' known as \"[[Page Rank]] Display\" will result in all your url's being sent to Google servers for extra data, like [[Page Rank]] info.",
+            "id": "df4502ed3fb47a21e62f8114e36f0952"
+          },
+          {
+            "type": "html",
+            "text": "\nGoogle makes this VERY clear on the Google Toolbar download page.",
+            "id": "729d21f2bc5f8275039d1bed117ddeb9"
+          },
+          {
+            "type": "html",
+            "text": "<i>I installed [[Google Toolbar]] and allowed it to pass data back to Google in Dec2004. Since then my [[Internet Explorer]] becomes funny and did not want to work. It may be due to an interaction of this Google send back and firewall software.</i>",
+            "id": "6a25cca7a1343e76f4ca20bf8132a871"
+          },
+          {
+            "type": "html",
+            "text": " How do I switch off the \"back to Google\" option? Or failing that, uninstalling the toolbar? -- dl",
+            "id": "92e2cae6b8e52b57f57368b46b8ba8b2"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "ee90d01590f551fdf0fd7af0513d7542"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Software Tool]]",
+            "id": "078aada628b77ee460ea7d74fb51c3a4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?GoogleToolbar c2.com]",
+            "id": "8841ccb3513f4ee05393e848cb8814b9"
+          }
+        ]
+      }
+    }
+  ]
+}
