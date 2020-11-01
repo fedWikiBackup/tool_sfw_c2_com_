@@ -1,0 +1,77 @@
+{
+  "title": "Using Links As Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i> I was once told: [[We Need Examples]], here are some </i> [[Doing Stuff]].[[Donald Noyes]].20131209",
+      "id": "33ec2b55fd07534258d2db83f3a97e08"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "dc3ced19e303fc57a5d783c10218441d"
+    },
+    {
+      "type": "html",
+      "text": " Links on a site such as wiki, referring to another text and text-linking site:",
+      "id": "8943ac38d0e3f86ec93e2ebb3e41ae29"
+    },
+    {
+      "type": "html",
+      "text": " enabling navigation to an [[Origin Site]] and linking of sites in a [[Site Neighborhood]] for a given [[Federated Wiki Site]]",
+      "id": "11ba1bd1de91ba00715306276d6240a4"
+    },
+    {
+      "type": "html",
+      "text": " [http://don.fed.wiki.org/view/welcome-visitors/view/wv/view/ward-cunninghams-friends/view/track-changes don.fed.wiki.org]",
+      "id": "fb30367739a171181ab98a94ca0371f4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?UsingLinksAsTools c2.com]",
+      "id": "8ad3b84b39ad3173748b88dbe9efbcc5"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1386579651000,
+      "id": "de3cdc094caad6e6c9b092ca2b2ed793",
+      "type": "create",
+      "item": {
+        "title": "Using Links As Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i> I was once told: [[We Need Examples]], here are some </i> [[Doing Stuff]].[[Donald Noyes]].20131209",
+            "id": "33ec2b55fd07534258d2db83f3a97e08"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "dc3ced19e303fc57a5d783c10218441d"
+          },
+          {
+            "type": "html",
+            "text": " Links on a site such as wiki, referring to another text and text-linking site:",
+            "id": "8943ac38d0e3f86ec93e2ebb3e41ae29"
+          },
+          {
+            "type": "html",
+            "text": " enabling navigation to an [[Origin Site]] and linking of sites in a [[Site Neighborhood]] for a given [[Federated Wiki Site]]",
+            "id": "11ba1bd1de91ba00715306276d6240a4"
+          },
+          {
+            "type": "html",
+            "text": " [http://don.fed.wiki.org/view/welcome-visitors/view/wv/view/ward-cunninghams-friends/view/track-changes don.fed.wiki.org]",
+            "id": "fb30367739a171181ab98a94ca0371f4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?UsingLinksAsTools c2.com]",
+            "id": "8ad3b84b39ad3173748b88dbe9efbcc5"
+          }
+        ]
+      }
+    }
+  ]
+}
