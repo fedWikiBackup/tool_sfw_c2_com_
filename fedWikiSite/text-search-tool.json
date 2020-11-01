@@ -1,0 +1,197 @@
+{
+  "title": "Text Search Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "It occurs to me that all text search functions I've ever dealt with are extremely crapulent ... except for Google. It's such a simple function but it's fairly crucial and routinely screwed up.",
+      "id": "38d21988b10a291700e70e5018e99833"
+    },
+    {
+      "type": "html",
+      "text": "\nI want a search function that is:",
+      "id": "33cbedf571d4118f6e8d4b6c09ca88ad"
+    },
+    {
+      "type": "html",
+      "text": " whitespace insensitive",
+      "id": "5902b2273aa39034a5be358c8930fd42"
+    },
+    {
+      "type": "html",
+      "text": " punctuation insensitive",
+      "id": "73f86a7da79aa0a9d2c32db3ccb6ddda"
+    },
+    {
+      "type": "html",
+      "text": " case insensensitive always, unless I ask to search for something mixed-case",
+      "id": "fbe08232cbfd08d8e37ecebb2c960dfd"
+    },
+    {
+      "type": "html",
+      "text": " searches through object titles firs, automatically",
+      "id": "a311b79442c77b8557020f4bb83a9f82"
+    },
+    {
+      "type": "html",
+      "text": " has no backwards option",
+      "id": "966384a610f9b601cd8df8196507ab99"
+    },
+    {
+      "type": "html",
+      "text": " has no useless options or modes",
+      "id": "ed7c4ad73105b9079c0fd0382554f2a6"
+    },
+    {
+      "type": "html",
+      "text": " supports complex logical operations",
+      "id": "d10f80ab22773477e9af3d44da5c222a"
+    },
+    {
+      "type": "html",
+      "text": " supports the \"nearby\" predicate",
+      "id": "b27ede61059fa9a18a535384fce886f7"
+    },
+    {
+      "type": "html",
+      "text": " supports the \"misspelling\" predicate",
+      "id": "99485f30daa4127fa8e1674ee3974bd1"
+    },
+    {
+      "type": "html",
+      "text": " can search through a subset of objects",
+      "id": "bdb6fcdd5a4bb141c8609681265a88d9"
+    },
+    {
+      "type": "html",
+      "text": " can save searches and their results",
+      "id": "d400bfff8daf3a721172cdf251d43e76"
+    },
+    {
+      "type": "html",
+      "text": " outputs results in the same format as what it operates on",
+      "id": "63bc170f5fa3d39cd81617922c9231a1"
+    },
+    {
+      "type": "html",
+      "text": "\nby these I mean that if the tool operates on a directory of files then it will produce a directory of files as its results so that the results can be fed back into another search.",
+      "id": "112655c648ca83d2f79da50531085fbd"
+    },
+    {
+      "type": "html",
+      "text": "\nI also want a system where .song objects come with their lyrics, or can have their lyrics appended, and the search tool knows to search through the lyrics for song objects.",
+      "id": "4cc4271b26eb3e379dacb132942dd901"
+    },
+    {
+      "type": "html",
+      "text": "\nWhat I REALLY REALLY want is an AI, but I'll settle for the above.",
+      "id": "5164deb8a38fe1d63dc8ef5f0f41c596"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TextSearchTool c2.com]",
+      "id": "4fdb3d24bcf14bd99bbca4230cee7ff3"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1125597324000,
+      "id": "e0a3b643b56f2e104c93256a2f43dfb0",
+      "type": "create",
+      "item": {
+        "title": "Text Search Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "It occurs to me that all text search functions I've ever dealt with are extremely crapulent ... except for Google. It's such a simple function but it's fairly crucial and routinely screwed up.",
+            "id": "38d21988b10a291700e70e5018e99833"
+          },
+          {
+            "type": "html",
+            "text": "\nI want a search function that is:",
+            "id": "33cbedf571d4118f6e8d4b6c09ca88ad"
+          },
+          {
+            "type": "html",
+            "text": " whitespace insensitive",
+            "id": "5902b2273aa39034a5be358c8930fd42"
+          },
+          {
+            "type": "html",
+            "text": " punctuation insensitive",
+            "id": "73f86a7da79aa0a9d2c32db3ccb6ddda"
+          },
+          {
+            "type": "html",
+            "text": " case insensensitive always, unless I ask to search for something mixed-case",
+            "id": "fbe08232cbfd08d8e37ecebb2c960dfd"
+          },
+          {
+            "type": "html",
+            "text": " searches through object titles firs, automatically",
+            "id": "a311b79442c77b8557020f4bb83a9f82"
+          },
+          {
+            "type": "html",
+            "text": " has no backwards option",
+            "id": "966384a610f9b601cd8df8196507ab99"
+          },
+          {
+            "type": "html",
+            "text": " has no useless options or modes",
+            "id": "ed7c4ad73105b9079c0fd0382554f2a6"
+          },
+          {
+            "type": "html",
+            "text": " supports complex logical operations",
+            "id": "d10f80ab22773477e9af3d44da5c222a"
+          },
+          {
+            "type": "html",
+            "text": " supports the \"nearby\" predicate",
+            "id": "b27ede61059fa9a18a535384fce886f7"
+          },
+          {
+            "type": "html",
+            "text": " supports the \"misspelling\" predicate",
+            "id": "99485f30daa4127fa8e1674ee3974bd1"
+          },
+          {
+            "type": "html",
+            "text": " can search through a subset of objects",
+            "id": "bdb6fcdd5a4bb141c8609681265a88d9"
+          },
+          {
+            "type": "html",
+            "text": " can save searches and their results",
+            "id": "d400bfff8daf3a721172cdf251d43e76"
+          },
+          {
+            "type": "html",
+            "text": " outputs results in the same format as what it operates on",
+            "id": "63bc170f5fa3d39cd81617922c9231a1"
+          },
+          {
+            "type": "html",
+            "text": "\nby these I mean that if the tool operates on a directory of files then it will produce a directory of files as its results so that the results can be fed back into another search.",
+            "id": "112655c648ca83d2f79da50531085fbd"
+          },
+          {
+            "type": "html",
+            "text": "\nI also want a system where .song objects come with their lyrics, or can have their lyrics appended, and the search tool knows to search through the lyrics for song objects.",
+            "id": "4cc4271b26eb3e379dacb132942dd901"
+          },
+          {
+            "type": "html",
+            "text": "\nWhat I REALLY REALLY want is an AI, but I'll settle for the above.",
+            "id": "5164deb8a38fe1d63dc8ef5f0f41c596"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TextSearchTool c2.com]",
+            "id": "4fdb3d24bcf14bd99bbca4230cee7ff3"
+          }
+        ]
+      }
+    }
+  ]
+}
