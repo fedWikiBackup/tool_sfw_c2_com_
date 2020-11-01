@@ -1,0 +1,47 @@
+{
+  "title": "Tool Happy",
+  "story": [
+    {
+      "type": "html",
+      "text": "A developer or development process that gets so caught up in learning or perfecting or changing the underlying tools that no actual work ever gets done.",
+      "id": "4101c814376019b4d65aaa1ba7f4c5e7"
+    },
+    {
+      "type": "html",
+      "text": "\nContrast: [[Sharpen The Saw]]",
+      "id": "809e7b94f43410df69d929fbc5c508ea"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolHappy c2.com]",
+      "id": "e4bf1775b5012763b8b9a2e4f7402af6"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1097515987000,
+      "id": "69aa6dceb317ee034035f055d161b1cc",
+      "type": "create",
+      "item": {
+        "title": "Tool Happy",
+        "story": [
+          {
+            "type": "html",
+            "text": "A developer or development process that gets so caught up in learning or perfecting or changing the underlying tools that no actual work ever gets done.",
+            "id": "4101c814376019b4d65aaa1ba7f4c5e7"
+          },
+          {
+            "type": "html",
+            "text": "\nContrast: [[Sharpen The Saw]]",
+            "id": "809e7b94f43410df69d929fbc5c508ea"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolHappy c2.com]",
+            "id": "e4bf1775b5012763b8b9a2e4f7402af6"
+          }
+        ]
+      }
+    }
+  ]
+}
