@@ -1,0 +1,57 @@
+{
+  "title": "Visual Age Java Third Party Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "VA Assist, by Instantiations ([http://www.instantiations.com www.instantiations.com]) is a [[Visual Age]] for Java enchancement add-on.  It enhances the VAJ IDE, providing drag-n-drop features, in-place renaming, better control over versioning and the repository.  ",
+      "id": "1c5ae8857717c2c567e82861b518ac7b"
+    },
+    {
+      "type": "html",
+      "text": "\nAnyone have experiences with it?",
+      "id": "6c02c1f0535e4a0b4a3ea90e587da86a"
+    },
+    {
+      "type": "html",
+      "text": "<i>Yes, its excellent. Try the free version (and remember to grab the PDF help too); configuration is under the usual Options window. --[[Channing Walton]]</i>",
+      "id": "9282085f85949efc6e6843f856ddd794"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?VisualAgeJavaThirdPartyTools c2.com]",
+      "id": "e7ee35cc5b5aa1fb982b415387ffb7fa"
+    }
+  ],
+  "journal": [
+    {
+      "date": 977079056000,
+      "id": "7d01a62f825a0720a072d5c6131d0353",
+      "type": "create",
+      "item": {
+        "title": "Visual Age Java Third Party Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "VA Assist, by Instantiations ([http://www.instantiations.com www.instantiations.com]) is a [[Visual Age]] for Java enchancement add-on.  It enhances the VAJ IDE, providing drag-n-drop features, in-place renaming, better control over versioning and the repository.  ",
+            "id": "1c5ae8857717c2c567e82861b518ac7b"
+          },
+          {
+            "type": "html",
+            "text": "\nAnyone have experiences with it?",
+            "id": "6c02c1f0535e4a0b4a3ea90e587da86a"
+          },
+          {
+            "type": "html",
+            "text": "<i>Yes, its excellent. Try the free version (and remember to grab the PDF help too); configuration is under the usual Options window. --[[Channing Walton]]</i>",
+            "id": "9282085f85949efc6e6843f856ddd794"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?VisualAgeJavaThirdPartyTools c2.com]",
+            "id": "e7ee35cc5b5aa1fb982b415387ffb7fa"
+          }
+        ]
+      }
+    }
+  ]
+}
