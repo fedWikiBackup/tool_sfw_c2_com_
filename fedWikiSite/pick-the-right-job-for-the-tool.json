@@ -1,0 +1,77 @@
+{
+  "title": "Pick The Right Job For The Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "The converse of [[Pick The Right Tool For The Job]]. If you like programming in a certain language, then find something to do for which that language is a good way of implementing a solution. The very, very important part to remember is not to overrate your chosen tool! Just because you know how to implement X in Y doesn't mean it wouldn't be a better idea to leave X to some other programmer with a different tool and go off and implement Z in Y instead.",
+      "id": "7c3f159f0d56025cd4b0db3461bb85c6"
+    },
+    {
+      "type": "html",
+      "text": "\nThis works best if you're contracting, since you can find new 'jobs' easier. =)",
+      "id": "031e5a5ed9b87527804c69c4f3feb183"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a4d779befbf9ec43c5c8e3b9f58e9bf5"
+    },
+    {
+      "type": "html",
+      "text": "\nChoices such as these are often made for political or marketing reasons. Your supervisor may insist that the project use some particular tool/technology, despite the fact that it makes no sense or will bring additional cost, because it is desirable that your company be seen as being on the forefront of technological innovation (also known as [[Jumping On The Bandwagon]]).",
+      "id": "8a07a6c7de9f951dbebeb3c242c7c208"
+    },
+    {
+      "type": "html",
+      "text": "\nIn such situations, try to take some control and use the tool only for those things for which it is a good fit. Usually, the supervisor only needs to be able to say \"We are using X on this project\", and won't insist that it be used for everything. Use it for some non-critical component, call it a \"[[Pilot Project]]\" whenever anyone asks about it (managers love pilot projects; it makes them think they are shepherding a high-tech research endeavor), and whatever the result is, talk a lot about the valuable experience gained by the team while using it.",
+      "id": "80bf289e3f239af11bdab5ea439438d5"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PickTheRightJobForTheTool c2.com]",
+      "id": "4a4dadf2d57632c8ed744dc04245d8f7"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1418242777000,
+      "id": "272fc06ac3bb937c257d2b118477feb4",
+      "type": "create",
+      "item": {
+        "title": "Pick The Right Job For The Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "The converse of [[Pick The Right Tool For The Job]]. If you like programming in a certain language, then find something to do for which that language is a good way of implementing a solution. The very, very important part to remember is not to overrate your chosen tool! Just because you know how to implement X in Y doesn't mean it wouldn't be a better idea to leave X to some other programmer with a different tool and go off and implement Z in Y instead.",
+            "id": "7c3f159f0d56025cd4b0db3461bb85c6"
+          },
+          {
+            "type": "html",
+            "text": "\nThis works best if you're contracting, since you can find new 'jobs' easier. =)",
+            "id": "031e5a5ed9b87527804c69c4f3feb183"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a4d779befbf9ec43c5c8e3b9f58e9bf5"
+          },
+          {
+            "type": "html",
+            "text": "\nChoices such as these are often made for political or marketing reasons. Your supervisor may insist that the project use some particular tool/technology, despite the fact that it makes no sense or will bring additional cost, because it is desirable that your company be seen as being on the forefront of technological innovation (also known as [[Jumping On The Bandwagon]]).",
+            "id": "8a07a6c7de9f951dbebeb3c242c7c208"
+          },
+          {
+            "type": "html",
+            "text": "\nIn such situations, try to take some control and use the tool only for those things for which it is a good fit. Usually, the supervisor only needs to be able to say \"We are using X on this project\", and won't insist that it be used for everything. Use it for some non-critical component, call it a \"[[Pilot Project]]\" whenever anyone asks about it (managers love pilot projects; it makes them think they are shepherding a high-tech research endeavor), and whatever the result is, talk a lot about the valuable experience gained by the team while using it.",
+            "id": "80bf289e3f239af11bdab5ea439438d5"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PickTheRightJobForTheTool c2.com]",
+            "id": "4a4dadf2d57632c8ed744dc04245d8f7"
+          }
+        ]
+      }
+    }
+  ]
+}
