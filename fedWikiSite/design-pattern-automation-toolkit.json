@@ -1,0 +1,157 @@
+{
+  "title": "Design Pattern Automation Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "The \"Design Pattern Automation Toolkit\" -- an open-source tool, on [[Source Forge]]:",
+      "id": "fa66ccc88c96ae8bee2b3008195b2aad"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://dpatoolkit.sourceforge.net/ dpatoolkit.sourceforge.net]",
+      "id": "c451618923e345cf6be3a0c50fab144c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "61daae1b3969c1725d6d332eaf17499d"
+    },
+    {
+      "type": "html",
+      "text": "\nAs seen on the Gang-of-Four [[Design Patterns]] discussion list:\n[http://groups.yahoo.com/group/gof-patterns/message/48 groups.yahoo.com]",
+      "id": "a71accfbc72dd47b3a65a44cc5e739dc"
+    },
+    {
+      "type": "html",
+      "text": "\nRequires .Net",
+      "id": "e00572eb31c5453eeccff92d47cbc54c"
+    },
+    {
+      "type": "html",
+      "text": "\nIt seems to support C# and VB.NET at this time.\nThere's mention of Java support, but it's not clear if it can recognize or generate Java at this time.",
+      "id": "d94eb2e5c871eddf447d8b77b270731f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "61daae1b3969c1725d6d332eaf17499d"
+    },
+    {
+      "type": "html",
+      "text": "<i>Hmmmm...  Interesting, but I'm not sure I'm impressed.  Like, what does it do for me?  -- [[Jeff Grigg]]</i>",
+      "id": "eeca6a400d9320ff85c7e3bf6afc9cdb"
+    },
+    {
+      "type": "html",
+      "text": "\nHey jeff, it allows u to use design patterns in ur design, when u can view the class diagrams , generates code stubbs (in java too!! dear wiki), and help for reverse engineering for .net aware languages!!",
+      "id": "f327947d5799542a0b4c455055de8386"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "61daae1b3969c1725d6d332eaf17499d"
+    },
+    {
+      "type": "html",
+      "text": "\nI can see how a tool like this might make it considerably <b>harder</b> for me to effectively utilize design patterns in my code. For a pattern to be most useful, it should emerge from the needs of the design, right? A tool like this encourages me to think hammer-first: \"Well, I need a Composite pattern here. Let's get one from the toolkit! Now, how to shove this into the rest of the code....\"",
+      "id": "3c059fa396df2f211a3dc79348398236"
+    },
+    {
+      "type": "html",
+      "text": "\nOther aspects of this project seem interesting, if a bit ambitious. If it can data-mine a pattern out of a snarl of old code, it might give me an interesting perspective, perhaps a direction in which to move. But code generation would not sit so well with me. ",
+      "id": "3fc1d859aa1f1b144fc368c7baf416c4"
+    },
+    {
+      "type": "html",
+      "text": "\nRefactorings are basically mechanical. Design is much less so. Give me a power screwdriver (or a [[Refactoring Browser]]), but not a blueprint-generator. -- [[Phil Groce]]",
+      "id": "8ef10374138e90660af5ead320b80093"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?DesignPatternAutomationToolkit c2.com]",
+      "id": "fb34660685a020a38c461d5f02e6ec79"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1101834983000,
+      "id": "7fa9da3c2be2e43666bc1183359ec117",
+      "type": "create",
+      "item": {
+        "title": "Design Pattern Automation Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "The \"Design Pattern Automation Toolkit\" -- an open-source tool, on [[Source Forge]]:",
+            "id": "fa66ccc88c96ae8bee2b3008195b2aad"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://dpatoolkit.sourceforge.net/ dpatoolkit.sourceforge.net]",
+            "id": "c451618923e345cf6be3a0c50fab144c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "61daae1b3969c1725d6d332eaf17499d"
+          },
+          {
+            "type": "html",
+            "text": "\nAs seen on the Gang-of-Four [[Design Patterns]] discussion list:\n[http://groups.yahoo.com/group/gof-patterns/message/48 groups.yahoo.com]",
+            "id": "a71accfbc72dd47b3a65a44cc5e739dc"
+          },
+          {
+            "type": "html",
+            "text": "\nRequires .Net",
+            "id": "e00572eb31c5453eeccff92d47cbc54c"
+          },
+          {
+            "type": "html",
+            "text": "\nIt seems to support C# and VB.NET at this time.\nThere's mention of Java support, but it's not clear if it can recognize or generate Java at this time.",
+            "id": "d94eb2e5c871eddf447d8b77b270731f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "61daae1b3969c1725d6d332eaf17499d"
+          },
+          {
+            "type": "html",
+            "text": "<i>Hmmmm...  Interesting, but I'm not sure I'm impressed.  Like, what does it do for me?  -- [[Jeff Grigg]]</i>",
+            "id": "eeca6a400d9320ff85c7e3bf6afc9cdb"
+          },
+          {
+            "type": "html",
+            "text": "\nHey jeff, it allows u to use design patterns in ur design, when u can view the class diagrams , generates code stubbs (in java too!! dear wiki), and help for reverse engineering for .net aware languages!!",
+            "id": "f327947d5799542a0b4c455055de8386"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "61daae1b3969c1725d6d332eaf17499d"
+          },
+          {
+            "type": "html",
+            "text": "\nI can see how a tool like this might make it considerably <b>harder</b> for me to effectively utilize design patterns in my code. For a pattern to be most useful, it should emerge from the needs of the design, right? A tool like this encourages me to think hammer-first: \"Well, I need a Composite pattern here. Let's get one from the toolkit! Now, how to shove this into the rest of the code....\"",
+            "id": "3c059fa396df2f211a3dc79348398236"
+          },
+          {
+            "type": "html",
+            "text": "\nOther aspects of this project seem interesting, if a bit ambitious. If it can data-mine a pattern out of a snarl of old code, it might give me an interesting perspective, perhaps a direction in which to move. But code generation would not sit so well with me. ",
+            "id": "3fc1d859aa1f1b144fc368c7baf416c4"
+          },
+          {
+            "type": "html",
+            "text": "\nRefactorings are basically mechanical. Design is much less so. Give me a power screwdriver (or a [[Refactoring Browser]]), but not a blueprint-generator. -- [[Phil Groce]]",
+            "id": "8ef10374138e90660af5ead320b80093"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?DesignPatternAutomationToolkit c2.com]",
+            "id": "fb34660685a020a38c461d5f02e6ec79"
+          }
+        ]
+      }
+    }
+  ]
+}
