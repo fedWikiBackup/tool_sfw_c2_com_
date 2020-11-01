@@ -1,0 +1,157 @@
+{
+  "title": "Make Make Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "A [[Make Make Tool]] is a tool which will automate the construction of makefiles. ",
+      "id": "73c25bc7c343636dc7bd952d08463cd8"
+    },
+    {
+      "type": "html",
+      "text": "\nExamples:",
+      "id": "874e78190c64047481a9c45bf950d54f"
+    },
+    {
+      "type": "html",
+      "text": " GNU automake",
+      "id": "a087141181c71d3b6d974eab7a917732"
+    },
+    {
+      "type": "html",
+      "text": " imake",
+      "id": "42634230f99486f195b37e880d84be65"
+    },
+    {
+      "type": "html",
+      "text": " CMake ",
+      "id": "d1b96cbfb5c29b539c5035df906f4bf7"
+    },
+    {
+      "type": "html",
+      "text": "[http://www.cmake.org/HTML/Index.html www.cmake.org] ",
+      "id": "fc18fe44b8a470c837e21ab3d3c93636"
+    },
+    {
+      "type": "html",
+      "text": " Generates makefiles for a variety of make implementations and MSVisualStudio workspaces. Good for cross-platform projects to avoid the difficulty of maintaining multiple parallel build systems.",
+      "id": "afe073b71d8f6c21d83bb15ad3417aa2"
+    },
+    {
+      "type": "html",
+      "text": " [[Rake Make]] ",
+      "id": "af9b7a05d51371aa4c793cf493ab714d"
+    },
+    {
+      "type": "html",
+      "text": " A [[Ruby Language]] tool to generate makefiles. Seems to use a neat OO approach to building the dependency graph.",
+      "id": "baabb1185c84c9e9f9892142a1171162"
+    },
+    {
+      "type": "html",
+      "text": " All dependency tools like fastdep, makedep, ocamldep, ...",
+      "id": "8e058e4cb2f87b85ef033e133803c9bc"
+    },
+    {
+      "type": "html",
+      "text": "\nSome say that such tools are [[Adding Epicycles]] to work around the inherent intractability of make, and that a better approach is to replace make entirely.",
+      "id": "9d2cb89be176ad54c211e53cfe56ce36"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4e254a0c5f9c73efd6ba3c32dfd5d723"
+    },
+    {
+      "type": "html",
+      "text": "See [[Make Tool]], [[Make Program]]. ",
+      "id": "5fe78646f7478010c23487a3f2a9d213"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MakeMakeTool c2.com]",
+      "id": "2b308dfb80f4dfd570a9ae9c70e4355e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1407654189000,
+      "id": "e617b764b92a6c88813044997038b89d",
+      "type": "create",
+      "item": {
+        "title": "Make Make Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "A [[Make Make Tool]] is a tool which will automate the construction of makefiles. ",
+            "id": "73c25bc7c343636dc7bd952d08463cd8"
+          },
+          {
+            "type": "html",
+            "text": "\nExamples:",
+            "id": "874e78190c64047481a9c45bf950d54f"
+          },
+          {
+            "type": "html",
+            "text": " GNU automake",
+            "id": "a087141181c71d3b6d974eab7a917732"
+          },
+          {
+            "type": "html",
+            "text": " imake",
+            "id": "42634230f99486f195b37e880d84be65"
+          },
+          {
+            "type": "html",
+            "text": " CMake ",
+            "id": "d1b96cbfb5c29b539c5035df906f4bf7"
+          },
+          {
+            "type": "html",
+            "text": "[http://www.cmake.org/HTML/Index.html www.cmake.org] ",
+            "id": "fc18fe44b8a470c837e21ab3d3c93636"
+          },
+          {
+            "type": "html",
+            "text": " Generates makefiles for a variety of make implementations and MSVisualStudio workspaces. Good for cross-platform projects to avoid the difficulty of maintaining multiple parallel build systems.",
+            "id": "afe073b71d8f6c21d83bb15ad3417aa2"
+          },
+          {
+            "type": "html",
+            "text": " [[Rake Make]] ",
+            "id": "af9b7a05d51371aa4c793cf493ab714d"
+          },
+          {
+            "type": "html",
+            "text": " A [[Ruby Language]] tool to generate makefiles. Seems to use a neat OO approach to building the dependency graph.",
+            "id": "baabb1185c84c9e9f9892142a1171162"
+          },
+          {
+            "type": "html",
+            "text": " All dependency tools like fastdep, makedep, ocamldep, ...",
+            "id": "8e058e4cb2f87b85ef033e133803c9bc"
+          },
+          {
+            "type": "html",
+            "text": "\nSome say that such tools are [[Adding Epicycles]] to work around the inherent intractability of make, and that a better approach is to replace make entirely.",
+            "id": "9d2cb89be176ad54c211e53cfe56ce36"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4e254a0c5f9c73efd6ba3c32dfd5d723"
+          },
+          {
+            "type": "html",
+            "text": "See [[Make Tool]], [[Make Program]]. ",
+            "id": "5fe78646f7478010c23487a3f2a9d213"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MakeMakeTool c2.com]",
+            "id": "2b308dfb80f4dfd570a9ae9c70e4355e"
+          }
+        ]
+      }
+    }
+  ]
+}
