@@ -1,0 +1,107 @@
+{
+  "title": "Xp Tools Faq",
+  "story": [
+    {
+      "type": "html",
+      "text": "From [[Xp Faq]].",
+      "id": "534b264ca9735d2bfaec7c718d089594"
+    },
+    {
+      "type": "html",
+      "text": "<b>What's the best tool to write a [[User Story]] on?</b>",
+      "id": "50050319ada388ca396ba04ea913ea97"
+    },
+    {
+      "type": "html",
+      "text": "<i>\"We can sell you our hand-embossed Official XP User Story Cards, but they are all still on paper.\"</i>",
+      "id": "227015619e1eed507b2b683c35290e5e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "22459917ef02e14e99f675ab9fc68a5f"
+    },
+    {
+      "type": "html",
+      "text": "Has anyone found a good (or any) refactoring browser for Java? Not everyone can code in Smalltalk!",
+      "id": "4dd7f43fff5ed1c0a2fbc10472148b32"
+    },
+    {
+      "type": "html",
+      "text": "<i>See [[Refactoring Browser For Java]]</i>",
+      "id": "f77e8b34974fe7d4aec22967b7a3ecf3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "22459917ef02e14e99f675ab9fc68a5f"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Extreme Programming]]  [[Category Faq]]",
+      "id": "d5116adf4e39454145b2f00423b4647c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?XpToolsFaq c2.com]",
+      "id": "5a0079bbc5d197378d0dbf0d6a0c21a6"
+    }
+  ],
+  "journal": [
+    {
+      "date": 991699708000,
+      "id": "7e2a912d4b921e156954939693638313",
+      "type": "create",
+      "item": {
+        "title": "Xp Tools Faq",
+        "story": [
+          {
+            "type": "html",
+            "text": "From [[Xp Faq]].",
+            "id": "534b264ca9735d2bfaec7c718d089594"
+          },
+          {
+            "type": "html",
+            "text": "<b>What's the best tool to write a [[User Story]] on?</b>",
+            "id": "50050319ada388ca396ba04ea913ea97"
+          },
+          {
+            "type": "html",
+            "text": "<i>\"We can sell you our hand-embossed Official XP User Story Cards, but they are all still on paper.\"</i>",
+            "id": "227015619e1eed507b2b683c35290e5e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "22459917ef02e14e99f675ab9fc68a5f"
+          },
+          {
+            "type": "html",
+            "text": "Has anyone found a good (or any) refactoring browser for Java? Not everyone can code in Smalltalk!",
+            "id": "4dd7f43fff5ed1c0a2fbc10472148b32"
+          },
+          {
+            "type": "html",
+            "text": "<i>See [[Refactoring Browser For Java]]</i>",
+            "id": "f77e8b34974fe7d4aec22967b7a3ecf3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "22459917ef02e14e99f675ab9fc68a5f"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Extreme Programming]]  [[Category Faq]]",
+            "id": "d5116adf4e39454145b2f00423b4647c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?XpToolsFaq c2.com]",
+            "id": "5a0079bbc5d197378d0dbf0d6a0c21a6"
+          }
+        ]
+      }
+    }
+  ]
+}
