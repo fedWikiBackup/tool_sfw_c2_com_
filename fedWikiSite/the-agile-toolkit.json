@@ -1,0 +1,67 @@
+{
+  "title": "The Agile Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "Replaced by [[Agile Process Tool]]",
+      "id": "53ff5caff8b6baacd2375a1467790ab8"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3567b6e82679b64e18473a8a987a3b34"
+    },
+    {
+      "type": "html",
+      "text": "There seem to be at least two (other) agile toolkits. One it the podcast from [[Agile Two Thousand Five]], \n[http://agiletoolkit.libsyn.com agiletoolkit.libsyn.com], and one is the meta-installer for tools, \n[http://wiki.agile2005.org/wiki/published/AgileToolkit wiki.agile2005.org]. ",
+      "id": "9bd5b695b2fe26afde25597431f813dd"
+    },
+    {
+      "type": "html",
+      "text": "\nHas anyone more info about the latter? -- [[Frank Gerhardt]]",
+      "id": "c22d5a537bf50fa359865d882c51503b"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TheAgileToolkit c2.com]",
+      "id": "37d9a1f231f689f920d518f8792a3a88"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1126445517000,
+      "id": "8892548b848acb0373822f4332abc332",
+      "type": "create",
+      "item": {
+        "title": "The Agile Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "Replaced by [[Agile Process Tool]]",
+            "id": "53ff5caff8b6baacd2375a1467790ab8"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3567b6e82679b64e18473a8a987a3b34"
+          },
+          {
+            "type": "html",
+            "text": "There seem to be at least two (other) agile toolkits. One it the podcast from [[Agile Two Thousand Five]], \n[http://agiletoolkit.libsyn.com agiletoolkit.libsyn.com], and one is the meta-installer for tools, \n[http://wiki.agile2005.org/wiki/published/AgileToolkit wiki.agile2005.org]. ",
+            "id": "9bd5b695b2fe26afde25597431f813dd"
+          },
+          {
+            "type": "html",
+            "text": "\nHas anyone more info about the latter? -- [[Frank Gerhardt]]",
+            "id": "c22d5a537bf50fa359865d882c51503b"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TheAgileToolkit c2.com]",
+            "id": "37d9a1f231f689f920d518f8792a3a88"
+          }
+        ]
+      }
+    }
+  ]
+}
