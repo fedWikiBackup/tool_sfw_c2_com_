@@ -1,0 +1,157 @@
+{
+  "title": "Enthought Tool Suite",
+  "story": [
+    {
+      "type": "html",
+      "text": "The Enthought Tool Suite [http://code.enthought.com/ code.enthought.com] is a set of open source tools in [[Python Language]].",
+      "id": "7c375f7c88c651f463743ddd82f23273"
+    },
+    {
+      "type": "html",
+      "text": "\nQuote from [http://code.enthought.com/projects/ code.enthought.com] ",
+      "id": "fe77fee13df8d9d50267dfc771c9b205"
+    },
+    {
+      "type": "html",
+      "text": "<i>The Enthought Tool Suite (ETS) is a collection of components developed by Enthought and our partners, which we use every day to construct custom scientific applications. It includes a wide variety of components, including:</i>",
+      "id": "fada257b092169df2a819067e8a50a5a"
+    },
+    {
+      "type": "html",
+      "text": " <i>an extensible application framework</i>",
+      "id": "ad5bbeb1ec959ba589cc1782b8eeff67"
+    },
+    {
+      "type": "html",
+      "text": " <i>application building blocks</i>",
+      "id": "e408d0d9b47977f4821be2cb5798b6bf"
+    },
+    {
+      "type": "html",
+      "text": " <i>2-D and 3-D graphics libraries</i>",
+      "id": "9458c3b5e26b41d6bd4aa1f2e99c6942"
+    },
+    {
+      "type": "html",
+      "text": " <i>scientific and math libraries</i>",
+      "id": "3dcf27c4383984cc6fa0b5d4741d6d81"
+    },
+    {
+      "type": "html",
+      "text": " <i>developer tools</i>",
+      "id": "285a4f594cf6f361f67d4da836d4abf0"
+    },
+    {
+      "type": "html",
+      "text": "\nIt includes the [[Envisage Plugin Framework]].",
+      "id": "4f8d2743536dc2c9fa71f2dbd80c69e6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7470e90283956c29897cf94fcf101686"
+    },
+    {
+      "type": "html",
+      "text": "It can be installed on various systems. Installing it on [[Ubuntu Linux]] I had some problems sorting out the [[Python Language]] dependencies and making sure they were all installed. -- [[John Fletcher]]",
+      "id": "010a903e585f7aab8f2044ac2aca26ea"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7470e90283956c29897cf94fcf101686"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]] [[Category Python]]",
+      "id": "30ffe45f82953594e10e949a875fdae4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?EnthoughtToolSuite c2.com]",
+      "id": "c6a146ec1c1d9fef478d489d7e1dcc90"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1295281717000,
+      "id": "4d6361912925c05aaf2872b31aee35c8",
+      "type": "create",
+      "item": {
+        "title": "Enthought Tool Suite",
+        "story": [
+          {
+            "type": "html",
+            "text": "The Enthought Tool Suite [http://code.enthought.com/ code.enthought.com] is a set of open source tools in [[Python Language]].",
+            "id": "7c375f7c88c651f463743ddd82f23273"
+          },
+          {
+            "type": "html",
+            "text": "\nQuote from [http://code.enthought.com/projects/ code.enthought.com] ",
+            "id": "fe77fee13df8d9d50267dfc771c9b205"
+          },
+          {
+            "type": "html",
+            "text": "<i>The Enthought Tool Suite (ETS) is a collection of components developed by Enthought and our partners, which we use every day to construct custom scientific applications. It includes a wide variety of components, including:</i>",
+            "id": "fada257b092169df2a819067e8a50a5a"
+          },
+          {
+            "type": "html",
+            "text": " <i>an extensible application framework</i>",
+            "id": "ad5bbeb1ec959ba589cc1782b8eeff67"
+          },
+          {
+            "type": "html",
+            "text": " <i>application building blocks</i>",
+            "id": "e408d0d9b47977f4821be2cb5798b6bf"
+          },
+          {
+            "type": "html",
+            "text": " <i>2-D and 3-D graphics libraries</i>",
+            "id": "9458c3b5e26b41d6bd4aa1f2e99c6942"
+          },
+          {
+            "type": "html",
+            "text": " <i>scientific and math libraries</i>",
+            "id": "3dcf27c4383984cc6fa0b5d4741d6d81"
+          },
+          {
+            "type": "html",
+            "text": " <i>developer tools</i>",
+            "id": "285a4f594cf6f361f67d4da836d4abf0"
+          },
+          {
+            "type": "html",
+            "text": "\nIt includes the [[Envisage Plugin Framework]].",
+            "id": "4f8d2743536dc2c9fa71f2dbd80c69e6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7470e90283956c29897cf94fcf101686"
+          },
+          {
+            "type": "html",
+            "text": "It can be installed on various systems. Installing it on [[Ubuntu Linux]] I had some problems sorting out the [[Python Language]] dependencies and making sure they were all installed. -- [[John Fletcher]]",
+            "id": "010a903e585f7aab8f2044ac2aca26ea"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7470e90283956c29897cf94fcf101686"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]] [[Category Python]]",
+            "id": "30ffe45f82953594e10e949a875fdae4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?EnthoughtToolSuite c2.com]",
+            "id": "c6a146ec1c1d9fef478d489d7e1dcc90"
+          }
+        ]
+      }
+    }
+  ]
+}
