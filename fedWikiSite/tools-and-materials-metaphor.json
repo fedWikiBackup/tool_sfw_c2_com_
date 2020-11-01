@@ -1,0 +1,97 @@
+{
+  "title": "Tools And Materials Metaphor",
+  "story": [
+    {
+      "type": "html",
+      "text": "The [[Tools And Materials Metaphor]] is a metaphor that guides developers through the whole cycle of developing an interactive application. An English-language description can be found in Volume I of PloP. -- [[Peter Maier]]",
+      "id": "fc989885460a27c7ed64e9fd1ed2885c"
+    },
+    {
+      "type": "html",
+      "text": "\nThe general idea is to categorize things into tools and materials. Tools inspect and manipulate materials. Materials carry business information, but are little more than dumb collections of data.",
+      "id": "e7b106cea10bbe2245b72d6cc3d4a5a2"
+    },
+    {
+      "type": "html",
+      "text": "\nExample: In a banking environment typical materials are account and customer. Possible tools are customer-editor, money-transferrer, etc.",
+      "id": "f90a8dd794a7e8586d4337fb6a659a8a"
+    },
+    {
+      "type": "html",
+      "text": "\nMaterials are similar to business objects and tools create the UI of the system.",
+      "id": "8131a96c07991b5c31b6e58c15653668"
+    },
+    {
+      "type": "html",
+      "text": "\nThere is a set of additional metaphors with the tools and materials metaphor: container (as a special kind of material) workplace, automaton, service provider...",
+      "id": "86c05c8fef7e3f3145730405db50ac0c"
+    },
+    {
+      "type": "html",
+      "text": "\nThere is a Java-based framework called JWAM being developed at [http://www.jwam.de www.jwam.de]. See: [[Jwam Framework]].",
+      "id": "f1b20715ae94684a374e3612f139b3d7"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Stefan Roock]] hi",
+      "id": "df99df1bc905d20fbd321d62708c7c5e"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolsAndMaterialsMetaphor c2.com]",
+      "id": "aafc188427d5651ce9e1e257669c70cc"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1408558230000,
+      "id": "297086baa14dc9bfbde7cefeb6839a23",
+      "type": "create",
+      "item": {
+        "title": "Tools And Materials Metaphor",
+        "story": [
+          {
+            "type": "html",
+            "text": "The [[Tools And Materials Metaphor]] is a metaphor that guides developers through the whole cycle of developing an interactive application. An English-language description can be found in Volume I of PloP. -- [[Peter Maier]]",
+            "id": "fc989885460a27c7ed64e9fd1ed2885c"
+          },
+          {
+            "type": "html",
+            "text": "\nThe general idea is to categorize things into tools and materials. Tools inspect and manipulate materials. Materials carry business information, but are little more than dumb collections of data.",
+            "id": "e7b106cea10bbe2245b72d6cc3d4a5a2"
+          },
+          {
+            "type": "html",
+            "text": "\nExample: In a banking environment typical materials are account and customer. Possible tools are customer-editor, money-transferrer, etc.",
+            "id": "f90a8dd794a7e8586d4337fb6a659a8a"
+          },
+          {
+            "type": "html",
+            "text": "\nMaterials are similar to business objects and tools create the UI of the system.",
+            "id": "8131a96c07991b5c31b6e58c15653668"
+          },
+          {
+            "type": "html",
+            "text": "\nThere is a set of additional metaphors with the tools and materials metaphor: container (as a special kind of material) workplace, automaton, service provider...",
+            "id": "86c05c8fef7e3f3145730405db50ac0c"
+          },
+          {
+            "type": "html",
+            "text": "\nThere is a Java-based framework called JWAM being developed at [http://www.jwam.de www.jwam.de]. See: [[Jwam Framework]].",
+            "id": "f1b20715ae94684a374e3612f139b3d7"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Stefan Roock]] hi",
+            "id": "df99df1bc905d20fbd321d62708c7c5e"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolsAndMaterialsMetaphor c2.com]",
+            "id": "aafc188427d5651ce9e1e257669c70cc"
+          }
+        ]
+      }
+    }
+  ]
+}
