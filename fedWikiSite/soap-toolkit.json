@@ -1,0 +1,277 @@
+{
+  "title": "Soap Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Soap Toolkit]] is a series of interim [[Web Services]] offering, free from [[Microsoft Corporation]], to entice larger companies to embrace a web centric computing paradigm.",
+      "id": "a172e0f2cf01885c567d75ee89842218"
+    },
+    {
+      "type": "html",
+      "text": "\nThat was before the days of grave concern over security over internet. Currently I have seen an article where it was said Microsoft itself gets 6 million spams, out of 7 million email traffic.",
+      "id": "73a10ec3e7ac038b145673f9e64870f7"
+    },
+    {
+      "type": "html",
+      "text": " <i>I cannot help but think how much wastage in bandwidth is needed to get the real signals through</i>",
+      "id": "d8f6b4d506511a4477ba8e3a34903988"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Soap Toolkit]] expiry date of end June2004 has been extended to April 2005. Transition to [[Dot Net]] article from MS can be found at [http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnsoap/html/stkmigration.asp msdn.microsoft.com]",
+      "id": "0ccbd2321446c972002dc93c67241e8c"
+    },
+    {
+      "type": "html",
+      "text": " \"SOAP Toolkit support will be retired in April 2005.\" from MS download webpage checked on 6 Apr05. Is it for real soon?",
+      "id": "d8dea8ee3fda7a330e60fead68dc4dcc"
+    },
+    {
+      "type": "html",
+      "text": " Anyone can tell me merits \"document mode\" vs \"RPC mode\" of [[Soap Toolkit]]? ([http://sys-con.com/story/?storyid=48934&DE=1 sys-con.com] ) <- A [[Dot Net]] article drew my attention to the \"modes\" of toolkit based webservices-- [[David Liu]]",
+      "id": "48f2c591f61c43c2dda98b55ea26f79b"
+    },
+    {
+      "type": "html",
+      "text": " A colleague of mine said there were <i>problems in a [[Web Service]] using [[Soap Toolkit]] to get more than 1 datatype at once</i>, and that webservice would probably be orchestrated thru a [[Web Methods]] integrator intermediary. Any comments on what seems to be an unlikely restriction? BTW the server is a stored proc in [[Big Blue]] [[Db Two]], whereas the client is a [[Active Server Pages]] (ASP) based [[Web Application]].",
+      "id": "6a702c196fefac7f1e4b9ab5c91d5a02"
+    },
+    {
+      "type": "html",
+      "text": "\nThanks for help -- [[David Liu]]",
+      "id": "5902acf3352ebf760469fbd2f5a18abc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+    },
+    {
+      "type": "html",
+      "text": "<b>Good news seen at end June 2004</b> from [http://msdn.microsoft.com/webservices/building/soaptk/ msdn.microsoft.com]",
+      "id": "8f86b6ab9db4cebaff30f97f367c1d77"
+    },
+    {
+      "type": "html",
+      "text": "<i>...The Microsoft SOAP Toolkit is deprecated by the .NET Framework. The toolkit provides basic Web services capabilities for COM components and applications. SOAP Toolkit support has been extended from the originally posted July 1, 2004 deadline. Mainstream SOAP Toolkit support will now be retired in April 2005 with extended support lasting until April 2008. ...</i>",
+      "id": "80283fb690f1b48bcdb2a05578b25e64"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+    },
+    {
+      "type": "html",
+      "text": "<b>Limitations</b>\nAs expected, Microsoft is not helping people who are still using the [[Soap Toolkit]] as it does not help the adoption of [[Dot Net]] platform. See for example \n[http://support.microsoft.com/?id=811215 support.microsoft.com]",
+      "id": "0234582f964be9220308ffc3624e5a30"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+    },
+    {
+      "type": "html",
+      "text": "<b>Resources</b>",
+      "id": "1f459f6d0757bce7f9696f78aeaba348"
+    },
+    {
+      "type": "html",
+      "text": " Soap messages and [[Activex Data Object]] passing [http://msdn.microsoft.com/archive/default.asp?url=/archive/en-us/dnarxml/html/soapguide_ado.asp msdn.microsoft.com]",
+      "id": "89e92a850de4b051cf1f5c12e4450923"
+    },
+    {
+      "type": "html",
+      "text": " comparison between MS [[Soap Toolkit]] and [[Ibm Corporation]] offering in 2000 [http://windows.oreilly.com/news/soapreview_0600.html windows.oreilly.com], and an update few months later at [http://windows.oreilly.com/news/soap_0800.html windows.oreilly.com]",
+      "id": "ae6fa96e7bf088f4a2226d325cf1f075"
+    },
+    {
+      "type": "html",
+      "text": " Information on evolution of [[Soap Toolkit]] and related mechanisms (till version 2) at [http://www.topxml.com/soap/articles/tk2/ www.topxml.com]",
+      "id": "d0f30a0a13e7723808fb5582bb844aea"
+    },
+    {
+      "type": "html",
+      "text": " example implementation at [http://visualbasic.about.com/library/bllvb-6a.htm?once=true& visualbasic.about.com]",
+      "id": "4fd95d1a1ce476724a3522ba6ed420ec"
+    },
+    {
+      "type": "html",
+      "text": " MS slides (2002) on [[Vb Classic]] [[Web Services]] (via ROPE proxy) at [http://support.microsoft.com/servicedesks/webcasts/wc122100/WC122100.ppt support.microsoft.com]",
+      "id": "45a441a1562df631d21902eb3fce19b9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+    },
+    {
+      "type": "html",
+      "text": "Presumably the current (Jul2004) target for migration of [[Soap Toolkit]] is [[Web Services]] Enhancements 2.0.",
+      "id": "49d29a8707a2cea49532e508f38469d0"
+    },
+    {
+      "type": "html",
+      "text": "\nAnyone come across articles on tips and specific changes for such.. undertaking? How about sharing some insights from those of us lucky enough to have undergone similar exercies?",
+      "id": "59c97a09621003e0158939d17b6c1999"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Microsoft]]",
+      "id": "fdf482d5355a20dee2622c4446b26aba"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SoapToolkit c2.com]",
+      "id": "e00d0864a1fe84affcc751338903c344"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1134907288000,
+      "id": "d55223f697efb9a488693182771e122d",
+      "type": "create",
+      "item": {
+        "title": "Soap Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Soap Toolkit]] is a series of interim [[Web Services]] offering, free from [[Microsoft Corporation]], to entice larger companies to embrace a web centric computing paradigm.",
+            "id": "a172e0f2cf01885c567d75ee89842218"
+          },
+          {
+            "type": "html",
+            "text": "\nThat was before the days of grave concern over security over internet. Currently I have seen an article where it was said Microsoft itself gets 6 million spams, out of 7 million email traffic.",
+            "id": "73a10ec3e7ac038b145673f9e64870f7"
+          },
+          {
+            "type": "html",
+            "text": " <i>I cannot help but think how much wastage in bandwidth is needed to get the real signals through</i>",
+            "id": "d8f6b4d506511a4477ba8e3a34903988"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Soap Toolkit]] expiry date of end June2004 has been extended to April 2005. Transition to [[Dot Net]] article from MS can be found at [http://msdn.microsoft.com/webservices/default.aspx?pull=/library/en-us/dnsoap/html/stkmigration.asp msdn.microsoft.com]",
+            "id": "0ccbd2321446c972002dc93c67241e8c"
+          },
+          {
+            "type": "html",
+            "text": " \"SOAP Toolkit support will be retired in April 2005.\" from MS download webpage checked on 6 Apr05. Is it for real soon?",
+            "id": "d8dea8ee3fda7a330e60fead68dc4dcc"
+          },
+          {
+            "type": "html",
+            "text": " Anyone can tell me merits \"document mode\" vs \"RPC mode\" of [[Soap Toolkit]]? ([http://sys-con.com/story/?storyid=48934&DE=1 sys-con.com] ) <- A [[Dot Net]] article drew my attention to the \"modes\" of toolkit based webservices-- [[David Liu]]",
+            "id": "48f2c591f61c43c2dda98b55ea26f79b"
+          },
+          {
+            "type": "html",
+            "text": " A colleague of mine said there were <i>problems in a [[Web Service]] using [[Soap Toolkit]] to get more than 1 datatype at once</i>, and that webservice would probably be orchestrated thru a [[Web Methods]] integrator intermediary. Any comments on what seems to be an unlikely restriction? BTW the server is a stored proc in [[Big Blue]] [[Db Two]], whereas the client is a [[Active Server Pages]] (ASP) based [[Web Application]].",
+            "id": "6a702c196fefac7f1e4b9ab5c91d5a02"
+          },
+          {
+            "type": "html",
+            "text": "\nThanks for help -- [[David Liu]]",
+            "id": "5902acf3352ebf760469fbd2f5a18abc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+          },
+          {
+            "type": "html",
+            "text": "<b>Good news seen at end June 2004</b> from [http://msdn.microsoft.com/webservices/building/soaptk/ msdn.microsoft.com]",
+            "id": "8f86b6ab9db4cebaff30f97f367c1d77"
+          },
+          {
+            "type": "html",
+            "text": "<i>...The Microsoft SOAP Toolkit is deprecated by the .NET Framework. The toolkit provides basic Web services capabilities for COM components and applications. SOAP Toolkit support has been extended from the originally posted July 1, 2004 deadline. Mainstream SOAP Toolkit support will now be retired in April 2005 with extended support lasting until April 2008. ...</i>",
+            "id": "80283fb690f1b48bcdb2a05578b25e64"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+          },
+          {
+            "type": "html",
+            "text": "<b>Limitations</b>\nAs expected, Microsoft is not helping people who are still using the [[Soap Toolkit]] as it does not help the adoption of [[Dot Net]] platform. See for example \n[http://support.microsoft.com/?id=811215 support.microsoft.com]",
+            "id": "0234582f964be9220308ffc3624e5a30"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+          },
+          {
+            "type": "html",
+            "text": "<b>Resources</b>",
+            "id": "1f459f6d0757bce7f9696f78aeaba348"
+          },
+          {
+            "type": "html",
+            "text": " Soap messages and [[Activex Data Object]] passing [http://msdn.microsoft.com/archive/default.asp?url=/archive/en-us/dnarxml/html/soapguide_ado.asp msdn.microsoft.com]",
+            "id": "89e92a850de4b051cf1f5c12e4450923"
+          },
+          {
+            "type": "html",
+            "text": " comparison between MS [[Soap Toolkit]] and [[Ibm Corporation]] offering in 2000 [http://windows.oreilly.com/news/soapreview_0600.html windows.oreilly.com], and an update few months later at [http://windows.oreilly.com/news/soap_0800.html windows.oreilly.com]",
+            "id": "ae6fa96e7bf088f4a2226d325cf1f075"
+          },
+          {
+            "type": "html",
+            "text": " Information on evolution of [[Soap Toolkit]] and related mechanisms (till version 2) at [http://www.topxml.com/soap/articles/tk2/ www.topxml.com]",
+            "id": "d0f30a0a13e7723808fb5582bb844aea"
+          },
+          {
+            "type": "html",
+            "text": " example implementation at [http://visualbasic.about.com/library/bllvb-6a.htm?once=true& visualbasic.about.com]",
+            "id": "4fd95d1a1ce476724a3522ba6ed420ec"
+          },
+          {
+            "type": "html",
+            "text": " MS slides (2002) on [[Vb Classic]] [[Web Services]] (via ROPE proxy) at [http://support.microsoft.com/servicedesks/webcasts/wc122100/WC122100.ppt support.microsoft.com]",
+            "id": "45a441a1562df631d21902eb3fce19b9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+          },
+          {
+            "type": "html",
+            "text": "Presumably the current (Jul2004) target for migration of [[Soap Toolkit]] is [[Web Services]] Enhancements 2.0.",
+            "id": "49d29a8707a2cea49532e508f38469d0"
+          },
+          {
+            "type": "html",
+            "text": "\nAnyone come across articles on tips and specific changes for such.. undertaking? How about sharing some insights from those of us lucky enough to have undergone similar exercies?",
+            "id": "59c97a09621003e0158939d17b6c1999"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7b452efb240249fd1f6c0a0e5bd21a06"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Microsoft]]",
+            "id": "fdf482d5355a20dee2622c4446b26aba"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SoapToolkit c2.com]",
+            "id": "e00d0864a1fe84affcc751338903c344"
+          }
+        ]
+      }
+    }
+  ]
+}
