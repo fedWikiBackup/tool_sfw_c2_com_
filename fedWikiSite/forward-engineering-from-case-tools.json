@@ -1,0 +1,167 @@
+{
+  "title": "Forward Engineering From Case Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "In regards to [[The Value Of Domain Models]], [[Richard Henderson]] wrote:",
+      "id": "6afa7e15c639a5f02a078780ddb695e4"
+    },
+    {
+      "type": "html",
+      "text": "<i>I have a problem with people using the logical domain model as the sole driver of the implementation (top-down only programming). The model rarely considers implementation issues that might affect it. Thus these are often produced at the end after the original has been hacked up to match what actually worked. -- [[Richard Henderson]].</i>",
+      "id": "8f3848a8ec0ae0dea7056ddd8a03597c"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm not a fan of forward-engineering from a CASE tool either. What has worked for me in practice is to scratch out a quick class diagram on a whiteboard (preferably a writeboard), just so you can work out the right names for the abstractions, and their relationships to other abstractions, and maybe important attributes and responsibilities, and then go off and code them. Of course they adjust themselves over time - responsibilities move around as use cases are implemented, new relationships appear, etc. If somebody wants to know, after the fact, how the thing is put together, then it can be reverse-engineered with Together/J or something.",
+      "id": "fadd1e4812ba029da40742cb5fbe9bde"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "18f25015db00339c0918765f026fa074"
+    },
+    {
+      "type": "html",
+      "text": "\nI have also a problem with people with a top-down approach. I hate CASE tools, I like white boards, and I like papers and pens (I mean real pens not the ballpoint kind of). I need to know of a sketch before I start coding. The sketch can be even in my mind.",
+      "id": "2e83cada34d16f6502ec1839599d0fca"
+    },
+    {
+      "type": "html",
+      "text": "\nWhat I hate about CASE tools and their idea of object models is that they lead me to a <i>fill in the method body and you're done approach</i>. I don't know, maybe my experiences with CASE tools were limited, and the first impression was bad. The only good impression was that TogetherC++ is quite very capable of reverse engineering.",
+      "id": "46fb4e3dcb8fe21d0a60680773a74a70"
+    },
+    {
+      "type": "html",
+      "text": "\nThe big problem with CASE tools and with UMLs is that they don't support <i>relations</i>, the minute I draw a link from one class to another, it starts buzzing me (association, composition, aggregation ?? association as private field, association as java.util.Vector, association as array, association as ...), I can't just tell the guy to shut up, <i>It's a relation, OK? I'll figure out later, maybe I have a key and I'll make the connection through a cache engine or something.</i>. <i>No, sorry, you can't do that buddy, you have to tell us what it is and make sure it's written in stone. Make sure it's not something like Parent Children.getParent(), because we cannot make the distinction between a method that creates a new object, and a method that makes the connection with an existing one - revealing an implicit relation, make sure you have a pointer or an array of pointers or something that we do understand (like Java Standard Collections or C++ STL)</i>.",
+      "id": "5a7e7e6273c936e8ae9883abeaf609c7"
+    },
+    {
+      "type": "html",
+      "text": "\nWhy the heck can't I have something like an Abstract Class Diagram, is there something that I don't understand, or am I limited by my terrible prejudices against UML, why do I have to operate on a domain model (as far as I understand class diagrams are the closest thing to <i>describing</i> a domain model) -- [[Costin Cozianu]]",
+      "id": "420ac9878a91d5a182b81502da1a2247"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "18f25015db00339c0918765f026fa074"
+    },
+    {
+      "type": "html",
+      "text": "\nCostin, I'd be interested in your thoughts on [[Martin Fowler]]'s discussion of \"perspectives\" on domain modeling in [[Uml Distilled]]. I think what he describes as the \"conceptual perspective\" is what you mean by an \"abstract class diagram\". To Smalltalkers, the term \"domain model\" has historically meant an \"implementation perspective\" domain model - namely, code - of classes - like Person, Employee, etc. - and not, necessarily, a class diagram. -- [[Randy Stafford]]",
+      "id": "c0a3f8700f8486709d92d640028fd37f"
+    },
+    {
+      "type": "html",
+      "text": "\nI'll try to get a hold of the book, though in my nearest bookstores I couldn't find it, therefore I couldn't submitted it to my [[Book Test Unit]], I'll keep trying though. I don't like class diagrams either, since they don't offer me much more than what I can express in any decent IDE through writing code. Sometimes is important to have a higher abstraction, before you start coding, therefore I do sketches on paper, it's a lot faster than using any UML tool. With that abstraction in mind, I do just in time design, I choose the best solution that look fit to me, the minute I have to type the code.",
+      "id": "14695d61b235127d9269232363511d02"
+    },
+    {
+      "type": "html",
+      "text": "\nI have and I liked [[Martin Fowler]]'s [[Analysis Patterns]]. Although the book is very good I was a bit disappointed when I found the discussion extended too much from analysis to design to implementation, without any caution from the author. An expert reader should have no problem to distinguish between the different levels, but a beginner will have problems identifying where analysis ends and where it begins.",
+      "id": "c23564a02e62d424d0070fd366b092bc"
+    },
+    {
+      "type": "html",
+      "text": "\nWhy I think an <i>implementation perspective</i> is too close for defining a domain model? Sometimes, because the lower level of abstraction (<i>should I use a Vector, or a Hashmap, etc ?</i>...) you don't get to see the forest, because you only see the trees. For example when I was in the eighth grade , although I was good at algebra, I could stare for hours trying to decompose a polynomial like: <i>X^4+16</i>, because I didn't have a larger perspective, I didn't know complex numbers, I was too close to my dear real numbers polynomials. Once the perspective gets better the problem is a snap.",
+      "id": "63eb080b5e1c52cd95fa017477b5a8a0"
+    },
+    {
+      "type": "html",
+      "text": "\nThis is not a metaphore, but merely a comparison, so I hope I can get away with it. However, what I described is a repeating pattern in mathematics, a repeating pattern in algorithm construction and analysis: <i>you have to step a little back from the immediate concerns at hand, and have a look at the larger picture</i>. And I found it to be a repeating pattern in my experiences with developing software. - [[Costin Cozianu]]",
+      "id": "5705a77e54091beabb773d18e18cb2f4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ForwardEngineeringFromCaseTools c2.com]",
+      "id": "10ec3396bd247bf87d5f84c0575a772e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1266584406000,
+      "id": "e2f8c0fd9fb7c2be8a242113a60ae2dd",
+      "type": "create",
+      "item": {
+        "title": "Forward Engineering From Case Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "In regards to [[The Value Of Domain Models]], [[Richard Henderson]] wrote:",
+            "id": "6afa7e15c639a5f02a078780ddb695e4"
+          },
+          {
+            "type": "html",
+            "text": "<i>I have a problem with people using the logical domain model as the sole driver of the implementation (top-down only programming). The model rarely considers implementation issues that might affect it. Thus these are often produced at the end after the original has been hacked up to match what actually worked. -- [[Richard Henderson]].</i>",
+            "id": "8f3848a8ec0ae0dea7056ddd8a03597c"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm not a fan of forward-engineering from a CASE tool either. What has worked for me in practice is to scratch out a quick class diagram on a whiteboard (preferably a writeboard), just so you can work out the right names for the abstractions, and their relationships to other abstractions, and maybe important attributes and responsibilities, and then go off and code them. Of course they adjust themselves over time - responsibilities move around as use cases are implemented, new relationships appear, etc. If somebody wants to know, after the fact, how the thing is put together, then it can be reverse-engineered with Together/J or something.",
+            "id": "fadd1e4812ba029da40742cb5fbe9bde"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "18f25015db00339c0918765f026fa074"
+          },
+          {
+            "type": "html",
+            "text": "\nI have also a problem with people with a top-down approach. I hate CASE tools, I like white boards, and I like papers and pens (I mean real pens not the ballpoint kind of). I need to know of a sketch before I start coding. The sketch can be even in my mind.",
+            "id": "2e83cada34d16f6502ec1839599d0fca"
+          },
+          {
+            "type": "html",
+            "text": "\nWhat I hate about CASE tools and their idea of object models is that they lead me to a <i>fill in the method body and you're done approach</i>. I don't know, maybe my experiences with CASE tools were limited, and the first impression was bad. The only good impression was that TogetherC++ is quite very capable of reverse engineering.",
+            "id": "46fb4e3dcb8fe21d0a60680773a74a70"
+          },
+          {
+            "type": "html",
+            "text": "\nThe big problem with CASE tools and with UMLs is that they don't support <i>relations</i>, the minute I draw a link from one class to another, it starts buzzing me (association, composition, aggregation ?? association as private field, association as java.util.Vector, association as array, association as ...), I can't just tell the guy to shut up, <i>It's a relation, OK? I'll figure out later, maybe I have a key and I'll make the connection through a cache engine or something.</i>. <i>No, sorry, you can't do that buddy, you have to tell us what it is and make sure it's written in stone. Make sure it's not something like Parent Children.getParent(), because we cannot make the distinction between a method that creates a new object, and a method that makes the connection with an existing one - revealing an implicit relation, make sure you have a pointer or an array of pointers or something that we do understand (like Java Standard Collections or C++ STL)</i>.",
+            "id": "5a7e7e6273c936e8ae9883abeaf609c7"
+          },
+          {
+            "type": "html",
+            "text": "\nWhy the heck can't I have something like an Abstract Class Diagram, is there something that I don't understand, or am I limited by my terrible prejudices against UML, why do I have to operate on a domain model (as far as I understand class diagrams are the closest thing to <i>describing</i> a domain model) -- [[Costin Cozianu]]",
+            "id": "420ac9878a91d5a182b81502da1a2247"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "18f25015db00339c0918765f026fa074"
+          },
+          {
+            "type": "html",
+            "text": "\nCostin, I'd be interested in your thoughts on [[Martin Fowler]]'s discussion of \"perspectives\" on domain modeling in [[Uml Distilled]]. I think what he describes as the \"conceptual perspective\" is what you mean by an \"abstract class diagram\". To Smalltalkers, the term \"domain model\" has historically meant an \"implementation perspective\" domain model - namely, code - of classes - like Person, Employee, etc. - and not, necessarily, a class diagram. -- [[Randy Stafford]]",
+            "id": "c0a3f8700f8486709d92d640028fd37f"
+          },
+          {
+            "type": "html",
+            "text": "\nI'll try to get a hold of the book, though in my nearest bookstores I couldn't find it, therefore I couldn't submitted it to my [[Book Test Unit]], I'll keep trying though. I don't like class diagrams either, since they don't offer me much more than what I can express in any decent IDE through writing code. Sometimes is important to have a higher abstraction, before you start coding, therefore I do sketches on paper, it's a lot faster than using any UML tool. With that abstraction in mind, I do just in time design, I choose the best solution that look fit to me, the minute I have to type the code.",
+            "id": "14695d61b235127d9269232363511d02"
+          },
+          {
+            "type": "html",
+            "text": "\nI have and I liked [[Martin Fowler]]'s [[Analysis Patterns]]. Although the book is very good I was a bit disappointed when I found the discussion extended too much from analysis to design to implementation, without any caution from the author. An expert reader should have no problem to distinguish between the different levels, but a beginner will have problems identifying where analysis ends and where it begins.",
+            "id": "c23564a02e62d424d0070fd366b092bc"
+          },
+          {
+            "type": "html",
+            "text": "\nWhy I think an <i>implementation perspective</i> is too close for defining a domain model? Sometimes, because the lower level of abstraction (<i>should I use a Vector, or a Hashmap, etc ?</i>...) you don't get to see the forest, because you only see the trees. For example when I was in the eighth grade , although I was good at algebra, I could stare for hours trying to decompose a polynomial like: <i>X^4+16</i>, because I didn't have a larger perspective, I didn't know complex numbers, I was too close to my dear real numbers polynomials. Once the perspective gets better the problem is a snap.",
+            "id": "63eb080b5e1c52cd95fa017477b5a8a0"
+          },
+          {
+            "type": "html",
+            "text": "\nThis is not a metaphore, but merely a comparison, so I hope I can get away with it. However, what I described is a repeating pattern in mathematics, a repeating pattern in algorithm construction and analysis: <i>you have to step a little back from the immediate concerns at hand, and have a look at the larger picture</i>. And I found it to be a repeating pattern in my experiences with developing software. - [[Costin Cozianu]]",
+            "id": "5705a77e54091beabb773d18e18cb2f4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ForwardEngineeringFromCaseTools c2.com]",
+            "id": "10ec3396bd247bf87d5f84c0575a772e"
+          }
+        ]
+      }
+    }
+  ]
+}
