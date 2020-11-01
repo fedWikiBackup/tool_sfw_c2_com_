@@ -1,0 +1,227 @@
+{
+  "title": "Ecommerce Wiki Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Suggested features for an [[Ecommerce Wiki]]:",
+      "id": "6410f8cbdf38a46885dbfeaf2a2eef7e"
+    },
+    {
+      "type": "html",
+      "text": " Several Protection Levels  <i>psw for product description, sell links</i>",
+      "id": "a30f362d8f2059c90047f2c6f90508c4"
+    },
+    {
+      "type": "html",
+      "text": " Payment Transaction Processing",
+      "id": "63c3b1da92b55be60d022fad8d8c194f"
+    },
+    {
+      "type": "html",
+      "text": " [[Multi Use Wiki Page]] Support mechanisms",
+      "id": "aea7bdd0cfb5849de927f2a1984e038f"
+    },
+    {
+      "type": "html",
+      "text": "\nSee [[Web Author]] copyright link for legal copying.",
+      "id": "ea7a6feb846eb6ca0b4c4412078d0eb6"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Fridemar Pache]]",
+      "id": "001f844663a758da6a16bd550a98cd6b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7fb029b92cfc9189e1ae3f3b81466518"
+    },
+    {
+      "type": "html",
+      "text": "\nThe significant problem for [[Inter Wiki]] page exchange: different wikis\nhave different page naming schemes.",
+      "id": "e944a6ae69a9d0f3f784750e6b949921"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7fb029b92cfc9189e1ae3f3b81466518"
+    },
+    {
+      "type": "html",
+      "text": "From [[Ecommerce Wiki]]",
+      "id": "bed5298eb1dd9e3b94e79737edc71a43"
+    },
+    {
+      "type": "html",
+      "text": "\nYou'll need a way of resolving and mapping between different\n[[Wiki Names]]. Page names are chosen by people, and refer to \nthe content so it's going to be hard to do this mapping automatically\nand predictably. You probably need something like [[Lotus Notes]] to\ndo the above in a reasonable fashion... (and that probably means slackening\nthe relationship between title, URL, and page identity).",
+      "id": "c4654bf8bed84dae2b5af0c9463603fc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7fb029b92cfc9189e1ae3f3b81466518"
+    },
+    {
+      "type": "html",
+      "text": "At the end of it all, every wiki is just data.  Thus for page exchange each wiki should present an API to allow submitting and retrieving pages.  A pure HTTP or DCOM implementation of this would be, I would think, trivial.  -- [[Steven Black]]",
+      "id": "4506f0398c27becb8ae1d8bd137fd6ce"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7fb029b92cfc9189e1ae3f3b81466518"
+    },
+    {
+      "type": "html",
+      "text": "Thank you for your hints. Perhaps a similar Turnkey Wiki system already exists. Please have a look in [[Web Web Two]], where I wrote a public letter to [[Joe Mc Mahon]].\nUnfortunately his download link and his workaddress there were unavailable. \nAlthough it would be nice, to have the 'pagename problem' for Inter Wiki transfer resolved, I could live without solution of this problem at moment.\nHighest priority at moment for me: ",
+      "id": "a983b01084cfc1187ffe92213265c006"
+    },
+    {
+      "type": "html",
+      "text": " Easy installation in one perl cgi-enabled directory on the free [http://www.hypermart.net www.hypermart.net] without server-site administration support",
+      "id": "4a5bf7181d4c5808600965e4ca9f2e46"
+    },
+    {
+      "type": "html",
+      "text": " Protection mechanism <i>as described in [[Web Web Two]]</i>",
+      "id": "69fccf856f30424bb634cbf20e5abb46"
+    },
+    {
+      "type": "html",
+      "text": " Creditcard option <i>integrating a creditcard verifier module:<br>ccver.pl</i>",
+      "id": "0f5906c13819c1f3fe16c73c6739bbe1"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Fridemar Pache]]",
+      "id": "001f844663a758da6a16bd550a98cd6b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7fb029b92cfc9189e1ae3f3b81466518"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?EcommerceWikiTools c2.com]",
+      "id": "1a862b00c0a7e4543ac0ec14788b7831"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1334097080000,
+      "id": "fa2a082fed2966b8ffdae47da21463e8",
+      "type": "create",
+      "item": {
+        "title": "Ecommerce Wiki Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Suggested features for an [[Ecommerce Wiki]]:",
+            "id": "6410f8cbdf38a46885dbfeaf2a2eef7e"
+          },
+          {
+            "type": "html",
+            "text": " Several Protection Levels  <i>psw for product description, sell links</i>",
+            "id": "a30f362d8f2059c90047f2c6f90508c4"
+          },
+          {
+            "type": "html",
+            "text": " Payment Transaction Processing",
+            "id": "63c3b1da92b55be60d022fad8d8c194f"
+          },
+          {
+            "type": "html",
+            "text": " [[Multi Use Wiki Page]] Support mechanisms",
+            "id": "aea7bdd0cfb5849de927f2a1984e038f"
+          },
+          {
+            "type": "html",
+            "text": "\nSee [[Web Author]] copyright link for legal copying.",
+            "id": "ea7a6feb846eb6ca0b4c4412078d0eb6"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Fridemar Pache]]",
+            "id": "001f844663a758da6a16bd550a98cd6b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7fb029b92cfc9189e1ae3f3b81466518"
+          },
+          {
+            "type": "html",
+            "text": "\nThe significant problem for [[Inter Wiki]] page exchange: different wikis\nhave different page naming schemes.",
+            "id": "e944a6ae69a9d0f3f784750e6b949921"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7fb029b92cfc9189e1ae3f3b81466518"
+          },
+          {
+            "type": "html",
+            "text": "From [[Ecommerce Wiki]]",
+            "id": "bed5298eb1dd9e3b94e79737edc71a43"
+          },
+          {
+            "type": "html",
+            "text": "\nYou'll need a way of resolving and mapping between different\n[[Wiki Names]]. Page names are chosen by people, and refer to \nthe content so it's going to be hard to do this mapping automatically\nand predictably. You probably need something like [[Lotus Notes]] to\ndo the above in a reasonable fashion... (and that probably means slackening\nthe relationship between title, URL, and page identity).",
+            "id": "c4654bf8bed84dae2b5af0c9463603fc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7fb029b92cfc9189e1ae3f3b81466518"
+          },
+          {
+            "type": "html",
+            "text": "At the end of it all, every wiki is just data.  Thus for page exchange each wiki should present an API to allow submitting and retrieving pages.  A pure HTTP or DCOM implementation of this would be, I would think, trivial.  -- [[Steven Black]]",
+            "id": "4506f0398c27becb8ae1d8bd137fd6ce"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7fb029b92cfc9189e1ae3f3b81466518"
+          },
+          {
+            "type": "html",
+            "text": "Thank you for your hints. Perhaps a similar Turnkey Wiki system already exists. Please have a look in [[Web Web Two]], where I wrote a public letter to [[Joe Mc Mahon]].\nUnfortunately his download link and his workaddress there were unavailable. \nAlthough it would be nice, to have the 'pagename problem' for Inter Wiki transfer resolved, I could live without solution of this problem at moment.\nHighest priority at moment for me: ",
+            "id": "a983b01084cfc1187ffe92213265c006"
+          },
+          {
+            "type": "html",
+            "text": " Easy installation in one perl cgi-enabled directory on the free [http://www.hypermart.net www.hypermart.net] without server-site administration support",
+            "id": "4a5bf7181d4c5808600965e4ca9f2e46"
+          },
+          {
+            "type": "html",
+            "text": " Protection mechanism <i>as described in [[Web Web Two]]</i>",
+            "id": "69fccf856f30424bb634cbf20e5abb46"
+          },
+          {
+            "type": "html",
+            "text": " Creditcard option <i>integrating a creditcard verifier module:<br>ccver.pl</i>",
+            "id": "0f5906c13819c1f3fe16c73c6739bbe1"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Fridemar Pache]]",
+            "id": "001f844663a758da6a16bd550a98cd6b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7fb029b92cfc9189e1ae3f3b81466518"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?EcommerceWikiTools c2.com]",
+            "id": "1a862b00c0a7e4543ac0ec14788b7831"
+          }
+        ]
+      }
+    }
+  ]
+}
