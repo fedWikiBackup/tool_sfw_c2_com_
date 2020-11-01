@@ -1,0 +1,37 @@
+{
+  "title": "Database Refactoring Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "See [[Database Refactoring Tools]]",
+      "id": "42038e6e6b493e60ece98563fbcdbe38"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?DatabaseRefactoringTool c2.com]",
+      "id": "674e5daed42c2f166a45897bc22b72eb"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1208035361000,
+      "id": "97a735b68f2957a5b4d773ed5780c467",
+      "type": "create",
+      "item": {
+        "title": "Database Refactoring Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "See [[Database Refactoring Tools]]",
+            "id": "42038e6e6b493e60ece98563fbcdbe38"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?DatabaseRefactoringTool c2.com]",
+            "id": "674e5daed42c2f166a45897bc22b72eb"
+          }
+        ]
+      }
+    }
+  ]
+}
