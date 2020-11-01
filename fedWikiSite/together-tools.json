@@ -1,0 +1,37 @@
+{
+  "title": "Together Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Products by [[Together Soft]]; currently the main one is [[Together Control Center]], an IDE which through the clever use of hidden side information can generate UML diagrams from code and vice versa, and reflect updates in one view into the other. See [[Together Java]], [[Together Jtool]] and various UML-related pages for a discussion of its quality and merits.",
+      "id": "13fa53a7476fb6192a7a49bf0e0f786b"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TogetherTools c2.com]",
+      "id": "54cc63331f9ede9bee6d7aee6b8f05b3"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1012212473000,
+      "id": "3274f570e8406a85cf2aedf9f7f9b43c",
+      "type": "create",
+      "item": {
+        "title": "Together Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Products by [[Together Soft]]; currently the main one is [[Together Control Center]], an IDE which through the clever use of hidden side information can generate UML diagrams from code and vice versa, and reflect updates in one view into the other. See [[Together Java]], [[Together Jtool]] and various UML-related pages for a discussion of its quality and merits.",
+            "id": "13fa53a7476fb6192a7a49bf0e0f786b"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TogetherTools c2.com]",
+            "id": "54cc63331f9ede9bee6d7aee6b8f05b3"
+          }
+        ]
+      }
+    }
+  ]
+}
