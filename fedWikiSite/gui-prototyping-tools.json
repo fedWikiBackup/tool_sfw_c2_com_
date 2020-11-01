@@ -1,0 +1,4687 @@
+{
+  "title": "Gui Prototyping Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Here is an alphabetical list of tools helping with drawing screen mock-ups.",
+      "id": "4962952ec44b16fcbdbaffadbc77d56e"
+    },
+    {
+      "type": "html",
+      "text": "\n10screens",
+      "id": "e9602025a60433a25793eaf2fae119fd"
+    },
+    {
+      "type": "html",
+      "text": " create and share clickable rich prototypes online, Now free as of July 2012",
+      "id": "6cdb02d32abe9af3ec142b91d1366eea"
+    },
+    {
+      "type": "html",
+      "text": " Allows multi-level drill-down of workflows to screens.",
+      "id": "aad01dd0a0567ea5ed27e3e71346f7a3"
+    },
+    {
+      "type": "html",
+      "text": " Templates for various mobile devices with soft keyboard support",
+      "id": "933cc7777870b7ad76e6f21c12393385"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.10screens.com/ www.10screens.com]",
+      "id": "abdb505d623861c65de2e7705cd39179"
+    },
+    {
+      "type": "html",
+      "text": "\nAdobe Fire<b></b>Works CS4",
+      "id": "22d961fbedddd6f2750d5d42f26e16af"
+    },
+    {
+      "type": "html",
+      "text": " Newly enhanced to provide web site screen design with \"master\" shared parts across screens. Artwork can also be designed and exported using this tool.",
+      "id": "c087c6285abb1ce45251849149fcb3d4"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.adobe.com/products/fireworks/?xNav=WPFW www.adobe.com]",
+      "id": "a2dab9897871ea79d1f1eccb73b0c70a"
+    },
+    {
+      "type": "html",
+      "text": "\nAdobe Flash Catalyst (former Thermo)",
+      "id": "4a9080d377fd9383721e268f4e22aa7b"
+    },
+    {
+      "type": "html",
+      "text": " production-ready version available in April 2010, as part of Adobe CS5",
+      "id": "74ed6bee883157328cc39c1ade4670b4"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, for interaction design",
+      "id": "33ee23aaf2726e74a23d8b5633205a55"
+    },
+    {
+      "type": "html",
+      "text": " create prototypes based on designers work (e.g. photoshop, illustrator files)",
+      "id": "55e0a85b1f4333719e38ff100d3491e2"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.adobe.com/products/flashcatalyst/ www.adobe.com]",
+      "id": "0667c4e6c91f4031501444ae1fe2ec6a"
+    },
+    {
+      "type": "html",
+      "text": "\nAntetype - [http://www.antetype.com www.antetype.com]",
+      "id": "10ec5a0b9a4f30e626e05476760367ef"
+    },
+    {
+      "type": "html",
+      "text": " automatic layout - no more pixel pushing",
+      "id": "c90b860ccebb2cef851bcab7fae8e55f"
+    },
+    {
+      "type": "html",
+      "text": " widget library (400+ pre-made)",
+      "id": "9320b39e05759678a3e727900d693d3f"
+    },
+    {
+      "type": "html",
+      "text": " responsive web design - breakpoints, content wrapping, fluid designs",
+      "id": "241f2af65e7697db8bb0a262fcb1c7f5"
+    },
+    {
+      "type": "html",
+      "text": " interactions - clickthrus, mouse events",
+      "id": "e04fd8227427f596087e46727e5e5e85"
+    },
+    {
+      "type": "html",
+      "text": " wireframes, visual design, prototypes",
+      "id": "7062b6eb1aaff2c446fd0821aafc7c38"
+    },
+    {
+      "type": "html",
+      "text": " iOS Viewer",
+      "id": "26df4c81617813a8739d3646cdb00202"
+    },
+    {
+      "type": "html",
+      "text": " web viewer",
+      "id": "c29273866b5cb3e4826f2b94f7fad9eb"
+    },
+    {
+      "type": "html",
+      "text": " OS X viewer",
+      "id": "d1dd2d3ef397efeaf964286ee812df2c"
+    },
+    {
+      "type": "html",
+      "text": " Mac OS X only",
+      "id": "38b194a3ef76c72416287bfa89c17a55"
+    },
+    {
+      "type": "html",
+      "text": " 30 day free trial - [http://antetype.com/download antetype.com]",
+      "id": "64037e11bf71813f53a44aa59718b3f0"
+    },
+    {
+      "type": "html",
+      "text": " Examples and Inspiration : [http://cotype.antetype.com cotype.antetype.com]",
+      "id": "b66433a615c1ea06358dbe8abb3c9362"
+    },
+    {
+      "type": "html",
+      "text": "\nApp Mockup Tools",
+      "id": "423321eec066765427a07ed0c84a5cbe"
+    },
+    {
+      "type": "html",
+      "text": " Get it now! [http://www.appmockuptools.com www.appmockuptools.com]",
+      "id": "1ef751d6c53dc677d8b2c7cb2fc7b3f3"
+    },
+    {
+      "type": "html",
+      "text": " For easy app wireframing and prototyping of Iphone and iPad Apps",
+      "id": "cf64e3a58c5bb1410892f0381020348d"
+    },
+    {
+      "type": "html",
+      "text": " iOS GUI Element Kits - in wireframe, prototype and custom kits",
+      "id": "61e4e98ac99587f15f12eb73d2ed368d"
+    },
+    {
+      "type": "html",
+      "text": " Hundreds of pre-designed fully editable iOS GUI elements",
+      "id": "a2f0a57a55c4b24300773dcd0626bca7"
+    },
+    {
+      "type": "html",
+      "text": " Create interactive clickable app prototypes and wireframes by copy and pasting",
+      "id": "a6877e945e42663ba78eeadc72e55746"
+    },
+    {
+      "type": "html",
+      "text": " No coding required. Easy and fast.",
+      "id": "4d3e1123ccd0a8152cbe20f3b3679e30"
+    },
+    {
+      "type": "html",
+      "text": " Use within Apple Keynote",
+      "id": "fe54b31b3578b70bde958bb73d99c192"
+    },
+    {
+      "type": "html",
+      "text": " Share your prototypes or present to your client",
+      "id": "0db99bc7cf91056cb585c6b0353349fe"
+    },
+    {
+      "type": "html",
+      "text": " App Sketchpads to sketch you app ideas - Printable PDF download",
+      "id": "036814b007f7bcea9d977f548c0411b7"
+    },
+    {
+      "type": "html",
+      "text": " No monthly fees",
+      "id": "6cf49e2d251f2f582c2259025f50222f"
+    },
+    {
+      "type": "html",
+      "text": " More info! [http://www.appmockuptools.com www.appmockuptools.com]",
+      "id": "096748f670dc3360947eb5dd3d688360"
+    },
+    {
+      "type": "html",
+      "text": "\nApp Sketcher",
+      "id": "072b85129fdc941ac4f3a5da2c444bfa"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial",
+      "id": "0a187c825915a0971a448a32b8a9752f"
+    },
+    {
+      "type": "html",
+      "text": " creates interactive web prototypes using HTML and jQuery components without coding",
+      "id": "87210f309ff38514bbadfef29a2c1d8a"
+    },
+    {
+      "type": "html",
+      "text": " makes your ideas real and tangible for clients in minutes",
+      "id": "6222b17bac7393e53484f95cb173d757"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.appsketcher.com www.appsketcher.com]",
+      "id": "846ddeac41cda71d8e7b10f20ddb1c44"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Auto It]]",
+      "id": "bc5ab506529b47d6666700a147879ac9"
+    },
+    {
+      "type": "html",
+      "text": " Makes claims to be a GUI RAD tool. It's primarily a GUI \"movement\" script system to automate repetitive GUI tasks, but also has GUI building abilities.",
+      "id": "54c34bf99375f3995538330dd912810a"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.autoitscript.com/ www.autoitscript.com]",
+      "id": "1edecc292f652f851039d562bdbb8f38"
+    },
+    {
+      "type": "html",
+      "text": " Not data-driven [[Out Of The Box]], but its good file handling capabilities make it programmable.",
+      "id": "ba1e328bfe6abe518254c3de1c4eb9db"
+    },
+    {
+      "type": "html",
+      "text": " Here is one way to make it data-driven: Write an interpreter in [[Auto It]]. The interpreter interprets a text file of custom commands. The text file can be output from a database, and/or manually edited.",
+      "id": "c0cb81df2c2acb0bf3d7fa76fa920801"
+    },
+    {
+      "type": "html",
+      "text": "\nAxure",
+      "id": "1180d68a26190abf917857a2f13245bf"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial - expensive $$$",
+      "id": "789d7924660cb09faf6c550869e8ef07"
+    },
+    {
+      "type": "html",
+      "text": " full-featured, mature desktop application",
+      "id": "a6bc6a7c3c4d033e82ddb8a76543e83b"
+    },
+    {
+      "type": "html",
+      "text": " create wireframes, prototypes, and specifications for applications and web sites",
+      "id": "07e6e7621acc1f13686c098c8c9a3ba7"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.axure.com/Default.aspx www.axure.com]",
+      "id": "cc63708cf782ef183cb630f550ca9340"
+    },
+    {
+      "type": "html",
+      "text": "\nBalsamiq Mockups",
+      "id": "4bd429334b4b46be00aef13671419aaa"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial - $$",
+      "id": "f36a41a14781e64398b11016b281e391"
+    },
+    {
+      "type": "html",
+      "text": " creates high level mockups in a \"hand drawn\" style",
+      "id": "3ba6738f8ae1918900419dd4a7ff7edb"
+    },
+    {
+      "type": "html",
+      "text": " Cross platform and integrative (for Confluence, JIRA, XWiki)",
+      "id": "b51920b04a406c820a942ae6986be05d"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.balsamiq.com/products/mockups/desktop www.balsamiq.com]",
+      "id": "7b2551aadf7899d6f1fe8a76226c6d13"
+    },
+    {
+      "type": "html",
+      "text": "\nNinjamock",
+      "id": "18f3ce2b907949a674a9e05648a1e5b2"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, free for non commercial use, commercial - $$",
+      "id": "b399375f5cb327b7f12821ae359d20c7"
+    },
+    {
+      "type": "html",
+      "text": " creates high level mockups in a \"hand drawn\" style",
+      "id": "3ba6738f8ae1918900419dd4a7ff7edb"
+    },
+    {
+      "type": "html",
+      "text": " HTML5 web based, running on all platforms",
+      "id": "f658a80b6f8376ddee05189e0dc508d0"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.ninjamock.com www.ninjamock.com]",
+      "id": "d6817ae7e397cc830cde63a897fec13a"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://concept.ly concept.ly]",
+      "id": "eeedacc4f7af3c90a14e04eac3124828"
+    },
+    {
+      "type": "html",
+      "text": " Free prototyping tool.",
+      "id": "cf99be9c6094ede344f9a6cb595e2733"
+    },
+    {
+      "type": "html",
+      "text": "\nBlueprint",
+      "id": "7d8f02e71464cb3363cff6f7e67dd1fe"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial - $$",
+      "id": "f36a41a14781e64398b11016b281e391"
+    },
+    {
+      "type": "html",
+      "text": " works on iPad",
+      "id": "121e60680119c7c8794ee91e4d833d89"
+    },
+    {
+      "type": "html",
+      "text": " iPhone(or iPad) UI design application",
+      "id": "402555f263bb9783771e87a98bd7673b"
+    },
+    {
+      "type": "html",
+      "text": " simple drag&drop interface",
+      "id": "240072f68e9e867351ea2679c447b302"
+    },
+    {
+      "type": "html",
+      "text": " [[App Store]] link:[http://itunes.apple.com/us/app/blueprint/id405203705?mt=8 itunes.apple.com]",
+      "id": "233f002de0262a0c50fd3e96b3f2d772"
+    },
+    {
+      "type": "html",
+      "text": " Homepage:[http://www.groosoft.com/2010/12/blueprint-video-tutorial.html www.groosoft.com]",
+      "id": "ba199d5f08bc06d27f98fec0b9fb2c20"
+    },
+    {
+      "type": "html",
+      "text": "\nCreately",
+      "id": "17bc2a60610986e6cb6af52b63185cfa"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, free w/ watermark & other limitations or monthly usage fee - $/$$",
+      "id": "9a889aaf0e6f111758f719c4ca3a4549"
+    },
+    {
+      "type": "html",
+      "text": " creates diagrams, wireframes, web and desktop UI mockups",
+      "id": "df4b474889139736fb10d7e49be94be7"
+    },
+    {
+      "type": "html",
+      "text": " has collaboration features and contextual toolbars",
+      "id": "7d0ab58539419bb4955b4bf89d51b606"
+    },
+    {
+      "type": "html",
+      "text": " Online Adobe Flash-based application",
+      "id": "cfa40f229a18bfc47183899c79b8a5a1"
+    },
+    {
+      "type": "html",
+      "text": " [http://creately.com/ creately.com]",
+      "id": "6914d7c24f775999e8c02c358a4254b8"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Designer Vista]]",
+      "id": "cc737564f63fc7b9f2e28652a6bf84a2"
+    },
+    {
+      "type": "html",
+      "text": " Quick mockup tool to create mockups for desktop applications, websites and mobile applications",
+      "id": "ad8bb85158448fc687aaaf77450db140"
+    },
+    {
+      "type": "html",
+      "text": " Desktop mockup tools: Windows,dialogs,wizards GUI mockups,  Office ribbon applications, .NET, Swing and SWT applications GUI mockups.",
+      "id": "0e0726c5ba212981466802e13c60e660"
+    },
+    {
+      "type": "html",
+      "text": " Website mockup tools: Web pages, forms, navigation panels, web buttons mockup, Silverlight, Sharepoint and YUI web application mockups.",
+      "id": "16c299050a0ba4189202e05cacaf0854"
+    },
+    {
+      "type": "html",
+      "text": " Mobile mockup tools: Blackberry, Android, iPhone,iPad, iPod, Safari and Windows Phone 8 with tablet mockups",
+      "id": "9fb4050dc6bac04a2aa3c4de59981eb0"
+    },
+    {
+      "type": "html",
+      "text": " Mockup themes: Native, Sketch and custom themes",
+      "id": "5b0d04b351ff99baccf19b2faef038c5"
+    },
+    {
+      "type": "html",
+      "text": " UI Spec: Add notes to developers for UI controls and GUI designs",
+      "id": "695f896fd545b9c47cb2c7d8590db154"
+    },
+    {
+      "type": "html",
+      "text": " Export and share mockup designs: Save mockups as image files, PDF, HTML files and share with your clients",
+      "id": "5a1e4f909a913b36082ffcb6359b535b"
+    },
+    {
+      "type": "html",
+      "text": " Click-through prototyping and wireframing ",
+      "id": "da405d034299f3548caf5191f3faf8db"
+    },
+    {
+      "type": "html",
+      "text": " [[Designer Vista]] mockup tool website: [http://www.designervista.com www.designervista.com]",
+      "id": "7eda355c03b5cdbf1de29fa7d830816f"
+    },
+    {
+      "type": "html",
+      "text": "\nDenim",
+      "id": "266c90f18a80b1eb942faab40f838cb0"
+    },
+    {
+      "type": "html",
+      "text": " free, sketching with a light pen",
+      "id": "1d1b8f7f7650da09762708e2d6ed3afc"
+    },
+    {
+      "type": "html",
+      "text": " [http://dub.washington.edu/denim/ dub.washington.edu]",
+      "id": "42127b1afddc693416bad9dd867f8dca"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Easy Prototype]]",
+      "id": "0b7c74ec3e8ba251f6148bbb36c722ed"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial",
+      "id": "0a187c825915a0971a448a32b8a9752f"
+    },
+    {
+      "type": "html",
+      "text": " works with scanned images of sketches",
+      "id": "eec4c269f3dc716a438eb010d3679bd3"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.easyprototype.com www.easyprototype.com]",
+      "id": "4142b04b1bee058097758c302b1e2c11"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Flair Builder]]",
+      "id": "f4df006a98b8d73959da4dac0593e219"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial",
+      "id": "0a187c825915a0971a448a32b8a9752f"
+    },
+    {
+      "type": "html",
+      "text": " creates interactive wireframes for websites and desktop software",
+      "id": "e3ae78f73b15c0c651444b93e85c34a3"
+    },
+    {
+      "type": "html",
+      "text": " cross-platform, runs on Adobe AIR",
+      "id": "8e7bfc53d5d7a478cb1493227fbc5650"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.flairbuilder.com/ www.flairbuilder.com]",
+      "id": "2b092364ea07076ec51c7fa90428adf5"
+    },
+    {
+      "type": "html",
+      "text": "\nFluidIA",
+      "id": "33667f3038e330627a672d503f2ac667"
+    },
+    {
+      "type": "html",
+      "text": " open source & openly designed",
+      "id": "2eb3ae7ed1c3041630ef6ec4af09dfda"
+    },
+    {
+      "type": "html",
+      "text": " agile UI prototyping",
+      "id": "c7fc7b85137a8cc5326395a81ee31986"
+    },
+    {
+      "type": "html",
+      "text": " web based",
+      "id": "ebed93898f875972a6bb710b44dc7761"
+    },
+    {
+      "type": "html",
+      "text": " alpha stage",
+      "id": "0a967de38d10ddc7bc4f20026e55dd68"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.fluidIA.org www.fluidIA.org]",
+      "id": "a56749cdacfd3a68e7e97a80ade7afea"
+    },
+    {
+      "type": "html",
+      "text": "\nFluid UI - Mobile Mockups",
+      "id": "417778fcad4279ea931d4914fe4a96d3"
+    },
+    {
+      "type": "html",
+      "text": " Specialized tool, commercial ",
+      "id": "f6f1446e010987e0c382b5711dc84be9"
+    },
+    {
+      "type": "html",
+      "text": " Custom built for mobile prototyping and wireframing",
+      "id": "4a41cb8bfe1bf765e373c3b80cc5d6f5"
+    },
+    {
+      "type": "html",
+      "text": " Includes touch gestures and animated page transitions",
+      "id": "a5815550f4ef3de8a49a7f18d0516fa3"
+    },
+    {
+      "type": "html",
+      "text": " Create mockups for iPhone and Android, iPad and tablet apps or sites",
+      "id": "72ae93bf996063b3ad81fab31a7fa683"
+    },
+    {
+      "type": "html",
+      "text": " Comprehensive Android, iPhone, iPad and Android tablet UI libraries",
+      "id": "bfe1aa0b53ccaf2ed03dca4949d45bb9"
+    },
+    {
+      "type": "html",
+      "text": " Simple drag and drop operation, visual linking system",
+      "id": "4f53be3e522e4457e2e15bf6bdd2da1f"
+    },
+    {
+      "type": "html",
+      "text": " QR mockups directly to phone for testing, presenting",
+      "id": "935aa9836aa5d50c2443ff3615a227ef"
+    },
+    {
+      "type": "html",
+      "text": " Standalone cross platform HTML5 web interface",
+      "id": "1544c714fb448d5dada7eaa203225f65"
+    },
+    {
+      "type": "html",
+      "text": " Free accounts, monthly subscription, no contract",
+      "id": "3ad29e1a84d3933ad2135236593d552b"
+    },
+    {
+      "type": "html",
+      "text": " Try it now: [http://www.fluidui.com/editor www.fluidui.com] ",
+      "id": "17fec536ab5847bada6762e34f7b8037"
+    },
+    {
+      "type": "html",
+      "text": " More info: [http://www.fluidui.com www.fluidui.com]",
+      "id": "c159cdca5f3ba5cbd6801a80748daf04"
+    },
+    {
+      "type": "html",
+      "text": "\nForeUI",
+      "id": "bf1a7ded5aa8b6ee86df3388ec8dbaf7"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial",
+      "id": "0a187c825915a0971a448a32b8a9752f"
+    },
+    {
+      "type": "html",
+      "text": " easily create interactive prototype for web site or application.",
+      "id": "1e571b32cc5c40d720527b5aab0f7975"
+    },
+    {
+      "type": "html",
+      "text": " support various UI themes: hand drawing, wireframe, Windows XP, Mac OS X and Windows 7",
+      "id": "04728ec945630a8e3fe1b5d2b0ee4e3c"
+    },
+    {
+      "type": "html",
+      "text": " run HTML5 simulation in web browser.",
+      "id": "508febb6acf9e7f942e35dd6e020a43a"
+    },
+    {
+      "type": "html",
+      "text": " prototype can integrate with real web service via JSONP APIs. ",
+      "id": "8f5d5fb9acf4ad2c07c5223d2bd09f1f"
+    },
+    {
+      "type": "html",
+      "text": " customized element and library supported.",
+      "id": "4d7d0847f98c0efb1ccf6293f1b9dc4c"
+    },
+    {
+      "type": "html",
+      "text": " online resource download: [http://www.foreui.com/store/ www.foreui.com]",
+      "id": "ee07f1c5a7484d64e2b74e928786b052"
+    },
+    {
+      "type": "html",
+      "text": " export prototype to images, PDF or DHTML file",
+      "id": "810e8bb91be3a304596d0daafedf1595"
+    },
+    {
+      "type": "html",
+      "text": " cross platform (Windows, Mac OS X, Linux and Solaris)",
+      "id": "0991044acadd83fc25820a475829b23a"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.ForeUI.com www.ForeUI.com]",
+      "id": "c2ed2e207cb4afccb16d9fe9a49809d2"
+    },
+    {
+      "type": "html",
+      "text": "\nGUI Design Studio, by Carreta Software",
+      "id": "02ec46072571630e17e431eb870e51f0"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool",
+      "id": "279a143f60ee57c508263d0c7ec5a9de"
+    },
+    {
+      "type": "html",
+      "text": " expensive $$$",
+      "id": "f036232120e5be03a5b07afc383326c7"
+    },
+    {
+      "type": "html",
+      "text": " visual styles for Windows Vista, XP, NT or low-fidelity outlines + office ribbon bar style interfaces",
+      "id": "da98f324d1d18302899b6df109eaaf9a"
+    },
+    {
+      "type": "html",
+      "text": " connect screens or pages to create interactive prototypes",
+      "id": "3740a200e0d770239c25a377cd89c159"
+    },
+    {
+      "type": "html",
+      "text": " generate HTML, PDF or RTF specification documentation",
+      "id": "9c0b2298917749fcb3bcacbd7629d416"
+    },
+    {
+      "type": "html",
+      "text": " export designs as images to file or clipboard or share projects with a free viewer",
+      "id": "f966ad7d5b7fd6aa4bc38a365f4ac4c9"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.carettasoftware.com www.carettasoftware.com]",
+      "id": "32c4b7e34d71ad665c3095a64657edde"
+    },
+    {
+      "type": "html",
+      "text": "\nGUI Machine, by Alee Software",
+      "id": "8bf9641df5aa7f1fb499f4ff454c1032"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool",
+      "id": "279a143f60ee57c508263d0c7ec5a9de"
+    },
+    {
+      "type": "html",
+      "text": " high-fidelity prototypes of desktop and web applications",
+      "id": "6a7105356d3fd7eadec95b6f7cfc9bf2"
+    },
+    {
+      "type": "html",
+      "text": " create fully interactive prototypes without coding",
+      "id": "507b7f723eb5eada583d4a11d126c8d3"
+    },
+    {
+      "type": "html",
+      "text": " export prototype into ready to lunch application, export screenshots, open projects in free Demo version",
+      "id": "ef6247121eb7eb83ab3583225ef913e9"
+    },
+    {
+      "type": "html",
+      "text": " cross-platform: Windows, Linux, Mac OS",
+      "id": "c1fa6e92e36271dd032ca638b6302ece"
+    },
+    {
+      "type": "html",
+      "text": " [http://gui-machine.com gui-machine.com]",
+      "id": "e7ffd558870767b46c143ba0be9d6221"
+    },
+    {
+      "type": "html",
+      "text": "\nHandcraft",
+      "id": "36a9a7cd67e5f8f1df25d56981f506f7"
+    },
+    {
+      "type": "html",
+      "text": " Create interactive HTML prototypes.",
+      "id": "62db2fb3bc77fbad054a150fdbf8c2f2"
+    },
+    {
+      "type": "html",
+      "text": " Host a static website (HTML/CSS/Javascript) for free.",
+      "id": "fb8501d9df3b1b86aff06731cb1e5db9"
+    },
+    {
+      "type": "html",
+      "text": " Web-based service with free trial; plans start at $9/month",
+      "id": "7e168ef25ab306e092af70adc8759fc8"
+    },
+    {
+      "type": "html",
+      "text": " Intended for designers who can write HTML, CSS and javascript. No drag/drop wireframes!",
+      "id": "574cc661857aac70defc662acad7104e"
+    },
+    {
+      "type": "html",
+      "text": " Use it after wireframes/Photoshop but before development",
+      "id": "a4c1ed5770efc0e36d3686f0739af053"
+    },
+    {
+      "type": "html",
+      "text": " Extends HTML with tags built specifically for prototyping, including layouts, pages, parts, conditionals, loops, variables and functions",
+      "id": "b4d1dc4b85ffd283cfbc36a797596bc5"
+    },
+    {
+      "type": "html",
+      "text": " Includes popular javascript libraries & icon sets out of the box",
+      "id": "408d141aba56f9f4a876ba05f718d153"
+    },
+    {
+      "type": "html",
+      "text": " Includes sharing, backups, versioning, export",
+      "id": "cee1ba1ba11ead1fa0ac0e3fd99ab8c5"
+    },
+    {
+      "type": "html",
+      "text": " Support for HTMl, CSS, Javascript, Less, Coffeescript, Markdown, and more",
+      "id": "62e23da60907af046287812907232b97"
+    },
+    {
+      "type": "html",
+      "text": " [http://handcraft.com handcraft.com]",
+      "id": "60e723f159e3eef02aad71491d49c2a9"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Hot Gloo]] - Wireframe UX Prototyping Tool",
+      "id": "c633912b4ae35812f4350aff35d69d2e"
+    },
+    {
+      "type": "html",
+      "text": " Web-based Operation",
+      "id": "10a1cf50d780555b5a4439191e32a3f5"
+    },
+    {
+      "type": "html",
+      "text": " Intuitive Usability",
+      "id": "b12611df22a891fc4019ad0697b0ab04"
+    },
+    {
+      "type": "html",
+      "text": " Improved Communication",
+      "id": "082e04c552b9ff2b74a53706222d732d"
+    },
+    {
+      "type": "html",
+      "text": " Smooth Collaboration",
+      "id": "e4d57336b689c5f311d6c762125a07b8"
+    },
+    {
+      "type": "html",
+      "text": " [[Hot Gloo]] lets you create and share interactive website and webapp wireframes. ",
+      "id": "acd6c83e589721999fa62b4b721260e3"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.hotgloo.com www.hotgloo.com]",
+      "id": "4a7d88d2eb3fdd3591e617b8999fd047"
+    },
+    {
+      "type": "html",
+      "text": "\nHimalia Guilder:",
+      "id": "c40ad4187d7822a47bb8c249d73cd7dc"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool",
+      "id": "279a143f60ee57c508263d0c7ec5a9de"
+    },
+    {
+      "type": "html",
+      "text": " modeling and prototyping",
+      "id": "c83c3612495e5001e5e02fd82cb4170e"
+    },
+    {
+      "type": "html",
+      "text": " platform independent",
+      "id": "8365b8810c6255fdbd6aaf2d953e363d"
+    },
+    {
+      "type": "html",
+      "text": " not priced yet",
+      "id": "9323af758768920eb2a98fec1a0b3894"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.himalia.net www.himalia.net]",
+      "id": "9adb8d48541ad13510aa2998efda2e9d"
+    },
+    {
+      "type": "html",
+      "text": "\nInkscape - General Vector Graphics Tool",
+      "id": "eb09a6051e4950d881964a846cf24a6a"
+    },
+    {
+      "type": "html",
+      "text": " Free and Open Source",
+      "id": "9ffc606963213e1b902eb5494071059a"
+    },
+    {
+      "type": "html",
+      "text": " Runs well on Windows and of course Linux. Mac OS X not so well.",
+      "id": "46180f33aac6f626cf2212fd884fa9c2"
+    },
+    {
+      "type": "html",
+      "text": " Easy to export PNGs using the \"Selection\" option. Just draw a box around your wireframe and export easily to PNGs. It even saves your file names.",
+      "id": "3a35510cdf88b31955ea9c29ed11e81c"
+    },
+    {
+      "type": "html",
+      "text": " Use \"Clone tool\" alt-d to create copies of an original. Save the clone in a special part of your document to easily make global changes.",
+      "id": "1a256b863725ed6c5347ca07f0a965ac"
+    },
+    {
+      "type": "html",
+      "text": " I suggest keeping all wireframes in one document to take advantage of the above options!",
+      "id": "e2d2b2338e3192eb04ed7de6b4cfc1ad"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.inkscape.org/ www.inkscape.org]",
+      "id": "0c295fca6bc9e9df694fc1e15dafd306"
+    },
+    {
+      "type": "html",
+      "text": "\nInsitui - Wireframe prototype software for web companies and their clients:",
+      "id": "b76b926639080edf08ee39ff3360457c"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool",
+      "id": "279a143f60ee57c508263d0c7ec5a9de"
+    },
+    {
+      "type": "html",
+      "text": " create wireframes, and prototypes for web sites send your client a working link",
+      "id": "5c9995e927188674b81be17c4d118c55"
+    },
+    {
+      "type": "html",
+      "text": " native browser look and feel",
+      "id": "86eb587845f0fa78b1d11ea31e329138"
+    },
+    {
+      "type": "html",
+      "text": " drag and drop elements",
+      "id": "88e4110960283ee778ce167ba5878be5"
+    },
+    {
+      "type": "html",
+      "text": " online tool",
+      "id": "039a6c95690ae7c2e8344aa4815887eb"
+    },
+    {
+      "type": "html",
+      "text": " pay per use - $",
+      "id": "49f5615cd2f1a9ca2bdb6bf93889a7f6"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.insitui.com www.insitui.com]",
+      "id": "e1ae688507cf781947f7b4c7a7d9f9d5"
+    },
+    {
+      "type": "html",
+      "text": "\nKeynotopia ",
+      "id": "3430b864cebabb97ec883859d07fddad"
+    },
+    {
+      "type": "html",
+      "text": " Create wireframes and high-fidelity prototypes for mobile, web, and desktop applications ",
+      "id": "d24a028cdfa3c52059a8d15824874a26"
+    },
+    {
+      "type": "html",
+      "text": " Make your prototypes clickable and interactive without writing a single line of code ",
+      "id": "40622690f49bd8302adeba0c796550ff"
+    },
+    {
+      "type": "html",
+      "text": " Use tools you know to prototype like a pro - Apple Keynote, Microsoft [[Power Point]], or/and Open Office ",
+      "id": "912a154898b683dce7ce03fca23aaa4e"
+    },
+    {
+      "type": "html",
+      "text": " Annotate and share prototypes with your team instead of long spec documents",
+      "id": "7c0af5e3c43cd9a339e24a9e8051374f"
+    },
+    {
+      "type": "html",
+      "text": " Export and test your prototypes on phones and tablets without doing extra work",
+      "id": "b3730841d171636ab83d535f2f2cba81"
+    },
+    {
+      "type": "html",
+      "text": " Turn wireframes into pixel-perfect (ready for development) prototypes with just a few clicks ",
+      "id": "c7e35ba4e81528d9f92998d3fa9bbfa2"
+    },
+    {
+      "type": "html",
+      "text": " Thousands of vectors and icons are royalty-free (use your prototypes for commercial applications)",
+      "id": "db17ec7a4c4954b2e86683a71809458e"
+    },
+    {
+      "type": "html",
+      "text": " Downloadable templates that can be used on PC, Mac, Linux",
+      "id": "b99e77472a97666b2956740ead36e230"
+    },
+    {
+      "type": "html",
+      "text": " Pay per user- one time fee for unlimited use",
+      "id": "2798addb768ad930b1b1c18cbe8f9567"
+    },
+    {
+      "type": "html",
+      "text": " [http://keynotopia.com/ keynotopia.com]",
+      "id": "b3374e012ef2e50c07c045b05c288c4e"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Java Fx]]",
+      "id": "07b664c8788a685b659b995cc0ed302d"
+    },
+    {
+      "type": "html",
+      "text": " Based on [[Java Swing]], but with allegedly simpler syntax.",
+      "id": "1e9ce236266464c0a0435fa6e0cf804d"
+    },
+    {
+      "type": "html",
+      "text": " Meant to partially compete with Flash and related Adobe tools",
+      "id": "b8f6389e86beaa0530ec5071eb189829"
+    },
+    {
+      "type": "html",
+      "text": " [http://javafx.com javafx.com]",
+      "id": "097502fab2c17829ad625fac805f10bf"
+    },
+    {
+      "type": "html",
+      "text": "\njBart",
+      "id": "7756fb462ec47a028a754ab59664a8ac"
+    },
+    {
+      "type": "html",
+      "text": " Specialized in interactive UI. E.g. interactive visual search boxes, interactive filters, Master-Detail, Calculators, etc.",
+      "id": "1a93c1194383fdcd2bbb66a7541d74b4"
+    },
+    {
+      "type": "html",
+      "text": " Completely web based. You can save your prototype and send a link.",
+      "id": "08d8298a41f07ae2d3dfaf551114af55"
+    },
+    {
+      "type": "html",
+      "text": " Rich - From visual development to hard coding html, css and javascript.",
+      "id": "a8a932e4d805c292021c63382774df51"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.artwaresoft.com www.artwaresoft.com]",
+      "id": "e6c777d5fa8f3998708375b369505a4a"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Jot Form]]",
+      "id": "314f72e539d318708002fbba0688d404"
+    },
+    {
+      "type": "html",
+      "text": " Web-based",
+      "id": "883af50498a18c51c6412a074664410a"
+    },
+    {
+      "type": "html",
+      "text": " Only rough positioning control, but sufficient for quick proto-types",
+      "id": "52f11cf4eaf96e596a0817414fc41813"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.jotform.com/ www.jotform.com]",
+      "id": "e73c166872b8b8eb0919c125d710fba3"
+    },
+    {
+      "type": "html",
+      "text": "\nJustinmind Prototyper",
+      "id": "6d92fa95102e65685a3c5f413b3ef7fd"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, expensive $$$",
+      "id": "7be9ee1bf651b745e0252af9d21da318"
+    },
+    {
+      "type": "html",
+      "text": " Create high-fidelity application prototypes",
+      "id": "38e222c945fee33c911afaef75caf351"
+    },
+    {
+      "type": "html",
+      "text": " Generate fully functional HTML prototypes and customized MSWord specifications",
+      "id": "d9391cb631a4d673ce20497f61415394"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.justinmind.com www.justinmind.com]",
+      "id": "e244ab11b4b0be167dc72e4fde20f627"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Just Proto]]",
+      "id": "46c962a353e17a70f9b4cce8cdb0fccc"
+    },
+    {
+      "type": "html",
+      "text": " web-based ([[Java Script]])",
+      "id": "f3e4c62ad8ea7bcd030cc86a66c123f1"
+    },
+    {
+      "type": "html",
+      "text": " create fully interactive HTML prototypes",
+      "id": "dca52293f35419545bca14945ef4a3ef"
+    },
+    {
+      "type": "html",
+      "text": " real-time collaboration",
+      "id": "31493fb30341973baea3fa13e6503260"
+    },
+    {
+      "type": "html",
+      "text": " components can be used multiple times",
+      "id": "22b882e1b599e8fc420ec982fc2e63fd"
+    },
+    {
+      "type": "html",
+      "text": " allows you to create iphone, ipad and android apps",
+      "id": "0662f84fac827ea52e33ed863d9b13a2"
+    },
+    {
+      "type": "html",
+      "text": " ssl protection",
+      "id": "1bdeeb95f413ac7da4533d17b40deecc"
+    },
+    {
+      "type": "html",
+      "text": " good prices",
+      "id": "25b113435b6d68406f4b1ae687081b24"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.justproto.com www.justproto.com]",
+      "id": "b3fa77da42957d9216b1f436d6f785c8"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Lucid Chart]]",
+      "id": "35cdf25729775ea50e0e9233689ab41c"
+    },
+    {
+      "type": "html",
+      "text": " rapid prototyping with true interactive experiences",
+      "id": "a8f0b9d905641735a6385580fa267b22"
+    },
+    {
+      "type": "html",
+      "text": " creates diagrams, wireframes, web and desktop UI mockups",
+      "id": "df4b474889139736fb10d7e49be94be7"
+    },
+    {
+      "type": "html",
+      "text": " real time collaboration features",
+      "id": "df9d46bc07f98fdab2625364fb3bddc2"
+    },
+    {
+      "type": "html",
+      "text": " Web-standards based",
+      "id": "1d82097756e7a2140d3534cf8c19c498"
+    },
+    {
+      "type": "html",
+      "text": " [http://lucidchart.com/ lucidchart.com]",
+      "id": "40822489ab18b24c378b24bf84986242"
+    },
+    {
+      "type": "html",
+      "text": "\nLucid Spec",
+      "id": "734636ed12c7b73e7d1b314a0b784cbd"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool,",
+      "id": "c88db1812814a5bbf57229418e813ffb"
+    },
+    {
+      "type": "html",
+      "text": " still in beta, expensive $$$",
+      "id": "096b55960ca50fc1749e5cd24795c7ff"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.elegancetech.com www.elegancetech.com]",
+      "id": "cb671669d2e9f2661cbcf49ba7dd4906"
+    },
+    {
+      "type": "html",
+      "text": "\nLumzy",
+      "id": "e704d49cce0a798fb6b94c1b8ab60893"
+    },
+    {
+      "type": "html",
+      "text": " collaborative",
+      "id": "ca2f839db321882515fa62baa4200885"
+    },
+    {
+      "type": "html",
+      "text": " runs in browser (flash)",
+      "id": "5fac40f567f45f1e8a128e51ad638fa5"
+    },
+    {
+      "type": "html",
+      "text": " decent selection of controls",
+      "id": "5cdda283795756d8980bbf98343ef7b9"
+    },
+    {
+      "type": "html",
+      "text": " skin as sketchy, win, or mac",
+      "id": "c2c9516cf1fde52fb40ddf397076b055"
+    },
+    {
+      "type": "html",
+      "text": " FREE",
+      "id": "91bdfc33350479e61943157485720c5e"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.lumzy.com www.lumzy.com]",
+      "id": "06476cfa161bd5f662cc14d9e190e95d"
+    },
+    {
+      "type": "html",
+      "text": "\nMoqups",
+      "id": "dbde219cb110b957ac4254efaeb0e8b2"
+    },
+    {
+      "type": "html",
+      "text": " FREE",
+      "id": "91bdfc33350479e61943157485720c5e"
+    },
+    {
+      "type": "html",
+      "text": " HTML5/SVG based",
+      "id": "7abbbf8d5f274cbce3477289964e9af7"
+    },
+    {
+      "type": "html",
+      "text": " Easy sharing",
+      "id": "a5de66706ee7b4feddb21d8268b7603a"
+    },
+    {
+      "type": "html",
+      "text": " Extremely fast",
+      "id": "9778bc146d52a771a5d4816105326be4"
+    },
+    {
+      "type": "html",
+      "text": " Also available in the Chrome Store",
+      "id": "d4900c034b15afc4457954738619d67c"
+    },
+    {
+      "type": "html",
+      "text": " [http://moqups.com moqups.com]",
+      "id": "add4e76262003b483ca5b86d249f5093"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Mockup Tiger]]",
+      "id": "2bb18eeab9040afba11ccb60221d8685"
+    },
+    {
+      "type": "html",
+      "text": " Web based HTML5 ",
+      "id": "c96b4245eec499179594380ac7f2d527"
+    },
+    {
+      "type": "html",
+      "text": " Use it on Desktop or host it on your server",
+      "id": "22bd9ba7dbf8c4ceb9cd20ed808282e6"
+    },
+    {
+      "type": "html",
+      "text": " Dashboard and Web widgets (create bar, line, pie, gauges charts)",
+      "id": "b180b76b52d988e8096d245af270f218"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.mockuptiger.com www.mockuptiger.com]",
+      "id": "167b532c28508d329ed2637a8ff90e74"
+    },
+    {
+      "type": "html",
+      "text": "\nMicrosoft Expression Blend",
+      "id": "90f6a84eb1e371d30ae64ae2f31b66d1"
+    },
+    {
+      "type": "html",
+      "text": " prototyping of high-resolution UIs, design of completed UIs",
+      "id": "3b40b2f419be54379c4f28d8d9e2d3f4"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, for interaction design",
+      "id": "33ee23aaf2726e74a23d8b5633205a55"
+    },
+    {
+      "type": "html",
+      "text": " includes Microsoft [[Sketch Flow]] tool, for low-resolution UI prototyping",
+      "id": "d106b6aea3000ab61c26922d0ca97590"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.microsoft.com/expression/products/Blend_Overview.aspx www.microsoft.com]",
+      "id": "77975170e7ccec26d1be44a863c0808e"
+    },
+    {
+      "type": "html",
+      "text": "\nMicrosoft [[Sketch Flow]]",
+      "id": "25c26ef12d6f87227b66fa6c98eb7f8a"
+    },
+    {
+      "type": "html",
+      "text": " rapid prototyping of low-resolution UIs",
+      "id": "50bcf5abf3d67c25404fa44044809142"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, for interaction design",
+      "id": "33ee23aaf2726e74a23d8b5633205a55"
+    },
+    {
+      "type": "html",
+      "text": " part of Microsoft Expression Blend tool, for high-resolution UI prototyping, and for design of completed UIs",
+      "id": "8662143ff9c82eb5d33c60ae2404d686"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.microsoft.com/expression/products/Sketchflow_Overview.aspx www.microsoft.com]",
+      "id": "ad755215c5d094d24cb62292c2e3d570"
+    },
+    {
+      "type": "html",
+      "text": "\nMockflow",
+      "id": "43411403d9fef40f6a461566b91b557b"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial (Basic Account Free)",
+      "id": "b0c6992bee6c467fe959623cd2aba79c"
+    },
+    {
+      "type": "html",
+      "text": " create mockups",
+      "id": "11a81e69cf560ad821000a5379e9094c"
+    },
+    {
+      "type": "html",
+      "text": " cross-platform, runs on Adobe AIR",
+      "id": "8e7bfc53d5d7a478cb1493227fbc5650"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.mockflow.com www.mockflow.com]",
+      "id": "dfeaff694d31bd71b86fdf8d0e181329"
+    },
+    {
+      "type": "html",
+      "text": "\nMockingbird",
+      "id": "5b4933e435f182704506f660d9dec24b"
+    },
+    {
+      "type": "html",
+      "text": " web-based",
+      "id": "9d7a4b0f3d54c5f469edf58f1a773b4c"
+    },
+    {
+      "type": "html",
+      "text": " Beta",
+      "id": "54191182255af4052ac696ae5b6b03c9"
+    },
+    {
+      "type": "html",
+      "text": " [http://gomockingbird.com/ gomockingbird.com]",
+      "id": "5e54afa99e72424753647ea1618e3f2a"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Mockup Screens]]",
+      "id": "595ec75e2d0e5f172d9dd87bd3010997"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, fast, commercial since 2005",
+      "id": "e0a81e74c6045169871a2aa2c148eb4d"
+    },
+    {
+      "type": "html",
+      "text": " create mockups and organize them in scenarios (usecases/stories/whatever)",
+      "id": "0c1dd645db685228a5c803a73a7416b7"
+    },
+    {
+      "type": "html",
+      "text": " present scenario in a slideshow and document the feedback",
+      "id": "6a770b4b6914b8e1daf40f5232ad2f84"
+    },
+    {
+      "type": "html",
+      "text": " annotate mockup screenshots",
+      "id": "e888a8ce46eaa11819643eef725467b5"
+    },
+    {
+      "type": "html",
+      "text": " change skins: XP, Win7, Mac OsX, Web, Black-and-white (to avoid looking finished), etc",
+      "id": "ead2343a7a95bb946fa5cce81100083b"
+    },
+    {
+      "type": "html",
+      "text": " print \"specification\" from mockups and annotations",
+      "id": "00f7349314bc209343b68613ad6fe7ba"
+    },
+    {
+      "type": "html",
+      "text": " no learning",
+      "id": "ee22be21263e67be785004d4d1a5e0fe"
+    },
+    {
+      "type": "html",
+      "text": " you don't have to be a programmer",
+      "id": "5ef78a258932a41e1b1ad64e099020ce"
+    },
+    {
+      "type": "html",
+      "text": " [http://mockupscreens.com mockupscreens.com]",
+      "id": "b83f5e9312916806d29dbb33d5b3dda9"
+    },
+    {
+      "type": "html",
+      "text": "\nNapkin Look & Feel",
+      "id": "c0fb90213bcbe6e07d242811c255d433"
+    },
+    {
+      "type": "html",
+      "text": " opensource skin for Java Swing",
+      "id": "f04138df77fc0df3e7f46f64b96517c6"
+    },
+    {
+      "type": "html",
+      "text": " [http://napkinlaf.sourceforge.net/ napkinlaf.sourceforge.net]",
+      "id": "c9d745a62c789e32e579611377c319a8"
+    },
+    {
+      "type": "html",
+      "text": " Unusual in intent: produces GUIs (pure mock-up, functional, or mixed) that look like a note scrawled on a napkin, to try to force management to intuit that a GUI mock-up does <b>not</b> mean that the product is finished! Primary developer: [[Ken Arnold]]",
+      "id": "091e4b7acf6a640cc4719c99d763a333"
+    },
+    {
+      "type": "html",
+      "text": "\nNotism - Design Collaboration platform for creative teams.",
+      "id": "155c5a3ada4b268db06a4c3a89a824ca"
+    },
+    {
+      "type": "html",
+      "text": " Share and discuss design layouts (JPG, PNG; GIF)",
+      "id": "32147dbd04026d640a956a2158f56d2d"
+    },
+    {
+      "type": "html",
+      "text": " Communicate via Notes, Sketeches and Selections",
+      "id": "8308a98460e070913d8af6d65c4df87c"
+    },
+    {
+      "type": "html",
+      "text": " Create interactive prototypes and run usability tests",
+      "id": "c2fb3f29e42306439ff9fa4563d9d3f1"
+    },
+    {
+      "type": "html",
+      "text": " Solid Task Management",
+      "id": "57c6ac8e919435df22cb9b441fa9fa95"
+    },
+    {
+      "type": "html",
+      "text": " web-based ([[Java Script]])",
+      "id": "f3e4c62ad8ea7bcd030cc86a66c123f1"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.notism.io www.notism.io]",
+      "id": "b598515fcd266a22749c9a12c2fa5d2a"
+    },
+    {
+      "type": "html",
+      "text": "\nPetra, by Cleverlance",
+      "id": "3d7bfb007b8cc22e1498be5d196b26f9"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool",
+      "id": "279a143f60ee57c508263d0c7ec5a9de"
+    },
+    {
+      "type": "html",
+      "text": " expensive $$$",
+      "id": "f036232120e5be03a5b07afc383326c7"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.cleverlance.cz/en/Products/Petra www.cleverlance.cz]",
+      "id": "831c584db5a96e7fd0883ba5ce9ce0b1"
+    },
+    {
+      "type": "html",
+      "text": "\nPencil",
+      "id": "550d4a88fa53136564c261e0e993592e"
+    },
+    {
+      "type": "html",
+      "text": " Free plugin to Firefox 3 and standalone application",
+      "id": "4c4d97160a3e19c739e89bfa7e082afb"
+    },
+    {
+      "type": "html",
+      "text": " Create mockups and export to PNG images",
+      "id": "42736b83da10815dcdc0054b9d434b2e"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.evolus.vn/Pencil/Home.html www.evolus.vn]",
+      "id": "07fa1d1eb4237268afbee26db9990b9e"
+    },
+    {
+      "type": "html",
+      "text": "\nPidoco - A GUI Design Software for clickable Wireframes",
+      "id": "4a7d8ac913af2fd5dc4d89194f409c8d"
+    },
+    {
+      "type": "html",
+      "text": " Fast and easy like Rapid Paper Prototyping, but completely web-based and with many more features!",
+      "id": "6585eacc28234808aa7cafc53ed475c3"
+    },
+    {
+      "type": "html",
+      "text": " Clickable Wireframes",
+      "id": "d4df66c7f9dae822dc39f35151eca16a"
+    },
+    {
+      "type": "html",
+      "text": " Fast and easy UX Prototyping",
+      "id": "3e3d87ef156d51231e75e6a2f7b31b6c"
+    },
+    {
+      "type": "html",
+      "text": " Rich interactions (click, touch, motion)",
+      "id": "32ceb41852e4f9c5644de2d80b9e6928"
+    },
+    {
+      "type": "html",
+      "text": " Simulation of Location Data",
+      "id": "bcad86ee3b2b975b3dde618c0ca29bea"
+    },
+    {
+      "type": "html",
+      "text": " Simulation on Smartphones and Tablets",
+      "id": "06e5303a8ce1ab666d2d11181e904062"
+    },
+    {
+      "type": "html",
+      "text": " Real-time Collaboration and Feedback",
+      "id": "8236f3d8a1e0c70b55d94ff7e8eddfd4"
+    },
+    {
+      "type": "html",
+      "text": " Specification Export Generator",
+      "id": "faadcecf9c3db28061d5cd94a52c7bd2"
+    },
+    {
+      "type": "html",
+      "text": " PNG, HTML, SVG Exports",
+      "id": "7a71121533a51eae9708bec0b7a964cc"
+    },
+    {
+      "type": "html",
+      "text": " Smart Templates",
+      "id": "272d9bdcc5af5703ee2e25a34a76dd96"
+    },
+    {
+      "type": "html",
+      "text": " No Software Installation",
+      "id": "73b82f271fdba8ff7e346eb37bf8c55e"
+    },
+    {
+      "type": "html",
+      "text": " [http://pidoco.com/en pidoco.com]",
+      "id": "0a4ba3f7c5e1a43cf98955aa60ab6ff8"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Power Mockup]]",
+      "id": "e5768c363052fd6a991bb8571e5b1bdb"
+    },
+    {
+      "type": "html",
+      "text": " Wireframe Toolkit for [[Power Point]]",
+      "id": "6c4483533489cffed96edaa311dd1f31"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.powermockup.com/ www.powermockup.com]",
+      "id": "4219751de6c8a4325efa09ce6938837c"
+    },
+    {
+      "type": "html",
+      "text": "\nProto.io",
+      "id": "b8972202f6ea739ad3841b0a74d2c887"
+    },
+    {
+      "type": "html",
+      "text": " Mobile app prototyping",
+      "id": "c1baee2f3d3e283e83e6d6498d0c6a89"
+    },
+    {
+      "type": "html",
+      "text": " Interactions",
+      "id": "5268534aa01a8db6346c39638e01d41a"
+    },
+    {
+      "type": "html",
+      "text": " Screen transitions",
+      "id": "820a6863f3a56067029f36705a1c9158"
+    },
+    {
+      "type": "html",
+      "text": " Touch gestures",
+      "id": "7ae0b3e714b2c278dffff192cb9beddb"
+    },
+    {
+      "type": "html",
+      "text": " Animations",
+      "id": "27744d896212efcf9a84dd23a87af0b2"
+    },
+    {
+      "type": "html",
+      "text": " UI Libraries for iOS, Android, Windows",
+      "id": "c291f7f520f2e0f13b6ad9d9d572f9fd"
+    },
+    {
+      "type": "html",
+      "text": " [http://proto.io proto.io]",
+      "id": "7d0048f1ce7198fb95ef9408974e797f"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Proto Strap]]\nOnline form designer based on the elements of Bootstrap and KendoUI. Supports tabs, collapse, panel and multi-column.",
+      "id": "b0436700f36b25bdd0162b30ee5e1956"
+    },
+    {
+      "type": "html",
+      "text": "[http://protostrap.com protostrap.com]",
+      "id": "261bdb17f6a88361443c790fef2c6637"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Proto Share]]\nWeb-based wireframe software. Users create, review, and refine website and web application prototypes that team members and stakeholders can then review and comment on in real-time. [[Proto Share]] is not a Flash tool; it uses HTML, CSS, and Javascript.",
+      "id": "0ea966ce5db8c65ed7875b83af2f9b3d"
+    },
+    {
+      "type": "html",
+      "text": " Specialized tool, commercial",
+      "id": "6e5bb1b93749adf409a1fd9760471515"
+    },
+    {
+      "type": "html",
+      "text": " Create dynamic website wireframes & prototypes with drag-and-drop interface",
+      "id": "86c1f28d7587e77b6ed267444b8556d9"
+    },
+    {
+      "type": "html",
+      "text": " Web-based collaboration",
+      "id": "660d694b2971767af134bbfbf8ebf98a"
+    },
+    {
+      "type": "html",
+      "text": " Add custom components with HTML, CSS, and Javascript",
+      "id": "069bc1b6b3d4c71cf25daf739cb635f4"
+    },
+    {
+      "type": "html",
+      "text": " Export to a Word specification or web-page for user testing",
+      "id": "296604981ff8fab7112ac9b2b693e991"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.ProtoShare.com www.ProtoShare.com]",
+      "id": "d99fb94f4ea2cfbbd36732f5a327a8a1"
+    },
+    {
+      "type": "html",
+      "text": "\nPrototyper Free",
+      "id": "570d665bf9029150bf6e32cd41ed64c4"
+    },
+    {
+      "type": "html",
+      "text": " create and share clickable prototypes for free",
+      "id": "a44caab483be7e807d644bb9b9307166"
+    },
+    {
+      "type": "html",
+      "text": " Amazing iPhone, Android and web widgets",
+      "id": "d166212cf9e33260ff0b65e5cdf3f22b"
+    },
+    {
+      "type": "html",
+      "text": " Images in motion with clickable regions",
+      "id": "25c02813b74151f470f1fccb59d7fff2"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.justinmind.com/prototyper/free-edition www.justinmind.com]",
+      "id": "3361d483739e3f69116a77cc068f29f2"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Quick Focus]] [[Snap Up]]",
+      "id": "10aaed868f97720aa7719a9327c15422"
+    },
+    {
+      "type": "html",
+      "text": " mockup and prototying tool that allows product managers and UX designers to transfer offline ideas to the web and automatically export a requirements documentation ",
+      "id": "93a9a738a53341154931c8681ee26337"
+    },
+    {
+      "type": "html",
+      "text": " unlimited users & unlimited screens ",
+      "id": "c0294bc58440268d8c7fc8892e5874ee"
+    },
+    {
+      "type": "html",
+      "text": " offline to online wireframe tool ",
+      "id": "11759ccf24404fa96974f9dfcddbda62"
+    },
+    {
+      "type": "html",
+      "text": " HTML generation",
+      "id": "7f8423877305dcd5a7ad3bf2bd972f05"
+    },
+    {
+      "type": "html",
+      "text": " Drag & drop ",
+      "id": "c326fa87e6cd402bb3044b9e3569a395"
+    },
+    {
+      "type": "html",
+      "text": " Real-time collaboration & sharing",
+      "id": "79b18ae182277104c20a8502790eb8cb"
+    },
+    {
+      "type": "html",
+      "text": " re-usable master elements",
+      "id": "bbd8e18bc022a3ad9a26ef2bb0fd8a41"
+    },
+    {
+      "type": "html",
+      "text": " Image recognition",
+      "id": "760f7d0396fc297991c93e7458e86e7e"
+    },
+    {
+      "type": "html",
+      "text": " downloadable PDF & PNG",
+      "id": "480052f17983df7ed3af20e9a133428b"
+    },
+    {
+      "type": "html",
+      "text": " Versioning ",
+      "id": "2433f4ec2e9de797c39151058c572555"
+    },
+    {
+      "type": "html",
+      "text": " Free Lite plan available when you sign up",
+      "id": "7532a675cf091ac56b126c20d14c82d4"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.quickfocus.com/ www.quickfocus.com] ",
+      "id": "1c3061c4fec072866c5d3310e74e7d55"
+    },
+    {
+      "type": "html",
+      "text": "\nScreen<b></b>Architect",
+      "id": "3e171ac2532f848ba4aa1b4f2dd5bb9d"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial",
+      "id": "0a187c825915a0971a448a32b8a9752f"
+    },
+    {
+      "type": "html",
+      "text": " plugin for [[Enterprise Architect]]",
+      "id": "dbeecf3e6b892d5bc7a2644d436b52b7"
+    },
+    {
+      "type": "html",
+      "text": " exports clickable HTML screens",
+      "id": "18b77b0b40bb43d2e922f7bb521f0383"
+    },
+    {
+      "type": "html",
+      "text": " [http://screenarchitect.com/ screenarchitect.com]",
+      "id": "af699b4af680bde07bd6d51e9cdd5a75"
+    },
+    {
+      "type": "html",
+      "text": "\nSerena Prototype Composer",
+      "id": "26e2f9bd14f476155c65b46cca963399"
+    },
+    {
+      "type": "html",
+      "text": " free",
+      "id": "622d1bc33721a3ef031bfd7dfca8af26"
+    },
+    {
+      "type": "html",
+      "text": " very similar to Axure",
+      "id": "4b474e9a2b804a6ace9265ffc60e1725"
+    },
+    {
+      "type": "html",
+      "text": " prototype more than screen mockups",
+      "id": "c0612cf21ef8092a3b129abd3be4b7ec"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.serena.com/products/prototype-composer/index.html www.serena.com]",
+      "id": "a2eb56bd5a3d88627d725acad0c6c3c1"
+    },
+    {
+      "type": "html",
+      "text": "\nSimulify - convey your idea",
+      "id": "e84eefb3a6ad7fa91f43060ccb366e97"
+    },
+    {
+      "type": "html",
+      "text": " browser based tool, commercial",
+      "id": "28782961e76c33ead91100c028b1584e"
+    },
+    {
+      "type": "html",
+      "text": " visualize Applications easily",
+      "id": "849b33448f6ddd2f596c87756a698f76"
+    },
+    {
+      "type": "html",
+      "text": " create interactive websites & application wireframes",
+      "id": "59bf932c361358f7b41468e6b659bfd7"
+    },
+    {
+      "type": "html",
+      "text": " share with clients online & gather feedbacks",
+      "id": "b53067032f0c4a91ae36b6ab0951c040"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.Simulify.com www.Simulify.com]",
+      "id": "73323b7a5a8c22c637f863e523f976ce"
+    },
+    {
+      "type": "html",
+      "text": "\nSketch Lab",
+      "id": "28a60f43c09e56d34a0a6baaaf584f4e"
+    },
+    {
+      "type": "html",
+      "text": " Browser based tool, commercial",
+      "id": "9f4f6e9d8d13c9550c86d899b8dadceb"
+    },
+    {
+      "type": "html",
+      "text": " Export to PDF, PNG, and JPEG",
+      "id": "bb40ec6db6569909c0156af805134f29"
+    },
+    {
+      "type": "html",
+      "text": " Simple and easy to use",
+      "id": "57954965850fc2088befec83acd82e7e"
+    },
+    {
+      "type": "html",
+      "text": " Make sketches public on the web",
+      "id": "1aa130a2e5c49eff8c60a80ec8e2f536"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.sketchlabhq.com www.sketchlabhq.com]",
+      "id": "dbe209c8433f3e4773f5784565e1182e"
+    },
+    {
+      "type": "html",
+      "text": "\nsoftandGUI - UXToolbox",
+      "id": "bf38be5c35d1a79591ada9f626a17c62"
+    },
+    {
+      "type": "html",
+      "text": " Specialized tool, commercial - $",
+      "id": "f3af4f029556c9f51adaca446a97b48e"
+    },
+    {
+      "type": "html",
+      "text": " Easy to use, drag-and-drop interface",
+      "id": "adf6aa6dad529b316df3f453316b3786"
+    },
+    {
+      "type": "html",
+      "text": " Create simplistic sketchy or pixel-perfect high-res mockups",
+      "id": "6b6a5a69974ac4f83a947784716e0963"
+    },
+    {
+      "type": "html",
+      "text": " Create Interactive prototypes",
+      "id": "a2f5209f1f73a87b2dece71c510c84b4"
+    },
+    {
+      "type": "html",
+      "text": " Interaction Cues and Fingertip emulation",
+      "id": "e06bea8b92aa857d357eccde5b74337c"
+    },
+    {
+      "type": "html",
+      "text": " Supports Annotation and documentation generation",
+      "id": "4810c1306d1697e2424450ea568f29dd"
+    },
+    {
+      "type": "html",
+      "text": " Printing",
+      "id": "d7a2b4b1bc56bc1fa9c949a848db2f01"
+    },
+    {
+      "type": "html",
+      "text": " Export to PNG, XML, Word and HTML",
+      "id": "f3a7e805b324cc271512ae0b654b7ae2"
+    },
+    {
+      "type": "html",
+      "text": " Multiple Screen Resolutions and Devices supported",
+      "id": "d99282458391fa93eecf8bff01dddada"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.softandgui.co.uk www.softandgui.co.uk]",
+      "id": "a08fd56c549529570b5c6dc974ad8590"
+    },
+    {
+      "type": "html",
+      "text": "\nStoryboard Suite",
+      "id": "d1f9079cc2e38758f266fdd5b8d1c203"
+    },
+    {
+      "type": "html",
+      "text": " GUI design tool (Storyboard Designer) and runtime engine (Storyboard Engine)",
+      "id": "3da6007b306c744f6ffd5fb775da38ef"
+    },
+    {
+      "type": "html",
+      "text": " WYSIWYG UI Design environment based on Eclipse with complete simulation",
+      "id": "41f54b0ea7bea293cd7aaeebd2acad3e"
+    },
+    {
+      "type": "html",
+      "text": " Import Photoshop PSD files directly to jumpstart UI development",
+      "id": "e36a4e168f0c7fc57d39447ef6d6ce13"
+    },
+    {
+      "type": "html",
+      "text": " Optimized for embedded, resource constrained, environments",
+      "id": "7844505c10dc5acc80ef76b0755d9ad4"
+    },
+    {
+      "type": "html",
+      "text": " Plugin based for feature extension, Lua (www.lua.org) scripting",
+      "id": "a9d69f7a188a31049d648ec8cc84068b"
+    },
+    {
+      "type": "html",
+      "text": " Support for Android/QNX/Linux/WinCE/... using fbdev/directfb/SDL/OpenVG/OpenGL/agtdk/...",
+      "id": "a13eae3ecd06e6621c9a8e9627bc77f2"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.cranksoftware.com/storyboard www.cranksoftware.com]",
+      "id": "af61666ae632e20d8206b9a6a533caa2"
+    },
+    {
+      "type": "html",
+      "text": "\nSmart Draw",
+      "id": "b761a09452dd9318aa6ebf163f188ab7"
+    },
+    {
+      "type": "html",
+      "text": " Generic drawing tool with template for GUI, something like Visio",
+      "id": "4343a0905d9c6d36b350ddedff6d8e56"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.smartdraw.com/examples/gui/ www.smartdraw.com]",
+      "id": "e371b6b540ecdc9f89e48c52cb978830"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Snap Up]]",
+      "id": "ad3f73f3a98182c606451dd09af08b41"
+    },
+    {
+      "type": "html",
+      "text": " mockup and prototying tool that allows product managers and UX designers to transfer offline ideas to the web and automatically export a requirements documentation ",
+      "id": "93a9a738a53341154931c8681ee26337"
+    },
+    {
+      "type": "html",
+      "text": " unlimited users & unlimited screens ",
+      "id": "c0294bc58440268d8c7fc8892e5874ee"
+    },
+    {
+      "type": "html",
+      "text": " offline to online wireframe tool ",
+      "id": "11759ccf24404fa96974f9dfcddbda62"
+    },
+    {
+      "type": "html",
+      "text": " HTML generation",
+      "id": "7f8423877305dcd5a7ad3bf2bd972f05"
+    },
+    {
+      "type": "html",
+      "text": " Drag & drop ",
+      "id": "c326fa87e6cd402bb3044b9e3569a395"
+    },
+    {
+      "type": "html",
+      "text": " Real-time collaboration & sharing",
+      "id": "79b18ae182277104c20a8502790eb8cb"
+    },
+    {
+      "type": "html",
+      "text": " re-usable master elements",
+      "id": "bbd8e18bc022a3ad9a26ef2bb0fd8a41"
+    },
+    {
+      "type": "html",
+      "text": " Image recognition",
+      "id": "760f7d0396fc297991c93e7458e86e7e"
+    },
+    {
+      "type": "html",
+      "text": " downloadable PDF & PNG",
+      "id": "480052f17983df7ed3af20e9a133428b"
+    },
+    {
+      "type": "html",
+      "text": " Versioning ",
+      "id": "2433f4ec2e9de797c39151058c572555"
+    },
+    {
+      "type": "html",
+      "text": " Free Lite plan available when you sign up",
+      "id": "7532a675cf091ac56b126c20d14c82d4"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.quickfocus.com/ www.quickfocus.com] ",
+      "id": "1c3061c4fec072866c5d3310e74e7d55"
+    },
+    {
+      "type": "html",
+      "text": "\nUXPin",
+      "id": "931fed9db07307705dd953580e855e29"
+    },
+    {
+      "type": "html",
+      "text": " Web-Based wireframing and prototyping platform",
+      "id": "f018e9763453f081814f679efc7d93b4"
+    },
+    {
+      "type": "html",
+      "text": " real-time collaboration and live preview",
+      "id": "2c199d7942b04bf9d45b785298a9e2f5"
+    },
+    {
+      "type": "html",
+      "text": " feedback collecting features",
+      "id": "5a18c12aeff0c375583f8948eddccd4d"
+    },
+    {
+      "type": "html",
+      "text": " uploading documentation",
+      "id": "83ce2352c49453c62bdada14ea98155a"
+    },
+    {
+      "type": "html",
+      "text": " version control",
+      "id": "fb9dfb84dae8e378ac82bba465c0736c"
+    },
+    {
+      "type": "html",
+      "text": " export to HTML",
+      "id": "0a259788fbda42a32f91630b448ab15d"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.uxpin.com/ www.uxpin.com]",
+      "id": "bba758210d073489c81b4f761831da65"
+    },
+    {
+      "type": "html",
+      "text": "\nVisio stencils",
+      "id": "de2930f45103edf71bb1febd9306e9b9"
+    },
+    {
+      "type": "html",
+      "text": " Garrett Dimon's IA Stencil(dead link): [http://www.yourtotalsite.com/archives/information_architecture/free_visio_ia_stencil/ www.yourtotalsite.com]",
+      "id": "6f109fe53ae0bbe2e68bf7941f63a975"
+    },
+    {
+      "type": "html",
+      "text": " Henrik Olsen's prototyping tools (GUUUI.COM): [http://www.guuui.com/issues/02_03_02.php www.guuui.com]",
+      "id": "67e26fded56565bf41136964805563f6"
+    },
+    {
+      "type": "html",
+      "text": " Michael Angeles's wireframe stencil: [http://urlgreyhot.com/personal/resources/visio_wireframe_stencil/ urlgreyhot.com]",
+      "id": "5b392869319e4f6e0ee1eed4debe3b92"
+    },
+    {
+      "type": "html",
+      "text": " Nick Fink wireframe stencil: [http://www.nickfinck.com/stencils.html www.nickfinck.com]",
+      "id": "10345cf82ff7f2904b2a4863e261b031"
+    },
+    {
+      "type": "html",
+      "text": " Peter Van Dijck's IABook stencil(dead link): [http://www.iabook.com/template.htm www.iabook.com] ",
+      "id": "a9638a98d7cf8e7f084d598830d340c3"
+    },
+    {
+      "type": "html",
+      "text": " [[Vis Dynamica]] rich interactions stencil: [http://www.visdynamica.com/stencil/ www.visdynamica.com]",
+      "id": "d8905bd93d0b82f36aef8d42aad13df5"
+    },
+    {
+      "type": "html",
+      "text": " Jonathan Abbett GUI wireframe stencil: [http://www.abbett.org/resources/SketchGUIShapes.zip www.abbett.org]",
+      "id": "a0784dbd3d05e8a7463d1b27f5cd76ed"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Wireframe Sketcher]]",
+      "id": "bacb4c668285a4447f5abf561049db1a"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial",
+      "id": "0a187c825915a0971a448a32b8a9752f"
+    },
+    {
+      "type": "html",
+      "text": " Create wireframes, mockups, prototypes for desktop, mobile and web apps",
+      "id": "58da5f3da1c98d33654a58987df80082"
+    },
+    {
+      "type": "html",
+      "text": " Switch between clean and hand-drawn, sketchy themes.",
+      "id": "f7cc6a032988568bb97e4988d1af0f3a"
+    },
+    {
+      "type": "html",
+      "text": " Cross-platform, native UI, standalone and plug-in for any Eclipse IDE",
+      "id": "22cc135e8c6ba1518f9de3cfda8297c6"
+    },
+    {
+      "type": "html",
+      "text": " [http://wireframesketcher.com wireframesketcher.com]",
+      "id": "83cba180dd4207a2453126d508b1913a"
+    },
+    {
+      "type": "html",
+      "text": "\n[[In Preso]] Screens",
+      "id": "0a264f581d3d6fe6e16bac17b28a86a9"
+    },
+    {
+      "type": "html",
+      "text": " specialized tool, commercial",
+      "id": "0a187c825915a0971a448a32b8a9752f"
+    },
+    {
+      "type": "html",
+      "text": " Create mockups for web and standalone applications, many skins (mac os, windows xp, windows vista, sketch, sample) change in single click, use standard gui elements (button, checkbox ...) and many other shapes (arrow, rect ...).",
+      "id": "be2a9b17765a43e1569640a205108887"
+    },
+    {
+      "type": "html",
+      "text": " Standalone cross platform and web interface",
+      "id": "3a78d14bc76604e325f2fb700a23a6da"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.inpreso.com/inpresoscreens/ www.inpreso.com]",
+      "id": "f763cd90a027b642feba557a9206dace"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "Use VB for the demo. I think MS has some \"crippled\" versions for free. VB may suck in many ways, but for throwing a GUI up quick, it is hard to beat.",
+      "id": "3f053e23b759e7696b1ea219b39130ef"
+    },
+    {
+      "type": "html",
+      "text": "<i>- Try to populate tables with data in VB. You just have to be a programmer to do this. My point is that you want the tool that non-programmers can use alike. - [[Igor Jese]]</i>",
+      "id": "cb779ed107002952cc3fc4cdc4a2e3a3"
+    },
+    {
+      "type": "html",
+      "text": "\nMicrosoft needs something in-between MS-Access and VB such that one can have data-driven RAD but also more program-control over the GUI that MS-Access makes difficult.",
+      "id": "1e8d486c46a6d67e7570e8d7162f56ff"
+    },
+    {
+      "type": "html",
+      "text": "''- Perhaps MS [[Light Switch]] is something for you.",
+      "id": "e9e827a04b9e3112b512574b7ddad6d9"
+    },
+    {
+      "type": "html",
+      "text": "[I've built some large applications in Access (100+ tables, 500+ forms, 500+ reports), and hated it. I never wanted to touch it again. Over the past few days, I've been implementing a small (less than ten tables, a few forms, and one report) but crucial application in Access, and I'm reminded that Access is, in fact, a brilliant idea. I'd argue that what's needed is not something between Access and VB, but simply Access done right -- especially for large projects. Its problems suggest to me that the Access development team at [[Micro Soft]] never use it to build and support real applications. If they did, it would be much, much better than it is, and yet it wouldn't have to be dramatically different from what it is now. Of course, over the years there have been a large number of commercial 4GLs built for this purpose, but their expense, awkwardness, and significant limitations (Oracle Forms, anyone?) suggest their developers are no more inclined to eat their own dog food than Microsoft's Access developers.]",
+      "id": "9412b7cd16c435f6b4398de719de7e3f"
+    },
+    {
+      "type": "html",
+      "text": "\nIf they \"fixed it\", it may cut into the sales of their other tools, such as VB.net and/or SQL-Server. MS does not want to compete with them self. I once encountered a Microsoft bug report that said to reduce corruption in Access caused by too many simultaneous users, \"upgrade\" to MS-SQL-Server.",
+      "id": "26e1445e76931582dfc27e65e7c5c02c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "I've been doing simple prototyping in html before, to get a view of the application structure. How about combining this with [[Scalable Vector Graphics]], now when mainstream [[Fire Fox]] supports this? Are there good tools to help with something like this? Or maybe even [[Mozilla Xul]], does anyone have any experience on that? -- [[Claes Wallin]]",
+      "id": "8c880702f43ebd1d0be4f77fa3e507fd"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "Kudos to the [[Wiki Gnome]] that sortificated the list! Thanksifications for ya' from mental Texas.",
+      "id": "9ebbebdc0028541573d3e0f3d4eb6592"
+    },
+    {
+      "type": "html",
+      "text": "<i>You're welcome.</i>",
+      "id": "96e92f5d0f77206732b8fe3ccc431034"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "Thank you, thank you, thank you! I gave up on these things years ago; just for fun I peeked this page when it showed up on [[Recent Changes]] and wow, changed my life. In my very first session with ForeUI I produced a working mockup of the terribly complicated app I'm designing! -- [[Ben Tremblay]]",
+      "id": "00089b1527b5a0db5677b2e0bc8a0039"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "I've used Qt Designer (part of the LGPL Qt SDK) for prototyping desktop apps before. And it is free... -- [[Daniel Goertzen]]",
+      "id": "7868f58162645df5bf4d76081190e3b0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "[http://slowmtn.tumblr.com/post/30597779545/comparison-of-almost-all-interaction-design-software slowmtn.tumblr.com]",
+      "id": "04156868767d7ad05ac5aaef1f8d54c9"
+    },
+    {
+      "type": "html",
+      "text": "\nThe following is a large spreadsheet comparing all the UX / IXD tools I could find - Everything from Wireframing to Prototyping, on the Mac, PC, and Web. Created as a way to determine what programs to use depending on various project needs and thought other interaction designers would find this useful.",
+      "id": "c7c771035380c3454f32ea6694bdd6e6"
+    },
+    {
+      "type": "html",
+      "text": "\nTake a look at the UX / IXD comparison chart, and please do let me know what you think. I would like to maintain ownership of this doc, but am open to constructive criticism, suggestions, etc).",
+      "id": "d67383c98f34cf08a5c85c05db390c78"
+    },
+    {
+      "type": "html",
+      "text": "\nInspired by two articles: A Real Web Design Application by Jason Santa Maria, and Prototyping: Picking the Right Tool by Todd Zaki Warfel",
+      "id": "773acfc4968a308815f56e112c777ad5"
+    },
+    {
+      "type": "html",
+      "text": "- Shlomo Goltz",
+      "id": "14b715bf63de8fd6e875e9010bfa543a"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Real Basic]] works. Plus it comes with a built in scripting language. [[Micro Soft]] used RB to prototype the Mac IE5 interface. You can say whatever you want about IE and I'd probably agree with you if it's not salutary, but IE5 had a pretty nice UI.",
+      "id": "379897a78bfe5b92fd1be5e3e4e1ccc0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "We just launched [http://www.webseam.com www.webseam.com] into Open beta. Webseam provides helps web page developers with the review, feedback and approval process. Please have a look and give us any feedback",
+      "id": "81591023928d258e74941d2b88ae800f"
+    },
+    {
+      "type": "html",
+      "text": "\nthanks",
+      "id": "f5fd87a82cd5c9272aee29417e3848d8"
+    },
+    {
+      "type": "html",
+      "text": "\nRichard Pike",
+      "id": "3527c92d33be7e6283aa070e09403179"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "\nI recently published a useful article on mobile login screen design : [http://www.photoshop-plus.co.uk/2012/04/13/clean-mobile-login-screen-tutorial/ www.photoshop-plus.co.uk] -- [[Jim Andrews]]",
+      "id": "f3f70e158d0f8fb5ac6aa4454cd0bced"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+    },
+    {
+      "type": "html",
+      "text": "Can anyone also that may have used these tools in the past give them a review? That would be a great help for beginners stumbling on this page, as it is already very comprehensive. An easy 1-5 stars should suffice with reasons as to why (price, flexibility, how many OS it will work with, etc)",
+      "id": "7359c51c9fda82bd156e3dd1fdbb90a3"
+    },
+    {
+      "type": "html",
+      "text": "-Pete",
+      "id": "9154ab4bd99b21e473be168c51c336aa"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?GuiPrototypingTools c2.com]",
+      "id": "a6a566ba25e11ddf8d3f31c6881400ac"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1415474137000,
+      "id": "fd03e18485c19e8874ef478af8f32dbb",
+      "type": "create",
+      "item": {
+        "title": "Gui Prototyping Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Here is an alphabetical list of tools helping with drawing screen mock-ups.",
+            "id": "4962952ec44b16fcbdbaffadbc77d56e"
+          },
+          {
+            "type": "html",
+            "text": "\n10screens",
+            "id": "e9602025a60433a25793eaf2fae119fd"
+          },
+          {
+            "type": "html",
+            "text": " create and share clickable rich prototypes online, Now free as of July 2012",
+            "id": "6cdb02d32abe9af3ec142b91d1366eea"
+          },
+          {
+            "type": "html",
+            "text": " Allows multi-level drill-down of workflows to screens.",
+            "id": "aad01dd0a0567ea5ed27e3e71346f7a3"
+          },
+          {
+            "type": "html",
+            "text": " Templates for various mobile devices with soft keyboard support",
+            "id": "933cc7777870b7ad76e6f21c12393385"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.10screens.com/ www.10screens.com]",
+            "id": "abdb505d623861c65de2e7705cd39179"
+          },
+          {
+            "type": "html",
+            "text": "\nAdobe Fire<b></b>Works CS4",
+            "id": "22d961fbedddd6f2750d5d42f26e16af"
+          },
+          {
+            "type": "html",
+            "text": " Newly enhanced to provide web site screen design with \"master\" shared parts across screens. Artwork can also be designed and exported using this tool.",
+            "id": "c087c6285abb1ce45251849149fcb3d4"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.adobe.com/products/fireworks/?xNav=WPFW www.adobe.com]",
+            "id": "a2dab9897871ea79d1f1eccb73b0c70a"
+          },
+          {
+            "type": "html",
+            "text": "\nAdobe Flash Catalyst (former Thermo)",
+            "id": "4a9080d377fd9383721e268f4e22aa7b"
+          },
+          {
+            "type": "html",
+            "text": " production-ready version available in April 2010, as part of Adobe CS5",
+            "id": "74ed6bee883157328cc39c1ade4670b4"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, for interaction design",
+            "id": "33ee23aaf2726e74a23d8b5633205a55"
+          },
+          {
+            "type": "html",
+            "text": " create prototypes based on designers work (e.g. photoshop, illustrator files)",
+            "id": "55e0a85b1f4333719e38ff100d3491e2"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.adobe.com/products/flashcatalyst/ www.adobe.com]",
+            "id": "0667c4e6c91f4031501444ae1fe2ec6a"
+          },
+          {
+            "type": "html",
+            "text": "\nAntetype - [http://www.antetype.com www.antetype.com]",
+            "id": "10ec5a0b9a4f30e626e05476760367ef"
+          },
+          {
+            "type": "html",
+            "text": " automatic layout - no more pixel pushing",
+            "id": "c90b860ccebb2cef851bcab7fae8e55f"
+          },
+          {
+            "type": "html",
+            "text": " widget library (400+ pre-made)",
+            "id": "9320b39e05759678a3e727900d693d3f"
+          },
+          {
+            "type": "html",
+            "text": " responsive web design - breakpoints, content wrapping, fluid designs",
+            "id": "241f2af65e7697db8bb0a262fcb1c7f5"
+          },
+          {
+            "type": "html",
+            "text": " interactions - clickthrus, mouse events",
+            "id": "e04fd8227427f596087e46727e5e5e85"
+          },
+          {
+            "type": "html",
+            "text": " wireframes, visual design, prototypes",
+            "id": "7062b6eb1aaff2c446fd0821aafc7c38"
+          },
+          {
+            "type": "html",
+            "text": " iOS Viewer",
+            "id": "26df4c81617813a8739d3646cdb00202"
+          },
+          {
+            "type": "html",
+            "text": " web viewer",
+            "id": "c29273866b5cb3e4826f2b94f7fad9eb"
+          },
+          {
+            "type": "html",
+            "text": " OS X viewer",
+            "id": "d1dd2d3ef397efeaf964286ee812df2c"
+          },
+          {
+            "type": "html",
+            "text": " Mac OS X only",
+            "id": "38b194a3ef76c72416287bfa89c17a55"
+          },
+          {
+            "type": "html",
+            "text": " 30 day free trial - [http://antetype.com/download antetype.com]",
+            "id": "64037e11bf71813f53a44aa59718b3f0"
+          },
+          {
+            "type": "html",
+            "text": " Examples and Inspiration : [http://cotype.antetype.com cotype.antetype.com]",
+            "id": "b66433a615c1ea06358dbe8abb3c9362"
+          },
+          {
+            "type": "html",
+            "text": "\nApp Mockup Tools",
+            "id": "423321eec066765427a07ed0c84a5cbe"
+          },
+          {
+            "type": "html",
+            "text": " Get it now! [http://www.appmockuptools.com www.appmockuptools.com]",
+            "id": "1ef751d6c53dc677d8b2c7cb2fc7b3f3"
+          },
+          {
+            "type": "html",
+            "text": " For easy app wireframing and prototyping of Iphone and iPad Apps",
+            "id": "cf64e3a58c5bb1410892f0381020348d"
+          },
+          {
+            "type": "html",
+            "text": " iOS GUI Element Kits - in wireframe, prototype and custom kits",
+            "id": "61e4e98ac99587f15f12eb73d2ed368d"
+          },
+          {
+            "type": "html",
+            "text": " Hundreds of pre-designed fully editable iOS GUI elements",
+            "id": "a2f0a57a55c4b24300773dcd0626bca7"
+          },
+          {
+            "type": "html",
+            "text": " Create interactive clickable app prototypes and wireframes by copy and pasting",
+            "id": "a6877e945e42663ba78eeadc72e55746"
+          },
+          {
+            "type": "html",
+            "text": " No coding required. Easy and fast.",
+            "id": "4d3e1123ccd0a8152cbe20f3b3679e30"
+          },
+          {
+            "type": "html",
+            "text": " Use within Apple Keynote",
+            "id": "fe54b31b3578b70bde958bb73d99c192"
+          },
+          {
+            "type": "html",
+            "text": " Share your prototypes or present to your client",
+            "id": "0db99bc7cf91056cb585c6b0353349fe"
+          },
+          {
+            "type": "html",
+            "text": " App Sketchpads to sketch you app ideas - Printable PDF download",
+            "id": "036814b007f7bcea9d977f548c0411b7"
+          },
+          {
+            "type": "html",
+            "text": " No monthly fees",
+            "id": "6cf49e2d251f2f582c2259025f50222f"
+          },
+          {
+            "type": "html",
+            "text": " More info! [http://www.appmockuptools.com www.appmockuptools.com]",
+            "id": "096748f670dc3360947eb5dd3d688360"
+          },
+          {
+            "type": "html",
+            "text": "\nApp Sketcher",
+            "id": "072b85129fdc941ac4f3a5da2c444bfa"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial",
+            "id": "0a187c825915a0971a448a32b8a9752f"
+          },
+          {
+            "type": "html",
+            "text": " creates interactive web prototypes using HTML and jQuery components without coding",
+            "id": "87210f309ff38514bbadfef29a2c1d8a"
+          },
+          {
+            "type": "html",
+            "text": " makes your ideas real and tangible for clients in minutes",
+            "id": "6222b17bac7393e53484f95cb173d757"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.appsketcher.com www.appsketcher.com]",
+            "id": "846ddeac41cda71d8e7b10f20ddb1c44"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Auto It]]",
+            "id": "bc5ab506529b47d6666700a147879ac9"
+          },
+          {
+            "type": "html",
+            "text": " Makes claims to be a GUI RAD tool. It's primarily a GUI \"movement\" script system to automate repetitive GUI tasks, but also has GUI building abilities.",
+            "id": "54c34bf99375f3995538330dd912810a"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.autoitscript.com/ www.autoitscript.com]",
+            "id": "1edecc292f652f851039d562bdbb8f38"
+          },
+          {
+            "type": "html",
+            "text": " Not data-driven [[Out Of The Box]], but its good file handling capabilities make it programmable.",
+            "id": "ba1e328bfe6abe518254c3de1c4eb9db"
+          },
+          {
+            "type": "html",
+            "text": " Here is one way to make it data-driven: Write an interpreter in [[Auto It]]. The interpreter interprets a text file of custom commands. The text file can be output from a database, and/or manually edited.",
+            "id": "c0cb81df2c2acb0bf3d7fa76fa920801"
+          },
+          {
+            "type": "html",
+            "text": "\nAxure",
+            "id": "1180d68a26190abf917857a2f13245bf"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial - expensive $$$",
+            "id": "789d7924660cb09faf6c550869e8ef07"
+          },
+          {
+            "type": "html",
+            "text": " full-featured, mature desktop application",
+            "id": "a6bc6a7c3c4d033e82ddb8a76543e83b"
+          },
+          {
+            "type": "html",
+            "text": " create wireframes, prototypes, and specifications for applications and web sites",
+            "id": "07e6e7621acc1f13686c098c8c9a3ba7"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.axure.com/Default.aspx www.axure.com]",
+            "id": "cc63708cf782ef183cb630f550ca9340"
+          },
+          {
+            "type": "html",
+            "text": "\nBalsamiq Mockups",
+            "id": "4bd429334b4b46be00aef13671419aaa"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial - $$",
+            "id": "f36a41a14781e64398b11016b281e391"
+          },
+          {
+            "type": "html",
+            "text": " creates high level mockups in a \"hand drawn\" style",
+            "id": "3ba6738f8ae1918900419dd4a7ff7edb"
+          },
+          {
+            "type": "html",
+            "text": " Cross platform and integrative (for Confluence, JIRA, XWiki)",
+            "id": "b51920b04a406c820a942ae6986be05d"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.balsamiq.com/products/mockups/desktop www.balsamiq.com]",
+            "id": "7b2551aadf7899d6f1fe8a76226c6d13"
+          },
+          {
+            "type": "html",
+            "text": "\nNinjamock",
+            "id": "18f3ce2b907949a674a9e05648a1e5b2"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, free for non commercial use, commercial - $$",
+            "id": "b399375f5cb327b7f12821ae359d20c7"
+          },
+          {
+            "type": "html",
+            "text": " creates high level mockups in a \"hand drawn\" style",
+            "id": "3ba6738f8ae1918900419dd4a7ff7edb"
+          },
+          {
+            "type": "html",
+            "text": " HTML5 web based, running on all platforms",
+            "id": "f658a80b6f8376ddee05189e0dc508d0"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.ninjamock.com www.ninjamock.com]",
+            "id": "d6817ae7e397cc830cde63a897fec13a"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://concept.ly concept.ly]",
+            "id": "eeedacc4f7af3c90a14e04eac3124828"
+          },
+          {
+            "type": "html",
+            "text": " Free prototyping tool.",
+            "id": "cf99be9c6094ede344f9a6cb595e2733"
+          },
+          {
+            "type": "html",
+            "text": "\nBlueprint",
+            "id": "7d8f02e71464cb3363cff6f7e67dd1fe"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial - $$",
+            "id": "f36a41a14781e64398b11016b281e391"
+          },
+          {
+            "type": "html",
+            "text": " works on iPad",
+            "id": "121e60680119c7c8794ee91e4d833d89"
+          },
+          {
+            "type": "html",
+            "text": " iPhone(or iPad) UI design application",
+            "id": "402555f263bb9783771e87a98bd7673b"
+          },
+          {
+            "type": "html",
+            "text": " simple drag&drop interface",
+            "id": "240072f68e9e867351ea2679c447b302"
+          },
+          {
+            "type": "html",
+            "text": " [[App Store]] link:[http://itunes.apple.com/us/app/blueprint/id405203705?mt=8 itunes.apple.com]",
+            "id": "233f002de0262a0c50fd3e96b3f2d772"
+          },
+          {
+            "type": "html",
+            "text": " Homepage:[http://www.groosoft.com/2010/12/blueprint-video-tutorial.html www.groosoft.com]",
+            "id": "ba199d5f08bc06d27f98fec0b9fb2c20"
+          },
+          {
+            "type": "html",
+            "text": "\nCreately",
+            "id": "17bc2a60610986e6cb6af52b63185cfa"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, free w/ watermark & other limitations or monthly usage fee - $/$$",
+            "id": "9a889aaf0e6f111758f719c4ca3a4549"
+          },
+          {
+            "type": "html",
+            "text": " creates diagrams, wireframes, web and desktop UI mockups",
+            "id": "df4b474889139736fb10d7e49be94be7"
+          },
+          {
+            "type": "html",
+            "text": " has collaboration features and contextual toolbars",
+            "id": "7d0ab58539419bb4955b4bf89d51b606"
+          },
+          {
+            "type": "html",
+            "text": " Online Adobe Flash-based application",
+            "id": "cfa40f229a18bfc47183899c79b8a5a1"
+          },
+          {
+            "type": "html",
+            "text": " [http://creately.com/ creately.com]",
+            "id": "6914d7c24f775999e8c02c358a4254b8"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Designer Vista]]",
+            "id": "cc737564f63fc7b9f2e28652a6bf84a2"
+          },
+          {
+            "type": "html",
+            "text": " Quick mockup tool to create mockups for desktop applications, websites and mobile applications",
+            "id": "ad8bb85158448fc687aaaf77450db140"
+          },
+          {
+            "type": "html",
+            "text": " Desktop mockup tools: Windows,dialogs,wizards GUI mockups,  Office ribbon applications, .NET, Swing and SWT applications GUI mockups.",
+            "id": "0e0726c5ba212981466802e13c60e660"
+          },
+          {
+            "type": "html",
+            "text": " Website mockup tools: Web pages, forms, navigation panels, web buttons mockup, Silverlight, Sharepoint and YUI web application mockups.",
+            "id": "16c299050a0ba4189202e05cacaf0854"
+          },
+          {
+            "type": "html",
+            "text": " Mobile mockup tools: Blackberry, Android, iPhone,iPad, iPod, Safari and Windows Phone 8 with tablet mockups",
+            "id": "9fb4050dc6bac04a2aa3c4de59981eb0"
+          },
+          {
+            "type": "html",
+            "text": " Mockup themes: Native, Sketch and custom themes",
+            "id": "5b0d04b351ff99baccf19b2faef038c5"
+          },
+          {
+            "type": "html",
+            "text": " UI Spec: Add notes to developers for UI controls and GUI designs",
+            "id": "695f896fd545b9c47cb2c7d8590db154"
+          },
+          {
+            "type": "html",
+            "text": " Export and share mockup designs: Save mockups as image files, PDF, HTML files and share with your clients",
+            "id": "5a1e4f909a913b36082ffcb6359b535b"
+          },
+          {
+            "type": "html",
+            "text": " Click-through prototyping and wireframing ",
+            "id": "da405d034299f3548caf5191f3faf8db"
+          },
+          {
+            "type": "html",
+            "text": " [[Designer Vista]] mockup tool website: [http://www.designervista.com www.designervista.com]",
+            "id": "7eda355c03b5cdbf1de29fa7d830816f"
+          },
+          {
+            "type": "html",
+            "text": "\nDenim",
+            "id": "266c90f18a80b1eb942faab40f838cb0"
+          },
+          {
+            "type": "html",
+            "text": " free, sketching with a light pen",
+            "id": "1d1b8f7f7650da09762708e2d6ed3afc"
+          },
+          {
+            "type": "html",
+            "text": " [http://dub.washington.edu/denim/ dub.washington.edu]",
+            "id": "42127b1afddc693416bad9dd867f8dca"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Easy Prototype]]",
+            "id": "0b7c74ec3e8ba251f6148bbb36c722ed"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial",
+            "id": "0a187c825915a0971a448a32b8a9752f"
+          },
+          {
+            "type": "html",
+            "text": " works with scanned images of sketches",
+            "id": "eec4c269f3dc716a438eb010d3679bd3"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.easyprototype.com www.easyprototype.com]",
+            "id": "4142b04b1bee058097758c302b1e2c11"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Flair Builder]]",
+            "id": "f4df006a98b8d73959da4dac0593e219"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial",
+            "id": "0a187c825915a0971a448a32b8a9752f"
+          },
+          {
+            "type": "html",
+            "text": " creates interactive wireframes for websites and desktop software",
+            "id": "e3ae78f73b15c0c651444b93e85c34a3"
+          },
+          {
+            "type": "html",
+            "text": " cross-platform, runs on Adobe AIR",
+            "id": "8e7bfc53d5d7a478cb1493227fbc5650"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.flairbuilder.com/ www.flairbuilder.com]",
+            "id": "2b092364ea07076ec51c7fa90428adf5"
+          },
+          {
+            "type": "html",
+            "text": "\nFluidIA",
+            "id": "33667f3038e330627a672d503f2ac667"
+          },
+          {
+            "type": "html",
+            "text": " open source & openly designed",
+            "id": "2eb3ae7ed1c3041630ef6ec4af09dfda"
+          },
+          {
+            "type": "html",
+            "text": " agile UI prototyping",
+            "id": "c7fc7b85137a8cc5326395a81ee31986"
+          },
+          {
+            "type": "html",
+            "text": " web based",
+            "id": "ebed93898f875972a6bb710b44dc7761"
+          },
+          {
+            "type": "html",
+            "text": " alpha stage",
+            "id": "0a967de38d10ddc7bc4f20026e55dd68"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.fluidIA.org www.fluidIA.org]",
+            "id": "a56749cdacfd3a68e7e97a80ade7afea"
+          },
+          {
+            "type": "html",
+            "text": "\nFluid UI - Mobile Mockups",
+            "id": "417778fcad4279ea931d4914fe4a96d3"
+          },
+          {
+            "type": "html",
+            "text": " Specialized tool, commercial ",
+            "id": "f6f1446e010987e0c382b5711dc84be9"
+          },
+          {
+            "type": "html",
+            "text": " Custom built for mobile prototyping and wireframing",
+            "id": "4a41cb8bfe1bf765e373c3b80cc5d6f5"
+          },
+          {
+            "type": "html",
+            "text": " Includes touch gestures and animated page transitions",
+            "id": "a5815550f4ef3de8a49a7f18d0516fa3"
+          },
+          {
+            "type": "html",
+            "text": " Create mockups for iPhone and Android, iPad and tablet apps or sites",
+            "id": "72ae93bf996063b3ad81fab31a7fa683"
+          },
+          {
+            "type": "html",
+            "text": " Comprehensive Android, iPhone, iPad and Android tablet UI libraries",
+            "id": "bfe1aa0b53ccaf2ed03dca4949d45bb9"
+          },
+          {
+            "type": "html",
+            "text": " Simple drag and drop operation, visual linking system",
+            "id": "4f53be3e522e4457e2e15bf6bdd2da1f"
+          },
+          {
+            "type": "html",
+            "text": " QR mockups directly to phone for testing, presenting",
+            "id": "935aa9836aa5d50c2443ff3615a227ef"
+          },
+          {
+            "type": "html",
+            "text": " Standalone cross platform HTML5 web interface",
+            "id": "1544c714fb448d5dada7eaa203225f65"
+          },
+          {
+            "type": "html",
+            "text": " Free accounts, monthly subscription, no contract",
+            "id": "3ad29e1a84d3933ad2135236593d552b"
+          },
+          {
+            "type": "html",
+            "text": " Try it now: [http://www.fluidui.com/editor www.fluidui.com] ",
+            "id": "17fec536ab5847bada6762e34f7b8037"
+          },
+          {
+            "type": "html",
+            "text": " More info: [http://www.fluidui.com www.fluidui.com]",
+            "id": "c159cdca5f3ba5cbd6801a80748daf04"
+          },
+          {
+            "type": "html",
+            "text": "\nForeUI",
+            "id": "bf1a7ded5aa8b6ee86df3388ec8dbaf7"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial",
+            "id": "0a187c825915a0971a448a32b8a9752f"
+          },
+          {
+            "type": "html",
+            "text": " easily create interactive prototype for web site or application.",
+            "id": "1e571b32cc5c40d720527b5aab0f7975"
+          },
+          {
+            "type": "html",
+            "text": " support various UI themes: hand drawing, wireframe, Windows XP, Mac OS X and Windows 7",
+            "id": "04728ec945630a8e3fe1b5d2b0ee4e3c"
+          },
+          {
+            "type": "html",
+            "text": " run HTML5 simulation in web browser.",
+            "id": "508febb6acf9e7f942e35dd6e020a43a"
+          },
+          {
+            "type": "html",
+            "text": " prototype can integrate with real web service via JSONP APIs. ",
+            "id": "8f5d5fb9acf4ad2c07c5223d2bd09f1f"
+          },
+          {
+            "type": "html",
+            "text": " customized element and library supported.",
+            "id": "4d7d0847f98c0efb1ccf6293f1b9dc4c"
+          },
+          {
+            "type": "html",
+            "text": " online resource download: [http://www.foreui.com/store/ www.foreui.com]",
+            "id": "ee07f1c5a7484d64e2b74e928786b052"
+          },
+          {
+            "type": "html",
+            "text": " export prototype to images, PDF or DHTML file",
+            "id": "810e8bb91be3a304596d0daafedf1595"
+          },
+          {
+            "type": "html",
+            "text": " cross platform (Windows, Mac OS X, Linux and Solaris)",
+            "id": "0991044acadd83fc25820a475829b23a"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.ForeUI.com www.ForeUI.com]",
+            "id": "c2ed2e207cb4afccb16d9fe9a49809d2"
+          },
+          {
+            "type": "html",
+            "text": "\nGUI Design Studio, by Carreta Software",
+            "id": "02ec46072571630e17e431eb870e51f0"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool",
+            "id": "279a143f60ee57c508263d0c7ec5a9de"
+          },
+          {
+            "type": "html",
+            "text": " expensive $$$",
+            "id": "f036232120e5be03a5b07afc383326c7"
+          },
+          {
+            "type": "html",
+            "text": " visual styles for Windows Vista, XP, NT or low-fidelity outlines + office ribbon bar style interfaces",
+            "id": "da98f324d1d18302899b6df109eaaf9a"
+          },
+          {
+            "type": "html",
+            "text": " connect screens or pages to create interactive prototypes",
+            "id": "3740a200e0d770239c25a377cd89c159"
+          },
+          {
+            "type": "html",
+            "text": " generate HTML, PDF or RTF specification documentation",
+            "id": "9c0b2298917749fcb3bcacbd7629d416"
+          },
+          {
+            "type": "html",
+            "text": " export designs as images to file or clipboard or share projects with a free viewer",
+            "id": "f966ad7d5b7fd6aa4bc38a365f4ac4c9"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.carettasoftware.com www.carettasoftware.com]",
+            "id": "32c4b7e34d71ad665c3095a64657edde"
+          },
+          {
+            "type": "html",
+            "text": "\nGUI Machine, by Alee Software",
+            "id": "8bf9641df5aa7f1fb499f4ff454c1032"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool",
+            "id": "279a143f60ee57c508263d0c7ec5a9de"
+          },
+          {
+            "type": "html",
+            "text": " high-fidelity prototypes of desktop and web applications",
+            "id": "6a7105356d3fd7eadec95b6f7cfc9bf2"
+          },
+          {
+            "type": "html",
+            "text": " create fully interactive prototypes without coding",
+            "id": "507b7f723eb5eada583d4a11d126c8d3"
+          },
+          {
+            "type": "html",
+            "text": " export prototype into ready to lunch application, export screenshots, open projects in free Demo version",
+            "id": "ef6247121eb7eb83ab3583225ef913e9"
+          },
+          {
+            "type": "html",
+            "text": " cross-platform: Windows, Linux, Mac OS",
+            "id": "c1fa6e92e36271dd032ca638b6302ece"
+          },
+          {
+            "type": "html",
+            "text": " [http://gui-machine.com gui-machine.com]",
+            "id": "e7ffd558870767b46c143ba0be9d6221"
+          },
+          {
+            "type": "html",
+            "text": "\nHandcraft",
+            "id": "36a9a7cd67e5f8f1df25d56981f506f7"
+          },
+          {
+            "type": "html",
+            "text": " Create interactive HTML prototypes.",
+            "id": "62db2fb3bc77fbad054a150fdbf8c2f2"
+          },
+          {
+            "type": "html",
+            "text": " Host a static website (HTML/CSS/Javascript) for free.",
+            "id": "fb8501d9df3b1b86aff06731cb1e5db9"
+          },
+          {
+            "type": "html",
+            "text": " Web-based service with free trial; plans start at $9/month",
+            "id": "7e168ef25ab306e092af70adc8759fc8"
+          },
+          {
+            "type": "html",
+            "text": " Intended for designers who can write HTML, CSS and javascript. No drag/drop wireframes!",
+            "id": "574cc661857aac70defc662acad7104e"
+          },
+          {
+            "type": "html",
+            "text": " Use it after wireframes/Photoshop but before development",
+            "id": "a4c1ed5770efc0e36d3686f0739af053"
+          },
+          {
+            "type": "html",
+            "text": " Extends HTML with tags built specifically for prototyping, including layouts, pages, parts, conditionals, loops, variables and functions",
+            "id": "b4d1dc4b85ffd283cfbc36a797596bc5"
+          },
+          {
+            "type": "html",
+            "text": " Includes popular javascript libraries & icon sets out of the box",
+            "id": "408d141aba56f9f4a876ba05f718d153"
+          },
+          {
+            "type": "html",
+            "text": " Includes sharing, backups, versioning, export",
+            "id": "cee1ba1ba11ead1fa0ac0e3fd99ab8c5"
+          },
+          {
+            "type": "html",
+            "text": " Support for HTMl, CSS, Javascript, Less, Coffeescript, Markdown, and more",
+            "id": "62e23da60907af046287812907232b97"
+          },
+          {
+            "type": "html",
+            "text": " [http://handcraft.com handcraft.com]",
+            "id": "60e723f159e3eef02aad71491d49c2a9"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Hot Gloo]] - Wireframe UX Prototyping Tool",
+            "id": "c633912b4ae35812f4350aff35d69d2e"
+          },
+          {
+            "type": "html",
+            "text": " Web-based Operation",
+            "id": "10a1cf50d780555b5a4439191e32a3f5"
+          },
+          {
+            "type": "html",
+            "text": " Intuitive Usability",
+            "id": "b12611df22a891fc4019ad0697b0ab04"
+          },
+          {
+            "type": "html",
+            "text": " Improved Communication",
+            "id": "082e04c552b9ff2b74a53706222d732d"
+          },
+          {
+            "type": "html",
+            "text": " Smooth Collaboration",
+            "id": "e4d57336b689c5f311d6c762125a07b8"
+          },
+          {
+            "type": "html",
+            "text": " [[Hot Gloo]] lets you create and share interactive website and webapp wireframes. ",
+            "id": "acd6c83e589721999fa62b4b721260e3"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.hotgloo.com www.hotgloo.com]",
+            "id": "4a7d88d2eb3fdd3591e617b8999fd047"
+          },
+          {
+            "type": "html",
+            "text": "\nHimalia Guilder:",
+            "id": "c40ad4187d7822a47bb8c249d73cd7dc"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool",
+            "id": "279a143f60ee57c508263d0c7ec5a9de"
+          },
+          {
+            "type": "html",
+            "text": " modeling and prototyping",
+            "id": "c83c3612495e5001e5e02fd82cb4170e"
+          },
+          {
+            "type": "html",
+            "text": " platform independent",
+            "id": "8365b8810c6255fdbd6aaf2d953e363d"
+          },
+          {
+            "type": "html",
+            "text": " not priced yet",
+            "id": "9323af758768920eb2a98fec1a0b3894"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.himalia.net www.himalia.net]",
+            "id": "9adb8d48541ad13510aa2998efda2e9d"
+          },
+          {
+            "type": "html",
+            "text": "\nInkscape - General Vector Graphics Tool",
+            "id": "eb09a6051e4950d881964a846cf24a6a"
+          },
+          {
+            "type": "html",
+            "text": " Free and Open Source",
+            "id": "9ffc606963213e1b902eb5494071059a"
+          },
+          {
+            "type": "html",
+            "text": " Runs well on Windows and of course Linux. Mac OS X not so well.",
+            "id": "46180f33aac6f626cf2212fd884fa9c2"
+          },
+          {
+            "type": "html",
+            "text": " Easy to export PNGs using the \"Selection\" option. Just draw a box around your wireframe and export easily to PNGs. It even saves your file names.",
+            "id": "3a35510cdf88b31955ea9c29ed11e81c"
+          },
+          {
+            "type": "html",
+            "text": " Use \"Clone tool\" alt-d to create copies of an original. Save the clone in a special part of your document to easily make global changes.",
+            "id": "1a256b863725ed6c5347ca07f0a965ac"
+          },
+          {
+            "type": "html",
+            "text": " I suggest keeping all wireframes in one document to take advantage of the above options!",
+            "id": "e2d2b2338e3192eb04ed7de6b4cfc1ad"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.inkscape.org/ www.inkscape.org]",
+            "id": "0c295fca6bc9e9df694fc1e15dafd306"
+          },
+          {
+            "type": "html",
+            "text": "\nInsitui - Wireframe prototype software for web companies and their clients:",
+            "id": "b76b926639080edf08ee39ff3360457c"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool",
+            "id": "279a143f60ee57c508263d0c7ec5a9de"
+          },
+          {
+            "type": "html",
+            "text": " create wireframes, and prototypes for web sites send your client a working link",
+            "id": "5c9995e927188674b81be17c4d118c55"
+          },
+          {
+            "type": "html",
+            "text": " native browser look and feel",
+            "id": "86eb587845f0fa78b1d11ea31e329138"
+          },
+          {
+            "type": "html",
+            "text": " drag and drop elements",
+            "id": "88e4110960283ee778ce167ba5878be5"
+          },
+          {
+            "type": "html",
+            "text": " online tool",
+            "id": "039a6c95690ae7c2e8344aa4815887eb"
+          },
+          {
+            "type": "html",
+            "text": " pay per use - $",
+            "id": "49f5615cd2f1a9ca2bdb6bf93889a7f6"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.insitui.com www.insitui.com]",
+            "id": "e1ae688507cf781947f7b4c7a7d9f9d5"
+          },
+          {
+            "type": "html",
+            "text": "\nKeynotopia ",
+            "id": "3430b864cebabb97ec883859d07fddad"
+          },
+          {
+            "type": "html",
+            "text": " Create wireframes and high-fidelity prototypes for mobile, web, and desktop applications ",
+            "id": "d24a028cdfa3c52059a8d15824874a26"
+          },
+          {
+            "type": "html",
+            "text": " Make your prototypes clickable and interactive without writing a single line of code ",
+            "id": "40622690f49bd8302adeba0c796550ff"
+          },
+          {
+            "type": "html",
+            "text": " Use tools you know to prototype like a pro - Apple Keynote, Microsoft [[Power Point]], or/and Open Office ",
+            "id": "912a154898b683dce7ce03fca23aaa4e"
+          },
+          {
+            "type": "html",
+            "text": " Annotate and share prototypes with your team instead of long spec documents",
+            "id": "7c0af5e3c43cd9a339e24a9e8051374f"
+          },
+          {
+            "type": "html",
+            "text": " Export and test your prototypes on phones and tablets without doing extra work",
+            "id": "b3730841d171636ab83d535f2f2cba81"
+          },
+          {
+            "type": "html",
+            "text": " Turn wireframes into pixel-perfect (ready for development) prototypes with just a few clicks ",
+            "id": "c7e35ba4e81528d9f92998d3fa9bbfa2"
+          },
+          {
+            "type": "html",
+            "text": " Thousands of vectors and icons are royalty-free (use your prototypes for commercial applications)",
+            "id": "db17ec7a4c4954b2e86683a71809458e"
+          },
+          {
+            "type": "html",
+            "text": " Downloadable templates that can be used on PC, Mac, Linux",
+            "id": "b99e77472a97666b2956740ead36e230"
+          },
+          {
+            "type": "html",
+            "text": " Pay per user- one time fee for unlimited use",
+            "id": "2798addb768ad930b1b1c18cbe8f9567"
+          },
+          {
+            "type": "html",
+            "text": " [http://keynotopia.com/ keynotopia.com]",
+            "id": "b3374e012ef2e50c07c045b05c288c4e"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Java Fx]]",
+            "id": "07b664c8788a685b659b995cc0ed302d"
+          },
+          {
+            "type": "html",
+            "text": " Based on [[Java Swing]], but with allegedly simpler syntax.",
+            "id": "1e9ce236266464c0a0435fa6e0cf804d"
+          },
+          {
+            "type": "html",
+            "text": " Meant to partially compete with Flash and related Adobe tools",
+            "id": "b8f6389e86beaa0530ec5071eb189829"
+          },
+          {
+            "type": "html",
+            "text": " [http://javafx.com javafx.com]",
+            "id": "097502fab2c17829ad625fac805f10bf"
+          },
+          {
+            "type": "html",
+            "text": "\njBart",
+            "id": "7756fb462ec47a028a754ab59664a8ac"
+          },
+          {
+            "type": "html",
+            "text": " Specialized in interactive UI. E.g. interactive visual search boxes, interactive filters, Master-Detail, Calculators, etc.",
+            "id": "1a93c1194383fdcd2bbb66a7541d74b4"
+          },
+          {
+            "type": "html",
+            "text": " Completely web based. You can save your prototype and send a link.",
+            "id": "08d8298a41f07ae2d3dfaf551114af55"
+          },
+          {
+            "type": "html",
+            "text": " Rich - From visual development to hard coding html, css and javascript.",
+            "id": "a8a932e4d805c292021c63382774df51"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.artwaresoft.com www.artwaresoft.com]",
+            "id": "e6c777d5fa8f3998708375b369505a4a"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Jot Form]]",
+            "id": "314f72e539d318708002fbba0688d404"
+          },
+          {
+            "type": "html",
+            "text": " Web-based",
+            "id": "883af50498a18c51c6412a074664410a"
+          },
+          {
+            "type": "html",
+            "text": " Only rough positioning control, but sufficient for quick proto-types",
+            "id": "52f11cf4eaf96e596a0817414fc41813"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.jotform.com/ www.jotform.com]",
+            "id": "e73c166872b8b8eb0919c125d710fba3"
+          },
+          {
+            "type": "html",
+            "text": "\nJustinmind Prototyper",
+            "id": "6d92fa95102e65685a3c5f413b3ef7fd"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, expensive $$$",
+            "id": "7be9ee1bf651b745e0252af9d21da318"
+          },
+          {
+            "type": "html",
+            "text": " Create high-fidelity application prototypes",
+            "id": "38e222c945fee33c911afaef75caf351"
+          },
+          {
+            "type": "html",
+            "text": " Generate fully functional HTML prototypes and customized MSWord specifications",
+            "id": "d9391cb631a4d673ce20497f61415394"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.justinmind.com www.justinmind.com]",
+            "id": "e244ab11b4b0be167dc72e4fde20f627"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Just Proto]]",
+            "id": "46c962a353e17a70f9b4cce8cdb0fccc"
+          },
+          {
+            "type": "html",
+            "text": " web-based ([[Java Script]])",
+            "id": "f3e4c62ad8ea7bcd030cc86a66c123f1"
+          },
+          {
+            "type": "html",
+            "text": " create fully interactive HTML prototypes",
+            "id": "dca52293f35419545bca14945ef4a3ef"
+          },
+          {
+            "type": "html",
+            "text": " real-time collaboration",
+            "id": "31493fb30341973baea3fa13e6503260"
+          },
+          {
+            "type": "html",
+            "text": " components can be used multiple times",
+            "id": "22b882e1b599e8fc420ec982fc2e63fd"
+          },
+          {
+            "type": "html",
+            "text": " allows you to create iphone, ipad and android apps",
+            "id": "0662f84fac827ea52e33ed863d9b13a2"
+          },
+          {
+            "type": "html",
+            "text": " ssl protection",
+            "id": "1bdeeb95f413ac7da4533d17b40deecc"
+          },
+          {
+            "type": "html",
+            "text": " good prices",
+            "id": "25b113435b6d68406f4b1ae687081b24"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.justproto.com www.justproto.com]",
+            "id": "b3fa77da42957d9216b1f436d6f785c8"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Lucid Chart]]",
+            "id": "35cdf25729775ea50e0e9233689ab41c"
+          },
+          {
+            "type": "html",
+            "text": " rapid prototyping with true interactive experiences",
+            "id": "a8f0b9d905641735a6385580fa267b22"
+          },
+          {
+            "type": "html",
+            "text": " creates diagrams, wireframes, web and desktop UI mockups",
+            "id": "df4b474889139736fb10d7e49be94be7"
+          },
+          {
+            "type": "html",
+            "text": " real time collaboration features",
+            "id": "df9d46bc07f98fdab2625364fb3bddc2"
+          },
+          {
+            "type": "html",
+            "text": " Web-standards based",
+            "id": "1d82097756e7a2140d3534cf8c19c498"
+          },
+          {
+            "type": "html",
+            "text": " [http://lucidchart.com/ lucidchart.com]",
+            "id": "40822489ab18b24c378b24bf84986242"
+          },
+          {
+            "type": "html",
+            "text": "\nLucid Spec",
+            "id": "734636ed12c7b73e7d1b314a0b784cbd"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool,",
+            "id": "c88db1812814a5bbf57229418e813ffb"
+          },
+          {
+            "type": "html",
+            "text": " still in beta, expensive $$$",
+            "id": "096b55960ca50fc1749e5cd24795c7ff"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.elegancetech.com www.elegancetech.com]",
+            "id": "cb671669d2e9f2661cbcf49ba7dd4906"
+          },
+          {
+            "type": "html",
+            "text": "\nLumzy",
+            "id": "e704d49cce0a798fb6b94c1b8ab60893"
+          },
+          {
+            "type": "html",
+            "text": " collaborative",
+            "id": "ca2f839db321882515fa62baa4200885"
+          },
+          {
+            "type": "html",
+            "text": " runs in browser (flash)",
+            "id": "5fac40f567f45f1e8a128e51ad638fa5"
+          },
+          {
+            "type": "html",
+            "text": " decent selection of controls",
+            "id": "5cdda283795756d8980bbf98343ef7b9"
+          },
+          {
+            "type": "html",
+            "text": " skin as sketchy, win, or mac",
+            "id": "c2c9516cf1fde52fb40ddf397076b055"
+          },
+          {
+            "type": "html",
+            "text": " FREE",
+            "id": "91bdfc33350479e61943157485720c5e"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.lumzy.com www.lumzy.com]",
+            "id": "06476cfa161bd5f662cc14d9e190e95d"
+          },
+          {
+            "type": "html",
+            "text": "\nMoqups",
+            "id": "dbde219cb110b957ac4254efaeb0e8b2"
+          },
+          {
+            "type": "html",
+            "text": " FREE",
+            "id": "91bdfc33350479e61943157485720c5e"
+          },
+          {
+            "type": "html",
+            "text": " HTML5/SVG based",
+            "id": "7abbbf8d5f274cbce3477289964e9af7"
+          },
+          {
+            "type": "html",
+            "text": " Easy sharing",
+            "id": "a5de66706ee7b4feddb21d8268b7603a"
+          },
+          {
+            "type": "html",
+            "text": " Extremely fast",
+            "id": "9778bc146d52a771a5d4816105326be4"
+          },
+          {
+            "type": "html",
+            "text": " Also available in the Chrome Store",
+            "id": "d4900c034b15afc4457954738619d67c"
+          },
+          {
+            "type": "html",
+            "text": " [http://moqups.com moqups.com]",
+            "id": "add4e76262003b483ca5b86d249f5093"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Mockup Tiger]]",
+            "id": "2bb18eeab9040afba11ccb60221d8685"
+          },
+          {
+            "type": "html",
+            "text": " Web based HTML5 ",
+            "id": "c96b4245eec499179594380ac7f2d527"
+          },
+          {
+            "type": "html",
+            "text": " Use it on Desktop or host it on your server",
+            "id": "22bd9ba7dbf8c4ceb9cd20ed808282e6"
+          },
+          {
+            "type": "html",
+            "text": " Dashboard and Web widgets (create bar, line, pie, gauges charts)",
+            "id": "b180b76b52d988e8096d245af270f218"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.mockuptiger.com www.mockuptiger.com]",
+            "id": "167b532c28508d329ed2637a8ff90e74"
+          },
+          {
+            "type": "html",
+            "text": "\nMicrosoft Expression Blend",
+            "id": "90f6a84eb1e371d30ae64ae2f31b66d1"
+          },
+          {
+            "type": "html",
+            "text": " prototyping of high-resolution UIs, design of completed UIs",
+            "id": "3b40b2f419be54379c4f28d8d9e2d3f4"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, for interaction design",
+            "id": "33ee23aaf2726e74a23d8b5633205a55"
+          },
+          {
+            "type": "html",
+            "text": " includes Microsoft [[Sketch Flow]] tool, for low-resolution UI prototyping",
+            "id": "d106b6aea3000ab61c26922d0ca97590"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.microsoft.com/expression/products/Blend_Overview.aspx www.microsoft.com]",
+            "id": "77975170e7ccec26d1be44a863c0808e"
+          },
+          {
+            "type": "html",
+            "text": "\nMicrosoft [[Sketch Flow]]",
+            "id": "25c26ef12d6f87227b66fa6c98eb7f8a"
+          },
+          {
+            "type": "html",
+            "text": " rapid prototyping of low-resolution UIs",
+            "id": "50bcf5abf3d67c25404fa44044809142"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, for interaction design",
+            "id": "33ee23aaf2726e74a23d8b5633205a55"
+          },
+          {
+            "type": "html",
+            "text": " part of Microsoft Expression Blend tool, for high-resolution UI prototyping, and for design of completed UIs",
+            "id": "8662143ff9c82eb5d33c60ae2404d686"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.microsoft.com/expression/products/Sketchflow_Overview.aspx www.microsoft.com]",
+            "id": "ad755215c5d094d24cb62292c2e3d570"
+          },
+          {
+            "type": "html",
+            "text": "\nMockflow",
+            "id": "43411403d9fef40f6a461566b91b557b"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial (Basic Account Free)",
+            "id": "b0c6992bee6c467fe959623cd2aba79c"
+          },
+          {
+            "type": "html",
+            "text": " create mockups",
+            "id": "11a81e69cf560ad821000a5379e9094c"
+          },
+          {
+            "type": "html",
+            "text": " cross-platform, runs on Adobe AIR",
+            "id": "8e7bfc53d5d7a478cb1493227fbc5650"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.mockflow.com www.mockflow.com]",
+            "id": "dfeaff694d31bd71b86fdf8d0e181329"
+          },
+          {
+            "type": "html",
+            "text": "\nMockingbird",
+            "id": "5b4933e435f182704506f660d9dec24b"
+          },
+          {
+            "type": "html",
+            "text": " web-based",
+            "id": "9d7a4b0f3d54c5f469edf58f1a773b4c"
+          },
+          {
+            "type": "html",
+            "text": " Beta",
+            "id": "54191182255af4052ac696ae5b6b03c9"
+          },
+          {
+            "type": "html",
+            "text": " [http://gomockingbird.com/ gomockingbird.com]",
+            "id": "5e54afa99e72424753647ea1618e3f2a"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Mockup Screens]]",
+            "id": "595ec75e2d0e5f172d9dd87bd3010997"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, fast, commercial since 2005",
+            "id": "e0a81e74c6045169871a2aa2c148eb4d"
+          },
+          {
+            "type": "html",
+            "text": " create mockups and organize them in scenarios (usecases/stories/whatever)",
+            "id": "0c1dd645db685228a5c803a73a7416b7"
+          },
+          {
+            "type": "html",
+            "text": " present scenario in a slideshow and document the feedback",
+            "id": "6a770b4b6914b8e1daf40f5232ad2f84"
+          },
+          {
+            "type": "html",
+            "text": " annotate mockup screenshots",
+            "id": "e888a8ce46eaa11819643eef725467b5"
+          },
+          {
+            "type": "html",
+            "text": " change skins: XP, Win7, Mac OsX, Web, Black-and-white (to avoid looking finished), etc",
+            "id": "ead2343a7a95bb946fa5cce81100083b"
+          },
+          {
+            "type": "html",
+            "text": " print \"specification\" from mockups and annotations",
+            "id": "00f7349314bc209343b68613ad6fe7ba"
+          },
+          {
+            "type": "html",
+            "text": " no learning",
+            "id": "ee22be21263e67be785004d4d1a5e0fe"
+          },
+          {
+            "type": "html",
+            "text": " you don't have to be a programmer",
+            "id": "5ef78a258932a41e1b1ad64e099020ce"
+          },
+          {
+            "type": "html",
+            "text": " [http://mockupscreens.com mockupscreens.com]",
+            "id": "b83f5e9312916806d29dbb33d5b3dda9"
+          },
+          {
+            "type": "html",
+            "text": "\nNapkin Look & Feel",
+            "id": "c0fb90213bcbe6e07d242811c255d433"
+          },
+          {
+            "type": "html",
+            "text": " opensource skin for Java Swing",
+            "id": "f04138df77fc0df3e7f46f64b96517c6"
+          },
+          {
+            "type": "html",
+            "text": " [http://napkinlaf.sourceforge.net/ napkinlaf.sourceforge.net]",
+            "id": "c9d745a62c789e32e579611377c319a8"
+          },
+          {
+            "type": "html",
+            "text": " Unusual in intent: produces GUIs (pure mock-up, functional, or mixed) that look like a note scrawled on a napkin, to try to force management to intuit that a GUI mock-up does <b>not</b> mean that the product is finished! Primary developer: [[Ken Arnold]]",
+            "id": "091e4b7acf6a640cc4719c99d763a333"
+          },
+          {
+            "type": "html",
+            "text": "\nNotism - Design Collaboration platform for creative teams.",
+            "id": "155c5a3ada4b268db06a4c3a89a824ca"
+          },
+          {
+            "type": "html",
+            "text": " Share and discuss design layouts (JPG, PNG; GIF)",
+            "id": "32147dbd04026d640a956a2158f56d2d"
+          },
+          {
+            "type": "html",
+            "text": " Communicate via Notes, Sketeches and Selections",
+            "id": "8308a98460e070913d8af6d65c4df87c"
+          },
+          {
+            "type": "html",
+            "text": " Create interactive prototypes and run usability tests",
+            "id": "c2fb3f29e42306439ff9fa4563d9d3f1"
+          },
+          {
+            "type": "html",
+            "text": " Solid Task Management",
+            "id": "57c6ac8e919435df22cb9b441fa9fa95"
+          },
+          {
+            "type": "html",
+            "text": " web-based ([[Java Script]])",
+            "id": "f3e4c62ad8ea7bcd030cc86a66c123f1"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.notism.io www.notism.io]",
+            "id": "b598515fcd266a22749c9a12c2fa5d2a"
+          },
+          {
+            "type": "html",
+            "text": "\nPetra, by Cleverlance",
+            "id": "3d7bfb007b8cc22e1498be5d196b26f9"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool",
+            "id": "279a143f60ee57c508263d0c7ec5a9de"
+          },
+          {
+            "type": "html",
+            "text": " expensive $$$",
+            "id": "f036232120e5be03a5b07afc383326c7"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.cleverlance.cz/en/Products/Petra www.cleverlance.cz]",
+            "id": "831c584db5a96e7fd0883ba5ce9ce0b1"
+          },
+          {
+            "type": "html",
+            "text": "\nPencil",
+            "id": "550d4a88fa53136564c261e0e993592e"
+          },
+          {
+            "type": "html",
+            "text": " Free plugin to Firefox 3 and standalone application",
+            "id": "4c4d97160a3e19c739e89bfa7e082afb"
+          },
+          {
+            "type": "html",
+            "text": " Create mockups and export to PNG images",
+            "id": "42736b83da10815dcdc0054b9d434b2e"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.evolus.vn/Pencil/Home.html www.evolus.vn]",
+            "id": "07fa1d1eb4237268afbee26db9990b9e"
+          },
+          {
+            "type": "html",
+            "text": "\nPidoco - A GUI Design Software for clickable Wireframes",
+            "id": "4a7d8ac913af2fd5dc4d89194f409c8d"
+          },
+          {
+            "type": "html",
+            "text": " Fast and easy like Rapid Paper Prototyping, but completely web-based and with many more features!",
+            "id": "6585eacc28234808aa7cafc53ed475c3"
+          },
+          {
+            "type": "html",
+            "text": " Clickable Wireframes",
+            "id": "d4df66c7f9dae822dc39f35151eca16a"
+          },
+          {
+            "type": "html",
+            "text": " Fast and easy UX Prototyping",
+            "id": "3e3d87ef156d51231e75e6a2f7b31b6c"
+          },
+          {
+            "type": "html",
+            "text": " Rich interactions (click, touch, motion)",
+            "id": "32ceb41852e4f9c5644de2d80b9e6928"
+          },
+          {
+            "type": "html",
+            "text": " Simulation of Location Data",
+            "id": "bcad86ee3b2b975b3dde618c0ca29bea"
+          },
+          {
+            "type": "html",
+            "text": " Simulation on Smartphones and Tablets",
+            "id": "06e5303a8ce1ab666d2d11181e904062"
+          },
+          {
+            "type": "html",
+            "text": " Real-time Collaboration and Feedback",
+            "id": "8236f3d8a1e0c70b55d94ff7e8eddfd4"
+          },
+          {
+            "type": "html",
+            "text": " Specification Export Generator",
+            "id": "faadcecf9c3db28061d5cd94a52c7bd2"
+          },
+          {
+            "type": "html",
+            "text": " PNG, HTML, SVG Exports",
+            "id": "7a71121533a51eae9708bec0b7a964cc"
+          },
+          {
+            "type": "html",
+            "text": " Smart Templates",
+            "id": "272d9bdcc5af5703ee2e25a34a76dd96"
+          },
+          {
+            "type": "html",
+            "text": " No Software Installation",
+            "id": "73b82f271fdba8ff7e346eb37bf8c55e"
+          },
+          {
+            "type": "html",
+            "text": " [http://pidoco.com/en pidoco.com]",
+            "id": "0a4ba3f7c5e1a43cf98955aa60ab6ff8"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Power Mockup]]",
+            "id": "e5768c363052fd6a991bb8571e5b1bdb"
+          },
+          {
+            "type": "html",
+            "text": " Wireframe Toolkit for [[Power Point]]",
+            "id": "6c4483533489cffed96edaa311dd1f31"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.powermockup.com/ www.powermockup.com]",
+            "id": "4219751de6c8a4325efa09ce6938837c"
+          },
+          {
+            "type": "html",
+            "text": "\nProto.io",
+            "id": "b8972202f6ea739ad3841b0a74d2c887"
+          },
+          {
+            "type": "html",
+            "text": " Mobile app prototyping",
+            "id": "c1baee2f3d3e283e83e6d6498d0c6a89"
+          },
+          {
+            "type": "html",
+            "text": " Interactions",
+            "id": "5268534aa01a8db6346c39638e01d41a"
+          },
+          {
+            "type": "html",
+            "text": " Screen transitions",
+            "id": "820a6863f3a56067029f36705a1c9158"
+          },
+          {
+            "type": "html",
+            "text": " Touch gestures",
+            "id": "7ae0b3e714b2c278dffff192cb9beddb"
+          },
+          {
+            "type": "html",
+            "text": " Animations",
+            "id": "27744d896212efcf9a84dd23a87af0b2"
+          },
+          {
+            "type": "html",
+            "text": " UI Libraries for iOS, Android, Windows",
+            "id": "c291f7f520f2e0f13b6ad9d9d572f9fd"
+          },
+          {
+            "type": "html",
+            "text": " [http://proto.io proto.io]",
+            "id": "7d0048f1ce7198fb95ef9408974e797f"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Proto Strap]]\nOnline form designer based on the elements of Bootstrap and KendoUI. Supports tabs, collapse, panel and multi-column.",
+            "id": "b0436700f36b25bdd0162b30ee5e1956"
+          },
+          {
+            "type": "html",
+            "text": "[http://protostrap.com protostrap.com]",
+            "id": "261bdb17f6a88361443c790fef2c6637"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Proto Share]]\nWeb-based wireframe software. Users create, review, and refine website and web application prototypes that team members and stakeholders can then review and comment on in real-time. [[Proto Share]] is not a Flash tool; it uses HTML, CSS, and Javascript.",
+            "id": "0ea966ce5db8c65ed7875b83af2f9b3d"
+          },
+          {
+            "type": "html",
+            "text": " Specialized tool, commercial",
+            "id": "6e5bb1b93749adf409a1fd9760471515"
+          },
+          {
+            "type": "html",
+            "text": " Create dynamic website wireframes & prototypes with drag-and-drop interface",
+            "id": "86c1f28d7587e77b6ed267444b8556d9"
+          },
+          {
+            "type": "html",
+            "text": " Web-based collaboration",
+            "id": "660d694b2971767af134bbfbf8ebf98a"
+          },
+          {
+            "type": "html",
+            "text": " Add custom components with HTML, CSS, and Javascript",
+            "id": "069bc1b6b3d4c71cf25daf739cb635f4"
+          },
+          {
+            "type": "html",
+            "text": " Export to a Word specification or web-page for user testing",
+            "id": "296604981ff8fab7112ac9b2b693e991"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.ProtoShare.com www.ProtoShare.com]",
+            "id": "d99fb94f4ea2cfbbd36732f5a327a8a1"
+          },
+          {
+            "type": "html",
+            "text": "\nPrototyper Free",
+            "id": "570d665bf9029150bf6e32cd41ed64c4"
+          },
+          {
+            "type": "html",
+            "text": " create and share clickable prototypes for free",
+            "id": "a44caab483be7e807d644bb9b9307166"
+          },
+          {
+            "type": "html",
+            "text": " Amazing iPhone, Android and web widgets",
+            "id": "d166212cf9e33260ff0b65e5cdf3f22b"
+          },
+          {
+            "type": "html",
+            "text": " Images in motion with clickable regions",
+            "id": "25c02813b74151f470f1fccb59d7fff2"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.justinmind.com/prototyper/free-edition www.justinmind.com]",
+            "id": "3361d483739e3f69116a77cc068f29f2"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Quick Focus]] [[Snap Up]]",
+            "id": "10aaed868f97720aa7719a9327c15422"
+          },
+          {
+            "type": "html",
+            "text": " mockup and prototying tool that allows product managers and UX designers to transfer offline ideas to the web and automatically export a requirements documentation ",
+            "id": "93a9a738a53341154931c8681ee26337"
+          },
+          {
+            "type": "html",
+            "text": " unlimited users & unlimited screens ",
+            "id": "c0294bc58440268d8c7fc8892e5874ee"
+          },
+          {
+            "type": "html",
+            "text": " offline to online wireframe tool ",
+            "id": "11759ccf24404fa96974f9dfcddbda62"
+          },
+          {
+            "type": "html",
+            "text": " HTML generation",
+            "id": "7f8423877305dcd5a7ad3bf2bd972f05"
+          },
+          {
+            "type": "html",
+            "text": " Drag & drop ",
+            "id": "c326fa87e6cd402bb3044b9e3569a395"
+          },
+          {
+            "type": "html",
+            "text": " Real-time collaboration & sharing",
+            "id": "79b18ae182277104c20a8502790eb8cb"
+          },
+          {
+            "type": "html",
+            "text": " re-usable master elements",
+            "id": "bbd8e18bc022a3ad9a26ef2bb0fd8a41"
+          },
+          {
+            "type": "html",
+            "text": " Image recognition",
+            "id": "760f7d0396fc297991c93e7458e86e7e"
+          },
+          {
+            "type": "html",
+            "text": " downloadable PDF & PNG",
+            "id": "480052f17983df7ed3af20e9a133428b"
+          },
+          {
+            "type": "html",
+            "text": " Versioning ",
+            "id": "2433f4ec2e9de797c39151058c572555"
+          },
+          {
+            "type": "html",
+            "text": " Free Lite plan available when you sign up",
+            "id": "7532a675cf091ac56b126c20d14c82d4"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.quickfocus.com/ www.quickfocus.com] ",
+            "id": "1c3061c4fec072866c5d3310e74e7d55"
+          },
+          {
+            "type": "html",
+            "text": "\nScreen<b></b>Architect",
+            "id": "3e171ac2532f848ba4aa1b4f2dd5bb9d"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial",
+            "id": "0a187c825915a0971a448a32b8a9752f"
+          },
+          {
+            "type": "html",
+            "text": " plugin for [[Enterprise Architect]]",
+            "id": "dbeecf3e6b892d5bc7a2644d436b52b7"
+          },
+          {
+            "type": "html",
+            "text": " exports clickable HTML screens",
+            "id": "18b77b0b40bb43d2e922f7bb521f0383"
+          },
+          {
+            "type": "html",
+            "text": " [http://screenarchitect.com/ screenarchitect.com]",
+            "id": "af699b4af680bde07bd6d51e9cdd5a75"
+          },
+          {
+            "type": "html",
+            "text": "\nSerena Prototype Composer",
+            "id": "26e2f9bd14f476155c65b46cca963399"
+          },
+          {
+            "type": "html",
+            "text": " free",
+            "id": "622d1bc33721a3ef031bfd7dfca8af26"
+          },
+          {
+            "type": "html",
+            "text": " very similar to Axure",
+            "id": "4b474e9a2b804a6ace9265ffc60e1725"
+          },
+          {
+            "type": "html",
+            "text": " prototype more than screen mockups",
+            "id": "c0612cf21ef8092a3b129abd3be4b7ec"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.serena.com/products/prototype-composer/index.html www.serena.com]",
+            "id": "a2eb56bd5a3d88627d725acad0c6c3c1"
+          },
+          {
+            "type": "html",
+            "text": "\nSimulify - convey your idea",
+            "id": "e84eefb3a6ad7fa91f43060ccb366e97"
+          },
+          {
+            "type": "html",
+            "text": " browser based tool, commercial",
+            "id": "28782961e76c33ead91100c028b1584e"
+          },
+          {
+            "type": "html",
+            "text": " visualize Applications easily",
+            "id": "849b33448f6ddd2f596c87756a698f76"
+          },
+          {
+            "type": "html",
+            "text": " create interactive websites & application wireframes",
+            "id": "59bf932c361358f7b41468e6b659bfd7"
+          },
+          {
+            "type": "html",
+            "text": " share with clients online & gather feedbacks",
+            "id": "b53067032f0c4a91ae36b6ab0951c040"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.Simulify.com www.Simulify.com]",
+            "id": "73323b7a5a8c22c637f863e523f976ce"
+          },
+          {
+            "type": "html",
+            "text": "\nSketch Lab",
+            "id": "28a60f43c09e56d34a0a6baaaf584f4e"
+          },
+          {
+            "type": "html",
+            "text": " Browser based tool, commercial",
+            "id": "9f4f6e9d8d13c9550c86d899b8dadceb"
+          },
+          {
+            "type": "html",
+            "text": " Export to PDF, PNG, and JPEG",
+            "id": "bb40ec6db6569909c0156af805134f29"
+          },
+          {
+            "type": "html",
+            "text": " Simple and easy to use",
+            "id": "57954965850fc2088befec83acd82e7e"
+          },
+          {
+            "type": "html",
+            "text": " Make sketches public on the web",
+            "id": "1aa130a2e5c49eff8c60a80ec8e2f536"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.sketchlabhq.com www.sketchlabhq.com]",
+            "id": "dbe209c8433f3e4773f5784565e1182e"
+          },
+          {
+            "type": "html",
+            "text": "\nsoftandGUI - UXToolbox",
+            "id": "bf38be5c35d1a79591ada9f626a17c62"
+          },
+          {
+            "type": "html",
+            "text": " Specialized tool, commercial - $",
+            "id": "f3af4f029556c9f51adaca446a97b48e"
+          },
+          {
+            "type": "html",
+            "text": " Easy to use, drag-and-drop interface",
+            "id": "adf6aa6dad529b316df3f453316b3786"
+          },
+          {
+            "type": "html",
+            "text": " Create simplistic sketchy or pixel-perfect high-res mockups",
+            "id": "6b6a5a69974ac4f83a947784716e0963"
+          },
+          {
+            "type": "html",
+            "text": " Create Interactive prototypes",
+            "id": "a2f5209f1f73a87b2dece71c510c84b4"
+          },
+          {
+            "type": "html",
+            "text": " Interaction Cues and Fingertip emulation",
+            "id": "e06bea8b92aa857d357eccde5b74337c"
+          },
+          {
+            "type": "html",
+            "text": " Supports Annotation and documentation generation",
+            "id": "4810c1306d1697e2424450ea568f29dd"
+          },
+          {
+            "type": "html",
+            "text": " Printing",
+            "id": "d7a2b4b1bc56bc1fa9c949a848db2f01"
+          },
+          {
+            "type": "html",
+            "text": " Export to PNG, XML, Word and HTML",
+            "id": "f3a7e805b324cc271512ae0b654b7ae2"
+          },
+          {
+            "type": "html",
+            "text": " Multiple Screen Resolutions and Devices supported",
+            "id": "d99282458391fa93eecf8bff01dddada"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.softandgui.co.uk www.softandgui.co.uk]",
+            "id": "a08fd56c549529570b5c6dc974ad8590"
+          },
+          {
+            "type": "html",
+            "text": "\nStoryboard Suite",
+            "id": "d1f9079cc2e38758f266fdd5b8d1c203"
+          },
+          {
+            "type": "html",
+            "text": " GUI design tool (Storyboard Designer) and runtime engine (Storyboard Engine)",
+            "id": "3da6007b306c744f6ffd5fb775da38ef"
+          },
+          {
+            "type": "html",
+            "text": " WYSIWYG UI Design environment based on Eclipse with complete simulation",
+            "id": "41f54b0ea7bea293cd7aaeebd2acad3e"
+          },
+          {
+            "type": "html",
+            "text": " Import Photoshop PSD files directly to jumpstart UI development",
+            "id": "e36a4e168f0c7fc57d39447ef6d6ce13"
+          },
+          {
+            "type": "html",
+            "text": " Optimized for embedded, resource constrained, environments",
+            "id": "7844505c10dc5acc80ef76b0755d9ad4"
+          },
+          {
+            "type": "html",
+            "text": " Plugin based for feature extension, Lua (www.lua.org) scripting",
+            "id": "a9d69f7a188a31049d648ec8cc84068b"
+          },
+          {
+            "type": "html",
+            "text": " Support for Android/QNX/Linux/WinCE/... using fbdev/directfb/SDL/OpenVG/OpenGL/agtdk/...",
+            "id": "a13eae3ecd06e6621c9a8e9627bc77f2"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.cranksoftware.com/storyboard www.cranksoftware.com]",
+            "id": "af61666ae632e20d8206b9a6a533caa2"
+          },
+          {
+            "type": "html",
+            "text": "\nSmart Draw",
+            "id": "b761a09452dd9318aa6ebf163f188ab7"
+          },
+          {
+            "type": "html",
+            "text": " Generic drawing tool with template for GUI, something like Visio",
+            "id": "4343a0905d9c6d36b350ddedff6d8e56"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.smartdraw.com/examples/gui/ www.smartdraw.com]",
+            "id": "e371b6b540ecdc9f89e48c52cb978830"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Snap Up]]",
+            "id": "ad3f73f3a98182c606451dd09af08b41"
+          },
+          {
+            "type": "html",
+            "text": " mockup and prototying tool that allows product managers and UX designers to transfer offline ideas to the web and automatically export a requirements documentation ",
+            "id": "93a9a738a53341154931c8681ee26337"
+          },
+          {
+            "type": "html",
+            "text": " unlimited users & unlimited screens ",
+            "id": "c0294bc58440268d8c7fc8892e5874ee"
+          },
+          {
+            "type": "html",
+            "text": " offline to online wireframe tool ",
+            "id": "11759ccf24404fa96974f9dfcddbda62"
+          },
+          {
+            "type": "html",
+            "text": " HTML generation",
+            "id": "7f8423877305dcd5a7ad3bf2bd972f05"
+          },
+          {
+            "type": "html",
+            "text": " Drag & drop ",
+            "id": "c326fa87e6cd402bb3044b9e3569a395"
+          },
+          {
+            "type": "html",
+            "text": " Real-time collaboration & sharing",
+            "id": "79b18ae182277104c20a8502790eb8cb"
+          },
+          {
+            "type": "html",
+            "text": " re-usable master elements",
+            "id": "bbd8e18bc022a3ad9a26ef2bb0fd8a41"
+          },
+          {
+            "type": "html",
+            "text": " Image recognition",
+            "id": "760f7d0396fc297991c93e7458e86e7e"
+          },
+          {
+            "type": "html",
+            "text": " downloadable PDF & PNG",
+            "id": "480052f17983df7ed3af20e9a133428b"
+          },
+          {
+            "type": "html",
+            "text": " Versioning ",
+            "id": "2433f4ec2e9de797c39151058c572555"
+          },
+          {
+            "type": "html",
+            "text": " Free Lite plan available when you sign up",
+            "id": "7532a675cf091ac56b126c20d14c82d4"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.quickfocus.com/ www.quickfocus.com] ",
+            "id": "1c3061c4fec072866c5d3310e74e7d55"
+          },
+          {
+            "type": "html",
+            "text": "\nUXPin",
+            "id": "931fed9db07307705dd953580e855e29"
+          },
+          {
+            "type": "html",
+            "text": " Web-Based wireframing and prototyping platform",
+            "id": "f018e9763453f081814f679efc7d93b4"
+          },
+          {
+            "type": "html",
+            "text": " real-time collaboration and live preview",
+            "id": "2c199d7942b04bf9d45b785298a9e2f5"
+          },
+          {
+            "type": "html",
+            "text": " feedback collecting features",
+            "id": "5a18c12aeff0c375583f8948eddccd4d"
+          },
+          {
+            "type": "html",
+            "text": " uploading documentation",
+            "id": "83ce2352c49453c62bdada14ea98155a"
+          },
+          {
+            "type": "html",
+            "text": " version control",
+            "id": "fb9dfb84dae8e378ac82bba465c0736c"
+          },
+          {
+            "type": "html",
+            "text": " export to HTML",
+            "id": "0a259788fbda42a32f91630b448ab15d"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.uxpin.com/ www.uxpin.com]",
+            "id": "bba758210d073489c81b4f761831da65"
+          },
+          {
+            "type": "html",
+            "text": "\nVisio stencils",
+            "id": "de2930f45103edf71bb1febd9306e9b9"
+          },
+          {
+            "type": "html",
+            "text": " Garrett Dimon's IA Stencil(dead link): [http://www.yourtotalsite.com/archives/information_architecture/free_visio_ia_stencil/ www.yourtotalsite.com]",
+            "id": "6f109fe53ae0bbe2e68bf7941f63a975"
+          },
+          {
+            "type": "html",
+            "text": " Henrik Olsen's prototyping tools (GUUUI.COM): [http://www.guuui.com/issues/02_03_02.php www.guuui.com]",
+            "id": "67e26fded56565bf41136964805563f6"
+          },
+          {
+            "type": "html",
+            "text": " Michael Angeles's wireframe stencil: [http://urlgreyhot.com/personal/resources/visio_wireframe_stencil/ urlgreyhot.com]",
+            "id": "5b392869319e4f6e0ee1eed4debe3b92"
+          },
+          {
+            "type": "html",
+            "text": " Nick Fink wireframe stencil: [http://www.nickfinck.com/stencils.html www.nickfinck.com]",
+            "id": "10345cf82ff7f2904b2a4863e261b031"
+          },
+          {
+            "type": "html",
+            "text": " Peter Van Dijck's IABook stencil(dead link): [http://www.iabook.com/template.htm www.iabook.com] ",
+            "id": "a9638a98d7cf8e7f084d598830d340c3"
+          },
+          {
+            "type": "html",
+            "text": " [[Vis Dynamica]] rich interactions stencil: [http://www.visdynamica.com/stencil/ www.visdynamica.com]",
+            "id": "d8905bd93d0b82f36aef8d42aad13df5"
+          },
+          {
+            "type": "html",
+            "text": " Jonathan Abbett GUI wireframe stencil: [http://www.abbett.org/resources/SketchGUIShapes.zip www.abbett.org]",
+            "id": "a0784dbd3d05e8a7463d1b27f5cd76ed"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Wireframe Sketcher]]",
+            "id": "bacb4c668285a4447f5abf561049db1a"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial",
+            "id": "0a187c825915a0971a448a32b8a9752f"
+          },
+          {
+            "type": "html",
+            "text": " Create wireframes, mockups, prototypes for desktop, mobile and web apps",
+            "id": "58da5f3da1c98d33654a58987df80082"
+          },
+          {
+            "type": "html",
+            "text": " Switch between clean and hand-drawn, sketchy themes.",
+            "id": "f7cc6a032988568bb97e4988d1af0f3a"
+          },
+          {
+            "type": "html",
+            "text": " Cross-platform, native UI, standalone and plug-in for any Eclipse IDE",
+            "id": "22cc135e8c6ba1518f9de3cfda8297c6"
+          },
+          {
+            "type": "html",
+            "text": " [http://wireframesketcher.com wireframesketcher.com]",
+            "id": "83cba180dd4207a2453126d508b1913a"
+          },
+          {
+            "type": "html",
+            "text": "\n[[In Preso]] Screens",
+            "id": "0a264f581d3d6fe6e16bac17b28a86a9"
+          },
+          {
+            "type": "html",
+            "text": " specialized tool, commercial",
+            "id": "0a187c825915a0971a448a32b8a9752f"
+          },
+          {
+            "type": "html",
+            "text": " Create mockups for web and standalone applications, many skins (mac os, windows xp, windows vista, sketch, sample) change in single click, use standard gui elements (button, checkbox ...) and many other shapes (arrow, rect ...).",
+            "id": "be2a9b17765a43e1569640a205108887"
+          },
+          {
+            "type": "html",
+            "text": " Standalone cross platform and web interface",
+            "id": "3a78d14bc76604e325f2fb700a23a6da"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.inpreso.com/inpresoscreens/ www.inpreso.com]",
+            "id": "f763cd90a027b642feba557a9206dace"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "Use VB for the demo. I think MS has some \"crippled\" versions for free. VB may suck in many ways, but for throwing a GUI up quick, it is hard to beat.",
+            "id": "3f053e23b759e7696b1ea219b39130ef"
+          },
+          {
+            "type": "html",
+            "text": "<i>- Try to populate tables with data in VB. You just have to be a programmer to do this. My point is that you want the tool that non-programmers can use alike. - [[Igor Jese]]</i>",
+            "id": "cb779ed107002952cc3fc4cdc4a2e3a3"
+          },
+          {
+            "type": "html",
+            "text": "\nMicrosoft needs something in-between MS-Access and VB such that one can have data-driven RAD but also more program-control over the GUI that MS-Access makes difficult.",
+            "id": "1e8d486c46a6d67e7570e8d7162f56ff"
+          },
+          {
+            "type": "html",
+            "text": "''- Perhaps MS [[Light Switch]] is something for you.",
+            "id": "e9e827a04b9e3112b512574b7ddad6d9"
+          },
+          {
+            "type": "html",
+            "text": "[I've built some large applications in Access (100+ tables, 500+ forms, 500+ reports), and hated it. I never wanted to touch it again. Over the past few days, I've been implementing a small (less than ten tables, a few forms, and one report) but crucial application in Access, and I'm reminded that Access is, in fact, a brilliant idea. I'd argue that what's needed is not something between Access and VB, but simply Access done right -- especially for large projects. Its problems suggest to me that the Access development team at [[Micro Soft]] never use it to build and support real applications. If they did, it would be much, much better than it is, and yet it wouldn't have to be dramatically different from what it is now. Of course, over the years there have been a large number of commercial 4GLs built for this purpose, but their expense, awkwardness, and significant limitations (Oracle Forms, anyone?) suggest their developers are no more inclined to eat their own dog food than Microsoft's Access developers.]",
+            "id": "9412b7cd16c435f6b4398de719de7e3f"
+          },
+          {
+            "type": "html",
+            "text": "\nIf they \"fixed it\", it may cut into the sales of their other tools, such as VB.net and/or SQL-Server. MS does not want to compete with them self. I once encountered a Microsoft bug report that said to reduce corruption in Access caused by too many simultaneous users, \"upgrade\" to MS-SQL-Server.",
+            "id": "26e1445e76931582dfc27e65e7c5c02c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "I've been doing simple prototyping in html before, to get a view of the application structure. How about combining this with [[Scalable Vector Graphics]], now when mainstream [[Fire Fox]] supports this? Are there good tools to help with something like this? Or maybe even [[Mozilla Xul]], does anyone have any experience on that? -- [[Claes Wallin]]",
+            "id": "8c880702f43ebd1d0be4f77fa3e507fd"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "Kudos to the [[Wiki Gnome]] that sortificated the list! Thanksifications for ya' from mental Texas.",
+            "id": "9ebbebdc0028541573d3e0f3d4eb6592"
+          },
+          {
+            "type": "html",
+            "text": "<i>You're welcome.</i>",
+            "id": "96e92f5d0f77206732b8fe3ccc431034"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "Thank you, thank you, thank you! I gave up on these things years ago; just for fun I peeked this page when it showed up on [[Recent Changes]] and wow, changed my life. In my very first session with ForeUI I produced a working mockup of the terribly complicated app I'm designing! -- [[Ben Tremblay]]",
+            "id": "00089b1527b5a0db5677b2e0bc8a0039"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "I've used Qt Designer (part of the LGPL Qt SDK) for prototyping desktop apps before. And it is free... -- [[Daniel Goertzen]]",
+            "id": "7868f58162645df5bf4d76081190e3b0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "[http://slowmtn.tumblr.com/post/30597779545/comparison-of-almost-all-interaction-design-software slowmtn.tumblr.com]",
+            "id": "04156868767d7ad05ac5aaef1f8d54c9"
+          },
+          {
+            "type": "html",
+            "text": "\nThe following is a large spreadsheet comparing all the UX / IXD tools I could find - Everything from Wireframing to Prototyping, on the Mac, PC, and Web. Created as a way to determine what programs to use depending on various project needs and thought other interaction designers would find this useful.",
+            "id": "c7c771035380c3454f32ea6694bdd6e6"
+          },
+          {
+            "type": "html",
+            "text": "\nTake a look at the UX / IXD comparison chart, and please do let me know what you think. I would like to maintain ownership of this doc, but am open to constructive criticism, suggestions, etc).",
+            "id": "d67383c98f34cf08a5c85c05db390c78"
+          },
+          {
+            "type": "html",
+            "text": "\nInspired by two articles: A Real Web Design Application by Jason Santa Maria, and Prototyping: Picking the Right Tool by Todd Zaki Warfel",
+            "id": "773acfc4968a308815f56e112c777ad5"
+          },
+          {
+            "type": "html",
+            "text": "- Shlomo Goltz",
+            "id": "14b715bf63de8fd6e875e9010bfa543a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Real Basic]] works. Plus it comes with a built in scripting language. [[Micro Soft]] used RB to prototype the Mac IE5 interface. You can say whatever you want about IE and I'd probably agree with you if it's not salutary, but IE5 had a pretty nice UI.",
+            "id": "379897a78bfe5b92fd1be5e3e4e1ccc0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "We just launched [http://www.webseam.com www.webseam.com] into Open beta. Webseam provides helps web page developers with the review, feedback and approval process. Please have a look and give us any feedback",
+            "id": "81591023928d258e74941d2b88ae800f"
+          },
+          {
+            "type": "html",
+            "text": "\nthanks",
+            "id": "f5fd87a82cd5c9272aee29417e3848d8"
+          },
+          {
+            "type": "html",
+            "text": "\nRichard Pike",
+            "id": "3527c92d33be7e6283aa070e09403179"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "\nI recently published a useful article on mobile login screen design : [http://www.photoshop-plus.co.uk/2012/04/13/clean-mobile-login-screen-tutorial/ www.photoshop-plus.co.uk] -- [[Jim Andrews]]",
+            "id": "f3f70e158d0f8fb5ac6aa4454cd0bced"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "3d0c5d2da6489636a7d3e0a50a8774d2"
+          },
+          {
+            "type": "html",
+            "text": "Can anyone also that may have used these tools in the past give them a review? That would be a great help for beginners stumbling on this page, as it is already very comprehensive. An easy 1-5 stars should suffice with reasons as to why (price, flexibility, how many OS it will work with, etc)",
+            "id": "7359c51c9fda82bd156e3dd1fdbb90a3"
+          },
+          {
+            "type": "html",
+            "text": "-Pete",
+            "id": "9154ab4bd99b21e473be168c51c336aa"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?GuiPrototypingTools c2.com]",
+            "id": "a6a566ba25e11ddf8d3f31c6881400ac"
+          }
+        ]
+      }
+    }
+  ]
+}
