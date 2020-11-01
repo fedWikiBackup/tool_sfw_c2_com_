@@ -1,0 +1,317 @@
+{
+  "title": "Toad Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "TOAD (Tool for Oracle Application Developers): a graphical [[Table Browser]] tool for ad-hoc queries to an Oracle database.\nKinda' like SQL*Plus on steroids.",
+      "id": "b647ea85ffaf11d4b16a02bd6eb7ff56"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's really quite good; doesn't look like a typical VB \"lots o' forms\" app at all.",
+      "id": "cca90610b01e1033e2211712fa360fe0"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://www.toadsoft.com/ www.toadsoft.com]",
+      "id": "aad66573d4e1d8006e7870fbf29c415b"
+    },
+    {
+      "type": "html",
+      "text": "\nHow can they call the \"freeware\" version freeware if it expires?  Is that really freeware?",
+      "id": "4f47c85649269a1b9a02cf11b6cbcd03"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "\nugh... TOAD is great conceptually but has so many small nuisances that I categorize it as a poor implementation.  For example, the commit button gives no feedback (did something happen or not?).  The constrained MDI interface is a gigantic pain when trying to work with more than a couple windows.  Column width\nsettings in a data view are never saved -- you can modify the widths to your heart's desire, click away to another table, and find that all the widths were reset when coming back to the table.  There's no easy way to hide columns in a table without creating a view (too much work if you ask me).  ",
+      "id": "daf4210d7aa371fb76b63da0b97e154e"
+    },
+    {
+      "type": "html",
+      "text": "\nMaybe if the little things were cleaned up I would consider this a good tool, but currently, it goes against the grain of so many things that [[Alan Cooper]] (inventor of VB?) said in [[About Face]].  Compared to SQL*Plus, though, it's fantastic.",
+      "id": "54060bcc4e4b7bf51ca14dd424edc109"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "\nAnd, for some reason, the minimize, maximize and exit buttons on child forms keep disappearing.\nVery odd.",
+      "id": "a113d750473c8b03733fcb214c2f784d"
+    },
+    {
+      "type": "html",
+      "text": "\nYes, it's a >big< improvement over SQL*Plus.",
+      "id": "59c773380ad80e9e847836256e25a828"
+    },
+    {
+      "type": "html",
+      "text": "<i>Also, you can have only one running at a time, and it locks up on long queries:  Run one of our stored procedures that takes 40 to 50 minutes to copy loads of data between databases.  All TOAD windows lock up until it finishes, and you can't bring up a 2nd (unlocked) copy of the program.  This limitation can force you back to using SQL*Plus, which is such a crude tool that you can run as many copies at once as you'd like.</i>",
+      "id": "384edca68ffdc9d19c9427822fdaf309"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "\nClearly, many of the above comments are from much older versions of TOAD.  The current version saves column widths, allows hiding of columns which is also saved.  Min/Max button problem has been resolved.  Oh, and TOAD wasn't written in VB -- it's a Delphi app.  It was originally written in VB but was converted over 2 years ago.",
+      "id": "cffd605ce1147e08ece3117cca2eac73"
+    },
+    {
+      "type": "html",
+      "text": "\nOh, and the MDI interface stays until something better comes along.  The floating/docking SDI interface in VB and Delphi are NOT improvements over MDI.",
+      "id": "9720ef04951145e2dda0935c178422be"
+    },
+    {
+      "type": "html",
+      "text": "\nToadman",
+      "id": "bd48022bc2e3e791fc47e9059f4fcc0b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "\nActually it DOES NOT save column widths.  I am using the latest version and it doesn't remember the width I set my columns to.  Try this, do a select on a table with a large NVARCHAR2 field, do an insert into the table, now do a reselect, doh!  The big ol' column is still a big ol' column. Doh! and double Doh!",
+      "id": "d0c1629fb3fa8bbd11d02e7321bf7786"
+    },
+    {
+      "type": "html",
+      "text": "\nShaddam IV",
+      "id": "b51a49a27da8179b17f0718edc1f36ec"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "\nWhy all these aversions against sqlplus? Oracle is not a simple product that you can get thorough knowledge of with point and click. Using a 'crude' tool like sqlplus will help you to really know Oracle. OK, maybe it is the hard way, but you really know Oracle after using it a few months. After that, you can use TOAD. It is not bad. But know how to do things the hard way, because there are things that only work the hard way. sqlplus is nothing more then a simple sql interface, but for all sql. If you do not know ho to it by pure sql, you might not even get the idea that you could use the sql worksheet of TOAD (which is just like sqlplus). I never saw a TOAD user write sql meta scripts...",
+      "id": "49dbb0d629ff364e98aee0ea9839418b"
+    },
+    {
+      "type": "html",
+      "text": "\nAnd what to do if your network is down, and you must do some maintenance on a server where TOAD is not installed? You want to start learning sqlplus right at that moment? Forget it. And of course, you all refer to sqlplus for windows. In a UNIX environment you have such a lot more possibilities. As a DBA, I use TOAD for the few nice features that cost too much time to do myself with sql scripts. So on average I start it up 1 time per month...",
+      "id": "79205e1b3268c4140f0b27b48cf43cc9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "\nI had difficulty getting Toad to compactly display columns. In some cases it would not let me drag the column borders closer together (I couldn't figure out the pattern for when it let me and when it didn't). Also, it should give the option of using a font other than fixed-pitched for its grid. And, it would not remember my column arrangments on the next instantiation.",
+      "id": "e846dff696a6bf946114d63d88dbe69c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "The UI is pretty bad, like others said. You can't even right-click on a resulting grid cell and copy the text! Also, window management is a nightmare as they use the gray background color that is exactly the same as the drg box. So basically you have to adjust your OS display properties (show window while dragging) to use a single app? I think not. There are way too many icons in weird places, causing clutter, etc. Finally, I've never ever created even one stored procedure that Toad formatted properly. It does aggressive [[Tab Munging]], it's as if, when pressing enter for a new line, a die is rolled and a random amount of tabs are added.",
+      "id": "315a3b30aeff7f71a027a6080d16ff6b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "See [[Table Oriented Tool Wish List]], [[Whats Been Done In Vb Classic]], [[Whats Been Done In Smalltalk]]",
+      "id": "650616d795a7bd74c66d9045fb3644b6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "ccf10e89f8c7c1c8374060bbee1df208"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToadTool c2.com]",
+      "id": "8434cd728614d5f5cbda919e5e4b1af9"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1335831924000,
+      "id": "4bbedcf5321614f4754943eac3b528ae",
+      "type": "create",
+      "item": {
+        "title": "Toad Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "TOAD (Tool for Oracle Application Developers): a graphical [[Table Browser]] tool for ad-hoc queries to an Oracle database.\nKinda' like SQL*Plus on steroids.",
+            "id": "b647ea85ffaf11d4b16a02bd6eb7ff56"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's really quite good; doesn't look like a typical VB \"lots o' forms\" app at all.",
+            "id": "cca90610b01e1033e2211712fa360fe0"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://www.toadsoft.com/ www.toadsoft.com]",
+            "id": "aad66573d4e1d8006e7870fbf29c415b"
+          },
+          {
+            "type": "html",
+            "text": "\nHow can they call the \"freeware\" version freeware if it expires?  Is that really freeware?",
+            "id": "4f47c85649269a1b9a02cf11b6cbcd03"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "\nugh... TOAD is great conceptually but has so many small nuisances that I categorize it as a poor implementation.  For example, the commit button gives no feedback (did something happen or not?).  The constrained MDI interface is a gigantic pain when trying to work with more than a couple windows.  Column width\nsettings in a data view are never saved -- you can modify the widths to your heart's desire, click away to another table, and find that all the widths were reset when coming back to the table.  There's no easy way to hide columns in a table without creating a view (too much work if you ask me).  ",
+            "id": "daf4210d7aa371fb76b63da0b97e154e"
+          },
+          {
+            "type": "html",
+            "text": "\nMaybe if the little things were cleaned up I would consider this a good tool, but currently, it goes against the grain of so many things that [[Alan Cooper]] (inventor of VB?) said in [[About Face]].  Compared to SQL*Plus, though, it's fantastic.",
+            "id": "54060bcc4e4b7bf51ca14dd424edc109"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "\nAnd, for some reason, the minimize, maximize and exit buttons on child forms keep disappearing.\nVery odd.",
+            "id": "a113d750473c8b03733fcb214c2f784d"
+          },
+          {
+            "type": "html",
+            "text": "\nYes, it's a >big< improvement over SQL*Plus.",
+            "id": "59c773380ad80e9e847836256e25a828"
+          },
+          {
+            "type": "html",
+            "text": "<i>Also, you can have only one running at a time, and it locks up on long queries:  Run one of our stored procedures that takes 40 to 50 minutes to copy loads of data between databases.  All TOAD windows lock up until it finishes, and you can't bring up a 2nd (unlocked) copy of the program.  This limitation can force you back to using SQL*Plus, which is such a crude tool that you can run as many copies at once as you'd like.</i>",
+            "id": "384edca68ffdc9d19c9427822fdaf309"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "\nClearly, many of the above comments are from much older versions of TOAD.  The current version saves column widths, allows hiding of columns which is also saved.  Min/Max button problem has been resolved.  Oh, and TOAD wasn't written in VB -- it's a Delphi app.  It was originally written in VB but was converted over 2 years ago.",
+            "id": "cffd605ce1147e08ece3117cca2eac73"
+          },
+          {
+            "type": "html",
+            "text": "\nOh, and the MDI interface stays until something better comes along.  The floating/docking SDI interface in VB and Delphi are NOT improvements over MDI.",
+            "id": "9720ef04951145e2dda0935c178422be"
+          },
+          {
+            "type": "html",
+            "text": "\nToadman",
+            "id": "bd48022bc2e3e791fc47e9059f4fcc0b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "\nActually it DOES NOT save column widths.  I am using the latest version and it doesn't remember the width I set my columns to.  Try this, do a select on a table with a large NVARCHAR2 field, do an insert into the table, now do a reselect, doh!  The big ol' column is still a big ol' column. Doh! and double Doh!",
+            "id": "d0c1629fb3fa8bbd11d02e7321bf7786"
+          },
+          {
+            "type": "html",
+            "text": "\nShaddam IV",
+            "id": "b51a49a27da8179b17f0718edc1f36ec"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "\nWhy all these aversions against sqlplus? Oracle is not a simple product that you can get thorough knowledge of with point and click. Using a 'crude' tool like sqlplus will help you to really know Oracle. OK, maybe it is the hard way, but you really know Oracle after using it a few months. After that, you can use TOAD. It is not bad. But know how to do things the hard way, because there are things that only work the hard way. sqlplus is nothing more then a simple sql interface, but for all sql. If you do not know ho to it by pure sql, you might not even get the idea that you could use the sql worksheet of TOAD (which is just like sqlplus). I never saw a TOAD user write sql meta scripts...",
+            "id": "49dbb0d629ff364e98aee0ea9839418b"
+          },
+          {
+            "type": "html",
+            "text": "\nAnd what to do if your network is down, and you must do some maintenance on a server where TOAD is not installed? You want to start learning sqlplus right at that moment? Forget it. And of course, you all refer to sqlplus for windows. In a UNIX environment you have such a lot more possibilities. As a DBA, I use TOAD for the few nice features that cost too much time to do myself with sql scripts. So on average I start it up 1 time per month...",
+            "id": "79205e1b3268c4140f0b27b48cf43cc9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "\nI had difficulty getting Toad to compactly display columns. In some cases it would not let me drag the column borders closer together (I couldn't figure out the pattern for when it let me and when it didn't). Also, it should give the option of using a font other than fixed-pitched for its grid. And, it would not remember my column arrangments on the next instantiation.",
+            "id": "e846dff696a6bf946114d63d88dbe69c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "The UI is pretty bad, like others said. You can't even right-click on a resulting grid cell and copy the text! Also, window management is a nightmare as they use the gray background color that is exactly the same as the drg box. So basically you have to adjust your OS display properties (show window while dragging) to use a single app? I think not. There are way too many icons in weird places, causing clutter, etc. Finally, I've never ever created even one stored procedure that Toad formatted properly. It does aggressive [[Tab Munging]], it's as if, when pressing enter for a new line, a die is rolled and a random amount of tabs are added.",
+            "id": "315a3b30aeff7f71a027a6080d16ff6b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "See [[Table Oriented Tool Wish List]], [[Whats Been Done In Vb Classic]], [[Whats Been Done In Smalltalk]]",
+            "id": "650616d795a7bd74c66d9045fb3644b6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0b9bc35fa48d9176462ef762a52eb5ed"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "ccf10e89f8c7c1c8374060bbee1df208"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToadTool c2.com]",
+            "id": "8434cd728614d5f5cbda919e5e4b1af9"
+          }
+        ]
+      }
+    }
+  ]
+}
