@@ -1,0 +1,2217 @@
+{
+  "title": "Montreal Xp Tools Presentation",
+  "story": [
+    {
+      "type": "html",
+      "text": "Target audience: [[Montreal Xp Users Group]].\nFormat: 20 minutes lecture at 19h15 november first. Then open discussion. Expected number of people: around 10. Please be there at 19h00 so we can begin at 19h15! ;-)",
+      "id": "fd17d8db14d4bc20caed78d511828445"
+    },
+    {
+      "type": "html",
+      "text": " Includes:<br>Physical setup.",
+      "id": "478beabc350427fbe773bf6b5e13318e"
+    },
+    {
+      "type": "html",
+      "text": " Reminder:<br>Value the Individuals and interactions over processes and tools.",
+      "id": "5daee365796bb984a6411cdc65f92066"
+    },
+    {
+      "type": "html",
+      "text": " Goals:<br>To foster, to encourage to use of new tools or to use a tool a \"better\" way.",
+      "id": "79bd97ea036049e8516b97cb48756e7c"
+    },
+    {
+      "type": "html",
+      "text": " Intro:<br>Appropriate use of tools, Tools vs pratices, Tools as physical tokens, when reinventing the wheel.",
+      "id": "a64424022be95c2e53c5d14234e6ac34"
+    },
+    {
+      "type": "html",
+      "text": " Core:<br>Values, Practices, Feedback loop, Physical Environment.",
+      "id": "a0840580ebe5d03ce248c8ee532450d5"
+    },
+    {
+      "type": "html",
+      "text": " Conclusion:<br>Explore and choose, let tool emerge, travel light.",
+      "id": "c76542088ce86bcbe9a2ce4eab5ae3d9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "<b>Summary</b>",
+      "id": "6de5352537204e9ad2fc98593dbbe705"
+    },
+    {
+      "type": "html",
+      "text": " Tools are shaping the working environment. They are not only means to an end, but facilitators and inhibitors of human activity. The way we set up the working environment will influence the way we work. We should not underestimate this fact and learn to take advantage of it.",
+      "id": "d5fbb2102c2f21fbde29dec39be14649"
+    },
+    {
+      "type": "html",
+      "text": " We should look for tools that support XP values:",
+      "id": "61a46a2bdce7717db49c2b590859edfc"
+    },
+    {
+      "type": "html",
+      "text": " communication, through <i>open tools</i> that favorise <i>awareness</i>, <i>transparency</i> and <i>empathy</i>.",
+      "id": "6c563c47b410ad3daf2bebb8ab44a463"
+    },
+    {
+      "type": "html",
+      "text": " feedback, by using <i>adequate</i> tools that will favor <i>appropriate</i> and <i>reliable</i> answers from both the team and the machine. (see comparison between unit tests and bugs database)",
+      "id": "8efedb2a26be83933a296ce5edceeeb3"
+    },
+    {
+      "type": "html",
+      "text": " simplicity, through <i>light</i> tools that will <i>support</i> the programmers' activities rather than increase the load of work and divert attention from the project. ",
+      "id": "c85b54640fcc3e471527c1af68dbc99e"
+    },
+    {
+      "type": "html",
+      "text": " courage, through tools that will help the team to make <i>confident</i> decisions over foolish ones.",
+      "id": "c7d850e7e171d74a7770d99e1495e405"
+    },
+    {
+      "type": "html",
+      "text": " Interesting tools\t\t",
+      "id": "cacb7b139f5d029474b5825eefc35d63"
+    },
+    {
+      "type": "html",
+      "text": " Development / Integration Workstations (#dev/2+1)",
+      "id": "bd89bdca813307830f2f8ec98ce0554d"
+    },
+    {
+      "type": "html",
+      "text": " Ide / Compiler / Debugger / (Profiler)",
+      "id": "f3dffacda7d60390b5053783d014af20"
+    },
+    {
+      "type": "html",
+      "text": " Automated Acceptance / Unit Tests framework,",
+      "id": "c5b61a3edf67f30fdaa11e4c22cdbf55"
+    },
+    {
+      "type": "html",
+      "text": " Version Control",
+      "id": "b8d0730de8188cc13259997893cf58e6"
+    },
+    {
+      "type": "html",
+      "text": " Build Script",
+      "id": "cde2c91c4ad08695a0eff15950bd0bc6"
+    },
+    {
+      "type": "html",
+      "text": " refactoring Browser",
+      "id": "eb9c24f47cffa747fc5ba01a455d2520"
+    },
+    {
+      "type": "html",
+      "text": " Coding Standard reinforcement / Coding help",
+      "id": "5ec5d82e16daa903be5012cfbb2702f8"
+    },
+    {
+      "type": "html",
+      "text": " Wiki",
+      "id": "e3450522a2c17581919847208901d973"
+    },
+    {
+      "type": "html",
+      "text": " Index cards, whiteboards, giant post-it",
+      "id": "94e1f0091fbdf121712f4a1fa22c54f9"
+    },
+    {
+      "type": "html",
+      "text": " Photocopier / Scanner, Camera (Backup for whiteboard, index cards, ...)",
+      "id": "883472f5081c5debb4e59ec61653ef8f"
+    },
+    {
+      "type": "html",
+      "text": " Setting up the environment",
+      "id": "13f72bfdeb14fea748e4fd135f38883e"
+    },
+    {
+      "type": "html",
+      "text": " The War Room:<br>[[Open Space]] / Radical Collocation, Walls, PP tables",
+      "id": "a157f7b54422de0c6c824bdf27bbad4e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "[[Jean Philippe Belanger]] also suggested to use white vinyl sheets applied on walls, it is less expensive that whiteboards.",
+      "id": "bc9ed6c5b0786f7508ffa3dea2d60fd1"
+    },
+    {
+      "type": "html",
+      "text": "<i>Something we have done in past projects is to get strips of plastic and apply magnets to the back of them. Then use them on a whiteboard that has a magnetic background. This way you can have \"permanent\" and \"temporary\" information. The strips can be used as CRC Cards or User Stories or whatever and the whiteboard can be used for project notes or velocity, etc. -- [[Iain Lowe]]</i>",
+      "id": "ee4dbb5ecf051df2ea2d223ac3643275"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "Index cards:",
+      "id": "49eb11fa77da41d52344e2b189a36db7"
+    },
+    {
+      "type": "html",
+      "text": " Main",
+      "id": "e0365f51fa89d0d39c8f497ab67fb79f"
+    },
+    {
+      "type": "html",
+      "text": " Structure of lecture",
+      "id": "724d7bd58dbc08238b77586d0b2529aa"
+    },
+    {
+      "type": "html",
+      "text": " XP Practices",
+      "id": "73edc49510750ea451817ebcb6cc89a4"
+    },
+    {
+      "type": "html",
+      "text": " XP Feedback loop",
+      "id": "1a0cec2878347fe396744ef14206e5fa"
+    },
+    {
+      "type": "html",
+      "text": " XP Values ",
+      "id": "1c11171b8aa789a6c56b3898998c4710"
+    },
+    {
+      "type": "html",
+      "text": " XP Tools Virtues:<br>openness, support, reliability, confidence",
+      "id": "c421fbcf19688ab62e832b148b4a5278"
+    },
+    {
+      "type": "html",
+      "text": " Drawing of physical setup",
+      "id": "d9a2641052a9410bf170fcdb7e70a092"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Development / Integration Workstations (#dev/2+1)",
+      "id": "fdab17b784fd021c506df7df1309a9f7"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Ide / Compiler / Debugger / (Profiler)",
+      "id": "d28b163ed78f67757b3439f7b3351d78"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Automated Acceptance / Unit Tests framework,",
+      "id": "ce1fe5e0155ab69b5ccde05a80f3aab8"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Version Control",
+      "id": "3aad0641fa3040de486ac38738134fb0"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Build Script",
+      "id": "4cf22aa608aa8dd094b9721bd944de7c"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Refactoring Browser",
+      "id": "4e6fce5a042dafd8b02e6c16f36b96af"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Coding Standard reinforcement / Coding help",
+      "id": "a6bdc62e69465037e669a9894831417c"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Wiki",
+      "id": "ff719bb61ffb9a919556907d7a989037"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Index cards, whiteboards, giant post-it",
+      "id": "94b136146c3dd34e0f725d02b866d184"
+    },
+    {
+      "type": "html",
+      "text": " Tools:<br>Photocopier / Scanner, Camera (Backup for whiteboard, index cards, ...)",
+      "id": "6cb9c27d04436aa0cadc0acd94982a70"
+    },
+    {
+      "type": "html",
+      "text": " [[Open Space]] / Radical Collocation, Walls, PP tables",
+      "id": "910b33300093412a7a3d81dbb9fa2628"
+    },
+    {
+      "type": "html",
+      "text": " Private space",
+      "id": "389d1f229d29879197f8d5f7f0340826"
+    },
+    {
+      "type": "html",
+      "text": " Misc. (Just in case)",
+      "id": "cc05c41499a275e6a50602a0dd09909f"
+    },
+    {
+      "type": "html",
+      "text": " Ideas",
+      "id": "2f1c8981b24270a77f3b5abe3cb87f44"
+    },
+    {
+      "type": "html",
+      "text": " Development Life cycle (client / dev, define, estimate, choose, build value)",
+      "id": "2dbf326c0580dc5d94504f308797e6ba"
+    },
+    {
+      "type": "html",
+      "text": " Agile Principles",
+      "id": "3477d3743897025a71c57a08be142116"
+    },
+    {
+      "type": "html",
+      "text": " DTSTTCPW, DRY / OAOO, YAGNI, Worst Thing First, [[Code Unit Test First]]",
+      "id": "4463e80e4352fd65d3b1e5182281dc5d"
+    },
+    {
+      "type": "html",
+      "text": " Variables:<br>Cost, Time, Quality, Scope",
+      "id": "d5e33a9197c572b0d50f2a7ecdf702e5"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "<b>See Also:</b> Bug tracking issue: Extreme Programming Installed p.165. Advanced Issue: Defect Databases. p. 169. Advanced Practice Tests as Database",
+      "id": "cb34c6be6ced3f2547c0ccce10f60d84"
+    },
+    {
+      "type": "html",
+      "text": "<b>See Also:</b> [[Extreme Tools]], [[Radical Collocation]], War Room, [[Open Workspace]], [http://www.c2.com/cgi/wiki?search=tools www.c2.com]",
+      "id": "f8dd28494c6d172a35ea69de7a2d7a58"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "code",
+      "text": " Tools as support mechanism for the Values and Practices of XP",
+      "id": "e762f4541282ba2e1b027d7a291324cd"
+    },
+    {
+      "type": "html",
+      "text": "<b>XP Values</b>",
+      "id": "34ceb386aee1b70def7e25fe6c9693b8"
+    },
+    {
+      "type": "html",
+      "text": " <i>Communication</i> ",
+      "id": "04cfb5af31613f12821f96ea4108c118"
+    },
+    {
+      "type": "html",
+      "text": " with clients, departments, team members, ourselves.",
+      "id": "fdeaec120d056083b79bab4ea1bebff2"
+    },
+    {
+      "type": "html",
+      "text": " person to person",
+      "id": "d8dcea96ae4db27716bb87117d467d27"
+    },
+    {
+      "type": "html",
+      "text": " index cards",
+      "id": "e1ffce9293c726c5816c14d02360e3d1"
+    },
+    {
+      "type": "html",
+      "text": " whiteboards",
+      "id": "9cb6530cd792ea35e329f2f7472484f8"
+    },
+    {
+      "type": "html",
+      "text": " computer-mediated:<br>",
+      "id": "fff34a1063aa10c1fcd9e8decd361589"
+    },
+    {
+      "type": "html",
+      "text": " collaborative documents (wiki)",
+      "id": "f67102050826c2fb61f9f32e0a650a98"
+    },
+    {
+      "type": "html",
+      "text": " bug tracker",
+      "id": "9218811173eda1ab49088a22aa1388fe"
+    },
+    {
+      "type": "html",
+      "text": " prototypes",
+      "id": "8af01fc45fcefe8d2a7fdd99e7ca83f2"
+    },
+    {
+      "type": "html",
+      "text": " version control",
+      "id": "5f53d144c586bb6c420a4fe6baaf48a2"
+    },
+    {
+      "type": "html",
+      "text": " source code",
+      "id": "5116da7065c1971b2721b94006487ad3"
+    },
+    {
+      "type": "html",
+      "text": " Question:<br>When to use low tech tools vs hi tech tools?",
+      "id": "fc0c12e586a1f66e0f4b219e70b96854"
+    },
+    {
+      "type": "html",
+      "text": " (L+) When communicating with other people:<br>they're intuitive and we need to fill the gap through interacting with people (the RTFM syndrome is symptomatic of the gap being closed through the availability of user manuals).",
+      "id": "cc92fafe1fedb26d38c77ba4386ae98b"
+    },
+    {
+      "type": "html",
+      "text": " (L+) When we want to keep knowledge between individual and not stored away in a project file.",
+      "id": "7999d473d5f7ec963bbc67775b4a2156"
+    },
+    {
+      "type": "html",
+      "text": " (L+) When we don't want to leave a memory of the past.",
+      "id": "29c8cd01a4869dbe175ec2930b52f41f"
+    },
+    {
+      "type": "html",
+      "text": " (H+) When we need to make something evolve into something else (ex:<br>source code).",
+      "id": "e1c2968934cd7fac7536882683750bcd"
+    },
+    {
+      "type": "html",
+      "text": " (H+) When we need to be able to go back in time (ex:<br>version control).",
+      "id": "c4469eca3616e2ead1ddc1045d8f4447"
+    },
+    {
+      "type": "html",
+      "text": " (H+) When we need to maintain detailed information about something (ex:<br>knowledge base).",
+      "id": "c1517fed89d2f53c0675aa166f82b78c"
+    },
+    {
+      "type": "html",
+      "text": " Conclusion (?):<br>Low tech tools and hi tech tools complement themselves. HT works well when we have to build something, externalize knowledge and maintain detailed information about the status of a project (Acceptance Tests gives a true status of what has been done) ; LT put the emphasis on people and how they share, understand things and appropriate knowledge without having to \"point their fingers at books\" -- they're good at simplification.",
+      "id": "0e3ad6e61629b86223d8a916e9abd678"
+    },
+    {
+      "type": "html",
+      "text": " <i> Feedback </i> ",
+      "id": "d7f2d05fa65a0024391b1a8df5d03d05"
+    },
+    {
+      "type": "html",
+      "text": " from machine, client, team members, departments...",
+      "id": "1a91a5ffa31f25e5f2d4c42f947061f9"
+    },
+    {
+      "type": "html",
+      "text": " programming",
+      "id": "81e633f93e2d378e943c5d2fe70a01ff"
+    },
+    {
+      "type": "html",
+      "text": " profiler",
+      "id": "2b72dff1851f7e82e182e8e13857dda9"
+    },
+    {
+      "type": "html",
+      "text": " unit testing",
+      "id": "a35a7ad0aeda21f0460f7c93e84cbf65"
+    },
+    {
+      "type": "html",
+      "text": " acceptance testing",
+      "id": "6f2fcfbb9ae13f4d5b62b3f00cb08ffb"
+    },
+    {
+      "type": "html",
+      "text": " debugger",
+      "id": "fd600cd3bd0d5fb44b61fa86af28c15e"
+    },
+    {
+      "type": "html",
+      "text": " bug tracker",
+      "id": "9218811173eda1ab49088a22aa1388fe"
+    },
+    {
+      "type": "html",
+      "text": " point:<br>where do you get your feedback from? Get the most reliable source (acceptance tests vs bug tracker). A word on competition between tools and the importance of choosing the right tools early in the project.",
+      "id": "d128bca27c0b093c5a4279c8ad6da9bc"
+    },
+    {
+      "type": "html",
+      "text": "<i>Simplicity</i> ",
+      "id": "5b74ac9077dd1621dc20690c0617ed7c"
+    },
+    {
+      "type": "html",
+      "text": " question:<br>how can tools help us travel light?",
+      "id": "2567319dbcd97bd866de66cd81f858a8"
+    },
+    {
+      "type": "html",
+      "text": " automation:<br>let the machine do it for us",
+      "id": "ae01da369601a439bc66a644bb79cbc1"
+    },
+    {
+      "type": "html",
+      "text": " experimentation (sand box):<br>let's play with the solutions to start with and dismiss the complex ones before we really implement something ",
+      "id": "ca9342a6c89464c1d5c5fc41fcd188cb"
+    },
+    {
+      "type": "html",
+      "text": " idea:<br>tools also have user requirements. The costs of listening to an inappropriate tyrant (ex: Microsoft Project).",
+      "id": "dac66068d9af8a16ef14feb24e62a585"
+    },
+    {
+      "type": "html",
+      "text": " should we use our tools in the simplest way possible?",
+      "id": "3601109795797e282c036504c5e717c9"
+    },
+    {
+      "type": "html",
+      "text": " <i> Courage </i> ",
+      "id": "e2c470063f115470c48bb37048d67724"
+    },
+    {
+      "type": "html",
+      "text": " idea:<br>courage to try out new tools; encourage everyone to experiment with a single tool each month and report on it.",
+      "id": "9545666710925e6d23ababd456daa357"
+    },
+    {
+      "type": "html",
+      "text": "<b>XP Practices</b>",
+      "id": "8537d40c4e920575d5d3b94cc79e8d09"
+    },
+    {
+      "type": "html",
+      "text": " <i>Planning Game</i> ",
+      "id": "9023353c77b916f87f68291eee26400e"
+    },
+    {
+      "type": "html",
+      "text": " Emphasis on human interaction through low tech tools:<br>index cards, white board, giant post-its,... Physical objects as an intuitive token of project scope (could this actually help prevent featuritism?) Can a tool like MS Project be dangerous?",
+      "id": "9185f421e87e75b5913e9404bcd8bad0"
+    },
+    {
+      "type": "html",
+      "text": " <i>Small Releases</i> ",
+      "id": "aaebd2fe93df0cdc19e54191d18aae68"
+    },
+    {
+      "type": "html",
+      "text": " <i>Metaphor</i> ",
+      "id": "0b03985986d5dd2659946d7e4b724565"
+    },
+    {
+      "type": "html",
+      "text": " <i>Simple Design</i> ",
+      "id": "2713e06fb13bf94f0ab03654224a10dc"
+    },
+    {
+      "type": "html",
+      "text": " sandboxes",
+      "id": "6677e3518b34a994d2855ea3ae78c9c0"
+    },
+    {
+      "type": "html",
+      "text": " <i>Testing</i> ",
+      "id": "2d500fdad9d9ba4f43684751bf13f6e3"
+    },
+    {
+      "type": "html",
+      "text": " unit testing, acceptance testing, profiler. Is testing ideally done all with tools?",
+      "id": "da1ecdaeaad679c0b61468029abfdfea"
+    },
+    {
+      "type": "html",
+      "text": " <i>Continuous Integration</i> ",
+      "id": "3dd5bb9179d3cbc5c3a62492ec293055"
+    },
+    {
+      "type": "html",
+      "text": " <i>Pair Programming</i> ",
+      "id": "1387d13b6275d8d31d7aea49b990e06a"
+    },
+    {
+      "type": "html",
+      "text": " Physical tools prevent task switching (because the computer is busy), they're readily accessible, more flexible and less cluttered with information than dynamic tools.",
+      "id": "f54fd698c20c24bfc926e1b9f552a623"
+    },
+    {
+      "type": "html",
+      "text": " <i>Collective Ownership</i> ",
+      "id": "384286d8ba528b65d2eb6f512866b515"
+    },
+    {
+      "type": "html",
+      "text": " wiki, version control.",
+      "id": "a6105104f275ad02f0ef21114968a784"
+    },
+    {
+      "type": "html",
+      "text": " <i>Refactoring</i> ",
+      "id": "2c1f291ccfb11195986381986acf4079"
+    },
+    {
+      "type": "html",
+      "text": " refactoring editor / browser.",
+      "id": "7f2f0ec6a48dd9fae43bd023d7bf3312"
+    },
+    {
+      "type": "html",
+      "text": " <i>40-Hour Week</i> ",
+      "id": "68235dee93277ca3906033d42cd62f1d"
+    },
+    {
+      "type": "html",
+      "text": " <i>On-Site Customer</i> ",
+      "id": "7f874cdbc6cdc0d5460612c5b4f72ac2"
+    },
+    {
+      "type": "html",
+      "text": " Prototypes, maps, physical tokens can be more expressive of scope than huge boring files. How do we bring some of the advantages of physical tokens to the online world if we never meet out customers face to face?",
+      "id": "364634779d9f5ae214c6e65ae9eba706"
+    },
+    {
+      "type": "html",
+      "text": " <i>Coding Standards</i> ",
+      "id": "8d7456cecd8adf5e48df2e4a7b57807f"
+    },
+    {
+      "type": "html",
+      "text": " [[Self Documenting Code]] environments? Automatic code formatting IDEs?",
+      "id": "dbeae48972b4cf454cb6b39f710290a1"
+    },
+    {
+      "type": "html",
+      "text": "A word on tools and people:<br>Environment Engineering",
+      "id": "ef523c5ce8ffc695e3305d87b24c3e4d"
+    },
+    {
+      "type": "html",
+      "text": " (discuss) It's a matter of setting up and environment and taking good advantage of existing resources through our own abilities.",
+      "id": "1f481eb04b3f6e1a07c35fcf8ce6336a"
+    },
+    {
+      "type": "html",
+      "text": " (discuss) People will fill the gap left open by our tools. Do we want to fill in this gap ourselves?",
+      "id": "9dfb5c70e0a860f87e61493ce8976e50"
+    },
+    {
+      "type": "html",
+      "text": " (discuss) Each tool is best supported through its own range of practices. Should we prevent ourselves taking full advantage of a tool in favor of more important practices?",
+      "id": "48a62d29e5ed12f57cc98c9ac4880667"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "\nIdeas here.",
+      "id": "6c88a3e57049c239c73860fb39e9f8aa"
+    },
+    {
+      "type": "html",
+      "text": " Software development:<br>",
+      "id": "8af12925723fab6c2d7935e90b27a781"
+    },
+    {
+      "type": "html",
+      "text": " IDE, ",
+      "id": "c36d645ddd12c98a6fd7bd2d38b839a2"
+    },
+    {
+      "type": "html",
+      "text": " version control system, ",
+      "id": "34741ca3dc31d7f95a4cd7575ee835e1"
+    },
+    {
+      "type": "html",
+      "text": " local version control system (?),",
+      "id": "5defcf17ed431f4f2a34590a56c0815f"
+    },
+    {
+      "type": "html",
+      "text": " debugger, ",
+      "id": "0e485f8b0cf1b0044814d426493a2378"
+    },
+    {
+      "type": "html",
+      "text": " refactoring editor / browser, ",
+      "id": "88390e9c210d3b0b5bb8e3df4e9d77c9"
+    },
+    {
+      "type": "html",
+      "text": " profiler (a word about Optimization...), ",
+      "id": "a7f79aadb4187e9ff9503eb439155c47"
+    },
+    {
+      "type": "html",
+      "text": " unit testing framework, ",
+      "id": "57bd985f908eac3c7f94b48322825af4"
+    },
+    {
+      "type": "html",
+      "text": " acceptance testing framework, ",
+      "id": "2748c6c91d94bc34e92451068ad6c892"
+    },
+    {
+      "type": "html",
+      "text": " build and release script, ",
+      "id": "b4b2eb5554458a510b3f0379046f4944"
+    },
+    {
+      "type": "html",
+      "text": " bug tracking system",
+      "id": "75c1df1016e38a61dd71329df8aceba9"
+    },
+    {
+      "type": "html",
+      "text": " Machines:<br>",
+      "id": "30e13e3f1382bf07aa84f93270b40667"
+    },
+    {
+      "type": "html",
+      "text": " Integration / Build machine (may serve as web server wiki host)",
+      "id": "39fc0733bd8dc4af4935b50593804b01"
+    },
+    {
+      "type": "html",
+      "text": " Development machines (code in pair)",
+      "id": "fd931c0c7e593cfec67fbddc73722f7d"
+    },
+    {
+      "type": "html",
+      "text": " Individual machine (mail, browse, other explorations)",
+      "id": "70a8580068a1a1e6b825c3ac60b68c40"
+    },
+    {
+      "type": "html",
+      "text": " Physical setup:<br>",
+      "id": "9ffafd70c08fcf5dba01c7cec984dfda"
+    },
+    {
+      "type": "html",
+      "text": " Table for pair programming, (a word about physical location of tables)",
+      "id": "6b8b646c1d48c28945be9ab7250b23f1"
+    },
+    {
+      "type": "html",
+      "text": " Index cards, ",
+      "id": "bf3b9304b73a8aeb127ae69876e103ea"
+    },
+    {
+      "type": "html",
+      "text": " Giant Post-it,",
+      "id": "247b12b32f54109d6cec171e8727de27"
+    },
+    {
+      "type": "html",
+      "text": " whiteboards, corkboards, ",
+      "id": "56c82558962c14356888817f2cc13624"
+    },
+    {
+      "type": "html",
+      "text": " openworkspace, ",
+      "id": "6ad53dd545889f01a736df3273218bee"
+    },
+    {
+      "type": "html",
+      "text": " Walls (for displaying artifacts)",
+      "id": "24346c78c5bc47c65a530687528e5bc0"
+    },
+    {
+      "type": "html",
+      "text": " \"Common\" private space...",
+      "id": "dd45b22989f050336b7f2ccb99041a55"
+    },
+    {
+      "type": "html",
+      "text": " Others (a word about drawbacks of the optional stuff)",
+      "id": "e1754e9a989593e0166b481c5322a662"
+    },
+    {
+      "type": "html",
+      "text": " Scanner (to backup index cards)",
+      "id": "651bc2ca6b10003d94908ecababcba29"
+    },
+    {
+      "type": "html",
+      "text": " Still camera (to backup whiteboards / corkboards)",
+      "id": "669801ae1f51b3974c82ebd1738c08eb"
+    },
+    {
+      "type": "html",
+      "text": " Camera (to backup discussion and meeting)",
+      "id": "55735951034351902bd959a1e1e0a89f"
+    },
+    {
+      "type": "html",
+      "text": " A [[Wiki Web]]",
+      "id": "e5009e9beb50144062190c7e7f77f5fb"
+    },
+    {
+      "type": "html",
+      "text": " Should we include Standup meeting as a tool?",
+      "id": "73f994cee7667ac272df07a5e8583875"
+    },
+    {
+      "type": "html",
+      "text": " A word about using the same tools within the team.",
+      "id": "24c8d78debf7accc751f3fb449ca2595"
+    },
+    {
+      "type": "html",
+      "text": " Low tech tools as physical tokens",
+      "id": "3d0a4760967baa1cda4b167082e3e88b"
+    },
+    {
+      "type": "html",
+      "text": " Low tech tools as (human) interaction tools",
+      "id": "6f10439202a0171ee800d3c15a0873a4"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "Looking for...",
+      "id": "6186337b4d13c2927fb8d1d671f1409c"
+    },
+    {
+      "type": "html",
+      "text": " Visibility",
+      "id": "42a0878c08569a617a3d985c1f19b147"
+    },
+    {
+      "type": "html",
+      "text": " Whiteboards",
+      "id": "1eb2845e39f3d68fc16672bf8251eb5b"
+    },
+    {
+      "type": "html",
+      "text": " Giant Post-it",
+      "id": "f7c4f76e2b3ceda0e60979738803a3c5"
+    },
+    {
+      "type": "html",
+      "text": " Corkboards",
+      "id": "595a1e2721399fbe9469ee1b25f00984"
+    },
+    {
+      "type": "html",
+      "text": " Traceability",
+      "id": "ec60c069cd827a9df6b301ddbe8e56ee"
+    },
+    {
+      "type": "html",
+      "text": " Giant Post-it",
+      "id": "f7c4f76e2b3ceda0e60979738803a3c5"
+    },
+    {
+      "type": "html",
+      "text": " Index cards",
+      "id": "5a3fc62435bd595cbf3ce81443fd2d15"
+    },
+    {
+      "type": "html",
+      "text": " Wiki (Yes:<br>It's written down, no it's organic)",
+      "id": "a5c91e9bc39840f946b3e1dedd0a92b0"
+    },
+    {
+      "type": "html",
+      "text": " Non-blocking",
+      "id": "fbdacf3bf75307e48a04f814e07edc16"
+    },
+    {
+      "type": "html",
+      "text": " Index cards (while pair progamming, the non keyboarder can jot down ideas on cards)",
+      "id": "c190e8a20d1da2ffd80ef90c8ead2833"
+    },
+    {
+      "type": "html",
+      "text": " Emergence",
+      "id": "0c1b323dd3933691f19939b3a5d8dc05"
+    },
+    {
+      "type": "html",
+      "text": " Wiki",
+      "id": "e3450522a2c17581919847208901d973"
+    },
+    {
+      "type": "html",
+      "text": " Whiteboards",
+      "id": "1eb2845e39f3d68fc16672bf8251eb5b"
+    },
+    {
+      "type": "html",
+      "text": " Code",
+      "id": "60c019b27a706ac284b1fbe2ff7834e1"
+    },
+    {
+      "type": "html",
+      "text": " Automation",
+      "id": "1c17cf5f7f449b3b50b8e5cd75421029"
+    },
+    {
+      "type": "html",
+      "text": " Unit tests",
+      "id": "a165053edfc5f267ef5882a3eccabba4"
+    },
+    {
+      "type": "html",
+      "text": " Acceptance tests",
+      "id": "5d62c402b79c71b373546c281592b36f"
+    },
+    {
+      "type": "html",
+      "text": " profilers",
+      "id": "468984cd28da59c76afcedacff4176f0"
+    },
+    {
+      "type": "html",
+      "text": " code generators",
+      "id": "30afbf4455bcbfcdcc8fa2547ce570a4"
+    },
+    {
+      "type": "html",
+      "text": " ...?",
+      "id": "1e24aae4c50e1a5dd9bb94a0894361a8"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "Random questions and thoughts...",
+      "id": "0e3eaac4fc16cdf54d610f731f5bc938"
+    },
+    {
+      "type": "html",
+      "text": "\na) childish metaphysics for the philosophically inclined (incomplete)",
+      "id": "8727fd86912dfcd5bc2d9e949662b44f"
+    },
+    {
+      "type": "html",
+      "text": " what is a tool:<br>",
+      "id": "42375d9c9e8c383e11f5fe730a8370e4"
+    },
+    {
+      "type": "html",
+      "text": " a <i>means</i> to do something",
+      "id": "72c94748974185efe81dd1f4636393ae"
+    },
+    {
+      "type": "html",
+      "text": " a working environment",
+      "id": "9c47ab9cb7d1ee2fee6d228948df393c"
+    },
+    {
+      "type": "html",
+      "text": " a toy (?)",
+      "id": "7c9fdd2a2b9647d2cb4706f9091a1988"
+    },
+    {
+      "type": "html",
+      "text": " what can a tool do for us?",
+      "id": "8bf41947621b2291c06d39c98c053b7d"
+    },
+    {
+      "type": "html",
+      "text": " simplify",
+      "id": "3fb0ae2fa60d9cf2c91cb59dc95862a2"
+    },
+    {
+      "type": "html",
+      "text": " accelerate",
+      "id": "7e28a37c8a87b594bdc013d82c4f39d7"
+    },
+    {
+      "type": "html",
+      "text": " automate",
+      "id": "0ac6a8bba24a2e7ec3829a9013184b04"
+    },
+    {
+      "type": "html",
+      "text": " do what we're not good at / hate doing",
+      "id": "840b316b10508fe4e653773a3edbdbb1"
+    },
+    {
+      "type": "html",
+      "text": " helps us communicate",
+      "id": "b32458bc5948a1afe11f4f96e9d9e782"
+    },
+    {
+      "type": "html",
+      "text": " store and archive work",
+      "id": "f129be666b1c44fd010cd5dd0b0be825"
+    },
+    {
+      "type": "html",
+      "text": " what a tool should not do",
+      "id": "22e1b0802fa74b01f6dd32fae88f110f"
+    },
+    {
+      "type": "html",
+      "text": " distract",
+      "id": "c7f4e5d064719cfd18f6ef9cfa67cc34"
+    },
+    {
+      "type": "html",
+      "text": " complicate",
+      "id": "1a12873fbc332f8c0e8b4ddf669299e2"
+    },
+    {
+      "type": "html",
+      "text": " what are the costs of using tools? ",
+      "id": "ea6df0c9cfabe45f89256703d1535a78"
+    },
+    {
+      "type": "html",
+      "text": " opacity (we don't always see or understand what's going on 'underneath')\t",
+      "id": "03fdaaf84c88ff2d2ce381ed6aa34145"
+    },
+    {
+      "type": "html",
+      "text": " maintenance",
+      "id": "f320a13fce4a8eab76790fc9dd72c1a2"
+    },
+    {
+      "type": "html",
+      "text": " dependency (personal and technical compatibility)",
+      "id": "e47b1476dcd7e358f7f6028ac45e8583"
+    },
+    {
+      "type": "html",
+      "text": " may destroy relationship (e.g. mail flame)",
+      "id": "a4c84be3aa03a57df8b6c5606bb4e7f4"
+    },
+    {
+      "type": "html",
+      "text": " what should we be looking for in a tool ",
+      "id": "de66607b77117f07d37b94c6ad385c7f"
+    },
+    {
+      "type": "html",
+      "text": " is it appropriate? ",
+      "id": "edaec3fb18bf029554bfec9888257dbc"
+    },
+    {
+      "type": "html",
+      "text": " is it intuitive?",
+      "id": "f99edc8b2063a6cab3ea055f0bb1d173"
+    },
+    {
+      "type": "html",
+      "text": " does it produce good work?",
+      "id": "25019e1fc07a61c1b87fd6ed9655d0a0"
+    },
+    {
+      "type": "html",
+      "text": " does it conforms to standards? How wide is it supported?",
+      "id": "8b796c00666f390afc7ad60ca35a8d59"
+    },
+    {
+      "type": "html",
+      "text": " build trust among people",
+      "id": "246ffd8d5db5e7d88adf2986f0df8ec4"
+    },
+    {
+      "type": "html",
+      "text": " encourage human interaction",
+      "id": "d5c9c630cae677703bd9f4bde580a10f"
+    },
+    {
+      "type": "html",
+      "text": " what should <i>not</i> be looking for in a tool ",
+      "id": "7550d9516e87b13fd03e6292ac3acd12"
+    },
+    {
+      "type": "html",
+      "text": " a way to not interact with the other people",
+      "id": "1d8e7fcf23f61f02219605b7858a40df"
+    },
+    {
+      "type": "html",
+      "text": "b) tools-related issues",
+      "id": "f46380ae15a9cad1db3921fa71f81554"
+    },
+    {
+      "type": "html",
+      "text": " how to find the good tools and decide to implement the good ones",
+      "id": "a32d1339ea1309f95d15e340e40c7506"
+    },
+    {
+      "type": "html",
+      "text": " getting people to use those tools / making the transition",
+      "id": "2a584e4b2796a1a983afabf820d5b322"
+    },
+    {
+      "type": "html",
+      "text": " know your needs, choose your tools for your needs, not more",
+      "id": "6c9388b8b4e7a27dd6b9d22fdbdea0cf"
+    },
+    {
+      "type": "html",
+      "text": " good attitude to develop",
+      "id": "85469f43226910fea583c189369c54ca"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00f724aefe21cf2354eea5da3d799de4"
+    },
+    {
+      "type": "html",
+      "text": "[[Montreal Xp Users Group]]",
+      "id": "d5b1b103e97ba235d0f576557ddc4dba"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MontrealXpToolsPresentation c2.com]",
+      "id": "4fce22af3e09cf9b3850852b488c1bbd"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1150748141000,
+      "id": "e40e29447e507e0da8808e306c934e75",
+      "type": "create",
+      "item": {
+        "title": "Montreal Xp Tools Presentation",
+        "story": [
+          {
+            "type": "html",
+            "text": "Target audience: [[Montreal Xp Users Group]].\nFormat: 20 minutes lecture at 19h15 november first. Then open discussion. Expected number of people: around 10. Please be there at 19h00 so we can begin at 19h15! ;-)",
+            "id": "fd17d8db14d4bc20caed78d511828445"
+          },
+          {
+            "type": "html",
+            "text": " Includes:<br>Physical setup.",
+            "id": "478beabc350427fbe773bf6b5e13318e"
+          },
+          {
+            "type": "html",
+            "text": " Reminder:<br>Value the Individuals and interactions over processes and tools.",
+            "id": "5daee365796bb984a6411cdc65f92066"
+          },
+          {
+            "type": "html",
+            "text": " Goals:<br>To foster, to encourage to use of new tools or to use a tool a \"better\" way.",
+            "id": "79bd97ea036049e8516b97cb48756e7c"
+          },
+          {
+            "type": "html",
+            "text": " Intro:<br>Appropriate use of tools, Tools vs pratices, Tools as physical tokens, when reinventing the wheel.",
+            "id": "a64424022be95c2e53c5d14234e6ac34"
+          },
+          {
+            "type": "html",
+            "text": " Core:<br>Values, Practices, Feedback loop, Physical Environment.",
+            "id": "a0840580ebe5d03ce248c8ee532450d5"
+          },
+          {
+            "type": "html",
+            "text": " Conclusion:<br>Explore and choose, let tool emerge, travel light.",
+            "id": "c76542088ce86bcbe9a2ce4eab5ae3d9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "<b>Summary</b>",
+            "id": "6de5352537204e9ad2fc98593dbbe705"
+          },
+          {
+            "type": "html",
+            "text": " Tools are shaping the working environment. They are not only means to an end, but facilitators and inhibitors of human activity. The way we set up the working environment will influence the way we work. We should not underestimate this fact and learn to take advantage of it.",
+            "id": "d5fbb2102c2f21fbde29dec39be14649"
+          },
+          {
+            "type": "html",
+            "text": " We should look for tools that support XP values:",
+            "id": "61a46a2bdce7717db49c2b590859edfc"
+          },
+          {
+            "type": "html",
+            "text": " communication, through <i>open tools</i> that favorise <i>awareness</i>, <i>transparency</i> and <i>empathy</i>.",
+            "id": "6c563c47b410ad3daf2bebb8ab44a463"
+          },
+          {
+            "type": "html",
+            "text": " feedback, by using <i>adequate</i> tools that will favor <i>appropriate</i> and <i>reliable</i> answers from both the team and the machine. (see comparison between unit tests and bugs database)",
+            "id": "8efedb2a26be83933a296ce5edceeeb3"
+          },
+          {
+            "type": "html",
+            "text": " simplicity, through <i>light</i> tools that will <i>support</i> the programmers' activities rather than increase the load of work and divert attention from the project. ",
+            "id": "c85b54640fcc3e471527c1af68dbc99e"
+          },
+          {
+            "type": "html",
+            "text": " courage, through tools that will help the team to make <i>confident</i> decisions over foolish ones.",
+            "id": "c7d850e7e171d74a7770d99e1495e405"
+          },
+          {
+            "type": "html",
+            "text": " Interesting tools\t\t",
+            "id": "cacb7b139f5d029474b5825eefc35d63"
+          },
+          {
+            "type": "html",
+            "text": " Development / Integration Workstations (#dev/2+1)",
+            "id": "bd89bdca813307830f2f8ec98ce0554d"
+          },
+          {
+            "type": "html",
+            "text": " Ide / Compiler / Debugger / (Profiler)",
+            "id": "f3dffacda7d60390b5053783d014af20"
+          },
+          {
+            "type": "html",
+            "text": " Automated Acceptance / Unit Tests framework,",
+            "id": "c5b61a3edf67f30fdaa11e4c22cdbf55"
+          },
+          {
+            "type": "html",
+            "text": " Version Control",
+            "id": "b8d0730de8188cc13259997893cf58e6"
+          },
+          {
+            "type": "html",
+            "text": " Build Script",
+            "id": "cde2c91c4ad08695a0eff15950bd0bc6"
+          },
+          {
+            "type": "html",
+            "text": " refactoring Browser",
+            "id": "eb9c24f47cffa747fc5ba01a455d2520"
+          },
+          {
+            "type": "html",
+            "text": " Coding Standard reinforcement / Coding help",
+            "id": "5ec5d82e16daa903be5012cfbb2702f8"
+          },
+          {
+            "type": "html",
+            "text": " Wiki",
+            "id": "e3450522a2c17581919847208901d973"
+          },
+          {
+            "type": "html",
+            "text": " Index cards, whiteboards, giant post-it",
+            "id": "94e1f0091fbdf121712f4a1fa22c54f9"
+          },
+          {
+            "type": "html",
+            "text": " Photocopier / Scanner, Camera (Backup for whiteboard, index cards, ...)",
+            "id": "883472f5081c5debb4e59ec61653ef8f"
+          },
+          {
+            "type": "html",
+            "text": " Setting up the environment",
+            "id": "13f72bfdeb14fea748e4fd135f38883e"
+          },
+          {
+            "type": "html",
+            "text": " The War Room:<br>[[Open Space]] / Radical Collocation, Walls, PP tables",
+            "id": "a157f7b54422de0c6c824bdf27bbad4e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "[[Jean Philippe Belanger]] also suggested to use white vinyl sheets applied on walls, it is less expensive that whiteboards.",
+            "id": "bc9ed6c5b0786f7508ffa3dea2d60fd1"
+          },
+          {
+            "type": "html",
+            "text": "<i>Something we have done in past projects is to get strips of plastic and apply magnets to the back of them. Then use them on a whiteboard that has a magnetic background. This way you can have \"permanent\" and \"temporary\" information. The strips can be used as CRC Cards or User Stories or whatever and the whiteboard can be used for project notes or velocity, etc. -- [[Iain Lowe]]</i>",
+            "id": "ee4dbb5ecf051df2ea2d223ac3643275"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "Index cards:",
+            "id": "49eb11fa77da41d52344e2b189a36db7"
+          },
+          {
+            "type": "html",
+            "text": " Main",
+            "id": "e0365f51fa89d0d39c8f497ab67fb79f"
+          },
+          {
+            "type": "html",
+            "text": " Structure of lecture",
+            "id": "724d7bd58dbc08238b77586d0b2529aa"
+          },
+          {
+            "type": "html",
+            "text": " XP Practices",
+            "id": "73edc49510750ea451817ebcb6cc89a4"
+          },
+          {
+            "type": "html",
+            "text": " XP Feedback loop",
+            "id": "1a0cec2878347fe396744ef14206e5fa"
+          },
+          {
+            "type": "html",
+            "text": " XP Values ",
+            "id": "1c11171b8aa789a6c56b3898998c4710"
+          },
+          {
+            "type": "html",
+            "text": " XP Tools Virtues:<br>openness, support, reliability, confidence",
+            "id": "c421fbcf19688ab62e832b148b4a5278"
+          },
+          {
+            "type": "html",
+            "text": " Drawing of physical setup",
+            "id": "d9a2641052a9410bf170fcdb7e70a092"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Development / Integration Workstations (#dev/2+1)",
+            "id": "fdab17b784fd021c506df7df1309a9f7"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Ide / Compiler / Debugger / (Profiler)",
+            "id": "d28b163ed78f67757b3439f7b3351d78"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Automated Acceptance / Unit Tests framework,",
+            "id": "ce1fe5e0155ab69b5ccde05a80f3aab8"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Version Control",
+            "id": "3aad0641fa3040de486ac38738134fb0"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Build Script",
+            "id": "4cf22aa608aa8dd094b9721bd944de7c"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Refactoring Browser",
+            "id": "4e6fce5a042dafd8b02e6c16f36b96af"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Coding Standard reinforcement / Coding help",
+            "id": "a6bdc62e69465037e669a9894831417c"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Wiki",
+            "id": "ff719bb61ffb9a919556907d7a989037"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Index cards, whiteboards, giant post-it",
+            "id": "94b136146c3dd34e0f725d02b866d184"
+          },
+          {
+            "type": "html",
+            "text": " Tools:<br>Photocopier / Scanner, Camera (Backup for whiteboard, index cards, ...)",
+            "id": "6cb9c27d04436aa0cadc0acd94982a70"
+          },
+          {
+            "type": "html",
+            "text": " [[Open Space]] / Radical Collocation, Walls, PP tables",
+            "id": "910b33300093412a7a3d81dbb9fa2628"
+          },
+          {
+            "type": "html",
+            "text": " Private space",
+            "id": "389d1f229d29879197f8d5f7f0340826"
+          },
+          {
+            "type": "html",
+            "text": " Misc. (Just in case)",
+            "id": "cc05c41499a275e6a50602a0dd09909f"
+          },
+          {
+            "type": "html",
+            "text": " Ideas",
+            "id": "2f1c8981b24270a77f3b5abe3cb87f44"
+          },
+          {
+            "type": "html",
+            "text": " Development Life cycle (client / dev, define, estimate, choose, build value)",
+            "id": "2dbf326c0580dc5d94504f308797e6ba"
+          },
+          {
+            "type": "html",
+            "text": " Agile Principles",
+            "id": "3477d3743897025a71c57a08be142116"
+          },
+          {
+            "type": "html",
+            "text": " DTSTTCPW, DRY / OAOO, YAGNI, Worst Thing First, [[Code Unit Test First]]",
+            "id": "4463e80e4352fd65d3b1e5182281dc5d"
+          },
+          {
+            "type": "html",
+            "text": " Variables:<br>Cost, Time, Quality, Scope",
+            "id": "d5e33a9197c572b0d50f2a7ecdf702e5"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "<b>See Also:</b> Bug tracking issue: Extreme Programming Installed p.165. Advanced Issue: Defect Databases. p. 169. Advanced Practice Tests as Database",
+            "id": "cb34c6be6ced3f2547c0ccce10f60d84"
+          },
+          {
+            "type": "html",
+            "text": "<b>See Also:</b> [[Extreme Tools]], [[Radical Collocation]], War Room, [[Open Workspace]], [http://www.c2.com/cgi/wiki?search=tools www.c2.com]",
+            "id": "f8dd28494c6d172a35ea69de7a2d7a58"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "code",
+            "text": " Tools as support mechanism for the Values and Practices of XP",
+            "id": "e762f4541282ba2e1b027d7a291324cd"
+          },
+          {
+            "type": "html",
+            "text": "<b>XP Values</b>",
+            "id": "34ceb386aee1b70def7e25fe6c9693b8"
+          },
+          {
+            "type": "html",
+            "text": " <i>Communication</i> ",
+            "id": "04cfb5af31613f12821f96ea4108c118"
+          },
+          {
+            "type": "html",
+            "text": " with clients, departments, team members, ourselves.",
+            "id": "fdeaec120d056083b79bab4ea1bebff2"
+          },
+          {
+            "type": "html",
+            "text": " person to person",
+            "id": "d8dcea96ae4db27716bb87117d467d27"
+          },
+          {
+            "type": "html",
+            "text": " index cards",
+            "id": "e1ffce9293c726c5816c14d02360e3d1"
+          },
+          {
+            "type": "html",
+            "text": " whiteboards",
+            "id": "9cb6530cd792ea35e329f2f7472484f8"
+          },
+          {
+            "type": "html",
+            "text": " computer-mediated:<br>",
+            "id": "fff34a1063aa10c1fcd9e8decd361589"
+          },
+          {
+            "type": "html",
+            "text": " collaborative documents (wiki)",
+            "id": "f67102050826c2fb61f9f32e0a650a98"
+          },
+          {
+            "type": "html",
+            "text": " bug tracker",
+            "id": "9218811173eda1ab49088a22aa1388fe"
+          },
+          {
+            "type": "html",
+            "text": " prototypes",
+            "id": "8af01fc45fcefe8d2a7fdd99e7ca83f2"
+          },
+          {
+            "type": "html",
+            "text": " version control",
+            "id": "5f53d144c586bb6c420a4fe6baaf48a2"
+          },
+          {
+            "type": "html",
+            "text": " source code",
+            "id": "5116da7065c1971b2721b94006487ad3"
+          },
+          {
+            "type": "html",
+            "text": " Question:<br>When to use low tech tools vs hi tech tools?",
+            "id": "fc0c12e586a1f66e0f4b219e70b96854"
+          },
+          {
+            "type": "html",
+            "text": " (L+) When communicating with other people:<br>they're intuitive and we need to fill the gap through interacting with people (the RTFM syndrome is symptomatic of the gap being closed through the availability of user manuals).",
+            "id": "cc92fafe1fedb26d38c77ba4386ae98b"
+          },
+          {
+            "type": "html",
+            "text": " (L+) When we want to keep knowledge between individual and not stored away in a project file.",
+            "id": "7999d473d5f7ec963bbc67775b4a2156"
+          },
+          {
+            "type": "html",
+            "text": " (L+) When we don't want to leave a memory of the past.",
+            "id": "29c8cd01a4869dbe175ec2930b52f41f"
+          },
+          {
+            "type": "html",
+            "text": " (H+) When we need to make something evolve into something else (ex:<br>source code).",
+            "id": "e1c2968934cd7fac7536882683750bcd"
+          },
+          {
+            "type": "html",
+            "text": " (H+) When we need to be able to go back in time (ex:<br>version control).",
+            "id": "c4469eca3616e2ead1ddc1045d8f4447"
+          },
+          {
+            "type": "html",
+            "text": " (H+) When we need to maintain detailed information about something (ex:<br>knowledge base).",
+            "id": "c1517fed89d2f53c0675aa166f82b78c"
+          },
+          {
+            "type": "html",
+            "text": " Conclusion (?):<br>Low tech tools and hi tech tools complement themselves. HT works well when we have to build something, externalize knowledge and maintain detailed information about the status of a project (Acceptance Tests gives a true status of what has been done) ; LT put the emphasis on people and how they share, understand things and appropriate knowledge without having to \"point their fingers at books\" -- they're good at simplification.",
+            "id": "0e3ad6e61629b86223d8a916e9abd678"
+          },
+          {
+            "type": "html",
+            "text": " <i> Feedback </i> ",
+            "id": "d7f2d05fa65a0024391b1a8df5d03d05"
+          },
+          {
+            "type": "html",
+            "text": " from machine, client, team members, departments...",
+            "id": "1a91a5ffa31f25e5f2d4c42f947061f9"
+          },
+          {
+            "type": "html",
+            "text": " programming",
+            "id": "81e633f93e2d378e943c5d2fe70a01ff"
+          },
+          {
+            "type": "html",
+            "text": " profiler",
+            "id": "2b72dff1851f7e82e182e8e13857dda9"
+          },
+          {
+            "type": "html",
+            "text": " unit testing",
+            "id": "a35a7ad0aeda21f0460f7c93e84cbf65"
+          },
+          {
+            "type": "html",
+            "text": " acceptance testing",
+            "id": "6f2fcfbb9ae13f4d5b62b3f00cb08ffb"
+          },
+          {
+            "type": "html",
+            "text": " debugger",
+            "id": "fd600cd3bd0d5fb44b61fa86af28c15e"
+          },
+          {
+            "type": "html",
+            "text": " bug tracker",
+            "id": "9218811173eda1ab49088a22aa1388fe"
+          },
+          {
+            "type": "html",
+            "text": " point:<br>where do you get your feedback from? Get the most reliable source (acceptance tests vs bug tracker). A word on competition between tools and the importance of choosing the right tools early in the project.",
+            "id": "d128bca27c0b093c5a4279c8ad6da9bc"
+          },
+          {
+            "type": "html",
+            "text": "<i>Simplicity</i> ",
+            "id": "5b74ac9077dd1621dc20690c0617ed7c"
+          },
+          {
+            "type": "html",
+            "text": " question:<br>how can tools help us travel light?",
+            "id": "2567319dbcd97bd866de66cd81f858a8"
+          },
+          {
+            "type": "html",
+            "text": " automation:<br>let the machine do it for us",
+            "id": "ae01da369601a439bc66a644bb79cbc1"
+          },
+          {
+            "type": "html",
+            "text": " experimentation (sand box):<br>let's play with the solutions to start with and dismiss the complex ones before we really implement something ",
+            "id": "ca9342a6c89464c1d5c5fc41fcd188cb"
+          },
+          {
+            "type": "html",
+            "text": " idea:<br>tools also have user requirements. The costs of listening to an inappropriate tyrant (ex: Microsoft Project).",
+            "id": "dac66068d9af8a16ef14feb24e62a585"
+          },
+          {
+            "type": "html",
+            "text": " should we use our tools in the simplest way possible?",
+            "id": "3601109795797e282c036504c5e717c9"
+          },
+          {
+            "type": "html",
+            "text": " <i> Courage </i> ",
+            "id": "e2c470063f115470c48bb37048d67724"
+          },
+          {
+            "type": "html",
+            "text": " idea:<br>courage to try out new tools; encourage everyone to experiment with a single tool each month and report on it.",
+            "id": "9545666710925e6d23ababd456daa357"
+          },
+          {
+            "type": "html",
+            "text": "<b>XP Practices</b>",
+            "id": "8537d40c4e920575d5d3b94cc79e8d09"
+          },
+          {
+            "type": "html",
+            "text": " <i>Planning Game</i> ",
+            "id": "9023353c77b916f87f68291eee26400e"
+          },
+          {
+            "type": "html",
+            "text": " Emphasis on human interaction through low tech tools:<br>index cards, white board, giant post-its,... Physical objects as an intuitive token of project scope (could this actually help prevent featuritism?) Can a tool like MS Project be dangerous?",
+            "id": "9185f421e87e75b5913e9404bcd8bad0"
+          },
+          {
+            "type": "html",
+            "text": " <i>Small Releases</i> ",
+            "id": "aaebd2fe93df0cdc19e54191d18aae68"
+          },
+          {
+            "type": "html",
+            "text": " <i>Metaphor</i> ",
+            "id": "0b03985986d5dd2659946d7e4b724565"
+          },
+          {
+            "type": "html",
+            "text": " <i>Simple Design</i> ",
+            "id": "2713e06fb13bf94f0ab03654224a10dc"
+          },
+          {
+            "type": "html",
+            "text": " sandboxes",
+            "id": "6677e3518b34a994d2855ea3ae78c9c0"
+          },
+          {
+            "type": "html",
+            "text": " <i>Testing</i> ",
+            "id": "2d500fdad9d9ba4f43684751bf13f6e3"
+          },
+          {
+            "type": "html",
+            "text": " unit testing, acceptance testing, profiler. Is testing ideally done all with tools?",
+            "id": "da1ecdaeaad679c0b61468029abfdfea"
+          },
+          {
+            "type": "html",
+            "text": " <i>Continuous Integration</i> ",
+            "id": "3dd5bb9179d3cbc5c3a62492ec293055"
+          },
+          {
+            "type": "html",
+            "text": " <i>Pair Programming</i> ",
+            "id": "1387d13b6275d8d31d7aea49b990e06a"
+          },
+          {
+            "type": "html",
+            "text": " Physical tools prevent task switching (because the computer is busy), they're readily accessible, more flexible and less cluttered with information than dynamic tools.",
+            "id": "f54fd698c20c24bfc926e1b9f552a623"
+          },
+          {
+            "type": "html",
+            "text": " <i>Collective Ownership</i> ",
+            "id": "384286d8ba528b65d2eb6f512866b515"
+          },
+          {
+            "type": "html",
+            "text": " wiki, version control.",
+            "id": "a6105104f275ad02f0ef21114968a784"
+          },
+          {
+            "type": "html",
+            "text": " <i>Refactoring</i> ",
+            "id": "2c1f291ccfb11195986381986acf4079"
+          },
+          {
+            "type": "html",
+            "text": " refactoring editor / browser.",
+            "id": "7f2f0ec6a48dd9fae43bd023d7bf3312"
+          },
+          {
+            "type": "html",
+            "text": " <i>40-Hour Week</i> ",
+            "id": "68235dee93277ca3906033d42cd62f1d"
+          },
+          {
+            "type": "html",
+            "text": " <i>On-Site Customer</i> ",
+            "id": "7f874cdbc6cdc0d5460612c5b4f72ac2"
+          },
+          {
+            "type": "html",
+            "text": " Prototypes, maps, physical tokens can be more expressive of scope than huge boring files. How do we bring some of the advantages of physical tokens to the online world if we never meet out customers face to face?",
+            "id": "364634779d9f5ae214c6e65ae9eba706"
+          },
+          {
+            "type": "html",
+            "text": " <i>Coding Standards</i> ",
+            "id": "8d7456cecd8adf5e48df2e4a7b57807f"
+          },
+          {
+            "type": "html",
+            "text": " [[Self Documenting Code]] environments? Automatic code formatting IDEs?",
+            "id": "dbeae48972b4cf454cb6b39f710290a1"
+          },
+          {
+            "type": "html",
+            "text": "A word on tools and people:<br>Environment Engineering",
+            "id": "ef523c5ce8ffc695e3305d87b24c3e4d"
+          },
+          {
+            "type": "html",
+            "text": " (discuss) It's a matter of setting up and environment and taking good advantage of existing resources through our own abilities.",
+            "id": "1f481eb04b3f6e1a07c35fcf8ce6336a"
+          },
+          {
+            "type": "html",
+            "text": " (discuss) People will fill the gap left open by our tools. Do we want to fill in this gap ourselves?",
+            "id": "9dfb5c70e0a860f87e61493ce8976e50"
+          },
+          {
+            "type": "html",
+            "text": " (discuss) Each tool is best supported through its own range of practices. Should we prevent ourselves taking full advantage of a tool in favor of more important practices?",
+            "id": "48a62d29e5ed12f57cc98c9ac4880667"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "\nIdeas here.",
+            "id": "6c88a3e57049c239c73860fb39e9f8aa"
+          },
+          {
+            "type": "html",
+            "text": " Software development:<br>",
+            "id": "8af12925723fab6c2d7935e90b27a781"
+          },
+          {
+            "type": "html",
+            "text": " IDE, ",
+            "id": "c36d645ddd12c98a6fd7bd2d38b839a2"
+          },
+          {
+            "type": "html",
+            "text": " version control system, ",
+            "id": "34741ca3dc31d7f95a4cd7575ee835e1"
+          },
+          {
+            "type": "html",
+            "text": " local version control system (?),",
+            "id": "5defcf17ed431f4f2a34590a56c0815f"
+          },
+          {
+            "type": "html",
+            "text": " debugger, ",
+            "id": "0e485f8b0cf1b0044814d426493a2378"
+          },
+          {
+            "type": "html",
+            "text": " refactoring editor / browser, ",
+            "id": "88390e9c210d3b0b5bb8e3df4e9d77c9"
+          },
+          {
+            "type": "html",
+            "text": " profiler (a word about Optimization...), ",
+            "id": "a7f79aadb4187e9ff9503eb439155c47"
+          },
+          {
+            "type": "html",
+            "text": " unit testing framework, ",
+            "id": "57bd985f908eac3c7f94b48322825af4"
+          },
+          {
+            "type": "html",
+            "text": " acceptance testing framework, ",
+            "id": "2748c6c91d94bc34e92451068ad6c892"
+          },
+          {
+            "type": "html",
+            "text": " build and release script, ",
+            "id": "b4b2eb5554458a510b3f0379046f4944"
+          },
+          {
+            "type": "html",
+            "text": " bug tracking system",
+            "id": "75c1df1016e38a61dd71329df8aceba9"
+          },
+          {
+            "type": "html",
+            "text": " Machines:<br>",
+            "id": "30e13e3f1382bf07aa84f93270b40667"
+          },
+          {
+            "type": "html",
+            "text": " Integration / Build machine (may serve as web server wiki host)",
+            "id": "39fc0733bd8dc4af4935b50593804b01"
+          },
+          {
+            "type": "html",
+            "text": " Development machines (code in pair)",
+            "id": "fd931c0c7e593cfec67fbddc73722f7d"
+          },
+          {
+            "type": "html",
+            "text": " Individual machine (mail, browse, other explorations)",
+            "id": "70a8580068a1a1e6b825c3ac60b68c40"
+          },
+          {
+            "type": "html",
+            "text": " Physical setup:<br>",
+            "id": "9ffafd70c08fcf5dba01c7cec984dfda"
+          },
+          {
+            "type": "html",
+            "text": " Table for pair programming, (a word about physical location of tables)",
+            "id": "6b8b646c1d48c28945be9ab7250b23f1"
+          },
+          {
+            "type": "html",
+            "text": " Index cards, ",
+            "id": "bf3b9304b73a8aeb127ae69876e103ea"
+          },
+          {
+            "type": "html",
+            "text": " Giant Post-it,",
+            "id": "247b12b32f54109d6cec171e8727de27"
+          },
+          {
+            "type": "html",
+            "text": " whiteboards, corkboards, ",
+            "id": "56c82558962c14356888817f2cc13624"
+          },
+          {
+            "type": "html",
+            "text": " openworkspace, ",
+            "id": "6ad53dd545889f01a736df3273218bee"
+          },
+          {
+            "type": "html",
+            "text": " Walls (for displaying artifacts)",
+            "id": "24346c78c5bc47c65a530687528e5bc0"
+          },
+          {
+            "type": "html",
+            "text": " \"Common\" private space...",
+            "id": "dd45b22989f050336b7f2ccb99041a55"
+          },
+          {
+            "type": "html",
+            "text": " Others (a word about drawbacks of the optional stuff)",
+            "id": "e1754e9a989593e0166b481c5322a662"
+          },
+          {
+            "type": "html",
+            "text": " Scanner (to backup index cards)",
+            "id": "651bc2ca6b10003d94908ecababcba29"
+          },
+          {
+            "type": "html",
+            "text": " Still camera (to backup whiteboards / corkboards)",
+            "id": "669801ae1f51b3974c82ebd1738c08eb"
+          },
+          {
+            "type": "html",
+            "text": " Camera (to backup discussion and meeting)",
+            "id": "55735951034351902bd959a1e1e0a89f"
+          },
+          {
+            "type": "html",
+            "text": " A [[Wiki Web]]",
+            "id": "e5009e9beb50144062190c7e7f77f5fb"
+          },
+          {
+            "type": "html",
+            "text": " Should we include Standup meeting as a tool?",
+            "id": "73f994cee7667ac272df07a5e8583875"
+          },
+          {
+            "type": "html",
+            "text": " A word about using the same tools within the team.",
+            "id": "24c8d78debf7accc751f3fb449ca2595"
+          },
+          {
+            "type": "html",
+            "text": " Low tech tools as physical tokens",
+            "id": "3d0a4760967baa1cda4b167082e3e88b"
+          },
+          {
+            "type": "html",
+            "text": " Low tech tools as (human) interaction tools",
+            "id": "6f10439202a0171ee800d3c15a0873a4"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "Looking for...",
+            "id": "6186337b4d13c2927fb8d1d671f1409c"
+          },
+          {
+            "type": "html",
+            "text": " Visibility",
+            "id": "42a0878c08569a617a3d985c1f19b147"
+          },
+          {
+            "type": "html",
+            "text": " Whiteboards",
+            "id": "1eb2845e39f3d68fc16672bf8251eb5b"
+          },
+          {
+            "type": "html",
+            "text": " Giant Post-it",
+            "id": "f7c4f76e2b3ceda0e60979738803a3c5"
+          },
+          {
+            "type": "html",
+            "text": " Corkboards",
+            "id": "595a1e2721399fbe9469ee1b25f00984"
+          },
+          {
+            "type": "html",
+            "text": " Traceability",
+            "id": "ec60c069cd827a9df6b301ddbe8e56ee"
+          },
+          {
+            "type": "html",
+            "text": " Giant Post-it",
+            "id": "f7c4f76e2b3ceda0e60979738803a3c5"
+          },
+          {
+            "type": "html",
+            "text": " Index cards",
+            "id": "5a3fc62435bd595cbf3ce81443fd2d15"
+          },
+          {
+            "type": "html",
+            "text": " Wiki (Yes:<br>It's written down, no it's organic)",
+            "id": "a5c91e9bc39840f946b3e1dedd0a92b0"
+          },
+          {
+            "type": "html",
+            "text": " Non-blocking",
+            "id": "fbdacf3bf75307e48a04f814e07edc16"
+          },
+          {
+            "type": "html",
+            "text": " Index cards (while pair progamming, the non keyboarder can jot down ideas on cards)",
+            "id": "c190e8a20d1da2ffd80ef90c8ead2833"
+          },
+          {
+            "type": "html",
+            "text": " Emergence",
+            "id": "0c1b323dd3933691f19939b3a5d8dc05"
+          },
+          {
+            "type": "html",
+            "text": " Wiki",
+            "id": "e3450522a2c17581919847208901d973"
+          },
+          {
+            "type": "html",
+            "text": " Whiteboards",
+            "id": "1eb2845e39f3d68fc16672bf8251eb5b"
+          },
+          {
+            "type": "html",
+            "text": " Code",
+            "id": "60c019b27a706ac284b1fbe2ff7834e1"
+          },
+          {
+            "type": "html",
+            "text": " Automation",
+            "id": "1c17cf5f7f449b3b50b8e5cd75421029"
+          },
+          {
+            "type": "html",
+            "text": " Unit tests",
+            "id": "a165053edfc5f267ef5882a3eccabba4"
+          },
+          {
+            "type": "html",
+            "text": " Acceptance tests",
+            "id": "5d62c402b79c71b373546c281592b36f"
+          },
+          {
+            "type": "html",
+            "text": " profilers",
+            "id": "468984cd28da59c76afcedacff4176f0"
+          },
+          {
+            "type": "html",
+            "text": " code generators",
+            "id": "30afbf4455bcbfcdcc8fa2547ce570a4"
+          },
+          {
+            "type": "html",
+            "text": " ...?",
+            "id": "1e24aae4c50e1a5dd9bb94a0894361a8"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "Random questions and thoughts...",
+            "id": "0e3eaac4fc16cdf54d610f731f5bc938"
+          },
+          {
+            "type": "html",
+            "text": "\na) childish metaphysics for the philosophically inclined (incomplete)",
+            "id": "8727fd86912dfcd5bc2d9e949662b44f"
+          },
+          {
+            "type": "html",
+            "text": " what is a tool:<br>",
+            "id": "42375d9c9e8c383e11f5fe730a8370e4"
+          },
+          {
+            "type": "html",
+            "text": " a <i>means</i> to do something",
+            "id": "72c94748974185efe81dd1f4636393ae"
+          },
+          {
+            "type": "html",
+            "text": " a working environment",
+            "id": "9c47ab9cb7d1ee2fee6d228948df393c"
+          },
+          {
+            "type": "html",
+            "text": " a toy (?)",
+            "id": "7c9fdd2a2b9647d2cb4706f9091a1988"
+          },
+          {
+            "type": "html",
+            "text": " what can a tool do for us?",
+            "id": "8bf41947621b2291c06d39c98c053b7d"
+          },
+          {
+            "type": "html",
+            "text": " simplify",
+            "id": "3fb0ae2fa60d9cf2c91cb59dc95862a2"
+          },
+          {
+            "type": "html",
+            "text": " accelerate",
+            "id": "7e28a37c8a87b594bdc013d82c4f39d7"
+          },
+          {
+            "type": "html",
+            "text": " automate",
+            "id": "0ac6a8bba24a2e7ec3829a9013184b04"
+          },
+          {
+            "type": "html",
+            "text": " do what we're not good at / hate doing",
+            "id": "840b316b10508fe4e653773a3edbdbb1"
+          },
+          {
+            "type": "html",
+            "text": " helps us communicate",
+            "id": "b32458bc5948a1afe11f4f96e9d9e782"
+          },
+          {
+            "type": "html",
+            "text": " store and archive work",
+            "id": "f129be666b1c44fd010cd5dd0b0be825"
+          },
+          {
+            "type": "html",
+            "text": " what a tool should not do",
+            "id": "22e1b0802fa74b01f6dd32fae88f110f"
+          },
+          {
+            "type": "html",
+            "text": " distract",
+            "id": "c7f4e5d064719cfd18f6ef9cfa67cc34"
+          },
+          {
+            "type": "html",
+            "text": " complicate",
+            "id": "1a12873fbc332f8c0e8b4ddf669299e2"
+          },
+          {
+            "type": "html",
+            "text": " what are the costs of using tools? ",
+            "id": "ea6df0c9cfabe45f89256703d1535a78"
+          },
+          {
+            "type": "html",
+            "text": " opacity (we don't always see or understand what's going on 'underneath')\t",
+            "id": "03fdaaf84c88ff2d2ce381ed6aa34145"
+          },
+          {
+            "type": "html",
+            "text": " maintenance",
+            "id": "f320a13fce4a8eab76790fc9dd72c1a2"
+          },
+          {
+            "type": "html",
+            "text": " dependency (personal and technical compatibility)",
+            "id": "e47b1476dcd7e358f7f6028ac45e8583"
+          },
+          {
+            "type": "html",
+            "text": " may destroy relationship (e.g. mail flame)",
+            "id": "a4c84be3aa03a57df8b6c5606bb4e7f4"
+          },
+          {
+            "type": "html",
+            "text": " what should we be looking for in a tool ",
+            "id": "de66607b77117f07d37b94c6ad385c7f"
+          },
+          {
+            "type": "html",
+            "text": " is it appropriate? ",
+            "id": "edaec3fb18bf029554bfec9888257dbc"
+          },
+          {
+            "type": "html",
+            "text": " is it intuitive?",
+            "id": "f99edc8b2063a6cab3ea055f0bb1d173"
+          },
+          {
+            "type": "html",
+            "text": " does it produce good work?",
+            "id": "25019e1fc07a61c1b87fd6ed9655d0a0"
+          },
+          {
+            "type": "html",
+            "text": " does it conforms to standards? How wide is it supported?",
+            "id": "8b796c00666f390afc7ad60ca35a8d59"
+          },
+          {
+            "type": "html",
+            "text": " build trust among people",
+            "id": "246ffd8d5db5e7d88adf2986f0df8ec4"
+          },
+          {
+            "type": "html",
+            "text": " encourage human interaction",
+            "id": "d5c9c630cae677703bd9f4bde580a10f"
+          },
+          {
+            "type": "html",
+            "text": " what should <i>not</i> be looking for in a tool ",
+            "id": "7550d9516e87b13fd03e6292ac3acd12"
+          },
+          {
+            "type": "html",
+            "text": " a way to not interact with the other people",
+            "id": "1d8e7fcf23f61f02219605b7858a40df"
+          },
+          {
+            "type": "html",
+            "text": "b) tools-related issues",
+            "id": "f46380ae15a9cad1db3921fa71f81554"
+          },
+          {
+            "type": "html",
+            "text": " how to find the good tools and decide to implement the good ones",
+            "id": "a32d1339ea1309f95d15e340e40c7506"
+          },
+          {
+            "type": "html",
+            "text": " getting people to use those tools / making the transition",
+            "id": "2a584e4b2796a1a983afabf820d5b322"
+          },
+          {
+            "type": "html",
+            "text": " know your needs, choose your tools for your needs, not more",
+            "id": "6c9388b8b4e7a27dd6b9d22fdbdea0cf"
+          },
+          {
+            "type": "html",
+            "text": " good attitude to develop",
+            "id": "85469f43226910fea583c189369c54ca"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00f724aefe21cf2354eea5da3d799de4"
+          },
+          {
+            "type": "html",
+            "text": "[[Montreal Xp Users Group]]",
+            "id": "d5b1b103e97ba235d0f576557ddc4dba"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MontrealXpToolsPresentation c2.com]",
+            "id": "4fce22af3e09cf9b3850852b488c1bbd"
+          }
+        ]
+      }
+    }
+  ]
+}
