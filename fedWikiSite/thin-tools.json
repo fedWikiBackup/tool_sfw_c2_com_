@@ -1,0 +1,97 @@
+{
+  "title": "Thin Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "The term thin tool was coined by Daveed Vandevoorde to designate small tools that can operate on an application to perform very specific and Fine Tuned Tasks. ",
+      "id": "e2810fef67a21c6e259e28ceff65b1c4"
+    },
+    {
+      "type": "html",
+      "text": "\nThink of thin tools as User Written Plugins that extends other [[Development Tools]] such as compilers.",
+      "id": "9434324df9e202b724861b4f4ce9b543"
+    },
+    {
+      "type": "html",
+      "text": "\nMozart employed four thin tools: ",
+      "id": "9eec8d3bc908ac62bb797d66044458a2"
+    },
+    {
+      "type": "html",
+      "text": " The derivation tool",
+      "id": "0f326d1914d5671837b53c64993c3d9f"
+    },
+    {
+      "type": "html",
+      "text": " The constant fold tool",
+      "id": "9e4352bb96a150443219da25eab57dde"
+    },
+    {
+      "type": "html",
+      "text": " The assert tool ",
+      "id": "cff5b81e25a6ce4b27be281402c1b91e"
+    },
+    {
+      "type": "html",
+      "text": " The strip tool ",
+      "id": "c477a0a851ebad9d56e9b55d49d3018f"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ThinTools c2.com]",
+      "id": "fc41890c5902455d8a7b7b7b495b9c05"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1407937641000,
+      "id": "de11abdcea859e9afdd194659d477bfe",
+      "type": "create",
+      "item": {
+        "title": "Thin Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "The term thin tool was coined by Daveed Vandevoorde to designate small tools that can operate on an application to perform very specific and Fine Tuned Tasks. ",
+            "id": "e2810fef67a21c6e259e28ceff65b1c4"
+          },
+          {
+            "type": "html",
+            "text": "\nThink of thin tools as User Written Plugins that extends other [[Development Tools]] such as compilers.",
+            "id": "9434324df9e202b724861b4f4ce9b543"
+          },
+          {
+            "type": "html",
+            "text": "\nMozart employed four thin tools: ",
+            "id": "9eec8d3bc908ac62bb797d66044458a2"
+          },
+          {
+            "type": "html",
+            "text": " The derivation tool",
+            "id": "0f326d1914d5671837b53c64993c3d9f"
+          },
+          {
+            "type": "html",
+            "text": " The constant fold tool",
+            "id": "9e4352bb96a150443219da25eab57dde"
+          },
+          {
+            "type": "html",
+            "text": " The assert tool ",
+            "id": "cff5b81e25a6ce4b27be281402c1b91e"
+          },
+          {
+            "type": "html",
+            "text": " The strip tool ",
+            "id": "c477a0a851ebad9d56e9b55d49d3018f"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ThinTools c2.com]",
+            "id": "fc41890c5902455d8a7b7b7b495b9c05"
+          }
+        ]
+      }
+    }
+  ]
+}
