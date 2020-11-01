@@ -1,0 +1,707 @@
+{
+  "title": "Code Coverage Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Code Coverage Tools]] = tools that enable you measure the [[Code Coverage]] of your tests.",
+      "id": "ca5505e6b98c5b520767cb718fc967dd"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "<b>for Java:</b>",
+      "id": "329410f7c8da3fbdc19f5b699144d1df"
+    },
+    {
+      "type": "html",
+      "text": " EMMA @ [http://emma.sourceforge.net/ emma.sourceforge.net] - [[Open Source]], instrumenting [[Class Loader]] as well as offline instrumentor, ANT, fractional line coverage, block coverage",
+      "id": "c28646534ebc7b96459ce7d4cdf787f9"
+    },
+    {
+      "type": "html",
+      "text": " Hansel @ [http://hansel.sourceforge.net/ hansel.sourceforge.net] - [[Open Source]], instruments classes in [[Class Loader]], integrates with [[Java Unit]]",
+      "id": "408a37125bad513d347bded0ebd853ac"
+    },
+    {
+      "type": "html",
+      "text": " jcoverage @ [http://www.jcoverage.com/ www.jcoverage.com] - [[Open Source]] and [[Closed Source]] versions, Ant task, line and branch coverage",
+      "id": "afc0af3677d88c9600954f74b14cf285"
+    },
+    {
+      "type": "html",
+      "text": " Cobertura @ [http://cobertura.sourceforge.net/ cobertura.sourceforge.net] - [[Open Source]], free, instruments class files, Ant tasks",
+      "id": "9479e944e3304ec0549440e55a33fcd3"
+    },
+    {
+      "type": "html",
+      "text": " Clover @ [http://www.atlassian.com/software/clover/ www.atlassian.com] - [[Closed Source]] (but free for use on [[Open Source]] projects), integrates well with common Java IDEs",
+      "id": "cb7b8fc665bef08adfee6fead13156b3"
+    },
+    {
+      "type": "html",
+      "text": " [[Grobo Utils]] @ [http://groboutils.sourceforge.net groboutils.sourceforge.net] - [[Open Source]], instruments class files, Ant tasks",
+      "id": "00081f392d46f61bc91dcacbe1b42062"
+    },
+    {
+      "type": "html",
+      "text": " [[No Unit]] @ [http://nounit.sourceforge.net/ nounit.sourceforge.net] - [[Open Source]] (GNU)",
+      "id": "e9cfe45edf54c2da85cd206b2ebe3bc3"
+    },
+    {
+      "type": "html",
+      "text": " Quilt @ [http://quilt.sourceforge.net/ quilt.sourceforge.net] - [[Open Source]], [[Java Unit]], Ant, instrumenting [[Class Loader]]",
+      "id": "0b6fb3e89be647050c5c9c71538b85be"
+    },
+    {
+      "type": "html",
+      "text": " Gretel @ [http://sourceforge.net/projects/gretel sourceforge.net] - [old version of Hansel?]",
+      "id": "0b29bbbc8d9396fc52dfff3289f52df6"
+    },
+    {
+      "type": "html",
+      "text": " The \"Java Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/JavaTestCoverage.html www.semanticdesigns.com] - [[Closed Source]], Instruments Source, displays results superimposed on browsable source. US$200 as of 8/1/2004.",
+      "id": "2e4bfd7f05037fe526c025c6a07f0a6a"
+    },
+    {
+      "type": "html",
+      "text": " JBlanket (Software Information) @ [http://csdl.ics.hawaii.edu/Tools/JBlanket/ csdl.ics.hawaii.edu] - a tool for assessing and improving method coverage of unit test cases. It is integrated with JUnit and Ant.",
+      "id": "ccf06f21b7c70a6f04cff2d49b9a380d"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Mutation Testing]]: <i>(which isn't really [[Code Coverage]], but it's related)</i>",
+      "id": "3b85fe6048e6361a90ccb2075d3f6522"
+    },
+    {
+      "type": "html",
+      "text": " [[Jes Ter]] @ [http://jester.sourceforge.net/ jester.sourceforge.net] - changes your code, and then runs your tests. (If arbitrary changes to the code don't break the tests, then is your code sufficiently tested?)",
+      "id": "2101146a3ab735fe69e2de4b52c9fa7c"
+    },
+    {
+      "type": "html",
+      "text": "<b>for .NET ([[Dot Net]]):</b>",
+      "id": "f88979db86283b1b87576e8eef11a293"
+    },
+    {
+      "type": "html",
+      "text": " [[Open Cover]] @ [https://github.com/sawilde/opencover github.com] - [[Open Source]] (MIT licence) A code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points",
+      "id": "0fefded060fc3167b34095c835e0bee4"
+    },
+    {
+      "type": "html",
+      "text": " Clover.NET @ [http://www.cenqua.com/clover.net/ www.cenqua.com] - [[Closed Source]] (but free for use on [[Open Source]] projects), C# and VB.NET, statement, method and branch coverage, from command line, Visual Studio, and NAnt (preliminary mono support)",
+      "id": "ff1b8d639cb064bc277d15e73f27ab67"
+    },
+    {
+      "type": "html",
+      "text": " NCover @ [http://ncover.sourceforge.net/ ncover.sourceforge.net] - [[Open Source]], path coverage, NUnit, NAnt",
+      "id": "485dea34b4fb6b024271af1de00f089b"
+    },
+    {
+      "type": "html",
+      "text": " [[Coverage Eye]].NET @ [http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=881a36c6-6f45-4485-a94e-060130687151 www.gotdotnet.com] - uses a COM component to leverage the .NET profiling API",
+      "id": "a61bb66bf88c38bbf6151537d1dc9e50"
+    },
+    {
+      "type": "html",
+      "text": " \"[[Dev Partner]] Studio Professional Edition\" @ [http://www.compuware.com/products/devpartner/1563_ENG_HTML.htm www.compuware.com] - $$$",
+      "id": "5227a7e1239aba625011c3351c897e2c"
+    },
+    {
+      "type": "html",
+      "text": " \"Perform Code Coverage Analysis with .NET to Ensure Thorough Application Testing\", an MSDN article on building \"A custom code coverage tool\" @ [http://msdn.microsoft.com/msdnmag/issues/04/04/CodeCoverageAnalysis/default.aspx msdn.microsoft.com]",
+      "id": "3da9d12d080affe5cf9742a06e3725f9"
+    },
+    {
+      "type": "html",
+      "text": " \"C# Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/CSharpTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. US$250 as of 8/1/2004.",
+      "id": "310c6d1195dc4b5356bfcde1d64cf995"
+    },
+    {
+      "type": "html",
+      "text": " \"dotCover\" [http://www.jetbrains.com/dotcover/ www.jetbrains.com] Closed source, free license for OSS projects",
+      "id": "556e2fd70683403503767c9f36d1088f"
+    },
+    {
+      "type": "html",
+      "text": " \"Squish Coco\" [http://www.froglogic.com/squish/coco/ www.froglogic.com] Commercial, free license for non-commercial use",
+      "id": "3df26cca3f772106670503f260da1dea"
+    },
+    {
+      "type": "html",
+      "text": "<b>C/C++:</b>",
+      "id": "0fe01891bcea0b157b6a9eeb129ff0e6"
+    },
+    {
+      "type": "html",
+      "text": " tcov = Sun Unix C profiler.  See \"tcov(1)\" man page.  It annotates (mangles) your source code to add instrumentation.",
+      "id": "c93b9431ce3a5f843cf256d21ee37c69"
+    },
+    {
+      "type": "html",
+      "text": " gcov = GNU C/C++ equivalent of \"tcov\".",
+      "id": "e2618c6a5a0c1b135034ca2149d16399"
+    },
+    {
+      "type": "html",
+      "text": " Dynamic Code Coverage for Sun Solaris, Linux, and HP UX @ [http://www.dynamic-memory.com/ www.dynamic-memory.com]",
+      "id": "72c72db5cbcc98b3b6bff20e58158bc1"
+    },
+    {
+      "type": "html",
+      "text": " \"C Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/CTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. US$400 as of 8/1/2004. ANSI, Microsoft Visual6 C, and GNU C dialects all supported.",
+      "id": "fce4e10cdca38c4ca37cc93897ab169b"
+    },
+    {
+      "type": "html",
+      "text": " \"C++ Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/CppTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. US$500 as of 8/1/2004. ANSI and Microsoft Visual6 C++ dialects all supported.",
+      "id": "6e56630b91383f40db17a2f0dba57cc3"
+    },
+    {
+      "type": "html",
+      "text": " \"Squish Coco\" [http://www.froglogic.com/squish/coco/ www.froglogic.com] Commercial, free license for non-commercial use",
+      "id": "3df26cca3f772106670503f260da1dea"
+    },
+    {
+      "type": "html",
+      "text": " \"C++ Coverage Validator\" [http://www.softwareverify.com/cpp-coverage.php www.softwareverify.com] Visual, interactive code coverage and also unattended command line code coverage. Instruments compiled application. Results displayed as code coloured source code. Languages: C, C++, Delphi, Fortran 95 (any native language for which debug information is available). Visual Studio 6 through 2014.",
+      "id": "3086234cff7a2f0f8edee23e079db9b2"
+    },
+    {
+      "type": "html",
+      "text": "<b>Perl:</b>",
+      "id": "44fe8c4f2fcb5acbec9f963eef4fd86b"
+    },
+    {
+      "type": "html",
+      "text": " Devel::Cover @ [http://search.cpan.org/dist/Devel-Cover/ search.cpan.org] - Statement, branch, path, expression and documentation coverage. ",
+      "id": "2dcaca02bce408dc8a165db5603365c9"
+    },
+    {
+      "type": "html",
+      "text": " Pod::Coverage @ [http://search.cpan.org/dist/Pod-Coverage search.cpan.org] / - Documentation coverage (used by Devel::Cover)",
+      "id": "fa4490750d77ba9b22c17f819fa57c6a"
+    },
+    {
+      "type": "html",
+      "text": " Test::Pod::Coverage @ [http://search.cpan.org/dist/Test-Pod-Coverage search.cpan.org] - Testing framework wrapped around Pod::Coverage",
+      "id": "2b410ff91e964ffabbfaf68f6e8ac829"
+    },
+    {
+      "type": "html",
+      "text": " Devel::Coverage - older coverage module superseded by Devel::Cover",
+      "id": "56357d18097ea677ba70bc87fd6035a0"
+    },
+    {
+      "type": "html",
+      "text": "<b>for Python:</b>",
+      "id": "cafa0e8cdccd7397b630e96248ec8709"
+    },
+    {
+      "type": "html",
+      "text": " coverage.py @ [http://www.ravenbrook.com/project/p4dti/master/test/coverage.py www.ravenbrook.com] - Provides statement coverage data. Part of a larger project: [[Open Source]]-style license is at bottom of source file.",
+      "id": "7684f32aee99474945f8b6a273c29648"
+    },
+    {
+      "type": "html",
+      "text": " pylid - [http://www.nullcube.com/software/pylid.html www.nullcube.com]",
+      "id": "58b88ebe1943acf6f6f2b5314823b216"
+    },
+    {
+      "type": "html",
+      "text": " trace.py (part of Python's standard library)",
+      "id": "fe06211bb33900ca4996243aacad9d7a"
+    },
+    {
+      "type": "html",
+      "text": "<b>for PHP:</b>",
+      "id": "4f571e848ebacae2f9f13338b4586b05"
+    },
+    {
+      "type": "html",
+      "text": " \"PHP Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/PHPTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. PHP4 and PHP5 versions.",
+      "id": "e659e8f210877f4f4c8313b4c15109bb"
+    },
+    {
+      "type": "html",
+      "text": "<b>for Tcl:</b>",
+      "id": "c1ca4f378cd7c72c797467855b501185"
+    },
+    {
+      "type": "html",
+      "text": " \"Squish Coco\" [http://www.froglogic.com/squish/coco/ www.froglogic.com] Commercial, free license for non-commercial use",
+      "id": "3df26cca3f772106670503f260da1dea"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "\nI have started to use Hansel, [http://hansel.sourceforge.net/ hansel.sourceforge.net], an open source [[Code Coverage]] tool which integrates seamlessly with [[Java Unit]]. Hansel is a [[Test Decorator]] for [[Java Unit]]. I add test classes incrementally to a coverage test suite with Hansel. We were already quite thorough on unit testing, but actually measuring coverage enabled us to remove more production code, add some tests, and [[Re Factor]] code. -- [[Willem Van Den Ende]]",
+      "id": "90765362d689f4b1c31224128829d67c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "\nI have started using jcoverage, [http://www.jcoverage.com/ www.jcoverage.com], which is also an open-source [[Code Coverage]] tool. It integrates with Ant using its own custom tasks and can report on both line and branch coverage. I have been quite impressed with it so far. -- [[Craig Pardey]]",
+      "id": "5ec7012835b0c508485032c8b15dfe8b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "\nI have started using Clover, [http://www.thecortex.net/clover/ www.thecortex.net], which isn't open source, but is free for open source developers and not that expensive for commercial use. Unlike Hansel, you don't need any magic in your test-suites to make it work, [[It Just Works]]. Clover can generate HTML/PDF/XML reports and it integrates with [[Eclipse Ide]], [[Intellij Idea]] and [[Net Beans]]. After just couple of days, I'm very impressed. -- [[Juha Komulainen]]",
+      "id": "b9c0df52b2c9434ada3ab9ef5c7e2890"
+    },
+    {
+      "type": "html",
+      "text": "\"The Clover tool's integration with IntelliJ makes it *very* easy to click on modules with low coverage and see what was covered and what was not.\" -- a comment by [[Robert Martin]] on news:comp.software.extreme-programming",
+      "id": "180c32acab8c8857d0ec7cdb0a38b683"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "\nJust came across a slew of tools/utilities from the [[Grobo Utils]] project @ sourceforge. The intentions are certainly impressive. Anybody had a chance to check it out? [http://groboutils.sourceforge.net/ groboutils.sourceforge.net] -- [[Raghu Havaldar]]",
+      "id": "57670f33bb45ea3fce5977ed5a8a141c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "\nA good comparison on [[Code Coverage]] tools integrating with Ant can be found at [http://www.javaranch.com/newsletter/200401/IntroToCodeCoverage.html www.javaranch.com]",
+      "id": "23c893d903879667622df22f582c36ea"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Matt Albrecht]]",
+      "id": "bfa87643342d3beeb4282a9f6be4171a"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "\nA list of java open source coverage tools can be found at: [http://java-source.net/open-source/code-coverage java-source.net].",
+      "id": "5fb3515a1ab2cf619ba6cff45bdd5dea"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "A good evaluation of about ten different [[Code Coverage]] Tools is at [http://europetravelogue.com/blog/pivot/entry.php?id=41 europetravelogue.com]. The reviewer found Emma and Clover to be the best for his needs.",
+      "id": "98b9bd0e41655a543190b85bef504bf9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "Common Lisp has Waters' COVER package: [http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/lang/lisp/code/testing/cover/0.html www-cgi.cs.cmu.edu]\nIt's rather compact compared to some of the other tools described on this Wiki page. -- [[Paul Dietz]]",
+      "id": "c0e6eed08ef8e6a1b2cc2e4673714060"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d410fe57dec9126cc5bfebdd82f53164"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "aecd4b3f785587124ff9c019e4eb95a2"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?CodeCoverageTools c2.com]",
+      "id": "89cf0f0685abc71c2936365049e480f2"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1415963953000,
+      "id": "ec101cad32885fdb2f3a628eba254804",
+      "type": "create",
+      "item": {
+        "title": "Code Coverage Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Code Coverage Tools]] = tools that enable you measure the [[Code Coverage]] of your tests.",
+            "id": "ca5505e6b98c5b520767cb718fc967dd"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "<b>for Java:</b>",
+            "id": "329410f7c8da3fbdc19f5b699144d1df"
+          },
+          {
+            "type": "html",
+            "text": " EMMA @ [http://emma.sourceforge.net/ emma.sourceforge.net] - [[Open Source]], instrumenting [[Class Loader]] as well as offline instrumentor, ANT, fractional line coverage, block coverage",
+            "id": "c28646534ebc7b96459ce7d4cdf787f9"
+          },
+          {
+            "type": "html",
+            "text": " Hansel @ [http://hansel.sourceforge.net/ hansel.sourceforge.net] - [[Open Source]], instruments classes in [[Class Loader]], integrates with [[Java Unit]]",
+            "id": "408a37125bad513d347bded0ebd853ac"
+          },
+          {
+            "type": "html",
+            "text": " jcoverage @ [http://www.jcoverage.com/ www.jcoverage.com] - [[Open Source]] and [[Closed Source]] versions, Ant task, line and branch coverage",
+            "id": "afc0af3677d88c9600954f74b14cf285"
+          },
+          {
+            "type": "html",
+            "text": " Cobertura @ [http://cobertura.sourceforge.net/ cobertura.sourceforge.net] - [[Open Source]], free, instruments class files, Ant tasks",
+            "id": "9479e944e3304ec0549440e55a33fcd3"
+          },
+          {
+            "type": "html",
+            "text": " Clover @ [http://www.atlassian.com/software/clover/ www.atlassian.com] - [[Closed Source]] (but free for use on [[Open Source]] projects), integrates well with common Java IDEs",
+            "id": "cb7b8fc665bef08adfee6fead13156b3"
+          },
+          {
+            "type": "html",
+            "text": " [[Grobo Utils]] @ [http://groboutils.sourceforge.net groboutils.sourceforge.net] - [[Open Source]], instruments class files, Ant tasks",
+            "id": "00081f392d46f61bc91dcacbe1b42062"
+          },
+          {
+            "type": "html",
+            "text": " [[No Unit]] @ [http://nounit.sourceforge.net/ nounit.sourceforge.net] - [[Open Source]] (GNU)",
+            "id": "e9cfe45edf54c2da85cd206b2ebe3bc3"
+          },
+          {
+            "type": "html",
+            "text": " Quilt @ [http://quilt.sourceforge.net/ quilt.sourceforge.net] - [[Open Source]], [[Java Unit]], Ant, instrumenting [[Class Loader]]",
+            "id": "0b6fb3e89be647050c5c9c71538b85be"
+          },
+          {
+            "type": "html",
+            "text": " Gretel @ [http://sourceforge.net/projects/gretel sourceforge.net] - [old version of Hansel?]",
+            "id": "0b29bbbc8d9396fc52dfff3289f52df6"
+          },
+          {
+            "type": "html",
+            "text": " The \"Java Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/JavaTestCoverage.html www.semanticdesigns.com] - [[Closed Source]], Instruments Source, displays results superimposed on browsable source. US$200 as of 8/1/2004.",
+            "id": "2e4bfd7f05037fe526c025c6a07f0a6a"
+          },
+          {
+            "type": "html",
+            "text": " JBlanket (Software Information) @ [http://csdl.ics.hawaii.edu/Tools/JBlanket/ csdl.ics.hawaii.edu] - a tool for assessing and improving method coverage of unit test cases. It is integrated with JUnit and Ant.",
+            "id": "ccf06f21b7c70a6f04cff2d49b9a380d"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Mutation Testing]]: <i>(which isn't really [[Code Coverage]], but it's related)</i>",
+            "id": "3b85fe6048e6361a90ccb2075d3f6522"
+          },
+          {
+            "type": "html",
+            "text": " [[Jes Ter]] @ [http://jester.sourceforge.net/ jester.sourceforge.net] - changes your code, and then runs your tests. (If arbitrary changes to the code don't break the tests, then is your code sufficiently tested?)",
+            "id": "2101146a3ab735fe69e2de4b52c9fa7c"
+          },
+          {
+            "type": "html",
+            "text": "<b>for .NET ([[Dot Net]]):</b>",
+            "id": "f88979db86283b1b87576e8eef11a293"
+          },
+          {
+            "type": "html",
+            "text": " [[Open Cover]] @ [https://github.com/sawilde/opencover github.com] - [[Open Source]] (MIT licence) A code coverage tool for .NET 2 and above, support for 32 and 64 processes with both branch and sequence points",
+            "id": "0fefded060fc3167b34095c835e0bee4"
+          },
+          {
+            "type": "html",
+            "text": " Clover.NET @ [http://www.cenqua.com/clover.net/ www.cenqua.com] - [[Closed Source]] (but free for use on [[Open Source]] projects), C# and VB.NET, statement, method and branch coverage, from command line, Visual Studio, and NAnt (preliminary mono support)",
+            "id": "ff1b8d639cb064bc277d15e73f27ab67"
+          },
+          {
+            "type": "html",
+            "text": " NCover @ [http://ncover.sourceforge.net/ ncover.sourceforge.net] - [[Open Source]], path coverage, NUnit, NAnt",
+            "id": "485dea34b4fb6b024271af1de00f089b"
+          },
+          {
+            "type": "html",
+            "text": " [[Coverage Eye]].NET @ [http://www.gotdotnet.com/Community/UserSamples/Details.aspx?SampleGuid=881a36c6-6f45-4485-a94e-060130687151 www.gotdotnet.com] - uses a COM component to leverage the .NET profiling API",
+            "id": "a61bb66bf88c38bbf6151537d1dc9e50"
+          },
+          {
+            "type": "html",
+            "text": " \"[[Dev Partner]] Studio Professional Edition\" @ [http://www.compuware.com/products/devpartner/1563_ENG_HTML.htm www.compuware.com] - $$$",
+            "id": "5227a7e1239aba625011c3351c897e2c"
+          },
+          {
+            "type": "html",
+            "text": " \"Perform Code Coverage Analysis with .NET to Ensure Thorough Application Testing\", an MSDN article on building \"A custom code coverage tool\" @ [http://msdn.microsoft.com/msdnmag/issues/04/04/CodeCoverageAnalysis/default.aspx msdn.microsoft.com]",
+            "id": "3da9d12d080affe5cf9742a06e3725f9"
+          },
+          {
+            "type": "html",
+            "text": " \"C# Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/CSharpTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. US$250 as of 8/1/2004.",
+            "id": "310c6d1195dc4b5356bfcde1d64cf995"
+          },
+          {
+            "type": "html",
+            "text": " \"dotCover\" [http://www.jetbrains.com/dotcover/ www.jetbrains.com] Closed source, free license for OSS projects",
+            "id": "556e2fd70683403503767c9f36d1088f"
+          },
+          {
+            "type": "html",
+            "text": " \"Squish Coco\" [http://www.froglogic.com/squish/coco/ www.froglogic.com] Commercial, free license for non-commercial use",
+            "id": "3df26cca3f772106670503f260da1dea"
+          },
+          {
+            "type": "html",
+            "text": "<b>C/C++:</b>",
+            "id": "0fe01891bcea0b157b6a9eeb129ff0e6"
+          },
+          {
+            "type": "html",
+            "text": " tcov = Sun Unix C profiler.  See \"tcov(1)\" man page.  It annotates (mangles) your source code to add instrumentation.",
+            "id": "c93b9431ce3a5f843cf256d21ee37c69"
+          },
+          {
+            "type": "html",
+            "text": " gcov = GNU C/C++ equivalent of \"tcov\".",
+            "id": "e2618c6a5a0c1b135034ca2149d16399"
+          },
+          {
+            "type": "html",
+            "text": " Dynamic Code Coverage for Sun Solaris, Linux, and HP UX @ [http://www.dynamic-memory.com/ www.dynamic-memory.com]",
+            "id": "72c72db5cbcc98b3b6bff20e58158bc1"
+          },
+          {
+            "type": "html",
+            "text": " \"C Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/CTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. US$400 as of 8/1/2004. ANSI, Microsoft Visual6 C, and GNU C dialects all supported.",
+            "id": "fce4e10cdca38c4ca37cc93897ab169b"
+          },
+          {
+            "type": "html",
+            "text": " \"C++ Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/CppTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. US$500 as of 8/1/2004. ANSI and Microsoft Visual6 C++ dialects all supported.",
+            "id": "6e56630b91383f40db17a2f0dba57cc3"
+          },
+          {
+            "type": "html",
+            "text": " \"Squish Coco\" [http://www.froglogic.com/squish/coco/ www.froglogic.com] Commercial, free license for non-commercial use",
+            "id": "3df26cca3f772106670503f260da1dea"
+          },
+          {
+            "type": "html",
+            "text": " \"C++ Coverage Validator\" [http://www.softwareverify.com/cpp-coverage.php www.softwareverify.com] Visual, interactive code coverage and also unattended command line code coverage. Instruments compiled application. Results displayed as code coloured source code. Languages: C, C++, Delphi, Fortran 95 (any native language for which debug information is available). Visual Studio 6 through 2014.",
+            "id": "3086234cff7a2f0f8edee23e079db9b2"
+          },
+          {
+            "type": "html",
+            "text": "<b>Perl:</b>",
+            "id": "44fe8c4f2fcb5acbec9f963eef4fd86b"
+          },
+          {
+            "type": "html",
+            "text": " Devel::Cover @ [http://search.cpan.org/dist/Devel-Cover/ search.cpan.org] - Statement, branch, path, expression and documentation coverage. ",
+            "id": "2dcaca02bce408dc8a165db5603365c9"
+          },
+          {
+            "type": "html",
+            "text": " Pod::Coverage @ [http://search.cpan.org/dist/Pod-Coverage search.cpan.org] / - Documentation coverage (used by Devel::Cover)",
+            "id": "fa4490750d77ba9b22c17f819fa57c6a"
+          },
+          {
+            "type": "html",
+            "text": " Test::Pod::Coverage @ [http://search.cpan.org/dist/Test-Pod-Coverage search.cpan.org] - Testing framework wrapped around Pod::Coverage",
+            "id": "2b410ff91e964ffabbfaf68f6e8ac829"
+          },
+          {
+            "type": "html",
+            "text": " Devel::Coverage - older coverage module superseded by Devel::Cover",
+            "id": "56357d18097ea677ba70bc87fd6035a0"
+          },
+          {
+            "type": "html",
+            "text": "<b>for Python:</b>",
+            "id": "cafa0e8cdccd7397b630e96248ec8709"
+          },
+          {
+            "type": "html",
+            "text": " coverage.py @ [http://www.ravenbrook.com/project/p4dti/master/test/coverage.py www.ravenbrook.com] - Provides statement coverage data. Part of a larger project: [[Open Source]]-style license is at bottom of source file.",
+            "id": "7684f32aee99474945f8b6a273c29648"
+          },
+          {
+            "type": "html",
+            "text": " pylid - [http://www.nullcube.com/software/pylid.html www.nullcube.com]",
+            "id": "58b88ebe1943acf6f6f2b5314823b216"
+          },
+          {
+            "type": "html",
+            "text": " trace.py (part of Python's standard library)",
+            "id": "fe06211bb33900ca4996243aacad9d7a"
+          },
+          {
+            "type": "html",
+            "text": "<b>for PHP:</b>",
+            "id": "4f571e848ebacae2f9f13338b4586b05"
+          },
+          {
+            "type": "html",
+            "text": " \"PHP Test Coverage Tool\" @ [http://www.semanticdesigns.com/Products/TestCoverage/PHPTestCoverage.html www.semanticdesigns.com] - [[Closed Source]]. Instruments Source, displays results superimposed on browsable source. PHP4 and PHP5 versions.",
+            "id": "e659e8f210877f4f4c8313b4c15109bb"
+          },
+          {
+            "type": "html",
+            "text": "<b>for Tcl:</b>",
+            "id": "c1ca4f378cd7c72c797467855b501185"
+          },
+          {
+            "type": "html",
+            "text": " \"Squish Coco\" [http://www.froglogic.com/squish/coco/ www.froglogic.com] Commercial, free license for non-commercial use",
+            "id": "3df26cca3f772106670503f260da1dea"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "\nI have started to use Hansel, [http://hansel.sourceforge.net/ hansel.sourceforge.net], an open source [[Code Coverage]] tool which integrates seamlessly with [[Java Unit]]. Hansel is a [[Test Decorator]] for [[Java Unit]]. I add test classes incrementally to a coverage test suite with Hansel. We were already quite thorough on unit testing, but actually measuring coverage enabled us to remove more production code, add some tests, and [[Re Factor]] code. -- [[Willem Van Den Ende]]",
+            "id": "90765362d689f4b1c31224128829d67c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "\nI have started using jcoverage, [http://www.jcoverage.com/ www.jcoverage.com], which is also an open-source [[Code Coverage]] tool. It integrates with Ant using its own custom tasks and can report on both line and branch coverage. I have been quite impressed with it so far. -- [[Craig Pardey]]",
+            "id": "5ec7012835b0c508485032c8b15dfe8b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "\nI have started using Clover, [http://www.thecortex.net/clover/ www.thecortex.net], which isn't open source, but is free for open source developers and not that expensive for commercial use. Unlike Hansel, you don't need any magic in your test-suites to make it work, [[It Just Works]]. Clover can generate HTML/PDF/XML reports and it integrates with [[Eclipse Ide]], [[Intellij Idea]] and [[Net Beans]]. After just couple of days, I'm very impressed. -- [[Juha Komulainen]]",
+            "id": "b9c0df52b2c9434ada3ab9ef5c7e2890"
+          },
+          {
+            "type": "html",
+            "text": "\"The Clover tool's integration with IntelliJ makes it *very* easy to click on modules with low coverage and see what was covered and what was not.\" -- a comment by [[Robert Martin]] on news:comp.software.extreme-programming",
+            "id": "180c32acab8c8857d0ec7cdb0a38b683"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "\nJust came across a slew of tools/utilities from the [[Grobo Utils]] project @ sourceforge. The intentions are certainly impressive. Anybody had a chance to check it out? [http://groboutils.sourceforge.net/ groboutils.sourceforge.net] -- [[Raghu Havaldar]]",
+            "id": "57670f33bb45ea3fce5977ed5a8a141c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "\nA good comparison on [[Code Coverage]] tools integrating with Ant can be found at [http://www.javaranch.com/newsletter/200401/IntroToCodeCoverage.html www.javaranch.com]",
+            "id": "23c893d903879667622df22f582c36ea"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Matt Albrecht]]",
+            "id": "bfa87643342d3beeb4282a9f6be4171a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "\nA list of java open source coverage tools can be found at: [http://java-source.net/open-source/code-coverage java-source.net].",
+            "id": "5fb3515a1ab2cf619ba6cff45bdd5dea"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "A good evaluation of about ten different [[Code Coverage]] Tools is at [http://europetravelogue.com/blog/pivot/entry.php?id=41 europetravelogue.com]. The reviewer found Emma and Clover to be the best for his needs.",
+            "id": "98b9bd0e41655a543190b85bef504bf9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "Common Lisp has Waters' COVER package: [http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/lang/lisp/code/testing/cover/0.html www-cgi.cs.cmu.edu]\nIt's rather compact compared to some of the other tools described on this Wiki page. -- [[Paul Dietz]]",
+            "id": "c0e6eed08ef8e6a1b2cc2e4673714060"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d410fe57dec9126cc5bfebdd82f53164"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "aecd4b3f785587124ff9c019e4eb95a2"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?CodeCoverageTools c2.com]",
+            "id": "89cf0f0685abc71c2936365049e480f2"
+          }
+        ]
+      }
+    }
+  ]
+}
