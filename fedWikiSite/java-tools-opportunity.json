@@ -1,0 +1,157 @@
+{
+  "title": "Java Tools Opportunity",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Last edited August 21, 2000. Perhaps this page is due for an update? [[Eclipse Ide]] and [[Intellij Idea]] seem to have somewhat improved the Java development tools situation. (I'm not a big IDE user, so I'll leave such an update to those who are. Just saw this on [[Random Pages]] and wanted to make a note to bring this page back into the [[Wiki Now]]. [[Delete When Cooked]].)</i>",
+      "id": "f3b23aebac4f5430ec40d0041031e3e6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "92250211a4c8d9011e1fc24f667a5b87"
+    },
+    {
+      "type": "html",
+      "text": "My current project is using [[Visual Cafe]], but only because we are deploying EJBs to [[Web Logic]], and VC's debugger will talk to [[Web Logic]] in interesting and useful ways. Otherwise, we wouldn't touch it, as VC sucks bowling balls through firehoses. ",
+      "id": "199eeebbfb29ff910953c389f758ae0d"
+    },
+    {
+      "type": "html",
+      "text": "\nIn fact, if there were a reasonable third party source level debugger available that understood how to talk to java_g remotely, we'd use that and vi and make. Since our front end is web-based, all that visual composition stuff in VC is just overhead, and the \"automatic\" EJB deployment requires a lot of manual intervention, but we need the debugger.  ",
+      "id": "f9b1db2e4cc29e397400a55d996d212e"
+    },
+    {
+      "type": "html",
+      "text": "\nMost (I've not seen them all) of the IDE's listed above are deeply shit along one axis or another, whatever debugger is buried way down inside them is the most useful part, so there's a really big opening here for a tools shop to produce a \"gdb\" (with a nice gui) for Java.",
+      "id": "86f875dc7e98f791a77a61e66302a732"
+    },
+    {
+      "type": "html",
+      "text": "\nLook on IBM's Alphaworks Site ([http://www.alphaworks.ibm.com www.alphaworks.ibm.com]).  We give one away called JIKES ([[Jikes Compiler]]) that might work.  Also, there's the IBM \"Distributed Debugger\" that ships with [[Visual Age]] (and this is truly perverse) that would probably integrate just fine and dandy with [[Web Logic]] and [[Visual Cafe]]. --[[Kyle Brown]]",
+      "id": "7e43b4565864b4f657a2b1c1fac26a54"
+    },
+    {
+      "type": "html",
+      "text": "\nFor the latest [[Gnu Debugger]] \"gdb\" see [http://sourceware.cygnus.com/gdb sourceware.cygnus.com]",
+      "id": "cb1482f414d43a3df9ab9f4bda7a49eb"
+    },
+    {
+      "type": "html",
+      "text": "\nTried [[Meta Mata Debug]]? [http://www.metamata.com/ www.metamata.com]",
+      "id": "9eb55c94c4d9904c7fc82c358f2f0233"
+    },
+    {
+      "type": "html",
+      "text": "\nPerhaps [[Together Java]] is morphing into this [[Be All Or End All]] tool.",
+      "id": "fc7f29b7923be45504f02ac7c79c1b45"
+    },
+    {
+      "type": "html",
+      "text": "<i>Oh, how I agree with this.  Debugger support for Java is one of the few things I dislike about working with the language.  How I would love to see a good, standalone Java debugger that could do remote debugging.  A command-line debugger like gdb would be fine.  Actually, coupled with a platform-independent version of DDD ([http://www.gnu.org/software/ddd/ www.gnu.org]), it would be ideal.</i>",
+      "id": "b96953878e5a44a757e1ee796a217ff8"
+    },
+    {
+      "type": "html",
+      "text": "<i>[[Kyle Brown]] mentions the Jikes debugger.  I held out hopes for JD at one point, but apparently it is not being developed anymore.  Kyle, do you know why?  --[[Glenn Vanderburg]]</i>",
+      "id": "d6f87d096fb7371eac55e3ed206db607"
+    },
+    {
+      "type": "html",
+      "text": "\nTake a look at Bugseeker2. it leaves no wish unfilled, remote debugging via sockets or shared memory (JPDA) <i>expression evaluation, simultaneous multi-process debugging, data tips, and object monitor viewers</i> etc. Apart from that its proof that its possible to make swing apps that give native app a run for there money. The company is [http://www.karmira.com/index.html www.karmira.com]   (its not GPL, but this in one of the few tools that i would pay for out of my own pocket)",
+      "id": "994fcd9772915d5a8ef54382d2580d44"
+    },
+    {
+      "type": "html",
+      "text": "\nI just became aware of JSwat ([http://bluemarsh.com/java/jswat/ bluemarsh.com]) the other day. I haven't really run it thorugh its paces, so I can't comment on how good it is, but it is GPL'd, so you can easily contribute.",
+      "id": "e09dd10153a98f8a6f5a8960d538b89c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?JavaToolsOpportunity c2.com]",
+      "id": "eeb9bfa775d108d86e4c42db829864f7"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1105225645000,
+      "id": "847508840602f52a86e0825596c1bc67",
+      "type": "create",
+      "item": {
+        "title": "Java Tools Opportunity",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Last edited August 21, 2000. Perhaps this page is due for an update? [[Eclipse Ide]] and [[Intellij Idea]] seem to have somewhat improved the Java development tools situation. (I'm not a big IDE user, so I'll leave such an update to those who are. Just saw this on [[Random Pages]] and wanted to make a note to bring this page back into the [[Wiki Now]]. [[Delete When Cooked]].)</i>",
+            "id": "f3b23aebac4f5430ec40d0041031e3e6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "92250211a4c8d9011e1fc24f667a5b87"
+          },
+          {
+            "type": "html",
+            "text": "My current project is using [[Visual Cafe]], but only because we are deploying EJBs to [[Web Logic]], and VC's debugger will talk to [[Web Logic]] in interesting and useful ways. Otherwise, we wouldn't touch it, as VC sucks bowling balls through firehoses. ",
+            "id": "199eeebbfb29ff910953c389f758ae0d"
+          },
+          {
+            "type": "html",
+            "text": "\nIn fact, if there were a reasonable third party source level debugger available that understood how to talk to java_g remotely, we'd use that and vi and make. Since our front end is web-based, all that visual composition stuff in VC is just overhead, and the \"automatic\" EJB deployment requires a lot of manual intervention, but we need the debugger.  ",
+            "id": "f9b1db2e4cc29e397400a55d996d212e"
+          },
+          {
+            "type": "html",
+            "text": "\nMost (I've not seen them all) of the IDE's listed above are deeply shit along one axis or another, whatever debugger is buried way down inside them is the most useful part, so there's a really big opening here for a tools shop to produce a \"gdb\" (with a nice gui) for Java.",
+            "id": "86f875dc7e98f791a77a61e66302a732"
+          },
+          {
+            "type": "html",
+            "text": "\nLook on IBM's Alphaworks Site ([http://www.alphaworks.ibm.com www.alphaworks.ibm.com]).  We give one away called JIKES ([[Jikes Compiler]]) that might work.  Also, there's the IBM \"Distributed Debugger\" that ships with [[Visual Age]] (and this is truly perverse) that would probably integrate just fine and dandy with [[Web Logic]] and [[Visual Cafe]]. --[[Kyle Brown]]",
+            "id": "7e43b4565864b4f657a2b1c1fac26a54"
+          },
+          {
+            "type": "html",
+            "text": "\nFor the latest [[Gnu Debugger]] \"gdb\" see [http://sourceware.cygnus.com/gdb sourceware.cygnus.com]",
+            "id": "cb1482f414d43a3df9ab9f4bda7a49eb"
+          },
+          {
+            "type": "html",
+            "text": "\nTried [[Meta Mata Debug]]? [http://www.metamata.com/ www.metamata.com]",
+            "id": "9eb55c94c4d9904c7fc82c358f2f0233"
+          },
+          {
+            "type": "html",
+            "text": "\nPerhaps [[Together Java]] is morphing into this [[Be All Or End All]] tool.",
+            "id": "fc7f29b7923be45504f02ac7c79c1b45"
+          },
+          {
+            "type": "html",
+            "text": "<i>Oh, how I agree with this.  Debugger support for Java is one of the few things I dislike about working with the language.  How I would love to see a good, standalone Java debugger that could do remote debugging.  A command-line debugger like gdb would be fine.  Actually, coupled with a platform-independent version of DDD ([http://www.gnu.org/software/ddd/ www.gnu.org]), it would be ideal.</i>",
+            "id": "b96953878e5a44a757e1ee796a217ff8"
+          },
+          {
+            "type": "html",
+            "text": "<i>[[Kyle Brown]] mentions the Jikes debugger.  I held out hopes for JD at one point, but apparently it is not being developed anymore.  Kyle, do you know why?  --[[Glenn Vanderburg]]</i>",
+            "id": "d6f87d096fb7371eac55e3ed206db607"
+          },
+          {
+            "type": "html",
+            "text": "\nTake a look at Bugseeker2. it leaves no wish unfilled, remote debugging via sockets or shared memory (JPDA) <i>expression evaluation, simultaneous multi-process debugging, data tips, and object monitor viewers</i> etc. Apart from that its proof that its possible to make swing apps that give native app a run for there money. The company is [http://www.karmira.com/index.html www.karmira.com]   (its not GPL, but this in one of the few tools that i would pay for out of my own pocket)",
+            "id": "994fcd9772915d5a8ef54382d2580d44"
+          },
+          {
+            "type": "html",
+            "text": "\nI just became aware of JSwat ([http://bluemarsh.com/java/jswat/ bluemarsh.com]) the other day. I haven't really run it thorugh its paces, so I can't comment on how good it is, but it is GPL'd, so you can easily contribute.",
+            "id": "e09dd10153a98f8a6f5a8960d538b89c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?JavaToolsOpportunity c2.com]",
+            "id": "eeb9bfa775d108d86e4c42db829864f7"
+          }
+        ]
+      }
+    }
+  ]
+}
