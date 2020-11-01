@@ -1,0 +1,37 @@
+{
+  "title": "Leatherman Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "A leatherman tool, eh? It's a little man, dressed in a leather pants...",
+      "id": "bffbee79db1f01608d57f2621dcc925a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?LeathermanTool c2.com]",
+      "id": "d7bd57ab0e961c5f8ea97f5211096072"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1166689210000,
+      "id": "74d4755827d3e543599dd28494182e66",
+      "type": "create",
+      "item": {
+        "title": "Leatherman Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "A leatherman tool, eh? It's a little man, dressed in a leather pants...",
+            "id": "bffbee79db1f01608d57f2621dcc925a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?LeathermanTool c2.com]",
+            "id": "d7bd57ab0e961c5f8ea97f5211096072"
+          }
+        ]
+      }
+    }
+  ]
+}
