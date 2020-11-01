@@ -1,0 +1,287 @@
+{
+  "title": "Pick An Ok Tool For The Job",
+  "story": [
+    {
+      "type": "html",
+      "text": "From: [[Pick The Right Tool For The Job]]",
+      "id": "d8dd14fd0d2e7246cbe9399c0afd0a10"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm sure this is better than picking the wrong tool for the job, but it isn't\neasy to know what the right thing is.  It isn't easy to know all the requirements, and it isn't easy to know what tool set those requirements\nimply, especially as both tool sets and requirements are apt to change.",
+      "id": "1690f2b0148c1aa5b87997a63a150505"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm not suggesting it isn't worth some effort, but I suspect a more plausible\ngoal is [[Pick An Ok Tool For The Job]].",
+      "id": "7b32efd5325dab773d986093086758be"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a28ec5a85b9637fc6cfba223a1f9f04b"
+    },
+    {
+      "type": "html",
+      "text": "<b>Forces:</b>",
+      "id": "c823b0f7a423d319c59a0c935392cfec"
+    },
+    {
+      "type": "html",
+      "text": " If information was costless and guaranteed correct, you would like to [[Pick The Right Tool For The Job]]",
+      "id": "637976ac7104168ea264265168bcbc72"
+    },
+    {
+      "type": "html",
+      "text": " However, it takes time to evaluate every tool under the sun. Do you know how many programming languages exist? Thousands!",
+      "id": "0108ea551c849fb8fce9d4f8d0126564"
+    },
+    {
+      "type": "html",
+      "text": " Moreover, you don't know what the job will require until you have actually completed it.",
+      "id": "72c5c20e76574282bf5ff2bc62a73046"
+    },
+    {
+      "type": "html",
+      "text": "<b>Therefore:</b>",
+      "id": "d5141a9bf28fc9eccf5df7b5997ae5b4"
+    },
+    {
+      "type": "html",
+      "text": "\nPick an OK tool for the job. Don't try to pick the <i>best</i> one, but try to pick one which you are pretty sure is at least not so bad that it will seriously hamper your work. After all, in the end <i>you</i>, not the tool, will have to do the real work.",
+      "id": "0fd6bcd4ab7c1b259196d9b465f9132e"
+    },
+    {
+      "type": "html",
+      "text": "<b>But also:</b>",
+      "id": "59044669239663048c1e21d987645418"
+    },
+    {
+      "type": "html",
+      "text": "\nThe bigger your toolbox, the better the chances are that the best tool you can muster will be good enough (or even better than just \"good enough\"). Therefore, work actively to increase the range of tools you are comfortable using so that you don't end up having to do text-munging in C or heavy-duty numerical optimization with Excel. -- The fact that an OK tool, rather than the best possible tool, is what you need, shouldn't be made an excuse for not knowing enough tools to be able to choose an OK one.",
+      "id": "13f4301615d9bd897d9b2b14c65ab02e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a28ec5a85b9637fc6cfba223a1f9f04b"
+    },
+    {
+      "type": "html",
+      "text": "\nThere's a lot to be said for having a good tool box:\nIn general, the more powerful the tool, the more narrow its scope.\nTools that enable great leverage on some narrow range of problems often perform poorly outside that range.",
+      "id": "588991da99c2ed9f4184b0fe47e2a47d"
+    },
+    {
+      "type": "html",
+      "text": "\nFor example, a good reporting tool may not be well suited to complex batch server background processing (with no printing).",
+      "id": "09640303008a59deb792ae76c1c38ed1"
+    },
+    {
+      "type": "html",
+      "text": "\nSo, use good tools, where available, for the parts of your application where the domain is well understood and supported by 3rd party tools:",
+      "id": "cf31bcb80e9aa622abb6b8aeff2cda2f"
+    },
+    {
+      "type": "html",
+      "text": " Database",
+      "id": "e570358ac3a0c9a451c5eec6d3d28473"
+    },
+    {
+      "type": "html",
+      "text": " Reporting",
+      "id": "3064c8483a6afdb6d024619348b081d3"
+    },
+    {
+      "type": "html",
+      "text": " GUI",
+      "id": "6a60862d188f72919e184d699deaea93"
+    },
+    {
+      "type": "html",
+      "text": " <i>(and others...)</i>",
+      "id": "c1b10cf2d65928f15f00ce6d56a13074"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a28ec5a85b9637fc6cfba223a1f9f04b"
+    },
+    {
+      "type": "html",
+      "text": "<i>On the other hand, it's often more productive to use a less appropriate tool that you've mastered instead of an unfamiliar tool that's more appropriate to the problem. For example, I often use Java for tasks that would be better suited to perl. Sticking to a single language lets me concentrate on higher level concepts and accomplish a great deal.</i>",
+      "id": "fb049a94faae83e8565f557b46957df2"
+    },
+    {
+      "type": "html",
+      "text": "\nIt is also sometimes appropriate to use a single tool to develop a set of related components, even if it is not the best tool for any of those components.  For example, a VB GUI that uses a C++ COM component to make calls to web services implemented in Perl and Java may be more difficult to build, debug, and test than a solution that uses C++ throughout.",
+      "id": "0cb7b41dea1126dab761b93e36e9fc9e"
+    },
+    {
+      "type": "html",
+      "text": "\nOn the other hand, if part of your system has low-level device driver stuff that absolutely requires assembler code, it's usually more difficult to build, debug, and test an all-assembler solution than one that uses mixed assembly and C++. Use each tool where it works best (or at least, where there's not some other tool available that's clearly superior).",
+      "id": "378947fb3d3c2ec7d3d282ff2e7be37b"
+    },
+    {
+      "type": "html",
+      "text": "\nGiven a large job, sometimes the best thing to do is not to pick a single OK tool for the entire job, but to split the job into smaller jobs, then [[Pick An Ok Tool For The Job]] for each one -- or pick one or two or possibly 3 tools, and figure out which tool is best for each little job. Often some little job is stuck over in the \"assembler\" part. Then when users ask for additional functionality ... it's better to refactor and move that no-longer-little job over to the \"C++\" part.",
+      "id": "cc5237d94f75f32874afdf4aa3596b4c"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Lots Of Little Tools]] [[Little Language]]",
+      "id": "d719a12c914dd815b27d14208e73f21a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PickAnOkToolForTheJob c2.com]",
+      "id": "2bbd50c09ef88cdf1becf5601aa4f007"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1102679243000,
+      "id": "41c219fae751e1e39910f1da2505b00d",
+      "type": "create",
+      "item": {
+        "title": "Pick An Ok Tool For The Job",
+        "story": [
+          {
+            "type": "html",
+            "text": "From: [[Pick The Right Tool For The Job]]",
+            "id": "d8dd14fd0d2e7246cbe9399c0afd0a10"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm sure this is better than picking the wrong tool for the job, but it isn't\neasy to know what the right thing is.  It isn't easy to know all the requirements, and it isn't easy to know what tool set those requirements\nimply, especially as both tool sets and requirements are apt to change.",
+            "id": "1690f2b0148c1aa5b87997a63a150505"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm not suggesting it isn't worth some effort, but I suspect a more plausible\ngoal is [[Pick An Ok Tool For The Job]].",
+            "id": "7b32efd5325dab773d986093086758be"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a28ec5a85b9637fc6cfba223a1f9f04b"
+          },
+          {
+            "type": "html",
+            "text": "<b>Forces:</b>",
+            "id": "c823b0f7a423d319c59a0c935392cfec"
+          },
+          {
+            "type": "html",
+            "text": " If information was costless and guaranteed correct, you would like to [[Pick The Right Tool For The Job]]",
+            "id": "637976ac7104168ea264265168bcbc72"
+          },
+          {
+            "type": "html",
+            "text": " However, it takes time to evaluate every tool under the sun. Do you know how many programming languages exist? Thousands!",
+            "id": "0108ea551c849fb8fce9d4f8d0126564"
+          },
+          {
+            "type": "html",
+            "text": " Moreover, you don't know what the job will require until you have actually completed it.",
+            "id": "72c5c20e76574282bf5ff2bc62a73046"
+          },
+          {
+            "type": "html",
+            "text": "<b>Therefore:</b>",
+            "id": "d5141a9bf28fc9eccf5df7b5997ae5b4"
+          },
+          {
+            "type": "html",
+            "text": "\nPick an OK tool for the job. Don't try to pick the <i>best</i> one, but try to pick one which you are pretty sure is at least not so bad that it will seriously hamper your work. After all, in the end <i>you</i>, not the tool, will have to do the real work.",
+            "id": "0fd6bcd4ab7c1b259196d9b465f9132e"
+          },
+          {
+            "type": "html",
+            "text": "<b>But also:</b>",
+            "id": "59044669239663048c1e21d987645418"
+          },
+          {
+            "type": "html",
+            "text": "\nThe bigger your toolbox, the better the chances are that the best tool you can muster will be good enough (or even better than just \"good enough\"). Therefore, work actively to increase the range of tools you are comfortable using so that you don't end up having to do text-munging in C or heavy-duty numerical optimization with Excel. -- The fact that an OK tool, rather than the best possible tool, is what you need, shouldn't be made an excuse for not knowing enough tools to be able to choose an OK one.",
+            "id": "13f4301615d9bd897d9b2b14c65ab02e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a28ec5a85b9637fc6cfba223a1f9f04b"
+          },
+          {
+            "type": "html",
+            "text": "\nThere's a lot to be said for having a good tool box:\nIn general, the more powerful the tool, the more narrow its scope.\nTools that enable great leverage on some narrow range of problems often perform poorly outside that range.",
+            "id": "588991da99c2ed9f4184b0fe47e2a47d"
+          },
+          {
+            "type": "html",
+            "text": "\nFor example, a good reporting tool may not be well suited to complex batch server background processing (with no printing).",
+            "id": "09640303008a59deb792ae76c1c38ed1"
+          },
+          {
+            "type": "html",
+            "text": "\nSo, use good tools, where available, for the parts of your application where the domain is well understood and supported by 3rd party tools:",
+            "id": "cf31bcb80e9aa622abb6b8aeff2cda2f"
+          },
+          {
+            "type": "html",
+            "text": " Database",
+            "id": "e570358ac3a0c9a451c5eec6d3d28473"
+          },
+          {
+            "type": "html",
+            "text": " Reporting",
+            "id": "3064c8483a6afdb6d024619348b081d3"
+          },
+          {
+            "type": "html",
+            "text": " GUI",
+            "id": "6a60862d188f72919e184d699deaea93"
+          },
+          {
+            "type": "html",
+            "text": " <i>(and others...)</i>",
+            "id": "c1b10cf2d65928f15f00ce6d56a13074"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a28ec5a85b9637fc6cfba223a1f9f04b"
+          },
+          {
+            "type": "html",
+            "text": "<i>On the other hand, it's often more productive to use a less appropriate tool that you've mastered instead of an unfamiliar tool that's more appropriate to the problem. For example, I often use Java for tasks that would be better suited to perl. Sticking to a single language lets me concentrate on higher level concepts and accomplish a great deal.</i>",
+            "id": "fb049a94faae83e8565f557b46957df2"
+          },
+          {
+            "type": "html",
+            "text": "\nIt is also sometimes appropriate to use a single tool to develop a set of related components, even if it is not the best tool for any of those components.  For example, a VB GUI that uses a C++ COM component to make calls to web services implemented in Perl and Java may be more difficult to build, debug, and test than a solution that uses C++ throughout.",
+            "id": "0cb7b41dea1126dab761b93e36e9fc9e"
+          },
+          {
+            "type": "html",
+            "text": "\nOn the other hand, if part of your system has low-level device driver stuff that absolutely requires assembler code, it's usually more difficult to build, debug, and test an all-assembler solution than one that uses mixed assembly and C++. Use each tool where it works best (or at least, where there's not some other tool available that's clearly superior).",
+            "id": "378947fb3d3c2ec7d3d282ff2e7be37b"
+          },
+          {
+            "type": "html",
+            "text": "\nGiven a large job, sometimes the best thing to do is not to pick a single OK tool for the entire job, but to split the job into smaller jobs, then [[Pick An Ok Tool For The Job]] for each one -- or pick one or two or possibly 3 tools, and figure out which tool is best for each little job. Often some little job is stuck over in the \"assembler\" part. Then when users ask for additional functionality ... it's better to refactor and move that no-longer-little job over to the \"C++\" part.",
+            "id": "cc5237d94f75f32874afdf4aa3596b4c"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Lots Of Little Tools]] [[Little Language]]",
+            "id": "d719a12c914dd815b27d14208e73f21a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PickAnOkToolForTheJob c2.com]",
+            "id": "2bbd50c09ef88cdf1becf5601aa4f007"
+          }
+        ]
+      }
+    }
+  ]
+}
