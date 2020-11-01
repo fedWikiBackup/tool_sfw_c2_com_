@@ -1,0 +1,217 @@
+{
+  "title": "Continuous Integration Is Less About Tools Than It Is About Determination",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Continuous Integration]] is less about tools than it is about determination.  You can build a set of scripts and tools to help, but if the team is not determined to integrate continuously, it won't happen.",
+      "id": "aeb3ab0b86157bd8d6c991fa596b77f8"
+    },
+    {
+      "type": "html",
+      "text": "\nThe most important tool is the source code control system.  Make sure you can check out modules concurrently.  Anybody can check out any module, no matter who else has it checked out.  First one to check in wins.  Everybody else has to do a merge.  This puts a lot of pressure on people to check in frequently.",
+      "id": "962eb08e034be0d39016aa598700110a"
+    },
+    {
+      "type": "html",
+      "text": "\nInstitute a policy whereby you are not allowed to check in a module until you have integrated that module into the whole system and all existing [[Unit Test]]s and [[Acceptance Test]]s are passing.",
+      "id": "5ffda595a7f81e915f4029e3a36b9787"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Uncle Bob]] on the [[Xp Mailing List]]",
+      "id": "e60e7a5f170593a5147b5ef7e4e1172c"
+    },
+    {
+      "type": "html",
+      "text": "\nJust to emphasize a point:",
+      "id": "f937cb1725e7bca79bac6c4dd7691a06"
+    },
+    {
+      "type": "html",
+      "text": " Given conflicting check-ins of code - <b>First Save Wins</b>",
+      "id": "edd878ef1defe0e73cb3cba3c5101f51"
+    },
+    {
+      "type": "html",
+      "text": " This encourages people to <b>Check Code In Frequently</b>",
+      "id": "4d8b8f4f9171553d79887c2a532dd1ee"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "8d486ac1d20aaff56a22898a23321fc0"
+    },
+    {
+      "type": "html",
+      "text": "<i>Institute a policy whereby you are not allowed to check in a module until you have integrated that module into the whole system and all existing [[Unit Test]]s and [[Acceptance Test]]s are passing.</i>",
+      "id": "07c8b3042266c1a75ea26c3a411f255c"
+    },
+    {
+      "type": "html",
+      "text": "\nIn many situations it's not possible to pass acceptance tests as the tests are very time consuming and expensive to run. You can imagine Cisco's suite of tests taking weeks to run.",
+      "id": "33435b92f574c67d871464a78cdc6958"
+    },
+    {
+      "type": "html",
+      "text": "\nOne solution is to divide the test suites up by how long it takes to run the test suite.\nYou can require that every check-in pass every test in the \"fast\" test suite.\nYou can run the \"slow\" test suite less often.  Some companies run the \"slow\" suite hourly or daily.\nIf there is an \"extra slow\" suite, it can be run every week, or every milestone.\nShortening the time for a test suite reduces the [[Cycle Time]] for the corresponding code changes.\nShort [[Cycle Time]]s save time and money.",
+      "id": "2774762ad3a345f6cb8896c362e441bf"
+    },
+    {
+      "type": "html",
+      "text": "\nIf the \"fast\" test suite covers enough of the code, \nand if you have continuous, rigorous code review,\nyou can be confident that the \"slow\" test suite will usually pass.",
+      "id": "39d7dc88caa515ab6ae49662ece88a8d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "8d486ac1d20aaff56a22898a23321fc0"
+    },
+    {
+      "type": "html",
+      "text": " Workflow Determines The Tool",
+      "id": "5636451bd79dd3e736c8d699b9d5061a"
+    },
+    {
+      "type": "html",
+      "text": " Purpose Defines The Process",
+      "id": "30686b94e5e04ad765de5a2d99b45ab9"
+    },
+    {
+      "type": "html",
+      "text": " [[Long Titles Smell]]",
+      "id": "a2b525c727f98bc6c17765cdb73c8058"
+    },
+    {
+      "type": "html",
+      "text": " [[Cycle Time]], [[Signature Cycle]]",
+      "id": "f74d98bce41a7bccb3de79c3769ed570"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "8d486ac1d20aaff56a22898a23321fc0"
+    },
+    {
+      "type": "html",
+      "text": "<b>S</b><b>uggestedShorterName</b>: [[Tools Or Determination]]",
+      "id": "fc7919ffa10b061f3a3ac6fd28b99545"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ContinuousIntegrationIsLessAboutToolsThanItIsAboutDetermination c2.com]",
+      "id": "b161e91b90f56c729a2705f94cd0dfa4"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1143332870000,
+      "id": "fa053ab272d17bb3668cabd004382901",
+      "type": "create",
+      "item": {
+        "title": "Continuous Integration Is Less About Tools Than It Is About Determination",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Continuous Integration]] is less about tools than it is about determination.  You can build a set of scripts and tools to help, but if the team is not determined to integrate continuously, it won't happen.",
+            "id": "aeb3ab0b86157bd8d6c991fa596b77f8"
+          },
+          {
+            "type": "html",
+            "text": "\nThe most important tool is the source code control system.  Make sure you can check out modules concurrently.  Anybody can check out any module, no matter who else has it checked out.  First one to check in wins.  Everybody else has to do a merge.  This puts a lot of pressure on people to check in frequently.",
+            "id": "962eb08e034be0d39016aa598700110a"
+          },
+          {
+            "type": "html",
+            "text": "\nInstitute a policy whereby you are not allowed to check in a module until you have integrated that module into the whole system and all existing [[Unit Test]]s and [[Acceptance Test]]s are passing.",
+            "id": "5ffda595a7f81e915f4029e3a36b9787"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Uncle Bob]] on the [[Xp Mailing List]]",
+            "id": "e60e7a5f170593a5147b5ef7e4e1172c"
+          },
+          {
+            "type": "html",
+            "text": "\nJust to emphasize a point:",
+            "id": "f937cb1725e7bca79bac6c4dd7691a06"
+          },
+          {
+            "type": "html",
+            "text": " Given conflicting check-ins of code - <b>First Save Wins</b>",
+            "id": "edd878ef1defe0e73cb3cba3c5101f51"
+          },
+          {
+            "type": "html",
+            "text": " This encourages people to <b>Check Code In Frequently</b>",
+            "id": "4d8b8f4f9171553d79887c2a532dd1ee"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "8d486ac1d20aaff56a22898a23321fc0"
+          },
+          {
+            "type": "html",
+            "text": "<i>Institute a policy whereby you are not allowed to check in a module until you have integrated that module into the whole system and all existing [[Unit Test]]s and [[Acceptance Test]]s are passing.</i>",
+            "id": "07c8b3042266c1a75ea26c3a411f255c"
+          },
+          {
+            "type": "html",
+            "text": "\nIn many situations it's not possible to pass acceptance tests as the tests are very time consuming and expensive to run. You can imagine Cisco's suite of tests taking weeks to run.",
+            "id": "33435b92f574c67d871464a78cdc6958"
+          },
+          {
+            "type": "html",
+            "text": "\nOne solution is to divide the test suites up by how long it takes to run the test suite.\nYou can require that every check-in pass every test in the \"fast\" test suite.\nYou can run the \"slow\" test suite less often.  Some companies run the \"slow\" suite hourly or daily.\nIf there is an \"extra slow\" suite, it can be run every week, or every milestone.\nShortening the time for a test suite reduces the [[Cycle Time]] for the corresponding code changes.\nShort [[Cycle Time]]s save time and money.",
+            "id": "2774762ad3a345f6cb8896c362e441bf"
+          },
+          {
+            "type": "html",
+            "text": "\nIf the \"fast\" test suite covers enough of the code, \nand if you have continuous, rigorous code review,\nyou can be confident that the \"slow\" test suite will usually pass.",
+            "id": "39d7dc88caa515ab6ae49662ece88a8d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "8d486ac1d20aaff56a22898a23321fc0"
+          },
+          {
+            "type": "html",
+            "text": " Workflow Determines The Tool",
+            "id": "5636451bd79dd3e736c8d699b9d5061a"
+          },
+          {
+            "type": "html",
+            "text": " Purpose Defines The Process",
+            "id": "30686b94e5e04ad765de5a2d99b45ab9"
+          },
+          {
+            "type": "html",
+            "text": " [[Long Titles Smell]]",
+            "id": "a2b525c727f98bc6c17765cdb73c8058"
+          },
+          {
+            "type": "html",
+            "text": " [[Cycle Time]], [[Signature Cycle]]",
+            "id": "f74d98bce41a7bccb3de79c3769ed570"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "8d486ac1d20aaff56a22898a23321fc0"
+          },
+          {
+            "type": "html",
+            "text": "<b>S</b><b>uggestedShorterName</b>: [[Tools Or Determination]]",
+            "id": "fc7919ffa10b061f3a3ac6fd28b99545"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ContinuousIntegrationIsLessAboutToolsThanItIsAboutDetermination c2.com]",
+            "id": "b161e91b90f56c729a2705f94cd0dfa4"
+          }
+        ]
+      }
+    }
+  ]
+}
