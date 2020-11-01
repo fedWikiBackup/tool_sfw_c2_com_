@@ -1,0 +1,287 @@
+{
+  "title": "Language Descriptions Tools Applications",
+  "story": [
+    {
+      "type": "html",
+      "text": "Language Descriptions - Tools and Applications",
+      "id": "2b20c502edf303f56693d68e00c01708"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "263e62fbdddcda5eb14645becb639980"
+    },
+    {
+      "type": "html",
+      "text": " [http://ldta.info/ ldta.info]",
+      "id": "13a6b99e9808f98eb23cd4636434dbd6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "263e62fbdddcda5eb14645becb639980"
+    },
+    {
+      "type": "html",
+      "text": "<b>Grammars</b>",
+      "id": "5552b6a0cddf5e1164ddfdae947f12f3"
+    },
+    {
+      "type": "html",
+      "text": " [[Parsing Reflective Grammars]]",
+      "id": "73e1652339307654e802de9da1bbf725"
+    },
+    {
+      "type": "html",
+      "text": " [[Paul Stansifer]] and [[Mitchell Wand]]",
+      "id": "357c78627133aba0b569f3cc49cea2ce"
+    },
+    {
+      "type": "html",
+      "text": " [[Stepwise Evaluation Attribute Grammars]]",
+      "id": "694c2d0ba10f425fd63158d91eba449b"
+    },
+    {
+      "type": "html",
+      "text": " [[Arie Middelkoop]] [[Atze Dijkstra]] and [[Doaitse Swierstra]]",
+      "id": "6fc2ba8135b9853db80d2d4cbbf70348"
+    },
+    {
+      "type": "html",
+      "text": " VLex: [[Visualizing Lexical Analyzer Generator]] - Tool Demonstration",
+      "id": "4539f34bf734e0d562767aba2b796562"
+    },
+    {
+      "type": "html",
+      "text": " [[Alisdair Jorgensen]], [[Giorgios Economopoulos]] [[Bernd Fischer]]",
+      "id": "f220d4a935442ce0cd10e2773bb73d20"
+    },
+    {
+      "type": "html",
+      "text": " [http://dragonbook.stanford.edu/lecture-notes/Stanford-CS143/03-Lexical-Analysis.pdf dragonbook.stanford.edu]",
+      "id": "4bf3d7b7eb547c4ec419c667a5cd1bf6"
+    },
+    {
+      "type": "html",
+      "text": " [[Yield Grammar Analysis]] Bellman's GAP compiler",
+      "id": "16e9f56a54f79ae7b08576a536b3109e"
+    },
+    {
+      "type": "html",
+      "text": " [[Robert Giegerich]] [[Georg Sauthoff]]",
+      "id": "655f4d7a15ac8e1517115b1eccb7fdbf"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "263e62fbdddcda5eb14645becb639980"
+    },
+    {
+      "type": "html",
+      "text": "<b>Coq in computer science</b>",
+      "id": "b95cc4414810656a190086c373a31dda"
+    },
+    {
+      "type": "html",
+      "text": " Coq ",
+      "id": "a97563ff4221f09fe00752acee07d0e3"
+    },
+    {
+      "type": "html",
+      "text": " is an interactive theorem prover allowing the expression of mathematical assertions",
+      "id": "2713ebc8644f428c004fc67387c4a2e0"
+    },
+    {
+      "type": "html",
+      "text": " mechanically checks proofs of these assertions",
+      "id": "821e24d6eee3f7bfa772f3271a06943b"
+    },
+    {
+      "type": "html",
+      "text": " helps find formal proofs",
+      "id": "2d8c106c57cbf6e8adc287fe76261868"
+    },
+    {
+      "type": "html",
+      "text": " extracts a certified program from the constructive proof of its formal specification",
+      "id": "1708df522488062bf7427966c12d58a4"
+    },
+    {
+      "type": "html",
+      "text": " works within the theory of the calculus of inductive constructions - a derivative of the calculus of constructions. ",
+      "id": "e70394b1db71584e839c6cac42a82148"
+    },
+    {
+      "type": "html",
+      "text": " is not an automated theorem prover ",
+      "id": "108e95d79b962461939572de8777866f"
+    },
+    {
+      "type": "html",
+      "text": " includes automatic theorem proving tactics and various decision procedures",
+      "id": "79c6b7dacd0bfbbe745c296de20ce5d7"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "263e62fbdddcda5eb14645becb639980"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Computer Architecture]]",
+      "id": "d5cb84e96bf4e716316606e0bf0bf0eb"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?LanguageDescriptionsToolsApplications c2.com]",
+      "id": "8d034382a9e5b034e1ae209febe10f16"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1310356959000,
+      "id": "231fb0a7404a82d4badc3fb207793eb1",
+      "type": "create",
+      "item": {
+        "title": "Language Descriptions Tools Applications",
+        "story": [
+          {
+            "type": "html",
+            "text": "Language Descriptions - Tools and Applications",
+            "id": "2b20c502edf303f56693d68e00c01708"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "263e62fbdddcda5eb14645becb639980"
+          },
+          {
+            "type": "html",
+            "text": " [http://ldta.info/ ldta.info]",
+            "id": "13a6b99e9808f98eb23cd4636434dbd6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "263e62fbdddcda5eb14645becb639980"
+          },
+          {
+            "type": "html",
+            "text": "<b>Grammars</b>",
+            "id": "5552b6a0cddf5e1164ddfdae947f12f3"
+          },
+          {
+            "type": "html",
+            "text": " [[Parsing Reflective Grammars]]",
+            "id": "73e1652339307654e802de9da1bbf725"
+          },
+          {
+            "type": "html",
+            "text": " [[Paul Stansifer]] and [[Mitchell Wand]]",
+            "id": "357c78627133aba0b569f3cc49cea2ce"
+          },
+          {
+            "type": "html",
+            "text": " [[Stepwise Evaluation Attribute Grammars]]",
+            "id": "694c2d0ba10f425fd63158d91eba449b"
+          },
+          {
+            "type": "html",
+            "text": " [[Arie Middelkoop]] [[Atze Dijkstra]] and [[Doaitse Swierstra]]",
+            "id": "6fc2ba8135b9853db80d2d4cbbf70348"
+          },
+          {
+            "type": "html",
+            "text": " VLex: [[Visualizing Lexical Analyzer Generator]] - Tool Demonstration",
+            "id": "4539f34bf734e0d562767aba2b796562"
+          },
+          {
+            "type": "html",
+            "text": " [[Alisdair Jorgensen]], [[Giorgios Economopoulos]] [[Bernd Fischer]]",
+            "id": "f220d4a935442ce0cd10e2773bb73d20"
+          },
+          {
+            "type": "html",
+            "text": " [http://dragonbook.stanford.edu/lecture-notes/Stanford-CS143/03-Lexical-Analysis.pdf dragonbook.stanford.edu]",
+            "id": "4bf3d7b7eb547c4ec419c667a5cd1bf6"
+          },
+          {
+            "type": "html",
+            "text": " [[Yield Grammar Analysis]] Bellman's GAP compiler",
+            "id": "16e9f56a54f79ae7b08576a536b3109e"
+          },
+          {
+            "type": "html",
+            "text": " [[Robert Giegerich]] [[Georg Sauthoff]]",
+            "id": "655f4d7a15ac8e1517115b1eccb7fdbf"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "263e62fbdddcda5eb14645becb639980"
+          },
+          {
+            "type": "html",
+            "text": "<b>Coq in computer science</b>",
+            "id": "b95cc4414810656a190086c373a31dda"
+          },
+          {
+            "type": "html",
+            "text": " Coq ",
+            "id": "a97563ff4221f09fe00752acee07d0e3"
+          },
+          {
+            "type": "html",
+            "text": " is an interactive theorem prover allowing the expression of mathematical assertions",
+            "id": "2713ebc8644f428c004fc67387c4a2e0"
+          },
+          {
+            "type": "html",
+            "text": " mechanically checks proofs of these assertions",
+            "id": "821e24d6eee3f7bfa772f3271a06943b"
+          },
+          {
+            "type": "html",
+            "text": " helps find formal proofs",
+            "id": "2d8c106c57cbf6e8adc287fe76261868"
+          },
+          {
+            "type": "html",
+            "text": " extracts a certified program from the constructive proof of its formal specification",
+            "id": "1708df522488062bf7427966c12d58a4"
+          },
+          {
+            "type": "html",
+            "text": " works within the theory of the calculus of inductive constructions - a derivative of the calculus of constructions. ",
+            "id": "e70394b1db71584e839c6cac42a82148"
+          },
+          {
+            "type": "html",
+            "text": " is not an automated theorem prover ",
+            "id": "108e95d79b962461939572de8777866f"
+          },
+          {
+            "type": "html",
+            "text": " includes automatic theorem proving tactics and various decision procedures",
+            "id": "79c6b7dacd0bfbbe745c296de20ce5d7"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "263e62fbdddcda5eb14645becb639980"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Computer Architecture]]",
+            "id": "d5cb84e96bf4e716316606e0bf0bf0eb"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?LanguageDescriptionsToolsApplications c2.com]",
+            "id": "8d034382a9e5b034e1ae209febe10f16"
+          }
+        ]
+      }
+    }
+  ]
+}
