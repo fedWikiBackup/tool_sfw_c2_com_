@@ -1,0 +1,79 @@
+{
+  "title": "Compilers Principles Techniques And Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Compilers: Principles, Techniques, and Tools</i> by [[Alfred Aho]], [[Ravi Sethi]], [[Jeffrey Ullman]], also known as [[The Dragon Book]].",
+      "id": "c4d2beac869439ee4a50a8d6f73de0e2"
+    },
+    {
+      "type": "image",
+      "url": "http://images.amazon.com/images/P/0201100886.01._PE_PI_SCLZZZZZZZ_.jpg",
+      "text": "images.amazon.com",
+      "id": "c2a7bf508762844534f976f219e97266"
+    },
+    {
+      "type": "html",
+      "text": "\n ISBN:0201100886",
+      "id": "63355e8aba6a4da63cbe8db8ad492928"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6004f784d168de65a22a6f824215e49a"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Book]] [[Category Compilers]]",
+      "id": "0c9d8d46459e91cc444b888aa8ea8075"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?CompilersPrinciplesTechniquesAndTools c2.com]",
+      "id": "ff6d652287f857baf946ed920c1764b2"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1109475672000,
+      "id": "16e863926597cc5e5b4deff51b59636a",
+      "type": "create",
+      "item": {
+        "title": "Compilers Principles Techniques And Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Compilers: Principles, Techniques, and Tools</i> by [[Alfred Aho]], [[Ravi Sethi]], [[Jeffrey Ullman]], also known as [[The Dragon Book]].",
+            "id": "c4d2beac869439ee4a50a8d6f73de0e2"
+          },
+          {
+            "type": "image",
+            "url": "http://images.amazon.com/images/P/0201100886.01._PE_PI_SCLZZZZZZZ_.jpg",
+            "text": "images.amazon.com",
+            "id": "c2a7bf508762844534f976f219e97266"
+          },
+          {
+            "type": "html",
+            "text": "\n ISBN:0201100886",
+            "id": "63355e8aba6a4da63cbe8db8ad492928"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6004f784d168de65a22a6f824215e49a"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Book]] [[Category Compilers]]",
+            "id": "0c9d8d46459e91cc444b888aa8ea8075"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?CompilersPrinciplesTechniquesAndTools c2.com]",
+            "id": "ff6d652287f857baf946ed920c1764b2"
+          }
+        ]
+      }
+    }
+  ]
+}
