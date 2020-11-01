@@ -1,0 +1,247 @@
+{
+  "title": "Web Development Tool Chain",
+  "story": [
+    {
+      "type": "html",
+      "text": "A [[Tool Chain]] is just like says. It's a chain of tools used to perform some function, such as if you're going to hammer a nail, your tool chain may be: nail, hammer, arm, <i>etc</i>.  Each is needed to hammer that nail into a piece of wood.  The following is a proposed hierarchical list of general categories associated with [[Web Development]] or [[Web Design]]:",
+      "id": "67d523d42383d9f13c7c663c0fd16883"
+    },
+    {
+      "type": "html",
+      "text": "[computer] [operating system]",
+      "id": "db13697e192736a725c274b91de7ddc2"
+    },
+    {
+      "type": "html",
+      "text": " [text editor or WYSIWYG client] [scripting knowledge(?)] [content] [design knowledge]",
+      "id": "8740630dda1b84ab141441731bb2731e"
+    },
+    {
+      "type": "html",
+      "text": " [internet connection] [ftp client or text field]",
+      "id": "479df427e03dfc09e0f07fb10ff3748c"
+    },
+    {
+      "type": "html",
+      "text": " [server] [scripting language]",
+      "id": "500cf1ee3357c5dba5f70ef8337bb083"
+    },
+    {
+      "type": "html",
+      "text": " [server] [scripting language] [database]",
+      "id": "c2df238973f1a141739cbb9e1c1f0350"
+    },
+    {
+      "type": "html",
+      "text": "\nalso see [[What You See Is What You Get]]",
+      "id": "c55465c735d1216c5ad614155619dd07"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0acd2371552a8c893421c592c1843b55"
+    },
+    {
+      "type": "html",
+      "text": "<b>Specific chains</b>",
+      "id": "9fc21e3ce9ea9b2ab9dd92a4c81f86a7"
+    },
+    {
+      "type": "html",
+      "text": "\nThere seems to be an abundance of different tool chains in use for web development, probably because the field grew big so fast so recently (relatively speaking). The choice of a tool chain is important as it has a strong impact on productivity, but the market is totally confusing, as there are too many toolchains to have a good overview.",
+      "id": "8248a84bd12feb66c8c718bf90857afb"
+    },
+    {
+      "type": "html",
+      "text": " PC, Windows 2000, N<b></b>oteTab LT, L<b></b>eapFTP, Apache 1.3, PHP 4.x, M<b></b>ySQL 4.x",
+      "id": "08ee0fa06e62a03016895e93bbb361fe"
+    },
+    {
+      "type": "html",
+      "text": " [[Java Tomcat Struts Hibernate]] (1) with [[Sap Db]] | ...",
+      "id": "477379e662c15affcf3d9fd39bf6cdf8"
+    },
+    {
+      "type": "html",
+      "text": " [[Java Tomcat Db Commons]] (1) with [[Postgre Sql]] | ...",
+      "id": "611cc9eeefc0c58eef871288a854cb94"
+    },
+    {
+      "type": "html",
+      "text": " [[Python Language]]/[[Zope Application Server]] (1) with [[Postgre Sql]] | ...",
+      "id": "1d2c499cf7a3e36b733026c78183098d"
+    },
+    {
+      "type": "html",
+      "text": " [[Lamp Platform]] (1 - actually [[Wamp Platform]])",
+      "id": "116df25cfc38833b9857e431e67d7cb3"
+    },
+    {
+      "type": "html",
+      "text": " Windows, Apache (or IIS), MS-SQL Server, Perl (1)",
+      "id": "26bac423a5e7d712342e49169e293044"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0acd2371552a8c893421c592c1843b55"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0acd2371552a8c893421c592c1843b55"
+    },
+    {
+      "type": "html",
+      "text": "Should this topic be [[Web Methodology]] or something? There are existing topics related to it, BTW, I just cannot think of the names right now. Perhaps try [[Category Internet]].",
+      "id": "73a34ec1704c5b000286aad0dc403ba1"
+    },
+    {
+      "type": "html",
+      "text": "<i>Tomcat, Oracle etc. are certainly not methodologies, so why should it be \"[[Web Methodology]]\"? One alternative expression I've heard is [[Technology Stack]], so we could name this page [[Web Development Technology Stack]] if people think that's more apt.</i>",
+      "id": "b319b545774455288cb9d2f8e7c3e1f3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0acd2371552a8c893421c592c1843b55"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Internet]] [[Category Web Design]]",
+      "id": "214886c9d6d588e8a4936cd1381cdb2c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?WebDevelopmentToolChain c2.com]",
+      "id": "49d1d576864aa5fce7b32bdec902381c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1198435734000,
+      "id": "f0c268c5af5167e86cde1f6998243f13",
+      "type": "create",
+      "item": {
+        "title": "Web Development Tool Chain",
+        "story": [
+          {
+            "type": "html",
+            "text": "A [[Tool Chain]] is just like says. It's a chain of tools used to perform some function, such as if you're going to hammer a nail, your tool chain may be: nail, hammer, arm, <i>etc</i>.  Each is needed to hammer that nail into a piece of wood.  The following is a proposed hierarchical list of general categories associated with [[Web Development]] or [[Web Design]]:",
+            "id": "67d523d42383d9f13c7c663c0fd16883"
+          },
+          {
+            "type": "html",
+            "text": "[computer] [operating system]",
+            "id": "db13697e192736a725c274b91de7ddc2"
+          },
+          {
+            "type": "html",
+            "text": " [text editor or WYSIWYG client] [scripting knowledge(?)] [content] [design knowledge]",
+            "id": "8740630dda1b84ab141441731bb2731e"
+          },
+          {
+            "type": "html",
+            "text": " [internet connection] [ftp client or text field]",
+            "id": "479df427e03dfc09e0f07fb10ff3748c"
+          },
+          {
+            "type": "html",
+            "text": " [server] [scripting language]",
+            "id": "500cf1ee3357c5dba5f70ef8337bb083"
+          },
+          {
+            "type": "html",
+            "text": " [server] [scripting language] [database]",
+            "id": "c2df238973f1a141739cbb9e1c1f0350"
+          },
+          {
+            "type": "html",
+            "text": "\nalso see [[What You See Is What You Get]]",
+            "id": "c55465c735d1216c5ad614155619dd07"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0acd2371552a8c893421c592c1843b55"
+          },
+          {
+            "type": "html",
+            "text": "<b>Specific chains</b>",
+            "id": "9fc21e3ce9ea9b2ab9dd92a4c81f86a7"
+          },
+          {
+            "type": "html",
+            "text": "\nThere seems to be an abundance of different tool chains in use for web development, probably because the field grew big so fast so recently (relatively speaking). The choice of a tool chain is important as it has a strong impact on productivity, but the market is totally confusing, as there are too many toolchains to have a good overview.",
+            "id": "8248a84bd12feb66c8c718bf90857afb"
+          },
+          {
+            "type": "html",
+            "text": " PC, Windows 2000, N<b></b>oteTab LT, L<b></b>eapFTP, Apache 1.3, PHP 4.x, M<b></b>ySQL 4.x",
+            "id": "08ee0fa06e62a03016895e93bbb361fe"
+          },
+          {
+            "type": "html",
+            "text": " [[Java Tomcat Struts Hibernate]] (1) with [[Sap Db]] | ...",
+            "id": "477379e662c15affcf3d9fd39bf6cdf8"
+          },
+          {
+            "type": "html",
+            "text": " [[Java Tomcat Db Commons]] (1) with [[Postgre Sql]] | ...",
+            "id": "611cc9eeefc0c58eef871288a854cb94"
+          },
+          {
+            "type": "html",
+            "text": " [[Python Language]]/[[Zope Application Server]] (1) with [[Postgre Sql]] | ...",
+            "id": "1d2c499cf7a3e36b733026c78183098d"
+          },
+          {
+            "type": "html",
+            "text": " [[Lamp Platform]] (1 - actually [[Wamp Platform]])",
+            "id": "116df25cfc38833b9857e431e67d7cb3"
+          },
+          {
+            "type": "html",
+            "text": " Windows, Apache (or IIS), MS-SQL Server, Perl (1)",
+            "id": "26bac423a5e7d712342e49169e293044"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0acd2371552a8c893421c592c1843b55"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0acd2371552a8c893421c592c1843b55"
+          },
+          {
+            "type": "html",
+            "text": "Should this topic be [[Web Methodology]] or something? There are existing topics related to it, BTW, I just cannot think of the names right now. Perhaps try [[Category Internet]].",
+            "id": "73a34ec1704c5b000286aad0dc403ba1"
+          },
+          {
+            "type": "html",
+            "text": "<i>Tomcat, Oracle etc. are certainly not methodologies, so why should it be \"[[Web Methodology]]\"? One alternative expression I've heard is [[Technology Stack]], so we could name this page [[Web Development Technology Stack]] if people think that's more apt.</i>",
+            "id": "b319b545774455288cb9d2f8e7c3e1f3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0acd2371552a8c893421c592c1843b55"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Internet]] [[Category Web Design]]",
+            "id": "214886c9d6d588e8a4936cd1381cdb2c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?WebDevelopmentToolChain c2.com]",
+            "id": "49d1d576864aa5fce7b32bdec902381c"
+          }
+        ]
+      }
+    }
+  ]
+}
