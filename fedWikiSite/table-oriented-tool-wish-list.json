@@ -1,0 +1,327 @@
+{
+  "title": "Table Oriented Tool Wish List",
+  "story": [
+    {
+      "type": "html",
+      "text": "This is to form a wish-list of an [[Open Source]] replacement of [[Microsoft Access]], [[Desktop Database]]s, and/or general \"smart\" [[Table Browser]]s and query browsers ([[List Of Query Browsers]]). I often see a need for such in many businesses. There are several commercial tools that sometimes cost almost 1,000 USD, so there is obviously a demand.",
+      "id": "0892920ff627a5a1ca173d4f2b4506d3"
+    },
+    {
+      "type": "html",
+      "text": "(If this topic turns into a [[Walled Garden]], then I understand it is fair game for deletion. But let's try for a few months, deal? --top)",
+      "id": "9bdb303806e38b3236c441eebf7e88b8"
+    },
+    {
+      "type": "html",
+      "text": "\nSuggested Features:",
+      "id": "38f0f02e9f488fb7610858959dab2b7e"
+    },
+    {
+      "type": "html",
+      "text": " Can serve as a front-end query tool ([[Toad Tool]]-style) to [[Big Iron]] RDBMS and other vendors. ",
+      "id": "2442a2e62ce90ef28253e7170a57c7a0"
+    },
+    {
+      "type": "html",
+      "text": " Can have multiple query windows open at the same time, this includes both SQL edit windows and result windows, perhaps in a split-panel type of window where one half is the edit area and the other is the results grid.",
+      "id": "f9a43e7ea017848da757e510ed4de491"
+    },
+    {
+      "type": "html",
+      "text": " Doesn't try to fit result sets in RAM if they are large; can buffer. (Most [[Desktop Database]]s do this, but I have seen query tools that don't.)",
+      "id": "6ac502cdd9d3bb60e5e531390727b08a"
+    },
+    {
+      "type": "html",
+      "text": " Contains its own [[Desktop Database]] engine.",
+      "id": "dc8bbd54fc40919828ebec0dd9f864ce"
+    },
+    {
+      "type": "html",
+      "text": " Can do \"[[Database Math]]\" on schemas.",
+      "id": "0e9ba91982b22c03e6e41d9811a1e889"
+    },
+    {
+      "type": "html",
+      "text": " Language? Should it have one primary language, but allow languages such as Perl, Python, PHP, etc. to plug in?",
+      "id": "71e68b0c8379c1f7c2cac5ee95479506"
+    },
+    {
+      "type": "html",
+      "text": " Powerful [[Table Browser]]",
+      "id": "e87ea69e3ca15575b9616ea16872c32c"
+    },
+    {
+      "type": "html",
+      "text": " Row-wise and column-wise view swapping (see [[Desktop Database]] example).",
+      "id": "235acf1b19fe47372f225d7b91b90029"
+    },
+    {
+      "type": "html",
+      "text": " General [[Crud Screen]] GUI features, including combo-boxes and tabbed panels. (Using table-oriented GUI configuration would be nice, but not necessary. [[Fox Pro]] does this, I would note, although does not document it.)",
+      "id": "7ffcca8cb3ce0cf59d75f018729c6e32"
+    },
+    {
+      "type": "html",
+      "text": " The ability to save components as individual files or grouped into one file (like .MDB files) as desired.",
+      "id": "38f840b00726e98c962eca51066a2b7e"
+    },
+    {
+      "type": "html",
+      "text": " Can readily import and export to comma-delimited, fixed-column ASCII, XML, HTML, and perhaps Excel. Bonus points for being able to query such directly without first importing. The option to include or exclude column titles should be available. And, ODBC access.",
+      "id": "ea2d37bf2d461b5663efb97c02163fd8"
+    },
+    {
+      "type": "html",
+      "text": " A schema browser that can integrate with the SQL editor for Intellisense-like column name editing would be nice.",
+      "id": "fa0c4ae84f64c44b261167a8ef769aa1"
+    },
+    {
+      "type": "html",
+      "text": " Easily blurs the distinction between external data sources and its own tables, views, and result sets.",
+      "id": "ac0f3895821a84be310741ac5898fcd3"
+    },
+    {
+      "type": "html",
+      "text": " Includes native scripting source code for tools such as [[Query By Example]]. As much of the tool as possible should be written in its native scripting language to serve as both examples and speed up the development process.)",
+      "id": "dbd9fe46f437d6b3647ce3ddb07c6b6d"
+    },
+    {
+      "type": "html",
+      "text": " Ability to put multiple queries in a single script. ",
+      "id": "99300aaca8e3673c2baaa3835ffbdd85"
+    },
+    {
+      "type": "html",
+      "text": " Web access. Can serve as a RAD intranet [[Web Service]].",
+      "id": "5b63973a80d49863e64088233a01a797"
+    },
+    {
+      "type": "html",
+      "text": " Can optionally log problem import rows and continue instead of just stop at first problem.",
+      "id": "ba06e6ff3bde77c87e71b8cd592ec939"
+    },
+    {
+      "type": "html",
+      "text": "\nSuggested Features to Avoid:",
+      "id": "c3d6572578a56ba32a05f29017b0ee65"
+    },
+    {
+      "type": "html",
+      "text": " Two-way auto-conversion between SQL and Access-style Query-By-Example grid. This is complicated to do right (Access didn't quite do it right).",
+      "id": "4c70231051b5a9a844ca018fc9bead14"
+    },
+    {
+      "type": "html",
+      "text": " Don't try to be a high-end [[Desktop Database]]. There are plenty of existing RDBMS to tie into if such is needed.",
+      "id": "d760cd64d196e0673ef048eca7f7915b"
+    },
+    {
+      "type": "html",
+      "text": " Doesn't need super-fancy GUI features, such as dynamic tool-bars. However, the ability to plug in GUI widgets from third-parties or as add-ons would be nice.",
+      "id": "56e0b03514d961f152dfcde2e0edcf69"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0745724f5c918fca6314c8342ef96d77"
+    },
+    {
+      "type": "html",
+      "text": "\nHow about supporting [[Normalization By Synthesis]] ? [[Gene Xus]] \"transactions\" based description of the database can be seen as the tables.",
+      "id": "2b61410d2ce5d285bfa1ec049466cdc1"
+    },
+    {
+      "type": "html",
+      "text": "<i>Do you have experience with [[Gene Xus]] or [[Normalization By Synthesis]] that you can relate?</i>",
+      "id": "4e820759c63737fa141ec4e17df7f217"
+    },
+    {
+      "type": "html",
+      "text": "{I'm a bit skeptical, or at least cautious of [[Automated Code Generation]].}",
+      "id": "3314f4bb173a449f2ba3a66cbb47aa06"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0745724f5c918fca6314c8342ef96d77"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Relational Database]]",
+      "id": "0bda799d5145e2c376c7d45804379b04"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TableOrientedToolWishList c2.com]",
+      "id": "9300c78b70ab037d32a35c68aa3af39c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1336373659000,
+      "id": "54a599b3e1ce4bcdf8d7ffa9e26046ff",
+      "type": "create",
+      "item": {
+        "title": "Table Oriented Tool Wish List",
+        "story": [
+          {
+            "type": "html",
+            "text": "This is to form a wish-list of an [[Open Source]] replacement of [[Microsoft Access]], [[Desktop Database]]s, and/or general \"smart\" [[Table Browser]]s and query browsers ([[List Of Query Browsers]]). I often see a need for such in many businesses. There are several commercial tools that sometimes cost almost 1,000 USD, so there is obviously a demand.",
+            "id": "0892920ff627a5a1ca173d4f2b4506d3"
+          },
+          {
+            "type": "html",
+            "text": "(If this topic turns into a [[Walled Garden]], then I understand it is fair game for deletion. But let's try for a few months, deal? --top)",
+            "id": "9bdb303806e38b3236c441eebf7e88b8"
+          },
+          {
+            "type": "html",
+            "text": "\nSuggested Features:",
+            "id": "38f0f02e9f488fb7610858959dab2b7e"
+          },
+          {
+            "type": "html",
+            "text": " Can serve as a front-end query tool ([[Toad Tool]]-style) to [[Big Iron]] RDBMS and other vendors. ",
+            "id": "2442a2e62ce90ef28253e7170a57c7a0"
+          },
+          {
+            "type": "html",
+            "text": " Can have multiple query windows open at the same time, this includes both SQL edit windows and result windows, perhaps in a split-panel type of window where one half is the edit area and the other is the results grid.",
+            "id": "f9a43e7ea017848da757e510ed4de491"
+          },
+          {
+            "type": "html",
+            "text": " Doesn't try to fit result sets in RAM if they are large; can buffer. (Most [[Desktop Database]]s do this, but I have seen query tools that don't.)",
+            "id": "6ac502cdd9d3bb60e5e531390727b08a"
+          },
+          {
+            "type": "html",
+            "text": " Contains its own [[Desktop Database]] engine.",
+            "id": "dc8bbd54fc40919828ebec0dd9f864ce"
+          },
+          {
+            "type": "html",
+            "text": " Can do \"[[Database Math]]\" on schemas.",
+            "id": "0e9ba91982b22c03e6e41d9811a1e889"
+          },
+          {
+            "type": "html",
+            "text": " Language? Should it have one primary language, but allow languages such as Perl, Python, PHP, etc. to plug in?",
+            "id": "71e68b0c8379c1f7c2cac5ee95479506"
+          },
+          {
+            "type": "html",
+            "text": " Powerful [[Table Browser]]",
+            "id": "e87ea69e3ca15575b9616ea16872c32c"
+          },
+          {
+            "type": "html",
+            "text": " Row-wise and column-wise view swapping (see [[Desktop Database]] example).",
+            "id": "235acf1b19fe47372f225d7b91b90029"
+          },
+          {
+            "type": "html",
+            "text": " General [[Crud Screen]] GUI features, including combo-boxes and tabbed panels. (Using table-oriented GUI configuration would be nice, but not necessary. [[Fox Pro]] does this, I would note, although does not document it.)",
+            "id": "7ffcca8cb3ce0cf59d75f018729c6e32"
+          },
+          {
+            "type": "html",
+            "text": " The ability to save components as individual files or grouped into one file (like .MDB files) as desired.",
+            "id": "38f840b00726e98c962eca51066a2b7e"
+          },
+          {
+            "type": "html",
+            "text": " Can readily import and export to comma-delimited, fixed-column ASCII, XML, HTML, and perhaps Excel. Bonus points for being able to query such directly without first importing. The option to include or exclude column titles should be available. And, ODBC access.",
+            "id": "ea2d37bf2d461b5663efb97c02163fd8"
+          },
+          {
+            "type": "html",
+            "text": " A schema browser that can integrate with the SQL editor for Intellisense-like column name editing would be nice.",
+            "id": "fa0c4ae84f64c44b261167a8ef769aa1"
+          },
+          {
+            "type": "html",
+            "text": " Easily blurs the distinction between external data sources and its own tables, views, and result sets.",
+            "id": "ac0f3895821a84be310741ac5898fcd3"
+          },
+          {
+            "type": "html",
+            "text": " Includes native scripting source code for tools such as [[Query By Example]]. As much of the tool as possible should be written in its native scripting language to serve as both examples and speed up the development process.)",
+            "id": "dbd9fe46f437d6b3647ce3ddb07c6b6d"
+          },
+          {
+            "type": "html",
+            "text": " Ability to put multiple queries in a single script. ",
+            "id": "99300aaca8e3673c2baaa3835ffbdd85"
+          },
+          {
+            "type": "html",
+            "text": " Web access. Can serve as a RAD intranet [[Web Service]].",
+            "id": "5b63973a80d49863e64088233a01a797"
+          },
+          {
+            "type": "html",
+            "text": " Can optionally log problem import rows and continue instead of just stop at first problem.",
+            "id": "ba06e6ff3bde77c87e71b8cd592ec939"
+          },
+          {
+            "type": "html",
+            "text": "\nSuggested Features to Avoid:",
+            "id": "c3d6572578a56ba32a05f29017b0ee65"
+          },
+          {
+            "type": "html",
+            "text": " Two-way auto-conversion between SQL and Access-style Query-By-Example grid. This is complicated to do right (Access didn't quite do it right).",
+            "id": "4c70231051b5a9a844ca018fc9bead14"
+          },
+          {
+            "type": "html",
+            "text": " Don't try to be a high-end [[Desktop Database]]. There are plenty of existing RDBMS to tie into if such is needed.",
+            "id": "d760cd64d196e0673ef048eca7f7915b"
+          },
+          {
+            "type": "html",
+            "text": " Doesn't need super-fancy GUI features, such as dynamic tool-bars. However, the ability to plug in GUI widgets from third-parties or as add-ons would be nice.",
+            "id": "56e0b03514d961f152dfcde2e0edcf69"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0745724f5c918fca6314c8342ef96d77"
+          },
+          {
+            "type": "html",
+            "text": "\nHow about supporting [[Normalization By Synthesis]] ? [[Gene Xus]] \"transactions\" based description of the database can be seen as the tables.",
+            "id": "2b61410d2ce5d285bfa1ec049466cdc1"
+          },
+          {
+            "type": "html",
+            "text": "<i>Do you have experience with [[Gene Xus]] or [[Normalization By Synthesis]] that you can relate?</i>",
+            "id": "4e820759c63737fa141ec4e17df7f217"
+          },
+          {
+            "type": "html",
+            "text": "{I'm a bit skeptical, or at least cautious of [[Automated Code Generation]].}",
+            "id": "3314f4bb173a449f2ba3a66cbb47aa06"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0745724f5c918fca6314c8342ef96d77"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Relational Database]]",
+            "id": "0bda799d5145e2c376c7d45804379b04"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TableOrientedToolWishList c2.com]",
+            "id": "9300c78b70ab037d32a35c68aa3af39c"
+          }
+        ]
+      }
+    }
+  ]
+}
