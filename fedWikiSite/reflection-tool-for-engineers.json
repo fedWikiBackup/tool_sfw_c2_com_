@@ -1,0 +1,127 @@
+{
+  "title": "Reflection Tool For Engineers",
+  "story": [
+    {
+      "type": "html",
+      "text": "Possible application from [[Masp Implementation Discussion]]",
+      "id": "8c71ce2e6276dffd15728716491910c3"
+    },
+    {
+      "type": "html",
+      "text": "\nOne current interest I have is for a [[Reflection Tool For Engineers]] to be able to accumulate linked data about activities. At present I use quite a lot of different tools none of which provide all the desired functionality and I would be interested in any thoughts about possible implementations. -- [[John Fletcher]]",
+      "id": "4d996a46df853915e850f3ac3ef25ffe"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "b4d852a44a81be6b47622d8320e89a8f"
+    },
+    {
+      "type": "html",
+      "text": "\nCan you build a sample schema? Before pursuing a new database-like engine, let's make sure existing RDBMS or RDBMS-like tools cannot handle it satisfactorily. Perhaps we can tease out the reasons why existing ones are insufficient and form some candidate general rules for fit difficulties.",
+      "id": "bfc4cff7f246095aa88549ff1bd989f3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "b4d852a44a81be6b47622d8320e89a8f"
+    },
+    {
+      "type": "html",
+      "text": "\nI was not thinking myself of a new database engine. I am an engineer at the application end of programming. I tend to want to take tools other people have built, for example [[Meta Kit]] and [[Efour Graph]], and use them to implement ideas. I also use many existing tools, e.g. [[One Note]], [[Tiddly Wiki]] and other tools for collecting ideas. There are problems for me with each tool, but the main lack is an export system where I can bring together data from different systems. The ideas of the [[Semantic Wiki]] are important here, but again I don't have any tools which will help. I was hopeful of [[Cubic Web]] but find it too restrictive and difficult to adapt. I know this is not a schema and therefore not a direct answer. I am having another look at [[Connected Text]] for use as an individual note taking tool. I am finding that the semantic tools it contains help with building an ontology of the objects in a natural way. -- [[John Fletcher]]",
+      "id": "e80eeed021b4a28fc83cf70a8265b4a4"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "b4d852a44a81be6b47622d8320e89a8f"
+    },
+    {
+      "type": "html",
+      "text": "I have now encountered the [[Programmers Stone]] and have a lot more things to reflect about. I think any tool will need to capture the dimensions there. -- [[John Fletcher]]",
+      "id": "071424728a9ae9982fe6a86ba2520433"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "b4d852a44a81be6b47622d8320e89a8f"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Discussion]]",
+      "id": "e6e8dcb3612a69e674ca9b805bd9f78c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ReflectionToolForEngineers c2.com]",
+      "id": "3e9c3ce35e423493ec85087d13c99720"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1317980224000,
+      "id": "89fd2797db5c17db209e2d861cd67fee",
+      "type": "create",
+      "item": {
+        "title": "Reflection Tool For Engineers",
+        "story": [
+          {
+            "type": "html",
+            "text": "Possible application from [[Masp Implementation Discussion]]",
+            "id": "8c71ce2e6276dffd15728716491910c3"
+          },
+          {
+            "type": "html",
+            "text": "\nOne current interest I have is for a [[Reflection Tool For Engineers]] to be able to accumulate linked data about activities. At present I use quite a lot of different tools none of which provide all the desired functionality and I would be interested in any thoughts about possible implementations. -- [[John Fletcher]]",
+            "id": "4d996a46df853915e850f3ac3ef25ffe"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "b4d852a44a81be6b47622d8320e89a8f"
+          },
+          {
+            "type": "html",
+            "text": "\nCan you build a sample schema? Before pursuing a new database-like engine, let's make sure existing RDBMS or RDBMS-like tools cannot handle it satisfactorily. Perhaps we can tease out the reasons why existing ones are insufficient and form some candidate general rules for fit difficulties.",
+            "id": "bfc4cff7f246095aa88549ff1bd989f3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "b4d852a44a81be6b47622d8320e89a8f"
+          },
+          {
+            "type": "html",
+            "text": "\nI was not thinking myself of a new database engine. I am an engineer at the application end of programming. I tend to want to take tools other people have built, for example [[Meta Kit]] and [[Efour Graph]], and use them to implement ideas. I also use many existing tools, e.g. [[One Note]], [[Tiddly Wiki]] and other tools for collecting ideas. There are problems for me with each tool, but the main lack is an export system where I can bring together data from different systems. The ideas of the [[Semantic Wiki]] are important here, but again I don't have any tools which will help. I was hopeful of [[Cubic Web]] but find it too restrictive and difficult to adapt. I know this is not a schema and therefore not a direct answer. I am having another look at [[Connected Text]] for use as an individual note taking tool. I am finding that the semantic tools it contains help with building an ontology of the objects in a natural way. -- [[John Fletcher]]",
+            "id": "e80eeed021b4a28fc83cf70a8265b4a4"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "b4d852a44a81be6b47622d8320e89a8f"
+          },
+          {
+            "type": "html",
+            "text": "I have now encountered the [[Programmers Stone]] and have a lot more things to reflect about. I think any tool will need to capture the dimensions there. -- [[John Fletcher]]",
+            "id": "071424728a9ae9982fe6a86ba2520433"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "b4d852a44a81be6b47622d8320e89a8f"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Discussion]]",
+            "id": "e6e8dcb3612a69e674ca9b805bd9f78c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ReflectionToolForEngineers c2.com]",
+            "id": "3e9c3ce35e423493ec85087d13c99720"
+          }
+        ]
+      }
+    }
+  ]
+}
