@@ -1,0 +1,287 @@
+{
+  "title": "Tools That Teach Poor Habits",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>\"It is practically impossible to teach good programming style to students that have had prior exposure to BASIC; as potential programmers they are mentally mutilated beyond hope of regeneration.\" -- [[Ew Dijkstra]]</i>",
+      "id": "c03f7b271f21b4edec08403ffcd17e11"
+    },
+    {
+      "type": "html",
+      "text": "\nCertain tools or influences cause poor habits to build up.  These habits may serve well enough when using the tool in its intended domain, but can be harmful when the user of the tool is introduced to new circumstances - such as larger projects with more programmers, long tail-end maintenance cycles, or stricter correctness or security requirements.  ",
+      "id": "df5f1b408424355b7fe7b6e3c05476ea"
+    },
+    {
+      "type": "html",
+      "text": "\nProgrammers, being lazy ([[Laziness Impatience Hubris]]), will tend to achieve the easiest solution to any given problem - not always the simplest solution, but rather the one that takes the least immediate effort and doesn't involve breaking other code.  '[[Do The Simplest Thing That Could Possibly Work]]' embraces this particular pattern of behavior (but is often tempered with [[Refactor Mercilessly]] - which requires taking the [[Time To Make It Simple]]). ",
+      "id": "3a36f48afbeadc9708d6784a2930c638"
+    },
+    {
+      "type": "html",
+      "text": "\nThus, tools can be said to 'teach poor habits' when they make 'easier' those solutions that are more difficult to later maintain, extend, debug, verify, grok, secure, refactor, optimize, etc.  Now this isn't especially grievous if there are no better known solutions for a particular problem, and it also isn't an issue if the tool is not intended to solve the particular problem at hand.  ",
+      "id": "0470cf67b1c398c2e448f4b171342d3e"
+    },
+    {
+      "type": "html",
+      "text": "\nBut if the tool makes it difficult to utilize [[Design Patterns]] that have in practice proven to possess better properties for later maintenance, extension, et al., then programmers will learn to make do with the less maintainable solution - it will be [[Good Enough]] (at least immediately), so the programmers will use it and move on.  In large projects with many programmers or long maintenance cycles, this has the consequence of the source slowly building cruft that is difficult to maintain, just as difficult to refactor, quite difficult to grok or extend, and buried under layers of similar code in such a manner that nobody is really certain how a change at one place will affect everything else; one begins to experience the [[Twenty Eighty Rule]] commonly associated with [[Legacy Code]], and it becomes tempting to [[Rewrite From Scratch]].",
+      "id": "5744a930ca0452be7651339706a5620c"
+    },
+    {
+      "type": "html",
+      "text": "\nSo, for tools to avoid teaching bad habits, they need to provide features that make 'easier' the more maintainable, grokkable, verifiable, et al. solutions.  Some 'tools' of the programmer's trade include libraries, frameworks, standard message protocols, standard file formats, [[Integrated Development Environment]]s, [[Software Configuration Management]], paradigms, methodologies, [[Design Patterns]], and (of course) [[Programming Language]]s.  Below, I'll focusing on [[Programming Language]]s (as a didactic example). ",
+      "id": "5bfd4feb3c6627648bc2a0cab6f11f73"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Programming Language]]s can avoid teaching bad habits by offering [[Key Language Feature]]s that support common [[Design Patterns]] for their target domain (See [[Are Design Patterns Missing Language Features]]).  They can also do it by lowering the barriers for extending the programming language to add new [[Design Patterns]] (See [[Mutable Language]] and [[Extensible Programming Language]] for the more extreme examples, but even having procedures, objects, generics, etc. qualifies here).  ",
+      "id": "2ec120fcb230e927eab09ab68b762516"
+    },
+    {
+      "type": "html",
+      "text": "\nFinally, and far more controversially, is the [[Bondage And Discipline]] approach: [[Programming Language]]s can raise a barrier by intentionally making <i>more difficult</i> those solutions that the language-designers have deemed to be less maintainable, grokkable, verifiable, optimizable, et al.; this ultimately results in the allegedly better solutions being 'easier', but only because the other solutions were made more difficult.  Integrating automatic use of [[Type System]]s or removing '[[Go To]]' from the language would generally qualify as an example of this [[Bondage And Discipline]] approach.  This is controversial for two reasons: First, it implies that the [[Language Designer]]s know better - it might even be true, but nobody likes having that shoved in their faces.  Second, people that have already learned 'poor habits' from prior tools will enter this language and be frustrated by it: they'll need to change their own behaviors in order to use the language (and 'bad habits' are notoriously difficult to break), or they'll need to change the language to support their habits ([[Bad Code Can Be Written In Any Language]]).  However, despite the controversy behind it and the potential for circumvention by a determined programmer, the [[Bondage And Discipline]] approach <i>does</i>, in practice, achieve the purpose of the language designers in encouraging use of whatever the designer considered the more appropriate approach to solving problems, especially when combined with the lowering of barriers for the proposed 'correct' approaches and [[Design Patterns]].",
+      "id": "8a65dd43eb1b91a329981a1f7882c3d7"
+    },
+    {
+      "type": "html",
+      "text": "\nSome languages that (allegedly) teach poor habits include [[Basic Language]] ([[Vb Teaches Bad Habits]]), [[Perl Language]] ([[There Is More Than One Way To Do It]] has been accused of encouraging [[You Should Do It Every Which Way]], which results in code more difficult to grok or maintain for new programmers), [[Mutable Language]] and [[Operator Overloading]] (for the same reason as [[Perl Language]]), use of [[Go To]]s vs. [[Structured Programming]] (accusations of [[Spaghetti Code]]), etc.  Actually, for just about any feature or language you can find on this wiki, you'll find someone else accusing it of being bad - often for the very same reasons that the other people call it a feature.  I wish to avoid discussion regarding truth or fallacy behind these accusations in this section; there are dedicated pages for each.  ",
+      "id": "14da5a1bbd99745df21d5826766192ed"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a035c671b5e512677045342cfb09103"
+    },
+    {
+      "type": "html",
+      "text": "Regarding banning goto in [[Bondage And Discipline]] languages: Standard Pascal, a [[Bondage And Discipline]] language, didn't ban the use of [[Go To]], but forced one to use numbers as labels (most likely to discourage people from using text labels all over the code as control structures, and to encourage goto's only for error code exits (number labels) or special situations). However, when goto label's are used the descriptive text labels can be really handy and these numbered labels can be annoying. Linus had a statement about this on a mailing list, once upon a time (re: his hatred for pascal and the usefulness of text labels vs numbers).",
+      "id": "8a4f14434f71235dd6bf2f1e98f3e15d"
+    },
+    {
+      "type": "html",
+      "text": "\nOne way to allow [[Go To]] but to discourage it, is to disable it by default ([[Secure By Default]]?) and only allow [[Go To]] when a compiler switch is enabled. An example in Qomp and FPC is the {$GOTO ON} directive, or the command line switches. This allows one to use nice local goto's when <i>justified</i> or <i>reasonable</i> ([[Good Use Of Goto]]).",
+      "id": "7f4d26bc414b74bfc301a4fcfe21d717"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a035c671b5e512677045342cfb09103"
+    },
+    {
+      "type": "html",
+      "text": "\nI would suggest that [[Checked Exception]]s of the [[Manifest Typing]] sort are among the [[Tools That Teach Poor Habits]]. Related: [[Checked Exceptions Are Of Dubious Value]], [[Java Exceptions Are Particularly Evil]]. [[Laziness Impatience Hubris]] suggests that the easiest, fastest way to errors go away will be the one that is favored. For [[Checked Exception]]s, that means smashing them at the place the compiler complains. Since these are exceptions, and thus aren't part of the [[Happy Path]], the silent error-creep issues that arise from smashing these exceptions, probably will go unnoticed and uncorrected for years.",
+      "id": "04e06ba55e209927c61d0fb4c1828399"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a035c671b5e512677045342cfb09103"
+    },
+    {
+      "type": "html",
+      "text": "<b>Where's the Proof?</b>",
+      "id": "66ca804d6593ffaf7ca01facd0ab9b1e"
+    },
+    {
+      "type": "html",
+      "text": "\nOne common (and very reasonable) objection to methodologies, adherence to paradigms, and especially [[Bondage And Discipline]] approaches is the lack of highly statistical, objective, independently verified 'proof' behind the design decisions intended to teach 'better' habits.  Without proof, one cannot readily justify raising a barrier to a particular feature - e.g. deciding to not add [[Go To]] to a language [[General Purpose Programming Language]], or requiring static type verification.",
+      "id": "dea23a1f099532cad5fa7a1dc6bd2c70"
+    },
+    {
+      "type": "html",
+      "text": "\nAnecdotes, especially in large supply, provide ample evidence that a problem has been observed; even vociferous [[Go To]] adherents won't deny that [[Spaghetti Code]] is both possible and exists in practice.  But  anecdotes don't say that a problem <i>will</i> occur - they only indicate what <i>can</i> occur, and those same [[Go To]] adherents will argue that the problem won't happen to them; they've got 'experience'.  A well organized [[Go To]] project can be just as verifiable and maintainable and grokkable as any [[Structured Programming]] project - perhaps (given the 'well organized' criterion on the former) even more so.",
+      "id": "ed1fc3b40df46b44bb36b36f9bb555bd"
+    },
+    {
+      "type": "html",
+      "text": "\nFor the designers, the answer is that hard evidence is impossible to obtain in practice.  Due to the combinatorial explosion in how systems interrelate, it will cost far more than going to the moon and back several times to properly compare tools against one another, especially when one needs a 'clean slate' against which to test - an impossible thing to obtain for human programmers.  It isn't as though you can teach pigeons to maintain programs with long tail-end maintenance cycles.  ",
+      "id": "00ea6e56d612bb1db4adf2d88c74529c"
+    },
+    {
+      "type": "html",
+      "text": "\nAttempting to obtain 'guaranteed' automatic features is easier to handle; e.g. one <i>deductively</i> cannot allow pointer arithmetic if one's goal is to guarantee language safety ('safety' = no operations have undefined consequences).  One can also remove [[Go To]] to support termination, or require static typing to support safety. But, even if these reasons account for many of the <i>core</i> design decisions for a language, this class of deductive feature still accounts for a relatively small subset of all tool design decisions. It certainly doesn't affect decisions that, for example, name language primitives, favor choice of '=>' vs. '->' in a syntax, or distinguish the [[Java Swing]] and [[Java Awt]] frameworks. ",
+      "id": "0323da4721e372044e7ddb3b28007c24"
+    },
+    {
+      "type": "html",
+      "text": "\nThus, designers are stuck basing most of their decisions off of [[User Stories]], anecdotes, experience, observed [[Design Patterns]], and logical reasoning backed more by models and mathematics and limited abduction than statistical observations over reality.  Some of these observations do involve those over programmers; a designer can always reasonably assume that (a) in any open system some programmers aren't trustworthy, (b) some programmers don't know what they're doing, (b.ii) on any large or long-term project, it is very rare that all programmers know what they are doing or exactly how a change affects emergent behavior of the code, (c) programmers that never make typographical, copy-and-paste, and logic-errors are so rare as to be almost unheard of (d) rarely do programmers or users know exactly what they want - perfect foresight doesn't exist, etc..  These aren't issues of 'psychology'; they're simply observed reality.",
+      "id": "77abb8f0037582301d3ed8631fe58a46"
+    },
+    {
+      "type": "html",
+      "text": "\nThese sorts of observations can reasonably shape and <i>justify</i> design decisions, even though they aren't proven with hard, undeniable, statistical, clean-slate laboratory proofs.  Designers must deal with the fact that there will rarely be absolute proofs to support their design decisions in practice; often, the best they can do is learn from the new anecdotes and [[User Stories]] about what should maybe be done better next time around.",
+      "id": "4a8d3474ffa444cf8fb5827293acfc05"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a035c671b5e512677045342cfb09103"
+    },
+    {
+      "type": "html",
+      "text": "\nBooks that advocate some hype or current technology can also teach poor habits. It doesn't help that the people who use the books are usually those who lack the experience and skill to judge for themselves. Anything written in a book is usually taken as absolute truth, even if it is pure garbage. ",
+      "id": "394703d6ddd254111d6c01237b7dc0ae"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a035c671b5e512677045342cfb09103"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also: [[Sapir Whorf Hypothesis]], [[Cobol Causes Brain Damage]]",
+      "id": "f0c447fcd7def43f33e452df7413b534"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolsThatTeachPoorHabits c2.com]",
+      "id": "3b74ae63275e7050240ba61e66f8db8e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1416613497000,
+      "id": "b93ad658e3a3f0c60cdb983c655d8465",
+      "type": "create",
+      "item": {
+        "title": "Tools That Teach Poor Habits",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>\"It is practically impossible to teach good programming style to students that have had prior exposure to BASIC; as potential programmers they are mentally mutilated beyond hope of regeneration.\" -- [[Ew Dijkstra]]</i>",
+            "id": "c03f7b271f21b4edec08403ffcd17e11"
+          },
+          {
+            "type": "html",
+            "text": "\nCertain tools or influences cause poor habits to build up.  These habits may serve well enough when using the tool in its intended domain, but can be harmful when the user of the tool is introduced to new circumstances - such as larger projects with more programmers, long tail-end maintenance cycles, or stricter correctness or security requirements.  ",
+            "id": "df5f1b408424355b7fe7b6e3c05476ea"
+          },
+          {
+            "type": "html",
+            "text": "\nProgrammers, being lazy ([[Laziness Impatience Hubris]]), will tend to achieve the easiest solution to any given problem - not always the simplest solution, but rather the one that takes the least immediate effort and doesn't involve breaking other code.  '[[Do The Simplest Thing That Could Possibly Work]]' embraces this particular pattern of behavior (but is often tempered with [[Refactor Mercilessly]] - which requires taking the [[Time To Make It Simple]]). ",
+            "id": "3a36f48afbeadc9708d6784a2930c638"
+          },
+          {
+            "type": "html",
+            "text": "\nThus, tools can be said to 'teach poor habits' when they make 'easier' those solutions that are more difficult to later maintain, extend, debug, verify, grok, secure, refactor, optimize, etc.  Now this isn't especially grievous if there are no better known solutions for a particular problem, and it also isn't an issue if the tool is not intended to solve the particular problem at hand.  ",
+            "id": "0470cf67b1c398c2e448f4b171342d3e"
+          },
+          {
+            "type": "html",
+            "text": "\nBut if the tool makes it difficult to utilize [[Design Patterns]] that have in practice proven to possess better properties for later maintenance, extension, et al., then programmers will learn to make do with the less maintainable solution - it will be [[Good Enough]] (at least immediately), so the programmers will use it and move on.  In large projects with many programmers or long maintenance cycles, this has the consequence of the source slowly building cruft that is difficult to maintain, just as difficult to refactor, quite difficult to grok or extend, and buried under layers of similar code in such a manner that nobody is really certain how a change at one place will affect everything else; one begins to experience the [[Twenty Eighty Rule]] commonly associated with [[Legacy Code]], and it becomes tempting to [[Rewrite From Scratch]].",
+            "id": "5744a930ca0452be7651339706a5620c"
+          },
+          {
+            "type": "html",
+            "text": "\nSo, for tools to avoid teaching bad habits, they need to provide features that make 'easier' the more maintainable, grokkable, verifiable, et al. solutions.  Some 'tools' of the programmer's trade include libraries, frameworks, standard message protocols, standard file formats, [[Integrated Development Environment]]s, [[Software Configuration Management]], paradigms, methodologies, [[Design Patterns]], and (of course) [[Programming Language]]s.  Below, I'll focusing on [[Programming Language]]s (as a didactic example). ",
+            "id": "5bfd4feb3c6627648bc2a0cab6f11f73"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Programming Language]]s can avoid teaching bad habits by offering [[Key Language Feature]]s that support common [[Design Patterns]] for their target domain (See [[Are Design Patterns Missing Language Features]]).  They can also do it by lowering the barriers for extending the programming language to add new [[Design Patterns]] (See [[Mutable Language]] and [[Extensible Programming Language]] for the more extreme examples, but even having procedures, objects, generics, etc. qualifies here).  ",
+            "id": "2ec120fcb230e927eab09ab68b762516"
+          },
+          {
+            "type": "html",
+            "text": "\nFinally, and far more controversially, is the [[Bondage And Discipline]] approach: [[Programming Language]]s can raise a barrier by intentionally making <i>more difficult</i> those solutions that the language-designers have deemed to be less maintainable, grokkable, verifiable, optimizable, et al.; this ultimately results in the allegedly better solutions being 'easier', but only because the other solutions were made more difficult.  Integrating automatic use of [[Type System]]s or removing '[[Go To]]' from the language would generally qualify as an example of this [[Bondage And Discipline]] approach.  This is controversial for two reasons: First, it implies that the [[Language Designer]]s know better - it might even be true, but nobody likes having that shoved in their faces.  Second, people that have already learned 'poor habits' from prior tools will enter this language and be frustrated by it: they'll need to change their own behaviors in order to use the language (and 'bad habits' are notoriously difficult to break), or they'll need to change the language to support their habits ([[Bad Code Can Be Written In Any Language]]).  However, despite the controversy behind it and the potential for circumvention by a determined programmer, the [[Bondage And Discipline]] approach <i>does</i>, in practice, achieve the purpose of the language designers in encouraging use of whatever the designer considered the more appropriate approach to solving problems, especially when combined with the lowering of barriers for the proposed 'correct' approaches and [[Design Patterns]].",
+            "id": "8a65dd43eb1b91a329981a1f7882c3d7"
+          },
+          {
+            "type": "html",
+            "text": "\nSome languages that (allegedly) teach poor habits include [[Basic Language]] ([[Vb Teaches Bad Habits]]), [[Perl Language]] ([[There Is More Than One Way To Do It]] has been accused of encouraging [[You Should Do It Every Which Way]], which results in code more difficult to grok or maintain for new programmers), [[Mutable Language]] and [[Operator Overloading]] (for the same reason as [[Perl Language]]), use of [[Go To]]s vs. [[Structured Programming]] (accusations of [[Spaghetti Code]]), etc.  Actually, for just about any feature or language you can find on this wiki, you'll find someone else accusing it of being bad - often for the very same reasons that the other people call it a feature.  I wish to avoid discussion regarding truth or fallacy behind these accusations in this section; there are dedicated pages for each.  ",
+            "id": "14da5a1bbd99745df21d5826766192ed"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a035c671b5e512677045342cfb09103"
+          },
+          {
+            "type": "html",
+            "text": "Regarding banning goto in [[Bondage And Discipline]] languages: Standard Pascal, a [[Bondage And Discipline]] language, didn't ban the use of [[Go To]], but forced one to use numbers as labels (most likely to discourage people from using text labels all over the code as control structures, and to encourage goto's only for error code exits (number labels) or special situations). However, when goto label's are used the descriptive text labels can be really handy and these numbered labels can be annoying. Linus had a statement about this on a mailing list, once upon a time (re: his hatred for pascal and the usefulness of text labels vs numbers).",
+            "id": "8a4f14434f71235dd6bf2f1e98f3e15d"
+          },
+          {
+            "type": "html",
+            "text": "\nOne way to allow [[Go To]] but to discourage it, is to disable it by default ([[Secure By Default]]?) and only allow [[Go To]] when a compiler switch is enabled. An example in Qomp and FPC is the {$GOTO ON} directive, or the command line switches. This allows one to use nice local goto's when <i>justified</i> or <i>reasonable</i> ([[Good Use Of Goto]]).",
+            "id": "7f4d26bc414b74bfc301a4fcfe21d717"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a035c671b5e512677045342cfb09103"
+          },
+          {
+            "type": "html",
+            "text": "\nI would suggest that [[Checked Exception]]s of the [[Manifest Typing]] sort are among the [[Tools That Teach Poor Habits]]. Related: [[Checked Exceptions Are Of Dubious Value]], [[Java Exceptions Are Particularly Evil]]. [[Laziness Impatience Hubris]] suggests that the easiest, fastest way to errors go away will be the one that is favored. For [[Checked Exception]]s, that means smashing them at the place the compiler complains. Since these are exceptions, and thus aren't part of the [[Happy Path]], the silent error-creep issues that arise from smashing these exceptions, probably will go unnoticed and uncorrected for years.",
+            "id": "04e06ba55e209927c61d0fb4c1828399"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a035c671b5e512677045342cfb09103"
+          },
+          {
+            "type": "html",
+            "text": "<b>Where's the Proof?</b>",
+            "id": "66ca804d6593ffaf7ca01facd0ab9b1e"
+          },
+          {
+            "type": "html",
+            "text": "\nOne common (and very reasonable) objection to methodologies, adherence to paradigms, and especially [[Bondage And Discipline]] approaches is the lack of highly statistical, objective, independently verified 'proof' behind the design decisions intended to teach 'better' habits.  Without proof, one cannot readily justify raising a barrier to a particular feature - e.g. deciding to not add [[Go To]] to a language [[General Purpose Programming Language]], or requiring static type verification.",
+            "id": "dea23a1f099532cad5fa7a1dc6bd2c70"
+          },
+          {
+            "type": "html",
+            "text": "\nAnecdotes, especially in large supply, provide ample evidence that a problem has been observed; even vociferous [[Go To]] adherents won't deny that [[Spaghetti Code]] is both possible and exists in practice.  But  anecdotes don't say that a problem <i>will</i> occur - they only indicate what <i>can</i> occur, and those same [[Go To]] adherents will argue that the problem won't happen to them; they've got 'experience'.  A well organized [[Go To]] project can be just as verifiable and maintainable and grokkable as any [[Structured Programming]] project - perhaps (given the 'well organized' criterion on the former) even more so.",
+            "id": "ed1fc3b40df46b44bb36b36f9bb555bd"
+          },
+          {
+            "type": "html",
+            "text": "\nFor the designers, the answer is that hard evidence is impossible to obtain in practice.  Due to the combinatorial explosion in how systems interrelate, it will cost far more than going to the moon and back several times to properly compare tools against one another, especially when one needs a 'clean slate' against which to test - an impossible thing to obtain for human programmers.  It isn't as though you can teach pigeons to maintain programs with long tail-end maintenance cycles.  ",
+            "id": "00ea6e56d612bb1db4adf2d88c74529c"
+          },
+          {
+            "type": "html",
+            "text": "\nAttempting to obtain 'guaranteed' automatic features is easier to handle; e.g. one <i>deductively</i> cannot allow pointer arithmetic if one's goal is to guarantee language safety ('safety' = no operations have undefined consequences).  One can also remove [[Go To]] to support termination, or require static typing to support safety. But, even if these reasons account for many of the <i>core</i> design decisions for a language, this class of deductive feature still accounts for a relatively small subset of all tool design decisions. It certainly doesn't affect decisions that, for example, name language primitives, favor choice of '=>' vs. '->' in a syntax, or distinguish the [[Java Swing]] and [[Java Awt]] frameworks. ",
+            "id": "0323da4721e372044e7ddb3b28007c24"
+          },
+          {
+            "type": "html",
+            "text": "\nThus, designers are stuck basing most of their decisions off of [[User Stories]], anecdotes, experience, observed [[Design Patterns]], and logical reasoning backed more by models and mathematics and limited abduction than statistical observations over reality.  Some of these observations do involve those over programmers; a designer can always reasonably assume that (a) in any open system some programmers aren't trustworthy, (b) some programmers don't know what they're doing, (b.ii) on any large or long-term project, it is very rare that all programmers know what they are doing or exactly how a change affects emergent behavior of the code, (c) programmers that never make typographical, copy-and-paste, and logic-errors are so rare as to be almost unheard of (d) rarely do programmers or users know exactly what they want - perfect foresight doesn't exist, etc..  These aren't issues of 'psychology'; they're simply observed reality.",
+            "id": "77abb8f0037582301d3ed8631fe58a46"
+          },
+          {
+            "type": "html",
+            "text": "\nThese sorts of observations can reasonably shape and <i>justify</i> design decisions, even though they aren't proven with hard, undeniable, statistical, clean-slate laboratory proofs.  Designers must deal with the fact that there will rarely be absolute proofs to support their design decisions in practice; often, the best they can do is learn from the new anecdotes and [[User Stories]] about what should maybe be done better next time around.",
+            "id": "4a8d3474ffa444cf8fb5827293acfc05"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a035c671b5e512677045342cfb09103"
+          },
+          {
+            "type": "html",
+            "text": "\nBooks that advocate some hype or current technology can also teach poor habits. It doesn't help that the people who use the books are usually those who lack the experience and skill to judge for themselves. Anything written in a book is usually taken as absolute truth, even if it is pure garbage. ",
+            "id": "394703d6ddd254111d6c01237b7dc0ae"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a035c671b5e512677045342cfb09103"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also: [[Sapir Whorf Hypothesis]], [[Cobol Causes Brain Damage]]",
+            "id": "f0c447fcd7def43f33e452df7413b534"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolsThatTeachPoorHabits c2.com]",
+            "id": "3b74ae63275e7050240ba61e66f8db8e"
+          }
+        ]
+      }
+    }
+  ]
+}
