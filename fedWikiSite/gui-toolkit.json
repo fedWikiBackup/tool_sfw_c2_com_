@@ -1,0 +1,217 @@
+{
+  "title": "Gui Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "See [[Kde Vs Gnome]], [[Java Applet]], <i>etc.</i>",
+      "id": "2ef589dded0cff70a3f960b27410b706"
+    },
+    {
+      "type": "html",
+      "text": "\nBetween your video driver and your desktop is a layer of code that provides windows and widgets, typically seamlessly.",
+      "id": "c9e51898c1e1956b0ef7fb6bc25b1631"
+    },
+    {
+      "type": "html",
+      "text": "Here is an exhaustive list of them:<br>[http://www.geocities.com/SiliconValley/Vista/7184/guitool.html www.geocities.com]",
+      "id": "cee84fe5e3138793bc19b28dadfc38dc"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also [[Gui Frameworks]]",
+      "id": "c504c6f9cc8f2055f121434bab1d1e24"
+    },
+    {
+      "type": "html",
+      "text": "\nOS specific:",
+      "id": "03b3468a565b0f2b43ebd9a8a8ef271a"
+    },
+    {
+      "type": "html",
+      "text": " Win32 ([[Windows Template Library]], [[Microsoft Foundation Classes]], [[Visual Studio]], [[Dot Net]], etc.)",
+      "id": "f561652a0ac38464f5202398d065013d"
+    },
+    {
+      "type": "html",
+      "text": " [[Mac Os]]:<br>[[Cocoa Framework]], [[Quick Draw]]",
+      "id": "bcfdb76a3bf3fe0e19c05a5672aabebe"
+    },
+    {
+      "type": "html",
+      "text": " [[Xwindow Protocol]]:<br>[[Kay Desktop Environment]], [[Gnome Desktop Environment]], etc.",
+      "id": "cd89a10197ae8dd67830cbbd4803610f"
+    },
+    {
+      "type": "html",
+      "text": " [[Fresco Framework]]",
+      "id": "8c3430015a3125fb008a5ece423f520b"
+    },
+    {
+      "type": "html",
+      "text": "\nHigher level:",
+      "id": "7f146313918b23af924d03cb7923163d"
+    },
+    {
+      "type": "html",
+      "text": " HTML and [[Java Script]] (forms in browsers)",
+      "id": "de60730b5c0ca8d6153e9e9e96594d93"
+    },
+    {
+      "type": "html",
+      "text": " [[Mozilla Xul]] (XML + [[Java Script]])",
+      "id": "12c791d477a3628a08e30163f24b80ec"
+    },
+    {
+      "type": "html",
+      "text": " [[Tcl Tk]] (thence pTk, [[Ruby Tk]], [[Python Tkinter]], etc.)",
+      "id": "56a0d85a1bd5f2859ca22187f7b37237"
+    },
+    {
+      "type": "html",
+      "text": " [[Wx Widgets]]",
+      "id": "7550fbfde9eeb6e097300d8fee7a0e48"
+    },
+    {
+      "type": "html",
+      "text": " [[Java Swing]], [[Java Awt]]",
+      "id": "2fdaa80205352427c031db605f00f54e"
+    },
+    {
+      "type": "html",
+      "text": "\nOS desktop vendors compete to provide the most seamless toolkit. Many users don't remember the days when some applications took over the whole screen, some only used character mode, and some had completely custom [[Graphical User Interface]] widgetry.",
+      "id": "4aa3d3eaa8655adb6986c133160ad1ff"
+    },
+    {
+      "type": "html",
+      "text": "\nBut if the end-programmer spends too much time reinventing buttons, they'll spend too little time on features. And end-users should see a monitor as both a single app with a single look-and-feel, and as many different apps each interacting. So sharing the screen is as much an OS vendor's responsibility as sharing the hard drives.",
+      "id": "d5d9da060ba2336d5c57fdba761a8446"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d1d0a307f97c5e1231c4a85546c4824b"
+    },
+    {
+      "type": "html",
+      "text": "[[Category User Interface]]",
+      "id": "88231f2c75030f5e6bc34365507e5c06"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?GuiToolkit c2.com]",
+      "id": "5420359083374b26679ef50b7065357b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1136825256000,
+      "id": "d304def105ea89949dff78396fced65c",
+      "type": "create",
+      "item": {
+        "title": "Gui Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "See [[Kde Vs Gnome]], [[Java Applet]], <i>etc.</i>",
+            "id": "2ef589dded0cff70a3f960b27410b706"
+          },
+          {
+            "type": "html",
+            "text": "\nBetween your video driver and your desktop is a layer of code that provides windows and widgets, typically seamlessly.",
+            "id": "c9e51898c1e1956b0ef7fb6bc25b1631"
+          },
+          {
+            "type": "html",
+            "text": "Here is an exhaustive list of them:<br>[http://www.geocities.com/SiliconValley/Vista/7184/guitool.html www.geocities.com]",
+            "id": "cee84fe5e3138793bc19b28dadfc38dc"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also [[Gui Frameworks]]",
+            "id": "c504c6f9cc8f2055f121434bab1d1e24"
+          },
+          {
+            "type": "html",
+            "text": "\nOS specific:",
+            "id": "03b3468a565b0f2b43ebd9a8a8ef271a"
+          },
+          {
+            "type": "html",
+            "text": " Win32 ([[Windows Template Library]], [[Microsoft Foundation Classes]], [[Visual Studio]], [[Dot Net]], etc.)",
+            "id": "f561652a0ac38464f5202398d065013d"
+          },
+          {
+            "type": "html",
+            "text": " [[Mac Os]]:<br>[[Cocoa Framework]], [[Quick Draw]]",
+            "id": "bcfdb76a3bf3fe0e19c05a5672aabebe"
+          },
+          {
+            "type": "html",
+            "text": " [[Xwindow Protocol]]:<br>[[Kay Desktop Environment]], [[Gnome Desktop Environment]], etc.",
+            "id": "cd89a10197ae8dd67830cbbd4803610f"
+          },
+          {
+            "type": "html",
+            "text": " [[Fresco Framework]]",
+            "id": "8c3430015a3125fb008a5ece423f520b"
+          },
+          {
+            "type": "html",
+            "text": "\nHigher level:",
+            "id": "7f146313918b23af924d03cb7923163d"
+          },
+          {
+            "type": "html",
+            "text": " HTML and [[Java Script]] (forms in browsers)",
+            "id": "de60730b5c0ca8d6153e9e9e96594d93"
+          },
+          {
+            "type": "html",
+            "text": " [[Mozilla Xul]] (XML + [[Java Script]])",
+            "id": "12c791d477a3628a08e30163f24b80ec"
+          },
+          {
+            "type": "html",
+            "text": " [[Tcl Tk]] (thence pTk, [[Ruby Tk]], [[Python Tkinter]], etc.)",
+            "id": "56a0d85a1bd5f2859ca22187f7b37237"
+          },
+          {
+            "type": "html",
+            "text": " [[Wx Widgets]]",
+            "id": "7550fbfde9eeb6e097300d8fee7a0e48"
+          },
+          {
+            "type": "html",
+            "text": " [[Java Swing]], [[Java Awt]]",
+            "id": "2fdaa80205352427c031db605f00f54e"
+          },
+          {
+            "type": "html",
+            "text": "\nOS desktop vendors compete to provide the most seamless toolkit. Many users don't remember the days when some applications took over the whole screen, some only used character mode, and some had completely custom [[Graphical User Interface]] widgetry.",
+            "id": "4aa3d3eaa8655adb6986c133160ad1ff"
+          },
+          {
+            "type": "html",
+            "text": "\nBut if the end-programmer spends too much time reinventing buttons, they'll spend too little time on features. And end-users should see a monitor as both a single app with a single look-and-feel, and as many different apps each interacting. So sharing the screen is as much an OS vendor's responsibility as sharing the hard drives.",
+            "id": "d5d9da060ba2336d5c57fdba761a8446"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d1d0a307f97c5e1231c4a85546c4824b"
+          },
+          {
+            "type": "html",
+            "text": "[[Category User Interface]]",
+            "id": "88231f2c75030f5e6bc34365507e5c06"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?GuiToolkit c2.com]",
+            "id": "5420359083374b26679ef50b7065357b"
+          }
+        ]
+      }
+    }
+  ]
+}
