@@ -1,0 +1,107 @@
+{
+  "title": "Bmw Wcm Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "Start scheduled for September the 3rd 2001.",
+      "id": "03e3272d401c95270871388d88213d27"
+    },
+    {
+      "type": "html",
+      "text": "\nTargets:",
+      "id": "c18bc27d4510febb21e6d17533efffc7"
+    },
+    {
+      "type": "html",
+      "text": " Develop an Webclient monitor to be used at BMW",
+      "id": "cdea617c8b37054e8bd8c7b04ca6eb2e"
+    },
+    {
+      "type": "html",
+      "text": " Get first experiences On XP",
+      "id": "df60e858a95a10654647e1bab6a61036"
+    },
+    {
+      "type": "html",
+      "text": "\nDevelopers:",
+      "id": "fdea0925d07ad288c82163373c4deccf"
+    },
+    {
+      "type": "html",
+      "text": " [[Andreas Zottmann]] (Coach)",
+      "id": "d53604355320591beb7288ee960455b6"
+    },
+    {
+      "type": "html",
+      "text": " 2 students",
+      "id": "54012edd5521b60927d989a2949fbf36"
+    },
+    {
+      "type": "html",
+      "text": "<i>Any news on this? Or is it completely dead?</i>",
+      "id": "cff29ac0dc597a56985bfae0083ef899"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?BmwWcmTool c2.com]",
+      "id": "9c027d1c258ad35a1fe23d1223231958"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1087726383000,
+      "id": "169a9e9ae7becc2ca3955d0c95dd2fae",
+      "type": "create",
+      "item": {
+        "title": "Bmw Wcm Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "Start scheduled for September the 3rd 2001.",
+            "id": "03e3272d401c95270871388d88213d27"
+          },
+          {
+            "type": "html",
+            "text": "\nTargets:",
+            "id": "c18bc27d4510febb21e6d17533efffc7"
+          },
+          {
+            "type": "html",
+            "text": " Develop an Webclient monitor to be used at BMW",
+            "id": "cdea617c8b37054e8bd8c7b04ca6eb2e"
+          },
+          {
+            "type": "html",
+            "text": " Get first experiences On XP",
+            "id": "df60e858a95a10654647e1bab6a61036"
+          },
+          {
+            "type": "html",
+            "text": "\nDevelopers:",
+            "id": "fdea0925d07ad288c82163373c4deccf"
+          },
+          {
+            "type": "html",
+            "text": " [[Andreas Zottmann]] (Coach)",
+            "id": "d53604355320591beb7288ee960455b6"
+          },
+          {
+            "type": "html",
+            "text": " 2 students",
+            "id": "54012edd5521b60927d989a2949fbf36"
+          },
+          {
+            "type": "html",
+            "text": "<i>Any news on this? Or is it completely dead?</i>",
+            "id": "cff29ac0dc597a56985bfae0083ef899"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?BmwWcmTool c2.com]",
+            "id": "9c027d1c258ad35a1fe23d1223231958"
+          }
+        ]
+      }
+    }
+  ]
+}
