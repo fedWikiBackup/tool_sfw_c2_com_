@@ -1,0 +1,347 @@
+{
+  "title": "Refactoring Using Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "<b><i>These patterns are intended to be used by the community so it is the community the best suited for decide their content.</b></i>",
+      "id": "ebc2b554e0ab85ebb1bebe2b33b9196c"
+    },
+    {
+      "type": "html",
+      "text": "<b>Refactoring Using Tools</b>",
+      "id": "93723187496e018a8080d7f5da589e01"
+    },
+    {
+      "type": "html",
+      "text": "<b>Problem:</b> How do you avoid bugs that may be introduced through human error during refactoring?",
+      "id": "9ed06153bd594ede724d8b38b03d8d0d"
+    },
+    {
+      "type": "html",
+      "text": "<b>Context:</b>",
+      "id": "059e0ed37163156f73894e274c775ac2"
+    },
+    {
+      "type": "html",
+      "text": "\nYou are developing software and you want to make some refactorings before continuing coding. You followed \"The First Refactoring Step\". You are now ready to refactor your code.",
+      "id": "a0c97d29d263ef4cb3f2fdb5e1a6e882"
+    },
+    {
+      "type": "html",
+      "text": "<b>Forces:</b>",
+      "id": "ed6f9e31f19b7180076cf34a706255fb"
+    },
+    {
+      "type": "html",
+      "text": " Refactoring by hand is time consuming.",
+      "id": "75cb16acc42c2007b6f34371df3a4793"
+    },
+    {
+      "type": "html",
+      "text": " Refactoring by hand is prone to introduce new errors into the system.",
+      "id": "fa9587f90f3c01615e969db155a0a7a2"
+    },
+    {
+      "type": "html",
+      "text": " Tools and technologies are available to allow refactoring to be done quickly and relatively painlessly.",
+      "id": "8d8f6d210c48de237754cc30c94bdb5c"
+    },
+    {
+      "type": "html",
+      "text": "<b>Solution:</b> ",
+      "id": "8fc91099cca503236dab5c0eea1dcbff"
+    },
+    {
+      "type": "html",
+      "text": "\nUse available tools for refactoring. Take advantage of the features that are provided by your development environment.",
+      "id": "9cc5409a152ce4e62d4b73bfe174797f"
+    },
+    {
+      "type": "html",
+      "text": "<b>Resulting Context</b>",
+      "id": "b3d2254988dba628e7c5525c45ba356b"
+    },
+    {
+      "type": "html",
+      "text": "\"Refactorings are primarily intended to be safe\" [1]. As Martin Fowler says \"(...) a safe refactoring is one that doesn't break a program\" [2], so using tools to carry out refactorings, together with \"Refactoring In Very Small Steps\" will increase the safety changing a program. The use of tools reduces the human intervention and this will diminish the introduction of bugs during refactoring.",
+      "id": "99bc393215ebff6e28500956a14fe462"
+    },
+    {
+      "type": "html",
+      "text": "\"Tool-assisted refactoring affects testing\" [3]. Much less testing has to occur because refactorings are performed automatically, but there will always be refactorings that cannot be automated, so you still need to \"Test Every Refactoring\" in those situations.",
+      "id": "aa682c5e61bb91301000ac90fd027039"
+    },
+    {
+      "type": "html",
+      "text": "<b>Rationale</b>",
+      "id": "e94ef4d3bea082e303a3389c2c7b97ec"
+    },
+    {
+      "type": "html",
+      "text": "\nUsing a tool to carry out refactorings may be very beneficial. \"It can make many simple but tedious checks and flag in advance problems that if left unchecked would cause the program to break as a result of refactoring\" [2]. With automatic refactoring tools, \"(...) we can allow the design to be more fluid because changing it is much less costly\" [3].",
+      "id": "7c41d6995afd3dd20c350997a7712ce4"
+    },
+    {
+      "type": "html",
+      "text": "<b>References</b>",
+      "id": "b0a1d573807aa0f1506b7dd5fefef865"
+    },
+    {
+      "type": "html",
+      "text": "[1] Sue Bushell. Code OF Practice. [http://cio.idg.com.au/index.php/id;1688864994;fp;4;fpid;10 cio.idg.com.au]. Last confirmed: 10/05/2004.",
+      "id": "caad8cd5a1ca14072efb49eb4ad15503"
+    },
+    {
+      "type": "html",
+      "text": "[2] Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts. Refactoring: Improving the Design of Existing Code. Addison - Wesley, 1999.",
+      "id": "cb224915dbc501209ba49ab7b7de85e4"
+    },
+    {
+      "type": "html",
+      "text": "[3] Don Roberts, John Brant. Refactoring Tools. In \"Refactoring: Improving the Design of Existing Code.\" Addison-Wesley, pp. 328-332. 1999.",
+      "id": "969fec29031b07eed7228bd73c20ddb7"
+    },
+    {
+      "type": "html",
+      "text": "<i>Author:</i> [[Santiago Valdarrama]]",
+      "id": "03a3fa546e0a0da56cf8c51a0d80a45a"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "745bc6c09b601be8cbce7aab6c859a13"
+    },
+    {
+      "type": "html",
+      "text": "<b>See Also:</b> ",
+      "id": "e000a9a2159533124a727fd62c784f42"
+    },
+    {
+      "type": "html",
+      "text": " [[About Refactoring Patterns]]",
+      "id": "e1d7f070938226d958f9e0afaadbe82d"
+    },
+    {
+      "type": "html",
+      "text": " [[The First Refactoring Step]]",
+      "id": "166a20080190a1747f5f9902be3a6766"
+    },
+    {
+      "type": "html",
+      "text": " [[Refactoring In Very Small Steps]]",
+      "id": "f27debde71eb364a8598b8eea789c8a2"
+    },
+    {
+      "type": "html",
+      "text": " [[Test Every Refactoring]]",
+      "id": "13ccfeaf36cd842e6a7456e9ffc4d7db"
+    },
+    {
+      "type": "html",
+      "text": " [[Backtrack If Refactoring Fails]]",
+      "id": "21f047804ca312dfd55a6390fc251bdb"
+    },
+    {
+      "type": "html",
+      "text": " [[Refactoring In Duets]]",
+      "id": "0beffc04d6ff753968b49a5695cd0d63"
+    },
+    {
+      "type": "html",
+      "text": " [[Refactoring Browser]] ",
+      "id": "0b02a8893239ecde6864ee7af194549c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "745bc6c09b601be8cbce7aab6c859a13"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Refactoring]]",
+      "id": "f06371a25ef0ea77967af700a0b02375"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?RefactoringUsingTools c2.com]",
+      "id": "0bfeaedc557111852aea9133c0a2237c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1336842674000,
+      "id": "f1817d76cb5e27ccec9a137322e1a2fb",
+      "type": "create",
+      "item": {
+        "title": "Refactoring Using Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "<b><i>These patterns are intended to be used by the community so it is the community the best suited for decide their content.</b></i>",
+            "id": "ebc2b554e0ab85ebb1bebe2b33b9196c"
+          },
+          {
+            "type": "html",
+            "text": "<b>Refactoring Using Tools</b>",
+            "id": "93723187496e018a8080d7f5da589e01"
+          },
+          {
+            "type": "html",
+            "text": "<b>Problem:</b> How do you avoid bugs that may be introduced through human error during refactoring?",
+            "id": "9ed06153bd594ede724d8b38b03d8d0d"
+          },
+          {
+            "type": "html",
+            "text": "<b>Context:</b>",
+            "id": "059e0ed37163156f73894e274c775ac2"
+          },
+          {
+            "type": "html",
+            "text": "\nYou are developing software and you want to make some refactorings before continuing coding. You followed \"The First Refactoring Step\". You are now ready to refactor your code.",
+            "id": "a0c97d29d263ef4cb3f2fdb5e1a6e882"
+          },
+          {
+            "type": "html",
+            "text": "<b>Forces:</b>",
+            "id": "ed6f9e31f19b7180076cf34a706255fb"
+          },
+          {
+            "type": "html",
+            "text": " Refactoring by hand is time consuming.",
+            "id": "75cb16acc42c2007b6f34371df3a4793"
+          },
+          {
+            "type": "html",
+            "text": " Refactoring by hand is prone to introduce new errors into the system.",
+            "id": "fa9587f90f3c01615e969db155a0a7a2"
+          },
+          {
+            "type": "html",
+            "text": " Tools and technologies are available to allow refactoring to be done quickly and relatively painlessly.",
+            "id": "8d8f6d210c48de237754cc30c94bdb5c"
+          },
+          {
+            "type": "html",
+            "text": "<b>Solution:</b> ",
+            "id": "8fc91099cca503236dab5c0eea1dcbff"
+          },
+          {
+            "type": "html",
+            "text": "\nUse available tools for refactoring. Take advantage of the features that are provided by your development environment.",
+            "id": "9cc5409a152ce4e62d4b73bfe174797f"
+          },
+          {
+            "type": "html",
+            "text": "<b>Resulting Context</b>",
+            "id": "b3d2254988dba628e7c5525c45ba356b"
+          },
+          {
+            "type": "html",
+            "text": "\"Refactorings are primarily intended to be safe\" [1]. As Martin Fowler says \"(...) a safe refactoring is one that doesn't break a program\" [2], so using tools to carry out refactorings, together with \"Refactoring In Very Small Steps\" will increase the safety changing a program. The use of tools reduces the human intervention and this will diminish the introduction of bugs during refactoring.",
+            "id": "99bc393215ebff6e28500956a14fe462"
+          },
+          {
+            "type": "html",
+            "text": "\"Tool-assisted refactoring affects testing\" [3]. Much less testing has to occur because refactorings are performed automatically, but there will always be refactorings that cannot be automated, so you still need to \"Test Every Refactoring\" in those situations.",
+            "id": "aa682c5e61bb91301000ac90fd027039"
+          },
+          {
+            "type": "html",
+            "text": "<b>Rationale</b>",
+            "id": "e94ef4d3bea082e303a3389c2c7b97ec"
+          },
+          {
+            "type": "html",
+            "text": "\nUsing a tool to carry out refactorings may be very beneficial. \"It can make many simple but tedious checks and flag in advance problems that if left unchecked would cause the program to break as a result of refactoring\" [2]. With automatic refactoring tools, \"(...) we can allow the design to be more fluid because changing it is much less costly\" [3].",
+            "id": "7c41d6995afd3dd20c350997a7712ce4"
+          },
+          {
+            "type": "html",
+            "text": "<b>References</b>",
+            "id": "b0a1d573807aa0f1506b7dd5fefef865"
+          },
+          {
+            "type": "html",
+            "text": "[1] Sue Bushell. Code OF Practice. [http://cio.idg.com.au/index.php/id;1688864994;fp;4;fpid;10 cio.idg.com.au]. Last confirmed: 10/05/2004.",
+            "id": "caad8cd5a1ca14072efb49eb4ad15503"
+          },
+          {
+            "type": "html",
+            "text": "[2] Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts. Refactoring: Improving the Design of Existing Code. Addison - Wesley, 1999.",
+            "id": "cb224915dbc501209ba49ab7b7de85e4"
+          },
+          {
+            "type": "html",
+            "text": "[3] Don Roberts, John Brant. Refactoring Tools. In \"Refactoring: Improving the Design of Existing Code.\" Addison-Wesley, pp. 328-332. 1999.",
+            "id": "969fec29031b07eed7228bd73c20ddb7"
+          },
+          {
+            "type": "html",
+            "text": "<i>Author:</i> [[Santiago Valdarrama]]",
+            "id": "03a3fa546e0a0da56cf8c51a0d80a45a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "745bc6c09b601be8cbce7aab6c859a13"
+          },
+          {
+            "type": "html",
+            "text": "<b>See Also:</b> ",
+            "id": "e000a9a2159533124a727fd62c784f42"
+          },
+          {
+            "type": "html",
+            "text": " [[About Refactoring Patterns]]",
+            "id": "e1d7f070938226d958f9e0afaadbe82d"
+          },
+          {
+            "type": "html",
+            "text": " [[The First Refactoring Step]]",
+            "id": "166a20080190a1747f5f9902be3a6766"
+          },
+          {
+            "type": "html",
+            "text": " [[Refactoring In Very Small Steps]]",
+            "id": "f27debde71eb364a8598b8eea789c8a2"
+          },
+          {
+            "type": "html",
+            "text": " [[Test Every Refactoring]]",
+            "id": "13ccfeaf36cd842e6a7456e9ffc4d7db"
+          },
+          {
+            "type": "html",
+            "text": " [[Backtrack If Refactoring Fails]]",
+            "id": "21f047804ca312dfd55a6390fc251bdb"
+          },
+          {
+            "type": "html",
+            "text": " [[Refactoring In Duets]]",
+            "id": "0beffc04d6ff753968b49a5695cd0d63"
+          },
+          {
+            "type": "html",
+            "text": " [[Refactoring Browser]] ",
+            "id": "0b02a8893239ecde6864ee7af194549c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "745bc6c09b601be8cbce7aab6c859a13"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Refactoring]]",
+            "id": "f06371a25ef0ea77967af700a0b02375"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?RefactoringUsingTools c2.com]",
+            "id": "0bfeaedc557111852aea9133c0a2237c"
+          }
+        ]
+      }
+    }
+  ]
+}
