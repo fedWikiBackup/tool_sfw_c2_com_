@@ -1,0 +1,477 @@
+{
+  "title": "Refactoring With Desaware Nt Service Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "<b>[[Is This Page Ok]]? I do not think so and no response to rest of this section to May2004</b>",
+      "id": "619e4ade481aa3496825c1cb23b7b287"
+    },
+    {
+      "type": "html",
+      "text": "\nThis [[Vb Classic]] tool building page last edited Nov 2001. Would information described be of use to people working on Windows2000 (WindowsNT nolonger supported) in Feb2004. ",
+      "id": "886520a934d17814eb7bc47395bc676f"
+    },
+    {
+      "type": "html",
+      "text": "\nPersonally I think it may have value if I can be alerted to a few scenarios where I would benefit from writing my own [[Windows Service]] routine in [[Visual Basic]]. But then is Desaware still marketing this tool of theirs, given most new developments go to [[Microsoft Dot Net]].",
+      "id": "62b2d32dc2bc0c5d51216aa88dde1d88"
+    },
+    {
+      "type": "html",
+      "text": "\nOn the other hand, it may just be a candidate for [[Deleted Unless Defended]] situation?\n[[Please Comment]]. --dl",
+      "id": "e892ab30956ff1debd8980d0a5fb7e82"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8776a22e4f4875bb682dff272c29620"
+    },
+    {
+      "type": "html",
+      "text": "[From [[Refactoring Witha Framework Experiences]], a topic which starts at [[Refactoring Framework Based Applications]].]",
+      "id": "4346a4a5331501ca2200868e08f52675"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8776a22e4f4875bb682dff272c29620"
+    },
+    {
+      "type": "html",
+      "text": "<b>Framework:</b>\nDesaware \"NT Service Toolkit\"",
+      "id": "7d80e0d294bd7566f36b8d8c67bad975"
+    },
+    {
+      "type": "html",
+      "text": "([http://www.desaware.com/NTToolkitL2.htm www.desaware.com])",
+      "id": "6f2f29a717e2dafd2c0ece6227b06e92"
+    },
+    {
+      "type": "html",
+      "text": "<b>Framework Enables:</b>",
+      "id": "c9370f7cedf84c6534a20d52f003b7e3"
+    },
+    {
+      "type": "html",
+      "text": "\"Create Windows Services in Visual Basic\"",
+      "id": "cae3159128c7403c3764ea3bf0d087f9"
+    },
+    {
+      "type": "html",
+      "text": "<b>Type of Framework/Library:</b>",
+      "id": "f4e646a2c2f8dd9f034a9abe53813559"
+    },
+    {
+      "type": "html",
+      "text": "<b><i>\"Framework,\"</b></i> by [[Jeff Grigg]]'s definition:  It runs the show.  It calls you when it feels the time is right.  Your application must conform to their rules; you implement their interfaces.",
+      "id": "2dbeabceef58f66572da997f12da2cd6"
+    },
+    {
+      "type": "html",
+      "text": "<b><i>\"White Box\"</b></i> by [[Martin Lippert]]'s definition:  The interfaces you must implement and are allowed to call are well documented -- in a style similar to [[Java Doc]].",
+      "id": "ebe38caa451c331c150e2513f19bcb1c"
+    },
+    {
+      "type": "html",
+      "text": "<b>What it does:</b>\nThey provide a tool that customizes a \"Windows Services\" EXE that they wrote in C++ to call your DLL, implemented in Visual Basic.\nThey handle all the threading issues.\nTheir C++ code is the real \"NT Service.\"  But all application functionality is provided by your VB DLL.\nSo, in essence, you're implementing an NT service in a DLL.",
+      "id": "7553bbcf61d10395293b84e55bdc7c4b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8776a22e4f4875bb682dff272c29620"
+    },
+    {
+      "type": "html",
+      "text": "<b>Technical Details:</b>",
+      "id": "d58961cf7abe232091c0389508cf2ff5"
+    },
+    {
+      "type": "html",
+      "text": "<i>In addition to a configuration interface (which is pretty boring; I won't detail it here)...</i>",
+      "id": "bdfb4ae3fa65372ef9d3d1c3f0ece8a1"
+    },
+    {
+      "type": "html",
+      "text": "<b>Your [[Visual Basic]] \"Windows NT Service DLL\" must implement a class called \"Service\", and it must implement the '[[Idw Easy Service]]' Interface:</b>",
+      "id": "ce4fd4e2d4996205a7c84246db3a18db"
+    },
+    {
+      "type": "html",
+      "text": "\nMain \"Windows Service\" entry points:",
+      "id": "1404c2df180b370602e0db20e4855f27"
+    },
+    {
+      "type": "code",
+      "text": "  Function OnStart(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnStop(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnPause(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnContinue(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnShutdown(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, StopPending As Boolean) As Long",
+      "id": "5099bf751e0a3f72aa19658f3d3f796b"
+    },
+    {
+      "type": "html",
+      "text": "\nEnvironment Changes:",
+      "id": "8e79c3721e46a5b719c5ab7e5ca96280"
+    },
+    {
+      "type": "code",
+      "text": "  Function OnHardwareProfileChange(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal ChangeType As Long, ByVal ChangeData As Long) As Boolean\n  Sub OnParamChange(ByVal ControlObject As EASYSERVLib.IdwServiceCtl)\n  Function OnDeviceEvent(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal EventType As Long, ByVal EventData As Long) As Boolean\n  Function OnPowerRequest(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal APMMessage As Long, ByVal Flags As Long) As Boolean\n  Sub OnUserControlCode(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal ControlCode As Integer)",
+      "id": "c99525716473459e9af6e0dad466fbae"
+    },
+    {
+      "type": "html",
+      "text": "\nDesaware-specific support functions:",
+      "id": "c01b9e3cb55832b5e1b95d36ad47c12b"
+    },
+    {
+      "type": "code",
+      "text": "  Sub OnTimer(ByVal ControlObject As EASYSERVLib.IdwServiceCtl)\n  Sub WaitComplete(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal ThreadID As Long, ByVal CompletionType As Long, ByVal ObjectIndex As Long)",
+      "id": "ba2687a3cab3c2555d121c434fa76860"
+    },
+    {
+      "type": "html",
+      "text": "<i>(These are the three categories Desaware's documentation uses to describe the methods of this interface.)</i>",
+      "id": "140a554065037c5a092117bf18724837"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8776a22e4f4875bb682dff272c29620"
+    },
+    {
+      "type": "html",
+      "text": "<i>[Text refactored from [[Refactoring Witha Framework]].]</i>",
+      "id": "ef2a95f5f74bd0466c6660aa65aa63ef"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm currently (2001) working with the Desaware framework for writing Windows services in [[Visual Basic]].\nThe main \"service interface\" they require me to implement includes at least two kinds of functionality that I consider independent:",
+      "id": "72b750c32aec86f10e9cff08fe49d45a"
+    },
+    {
+      "type": "html",
+      "text": "(1) controlling the service, with commands like start, stop, pause and resume;",
+      "id": "03de20b64b22e7d2d875b41ef386c33b"
+    },
+    {
+      "type": "html",
+      "text": "(2) scheduling events, by setting a timer and receiving callbacks.\nSo I'm inspired to (1) delegate the main work of my system to another class, to separate it from the details of Desaware's big interface, and (2) implement a \"scheduler\" class to abstract out the details of how things get scheduled for the future.",
+      "id": "fa720c7ee6154dfab3f82b1cf894e02e"
+    },
+    {
+      "type": "html",
+      "text": "\nWhy a whole \"scheduler\" class?",
+      "id": "a7b2d8bdd02ffcf8111ed21f7875ad83"
+    },
+    {
+      "type": "html",
+      "text": "\nTo schedule things to occur in the future, you can set the timer, which controls how long it will be until the next event fires.\nWhen the event fires, I get a callback, and can set the timer for the next event.\nBut I like to deal with things at a higher level, like \"I want this to run every 10 minutes\", \"I want this to run at 4:00 AM every day\" and \"wait 3 seconds and then run this.\"\nIf I have several of these going at once, it can be tricky to figure out how long it should be 'til I want another timer event.\nSo I build a \"scheduler\" class, and hand it objects along with information about when or how often I want them to be called, and the scheduler encapsulates all the annoying details.",
+      "id": "0a94f356716a1bfff4d45ccaeb0d3e9c"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Jeff Grigg]]",
+      "id": "01e5b341a1b47214b28265906559f957"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8776a22e4f4875bb682dff272c29620"
+    },
+    {
+      "type": "html",
+      "text": "\nJust looking at this interface makes me think we've got two or three classes hiding in here.\nThree classes because Desaware, in their own documentation categorize the methods into three different groups.",
+      "id": "68f08eee896ac6b9e797a576208395e2"
+    },
+    {
+      "type": "html",
+      "text": "\nThe main things I want to deal with are [[On Start]] and [[On Stop]], so I delegate them to an external object that doesn't have such a complicated and arbitrary interface.",
+      "id": "6d1ba91e28c5e89b89e5d275d56a56d3"
+    },
+    {
+      "type": "html",
+      "text": "<i>(\"So far so good.\")</i>",
+      "id": "fd0a215d73c66b61d1435059e6591e12"
+    },
+    {
+      "type": "html",
+      "text": "\nI have a need to pause, from time to time -- to delay work for some period of time, like a timeout.\nSay I receive file 1, which must be followed in a reasonable period of time by file 2.\nWhen I see file 1, I wish to schedule a timer for 30 seconds in the future.\nIf file 2 isn't there by that time, then I'll take error recovery action, due to the timeout.\nMeanwhile, I may have other overlapping timeouts with other files, and possibly regularly scheduled events, like a batch process to run every hour, or every day at 5:00 AM.",
+      "id": "042c7ac85c290da37694a0fea507d8fe"
+    },
+    {
+      "type": "html",
+      "text": "\nTo control the timer, I need only keep track of the \"[[Control Object]]\" it very persistently gives me <i>(as you can see above)</i>, and call \"Set Timer\" on it, with milliseconds until I want to be notified.\nWhen the timer expires <i>(more or less)</i>, it will call the \"[[On Timer]]\" method shown above.",
+      "id": "5316fcc675b4b26edd07f84032fa53bf"
+    },
+    {
+      "type": "html",
+      "text": "\nGreat:  How am I supposed to schedule overlapping 30 second timeouts and 5:00 AM jobs with an interface like that?\nWell, I'll need a collection of scheduled tasks, each with the time (in miliseconds) when it needs to execute.\nTo set the timer, I just need to find the smallest one, subtract the current time, and set the timer to go off in that many milliseconds.\nTo schedule something new for 30 seconds in the future, I need only add 30 seconds to the current time, add it to the collection, and set the timer if it's the smallest.\nNot to mention the fact that things can get \"behind schedule\" to the extent that several tasks may be \"scheduled to run in the past,\" so we'll just have to run them immediately, because that's the best we can do.",
+      "id": "22f94e6e5f183d90851a26172625fa2c"
+    },
+    {
+      "type": "html",
+      "text": "\nAll this stuff, with the collection and special case logic, is a bit much to put in a function, so I'll have to make a class to handle it.\nI think I'll call it a <b>\"Scheduler.\"</b>\nIt'll schedule <b>\"Tasks\"</b>, which will need to have a common interface with a \"Run()\" method.",
+      "id": "a7d0d87883d6e18cc27564f60f919996"
+    },
+    {
+      "type": "html",
+      "text": "\nThere, that refactors the relevant parts of the interface into two subsets, with the addition of an abstraction to cover scheduling.\nI can live with that.",
+      "id": "f86bb1ddae9cfd6e2021d47c8fdaa59e"
+    },
+    {
+      "type": "html",
+      "text": "<i>(Confession:  I haven't done the scheduler yet.  It's on my list of \"things to do next,\" once we get over the fire fighting.  ;-)</i>",
+      "id": "8029fec50bc1b35563a6bc7bfcdcf2f0"
+    },
+    {
+      "type": "html",
+      "text": "<i>(On second thought, I'll just delete all the timer/scheduling logic and use a better protocol!  ;-)</i>",
+      "id": "0c2c45a0c414c4a4b333c0f78cd3eabd"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?RefactoringWithDesawareNtServiceToolkit c2.com]",
+      "id": "69043f1934839dd4e5634380a31349f5"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1084179548000,
+      "id": "c3b6affb1429768b1879f3339ab62f0c",
+      "type": "create",
+      "item": {
+        "title": "Refactoring With Desaware Nt Service Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "<b>[[Is This Page Ok]]? I do not think so and no response to rest of this section to May2004</b>",
+            "id": "619e4ade481aa3496825c1cb23b7b287"
+          },
+          {
+            "type": "html",
+            "text": "\nThis [[Vb Classic]] tool building page last edited Nov 2001. Would information described be of use to people working on Windows2000 (WindowsNT nolonger supported) in Feb2004. ",
+            "id": "886520a934d17814eb7bc47395bc676f"
+          },
+          {
+            "type": "html",
+            "text": "\nPersonally I think it may have value if I can be alerted to a few scenarios where I would benefit from writing my own [[Windows Service]] routine in [[Visual Basic]]. But then is Desaware still marketing this tool of theirs, given most new developments go to [[Microsoft Dot Net]].",
+            "id": "62b2d32dc2bc0c5d51216aa88dde1d88"
+          },
+          {
+            "type": "html",
+            "text": "\nOn the other hand, it may just be a candidate for [[Deleted Unless Defended]] situation?\n[[Please Comment]]. --dl",
+            "id": "e892ab30956ff1debd8980d0a5fb7e82"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8776a22e4f4875bb682dff272c29620"
+          },
+          {
+            "type": "html",
+            "text": "[From [[Refactoring Witha Framework Experiences]], a topic which starts at [[Refactoring Framework Based Applications]].]",
+            "id": "4346a4a5331501ca2200868e08f52675"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8776a22e4f4875bb682dff272c29620"
+          },
+          {
+            "type": "html",
+            "text": "<b>Framework:</b>\nDesaware \"NT Service Toolkit\"",
+            "id": "7d80e0d294bd7566f36b8d8c67bad975"
+          },
+          {
+            "type": "html",
+            "text": "([http://www.desaware.com/NTToolkitL2.htm www.desaware.com])",
+            "id": "6f2f29a717e2dafd2c0ece6227b06e92"
+          },
+          {
+            "type": "html",
+            "text": "<b>Framework Enables:</b>",
+            "id": "c9370f7cedf84c6534a20d52f003b7e3"
+          },
+          {
+            "type": "html",
+            "text": "\"Create Windows Services in Visual Basic\"",
+            "id": "cae3159128c7403c3764ea3bf0d087f9"
+          },
+          {
+            "type": "html",
+            "text": "<b>Type of Framework/Library:</b>",
+            "id": "f4e646a2c2f8dd9f034a9abe53813559"
+          },
+          {
+            "type": "html",
+            "text": "<b><i>\"Framework,\"</b></i> by [[Jeff Grigg]]'s definition:  It runs the show.  It calls you when it feels the time is right.  Your application must conform to their rules; you implement their interfaces.",
+            "id": "2dbeabceef58f66572da997f12da2cd6"
+          },
+          {
+            "type": "html",
+            "text": "<b><i>\"White Box\"</b></i> by [[Martin Lippert]]'s definition:  The interfaces you must implement and are allowed to call are well documented -- in a style similar to [[Java Doc]].",
+            "id": "ebe38caa451c331c150e2513f19bcb1c"
+          },
+          {
+            "type": "html",
+            "text": "<b>What it does:</b>\nThey provide a tool that customizes a \"Windows Services\" EXE that they wrote in C++ to call your DLL, implemented in Visual Basic.\nThey handle all the threading issues.\nTheir C++ code is the real \"NT Service.\"  But all application functionality is provided by your VB DLL.\nSo, in essence, you're implementing an NT service in a DLL.",
+            "id": "7553bbcf61d10395293b84e55bdc7c4b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8776a22e4f4875bb682dff272c29620"
+          },
+          {
+            "type": "html",
+            "text": "<b>Technical Details:</b>",
+            "id": "d58961cf7abe232091c0389508cf2ff5"
+          },
+          {
+            "type": "html",
+            "text": "<i>In addition to a configuration interface (which is pretty boring; I won't detail it here)...</i>",
+            "id": "bdfb4ae3fa65372ef9d3d1c3f0ece8a1"
+          },
+          {
+            "type": "html",
+            "text": "<b>Your [[Visual Basic]] \"Windows NT Service DLL\" must implement a class called \"Service\", and it must implement the '[[Idw Easy Service]]' Interface:</b>",
+            "id": "ce4fd4e2d4996205a7c84246db3a18db"
+          },
+          {
+            "type": "html",
+            "text": "\nMain \"Windows Service\" entry points:",
+            "id": "1404c2df180b370602e0db20e4855f27"
+          },
+          {
+            "type": "code",
+            "text": "  Function OnStart(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnStop(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnPause(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnContinue(ByVal ControlObject As EASYSERVLib.IdwServiceCtl) As Long\n  Function OnShutdown(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, StopPending As Boolean) As Long",
+            "id": "5099bf751e0a3f72aa19658f3d3f796b"
+          },
+          {
+            "type": "html",
+            "text": "\nEnvironment Changes:",
+            "id": "8e79c3721e46a5b719c5ab7e5ca96280"
+          },
+          {
+            "type": "code",
+            "text": "  Function OnHardwareProfileChange(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal ChangeType As Long, ByVal ChangeData As Long) As Boolean\n  Sub OnParamChange(ByVal ControlObject As EASYSERVLib.IdwServiceCtl)\n  Function OnDeviceEvent(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal EventType As Long, ByVal EventData As Long) As Boolean\n  Function OnPowerRequest(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal APMMessage As Long, ByVal Flags As Long) As Boolean\n  Sub OnUserControlCode(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal ControlCode As Integer)",
+            "id": "c99525716473459e9af6e0dad466fbae"
+          },
+          {
+            "type": "html",
+            "text": "\nDesaware-specific support functions:",
+            "id": "c01b9e3cb55832b5e1b95d36ad47c12b"
+          },
+          {
+            "type": "code",
+            "text": "  Sub OnTimer(ByVal ControlObject As EASYSERVLib.IdwServiceCtl)\n  Sub WaitComplete(ByVal ControlObject As EASYSERVLib.IdwServiceCtl, ByVal ThreadID As Long, ByVal CompletionType As Long, ByVal ObjectIndex As Long)",
+            "id": "ba2687a3cab3c2555d121c434fa76860"
+          },
+          {
+            "type": "html",
+            "text": "<i>(These are the three categories Desaware's documentation uses to describe the methods of this interface.)</i>",
+            "id": "140a554065037c5a092117bf18724837"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8776a22e4f4875bb682dff272c29620"
+          },
+          {
+            "type": "html",
+            "text": "<i>[Text refactored from [[Refactoring Witha Framework]].]</i>",
+            "id": "ef2a95f5f74bd0466c6660aa65aa63ef"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm currently (2001) working with the Desaware framework for writing Windows services in [[Visual Basic]].\nThe main \"service interface\" they require me to implement includes at least two kinds of functionality that I consider independent:",
+            "id": "72b750c32aec86f10e9cff08fe49d45a"
+          },
+          {
+            "type": "html",
+            "text": "(1) controlling the service, with commands like start, stop, pause and resume;",
+            "id": "03de20b64b22e7d2d875b41ef386c33b"
+          },
+          {
+            "type": "html",
+            "text": "(2) scheduling events, by setting a timer and receiving callbacks.\nSo I'm inspired to (1) delegate the main work of my system to another class, to separate it from the details of Desaware's big interface, and (2) implement a \"scheduler\" class to abstract out the details of how things get scheduled for the future.",
+            "id": "fa720c7ee6154dfab3f82b1cf894e02e"
+          },
+          {
+            "type": "html",
+            "text": "\nWhy a whole \"scheduler\" class?",
+            "id": "a7b2d8bdd02ffcf8111ed21f7875ad83"
+          },
+          {
+            "type": "html",
+            "text": "\nTo schedule things to occur in the future, you can set the timer, which controls how long it will be until the next event fires.\nWhen the event fires, I get a callback, and can set the timer for the next event.\nBut I like to deal with things at a higher level, like \"I want this to run every 10 minutes\", \"I want this to run at 4:00 AM every day\" and \"wait 3 seconds and then run this.\"\nIf I have several of these going at once, it can be tricky to figure out how long it should be 'til I want another timer event.\nSo I build a \"scheduler\" class, and hand it objects along with information about when or how often I want them to be called, and the scheduler encapsulates all the annoying details.",
+            "id": "0a94f356716a1bfff4d45ccaeb0d3e9c"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Jeff Grigg]]",
+            "id": "01e5b341a1b47214b28265906559f957"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8776a22e4f4875bb682dff272c29620"
+          },
+          {
+            "type": "html",
+            "text": "\nJust looking at this interface makes me think we've got two or three classes hiding in here.\nThree classes because Desaware, in their own documentation categorize the methods into three different groups.",
+            "id": "68f08eee896ac6b9e797a576208395e2"
+          },
+          {
+            "type": "html",
+            "text": "\nThe main things I want to deal with are [[On Start]] and [[On Stop]], so I delegate them to an external object that doesn't have such a complicated and arbitrary interface.",
+            "id": "6d1ba91e28c5e89b89e5d275d56a56d3"
+          },
+          {
+            "type": "html",
+            "text": "<i>(\"So far so good.\")</i>",
+            "id": "fd0a215d73c66b61d1435059e6591e12"
+          },
+          {
+            "type": "html",
+            "text": "\nI have a need to pause, from time to time -- to delay work for some period of time, like a timeout.\nSay I receive file 1, which must be followed in a reasonable period of time by file 2.\nWhen I see file 1, I wish to schedule a timer for 30 seconds in the future.\nIf file 2 isn't there by that time, then I'll take error recovery action, due to the timeout.\nMeanwhile, I may have other overlapping timeouts with other files, and possibly regularly scheduled events, like a batch process to run every hour, or every day at 5:00 AM.",
+            "id": "042c7ac85c290da37694a0fea507d8fe"
+          },
+          {
+            "type": "html",
+            "text": "\nTo control the timer, I need only keep track of the \"[[Control Object]]\" it very persistently gives me <i>(as you can see above)</i>, and call \"Set Timer\" on it, with milliseconds until I want to be notified.\nWhen the timer expires <i>(more or less)</i>, it will call the \"[[On Timer]]\" method shown above.",
+            "id": "5316fcc675b4b26edd07f84032fa53bf"
+          },
+          {
+            "type": "html",
+            "text": "\nGreat:  How am I supposed to schedule overlapping 30 second timeouts and 5:00 AM jobs with an interface like that?\nWell, I'll need a collection of scheduled tasks, each with the time (in miliseconds) when it needs to execute.\nTo set the timer, I just need to find the smallest one, subtract the current time, and set the timer to go off in that many milliseconds.\nTo schedule something new for 30 seconds in the future, I need only add 30 seconds to the current time, add it to the collection, and set the timer if it's the smallest.\nNot to mention the fact that things can get \"behind schedule\" to the extent that several tasks may be \"scheduled to run in the past,\" so we'll just have to run them immediately, because that's the best we can do.",
+            "id": "22f94e6e5f183d90851a26172625fa2c"
+          },
+          {
+            "type": "html",
+            "text": "\nAll this stuff, with the collection and special case logic, is a bit much to put in a function, so I'll have to make a class to handle it.\nI think I'll call it a <b>\"Scheduler.\"</b>\nIt'll schedule <b>\"Tasks\"</b>, which will need to have a common interface with a \"Run()\" method.",
+            "id": "a7d0d87883d6e18cc27564f60f919996"
+          },
+          {
+            "type": "html",
+            "text": "\nThere, that refactors the relevant parts of the interface into two subsets, with the addition of an abstraction to cover scheduling.\nI can live with that.",
+            "id": "f86bb1ddae9cfd6e2021d47c8fdaa59e"
+          },
+          {
+            "type": "html",
+            "text": "<i>(Confession:  I haven't done the scheduler yet.  It's on my list of \"things to do next,\" once we get over the fire fighting.  ;-)</i>",
+            "id": "8029fec50bc1b35563a6bc7bfcdcf2f0"
+          },
+          {
+            "type": "html",
+            "text": "<i>(On second thought, I'll just delete all the timer/scheduling logic and use a better protocol!  ;-)</i>",
+            "id": "0c2c45a0c414c4a4b333c0f78cd3eabd"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?RefactoringWithDesawareNtServiceToolkit c2.com]",
+            "id": "69043f1934839dd4e5634380a31349f5"
+          }
+        ]
+      }
+    }
+  ]
+}
