@@ -1,0 +1,67 @@
+{
+  "title": "Basic Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "What we need is a basic [[Tool Kit]] -- [[Thinking Out Loud]] [[Donald Noyes]].20080407",
+      "id": "51f9c9a4442370d230e75b5dc384c6d6"
+    },
+    {
+      "type": "html",
+      "text": "\nThis is what one needs to perform certain mechanical things on objects the [[Ordinary Computer Users]] will be found possessing. ",
+      "id": "f985d041725a747f8aa5452b15faea05"
+    },
+    {
+      "type": "html",
+      "text": "\nThe User who wants to do much can do so with suites which have been produced, utilized and proved to be successful.",
+      "id": "d335bccc3b0571200945c1f1a4f9167a"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Open Office]] and [[Microsoft Office]] are two such suites. ",
+      "id": "9e7facbcb1ace3732c867ca1c59b1b0c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?BasicToolkit c2.com]",
+      "id": "13f36585dba7015525edaa2f6ef423f7"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1211679423000,
+      "id": "67f373136da37938a5da268365c4ac84",
+      "type": "create",
+      "item": {
+        "title": "Basic Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "What we need is a basic [[Tool Kit]] -- [[Thinking Out Loud]] [[Donald Noyes]].20080407",
+            "id": "51f9c9a4442370d230e75b5dc384c6d6"
+          },
+          {
+            "type": "html",
+            "text": "\nThis is what one needs to perform certain mechanical things on objects the [[Ordinary Computer Users]] will be found possessing. ",
+            "id": "f985d041725a747f8aa5452b15faea05"
+          },
+          {
+            "type": "html",
+            "text": "\nThe User who wants to do much can do so with suites which have been produced, utilized and proved to be successful.",
+            "id": "d335bccc3b0571200945c1f1a4f9167a"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Open Office]] and [[Microsoft Office]] are two such suites. ",
+            "id": "9e7facbcb1ace3732c867ca1c59b1b0c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?BasicToolkit c2.com]",
+            "id": "13f36585dba7015525edaa2f6ef423f7"
+          }
+        ]
+      }
+    }
+  ]
+}
