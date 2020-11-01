@@ -1,0 +1,137 @@
+{
+  "title": "Tool Tunnel Reality",
+  "story": [
+    {
+      "type": "html",
+      "text": "Tool Tunnel Reality is about not being able to make your modelling tool do what you want.  <b>Arg!!</b>  You sketch a design on paper, and then try to put it in a modelling tool - only to find that a feature you want isn't supported.\nIt is one of the key annoyances of using tools, and is why Word and Visio is often so much better.  -- [[Peter Foreman]]",
+      "id": "f4f2a464115c8efefbeda0cbd661bdfe"
+    },
+    {
+      "type": "html",
+      "text": "\nSometimes the tool can do it, but it's hard to figure out how to make the tool do it, or it's inconvenient to make the tool do it.",
+      "id": "581192d33c3b1ae107cbfac113468675"
+    },
+    {
+      "type": "html",
+      "text": "<i>(...from recent [[Er Win]] experiences.)</i>",
+      "id": "999f4c00fab99dc8272efe1f7a9c543f"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Jeff Grigg]]",
+      "id": "2b192645ad81fb6d4e104706477082c8"
+    },
+    {
+      "type": "html",
+      "text": "\nIf it was sketched on paper, what is the advantage of then entering into a \"tool\" or even Visio?  In these cases, I believe simpler is better.  Sketch it, understand it, and throw it away.",
+      "id": "4fef47e79807f9207c819ed301850755"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "51d564aa91c940e9e1f7a3a9177eee20"
+    },
+    {
+      "type": "html",
+      "text": "\nI think this [[Anti Pattern]] is more general. People using any tool have to balance the cost of tolerating its limitations against the cost of switching to a less-well-understood alternative. Managers naturally defer their decisions on toolset to senior developers. Senior developers think more about the marketability of their skills than the good of their project. New tool presentations are easily derailed with [[Embarrassing Questions]]. So [[Tool Tunnel Reality]](s) form in which a bad choice of tools is a business requirement. --[[Peter Merel]]",
+      "id": "d5ef8471439c435978390d5c17681394"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "51d564aa91c940e9e1f7a3a9177eee20"
+    },
+    {
+      "type": "html",
+      "text": "This also generalizes to programming languages.  To me, it seems that it's similar to the idea behind the [[Sapir Whorf Hypothesis]]. --[[Tim Lesher]]",
+      "id": "61b6421568ff31d7012e0678aa7d2f93"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "51d564aa91c940e9e1f7a3a9177eee20"
+    },
+    {
+      "type": "html",
+      "text": "<i>See [[Uml Is For People]].</i>",
+      "id": "741bbe511414cec89f8c94cd93b2878d"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolTunnelReality c2.com]",
+      "id": "c224bbdb13ba0e9cb20a285877fcc41e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1156426355000,
+      "id": "e398177f8257cabf398e7a6a66cf2176",
+      "type": "create",
+      "item": {
+        "title": "Tool Tunnel Reality",
+        "story": [
+          {
+            "type": "html",
+            "text": "Tool Tunnel Reality is about not being able to make your modelling tool do what you want.  <b>Arg!!</b>  You sketch a design on paper, and then try to put it in a modelling tool - only to find that a feature you want isn't supported.\nIt is one of the key annoyances of using tools, and is why Word and Visio is often so much better.  -- [[Peter Foreman]]",
+            "id": "f4f2a464115c8efefbeda0cbd661bdfe"
+          },
+          {
+            "type": "html",
+            "text": "\nSometimes the tool can do it, but it's hard to figure out how to make the tool do it, or it's inconvenient to make the tool do it.",
+            "id": "581192d33c3b1ae107cbfac113468675"
+          },
+          {
+            "type": "html",
+            "text": "<i>(...from recent [[Er Win]] experiences.)</i>",
+            "id": "999f4c00fab99dc8272efe1f7a9c543f"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Jeff Grigg]]",
+            "id": "2b192645ad81fb6d4e104706477082c8"
+          },
+          {
+            "type": "html",
+            "text": "\nIf it was sketched on paper, what is the advantage of then entering into a \"tool\" or even Visio?  In these cases, I believe simpler is better.  Sketch it, understand it, and throw it away.",
+            "id": "4fef47e79807f9207c819ed301850755"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "51d564aa91c940e9e1f7a3a9177eee20"
+          },
+          {
+            "type": "html",
+            "text": "\nI think this [[Anti Pattern]] is more general. People using any tool have to balance the cost of tolerating its limitations against the cost of switching to a less-well-understood alternative. Managers naturally defer their decisions on toolset to senior developers. Senior developers think more about the marketability of their skills than the good of their project. New tool presentations are easily derailed with [[Embarrassing Questions]]. So [[Tool Tunnel Reality]](s) form in which a bad choice of tools is a business requirement. --[[Peter Merel]]",
+            "id": "d5ef8471439c435978390d5c17681394"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "51d564aa91c940e9e1f7a3a9177eee20"
+          },
+          {
+            "type": "html",
+            "text": "This also generalizes to programming languages.  To me, it seems that it's similar to the idea behind the [[Sapir Whorf Hypothesis]]. --[[Tim Lesher]]",
+            "id": "61b6421568ff31d7012e0678aa7d2f93"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "51d564aa91c940e9e1f7a3a9177eee20"
+          },
+          {
+            "type": "html",
+            "text": "<i>See [[Uml Is For People]].</i>",
+            "id": "741bbe511414cec89f8c94cd93b2878d"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolTunnelReality c2.com]",
+            "id": "c224bbdb13ba0e9cb20a285877fcc41e"
+          }
+        ]
+      }
+    }
+  ]
+}
