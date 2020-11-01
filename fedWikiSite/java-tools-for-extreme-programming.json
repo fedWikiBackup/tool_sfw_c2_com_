@@ -1,0 +1,167 @@
+{
+  "title": "Java Tools For Extreme Programming",
+  "story": [
+    {
+      "type": "html",
+      "text": "Subtitle: Mastering Open Source Tools Including Ant, JUnit, and Cactus.",
+      "id": "218833d699e568f6cd0ca01228c44f6f"
+    },
+    {
+      "type": "html",
+      "text": "\nA book by [[Richard Hightower]] and [[Nicholas Lesiecki]] [ISBN 047120708X].",
+      "id": "6525314994b56664928527a22ab5727c"
+    },
+    {
+      "type": "html",
+      "text": "\nThe reviews on Amazon.com are mostly positive (16 Dec 01); reviews from Wikizens below:",
+      "id": "55545029e9b86120168f9f64fc96a498"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f7dfc191956862e8c311b1c1a68f4e67"
+    },
+    {
+      "type": "html",
+      "text": "I haven't read the book, but... These tools aren't just for XPers. The title is a little misleading. Ant, specifically, is general purpose, and has no features that are necessary to XP. JUnit, and Cactus, maybe, but unit testing should be a part of every programmers toolbox, whether they're doing XP, or not.",
+      "id": "c7a77b92e689593e8b731d9a825ee7ab"
+    },
+    {
+      "type": "html",
+      "text": "\nI think that the XP in the title, is there for cache.",
+      "id": "ce850966293fb017f6ce79b81b98aee8"
+    },
+    {
+      "type": "html",
+      "text": "<i>I haven't read it either, but I think the idea is more: So you want to do XP? Here are some tools that you can use. Not: Here are some tools that were made for XP.</i>",
+      "id": "703da1e66ea15fe59753ffe581c8c3f6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f7dfc191956862e8c311b1c1a68f4e67"
+    },
+    {
+      "type": "html",
+      "text": "I was the [[Technical Editor]] for this book.  The book really addresses two main tenets of XP, [[Automated Testing]], and [[Continuous Integration]].  Obviously, the [[Java Unit]] and related chapters related to [[Automated Testing]].  The [[Apache Ant]] coverage is there to support [[Continuous Integration]].  ",
+      "id": "02134db7610a091f9ad4611a802d9fcc"
+    },
+    {
+      "type": "html",
+      "text": "\nI haven't yet been able to read the final product, and I didn't get to review the [[Http Unit]] chapters, though I wanted to.  If you have any thoughts or questions, I'd be happy to respond.",
+      "id": "a8b779cf19d4176711ebf943d0e923a8"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Avery Regier]] ",
+      "id": "19175834f06f4602fa7338ba5f23f499"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f7dfc191956862e8c311b1c1a68f4e67"
+    },
+    {
+      "type": "html",
+      "text": "\nWould be happy to have a look into the table of contents. anyone?",
+      "id": "834d72b1e86da87da27f72def0381a0e"
+    },
+    {
+      "type": "html",
+      "text": "<i>Here it is: </i>\n[http://www1.fatbrain.com/asp/BookInfo/BookInfo.asp?theisbn=047120708X&mtype=St&urlset=t&oldurl=http%3A%2F%2Fwww1%2Efatbrain%2Ecom%2Fsearch%2Fsearchresults%2Easp%3FSearchFunction%3Dkey%26qtext%3Djava%2Btools%2Bfor%2Bextreme%2Bprogramming%26Submit%2Ex%3D0%26Submit%2Ey%3D0 www1.fatbrain.com] ",
+      "id": "b2596ae094ef869c4abfbf527fe62801"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?JavaToolsForExtremeProgramming c2.com]",
+      "id": "39613dd4df8bc2b135c18e2dc78e15ac"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1043329163000,
+      "id": "6084119fec2d82f81ab0501e2ee8eb5a",
+      "type": "create",
+      "item": {
+        "title": "Java Tools For Extreme Programming",
+        "story": [
+          {
+            "type": "html",
+            "text": "Subtitle: Mastering Open Source Tools Including Ant, JUnit, and Cactus.",
+            "id": "218833d699e568f6cd0ca01228c44f6f"
+          },
+          {
+            "type": "html",
+            "text": "\nA book by [[Richard Hightower]] and [[Nicholas Lesiecki]] [ISBN 047120708X].",
+            "id": "6525314994b56664928527a22ab5727c"
+          },
+          {
+            "type": "html",
+            "text": "\nThe reviews on Amazon.com are mostly positive (16 Dec 01); reviews from Wikizens below:",
+            "id": "55545029e9b86120168f9f64fc96a498"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f7dfc191956862e8c311b1c1a68f4e67"
+          },
+          {
+            "type": "html",
+            "text": "I haven't read the book, but... These tools aren't just for XPers. The title is a little misleading. Ant, specifically, is general purpose, and has no features that are necessary to XP. JUnit, and Cactus, maybe, but unit testing should be a part of every programmers toolbox, whether they're doing XP, or not.",
+            "id": "c7a77b92e689593e8b731d9a825ee7ab"
+          },
+          {
+            "type": "html",
+            "text": "\nI think that the XP in the title, is there for cache.",
+            "id": "ce850966293fb017f6ce79b81b98aee8"
+          },
+          {
+            "type": "html",
+            "text": "<i>I haven't read it either, but I think the idea is more: So you want to do XP? Here are some tools that you can use. Not: Here are some tools that were made for XP.</i>",
+            "id": "703da1e66ea15fe59753ffe581c8c3f6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f7dfc191956862e8c311b1c1a68f4e67"
+          },
+          {
+            "type": "html",
+            "text": "I was the [[Technical Editor]] for this book.  The book really addresses two main tenets of XP, [[Automated Testing]], and [[Continuous Integration]].  Obviously, the [[Java Unit]] and related chapters related to [[Automated Testing]].  The [[Apache Ant]] coverage is there to support [[Continuous Integration]].  ",
+            "id": "02134db7610a091f9ad4611a802d9fcc"
+          },
+          {
+            "type": "html",
+            "text": "\nI haven't yet been able to read the final product, and I didn't get to review the [[Http Unit]] chapters, though I wanted to.  If you have any thoughts or questions, I'd be happy to respond.",
+            "id": "a8b779cf19d4176711ebf943d0e923a8"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Avery Regier]] ",
+            "id": "19175834f06f4602fa7338ba5f23f499"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f7dfc191956862e8c311b1c1a68f4e67"
+          },
+          {
+            "type": "html",
+            "text": "\nWould be happy to have a look into the table of contents. anyone?",
+            "id": "834d72b1e86da87da27f72def0381a0e"
+          },
+          {
+            "type": "html",
+            "text": "<i>Here it is: </i>\n[http://www1.fatbrain.com/asp/BookInfo/BookInfo.asp?theisbn=047120708X&mtype=St&urlset=t&oldurl=http%3A%2F%2Fwww1%2Efatbrain%2Ecom%2Fsearch%2Fsearchresults%2Easp%3FSearchFunction%3Dkey%26qtext%3Djava%2Btools%2Bfor%2Bextreme%2Bprogramming%26Submit%2Ex%3D0%26Submit%2Ey%3D0 www1.fatbrain.com] ",
+            "id": "b2596ae094ef869c4abfbf527fe62801"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?JavaToolsForExtremeProgramming c2.com]",
+            "id": "39613dd4df8bc2b135c18e2dc78e15ac"
+          }
+        ]
+      }
+    }
+  ]
+}
