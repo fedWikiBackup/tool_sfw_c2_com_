@@ -1,0 +1,37 @@
+{
+  "title": "Google Web Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "The Google Web Toolkit is an open source toolkit allowing developers to create Ajax applications in the Java programming language. GWT supports rapid client/server development and debugging in any Java IDE. In a subsequent deployment step, the GWT compiler translates a working Java application into equivalent [[Java Script]] that programmatically manipulates a web browser's HTML DOM using DHTML techniques. GWT emphasizes reusable, efficient solutions to recurring Ajax challenges, namely asynchronous remote procedure calls, history management, bookmarking, and cross-browser portability.",
+      "id": "e7142a26a32504a9138f464ae73d5b9a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?GoogleWebToolkit c2.com]",
+      "id": "4cc6752748d69bd55717d6716595bbe2"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1184418421000,
+      "id": "645ec0720fd7a1ba2366ab325b3d2e80",
+      "type": "create",
+      "item": {
+        "title": "Google Web Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "The Google Web Toolkit is an open source toolkit allowing developers to create Ajax applications in the Java programming language. GWT supports rapid client/server development and debugging in any Java IDE. In a subsequent deployment step, the GWT compiler translates a working Java application into equivalent [[Java Script]] that programmatically manipulates a web browser's HTML DOM using DHTML techniques. GWT emphasizes reusable, efficient solutions to recurring Ajax challenges, namely asynchronous remote procedure calls, history management, bookmarking, and cross-browser portability.",
+            "id": "e7142a26a32504a9138f464ae73d5b9a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?GoogleWebToolkit c2.com]",
+            "id": "4cc6752748d69bd55717d6716595bbe2"
+          }
+        ]
+      }
+    }
+  ]
+}
