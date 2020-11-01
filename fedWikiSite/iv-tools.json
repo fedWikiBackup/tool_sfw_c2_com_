@@ -1,0 +1,187 @@
+{
+  "title": "Iv Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "[http://www.ivtools.org www.ivtools.org]",
+      "id": "cbac298c392968e316973d9a82cf6477"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Iv Tools]] is a Software Elephant that can be many things to many people depending on what part of the body they grab:",
+      "id": "e3932eadee0b2e1225a8ab5ff3c3dfaa"
+    },
+    {
+      "type": "html",
+      "text": " It's an evolving collection of vector-graphic tools for educational, scientific, and pre-production use.",
+      "id": "aac0f736e3d0214e710e288c5069466b"
+    },
+    {
+      "type": "html",
+      "text": " It's a GUI toolkit based on the original lightweight glyphs of [[Inter Views]].",
+      "id": "f2b7558c3c82b7c7aca570087bef5149"
+    },
+    {
+      "type": "html",
+      "text": " It's a [[Layered Application Framework]] for custom [[Direct Manipulation]] applications based on the [[Unidraw Framework]], as well as a [[Component Framework]] as defined by [[Philip Eskelin]], et.al..  (see [http://www.ivtools.org/ivtools/ivtools-layers.html www.ivtools.org]).",
+      "id": "bbba9956a8dea3154fdc0e3201ebe352"
+    },
+    {
+      "type": "html",
+      "text": " It has a [[Scripting Language]] with a simple-as-you-can-get parenthesis-based syntax and innovative constructs for dataflow expressions and drawing editor control.",
+      "id": "eae55151dcc92ae360d2e1e9c96fb727"
+    },
+    {
+      "type": "html",
+      "text": " Augment with [[Doug Schmidt]]'s ACE toolkit, and it's a [[Distributed Component Environment]] for developing hybrid viewer/server applications.",
+      "id": "a9130093dce0cddac0465fa14f7ce37c"
+    },
+    {
+      "type": "html",
+      "text": " Augment with [[Mark Linton]]'s Fresco (see [[Fresco Framework]]) toolkit (future possibility), and it's a cross-platform GUI toolkit with unique vector-graphic capability.",
+      "id": "6937b803dc273536c86ae1832074ae21"
+    },
+    {
+      "type": "html",
+      "text": " It might be a good starting point for the infinite canvas of [[Reinventing Comics]].  Or a graphics-oriented white-board conferencing system.  Or a ... (add your idea here).",
+      "id": "b3059f3038b4332463ee4a609b9f49ea"
+    },
+    {
+      "type": "html",
+      "text": " It's a [[Hyper Structured Graphics]] environment ala Tgif.",
+      "id": "e2c71f5728bc273705d8126b1083096c"
+    },
+    {
+      "type": "html",
+      "text": " It's a museum piece of [[Free Software]] [[Design Patterns]], a trove of prior-art stretching back to 1986 for convenient patent immunity.",
+      "id": "087cccddbc83f5db162ddd5596b63b4a"
+    },
+    {
+      "type": "html",
+      "text": " It supports the [[Ipl Package]].",
+      "id": "81c1f56a3fe8f5415d863b1a35a979e0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "19f17ed6577389dec1ec6bd94e4198e5"
+    },
+    {
+      "type": "html",
+      "text": "See Also: [[Compound Object Programming]], [[Source Components]], [[Design Patterns]], [[Layered Application Framework]]",
+      "id": "c45ef65ca3e458c83e2bb1a2cb826461"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "19f17ed6577389dec1ec6bd94e4198e5"
+    },
+    {
+      "type": "html",
+      "text": "[[[Category Framework]]]",
+      "id": "e63ceb5f3119585c2dc2cb82d58e5be7"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?IvTools c2.com]",
+      "id": "8348e729c740449c9d1ca672099abc3d"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1343213366000,
+      "id": "f135687be95a78bea09bfcb47cb0cf59",
+      "type": "create",
+      "item": {
+        "title": "Iv Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "[http://www.ivtools.org www.ivtools.org]",
+            "id": "cbac298c392968e316973d9a82cf6477"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Iv Tools]] is a Software Elephant that can be many things to many people depending on what part of the body they grab:",
+            "id": "e3932eadee0b2e1225a8ab5ff3c3dfaa"
+          },
+          {
+            "type": "html",
+            "text": " It's an evolving collection of vector-graphic tools for educational, scientific, and pre-production use.",
+            "id": "aac0f736e3d0214e710e288c5069466b"
+          },
+          {
+            "type": "html",
+            "text": " It's a GUI toolkit based on the original lightweight glyphs of [[Inter Views]].",
+            "id": "f2b7558c3c82b7c7aca570087bef5149"
+          },
+          {
+            "type": "html",
+            "text": " It's a [[Layered Application Framework]] for custom [[Direct Manipulation]] applications based on the [[Unidraw Framework]], as well as a [[Component Framework]] as defined by [[Philip Eskelin]], et.al..  (see [http://www.ivtools.org/ivtools/ivtools-layers.html www.ivtools.org]).",
+            "id": "bbba9956a8dea3154fdc0e3201ebe352"
+          },
+          {
+            "type": "html",
+            "text": " It has a [[Scripting Language]] with a simple-as-you-can-get parenthesis-based syntax and innovative constructs for dataflow expressions and drawing editor control.",
+            "id": "eae55151dcc92ae360d2e1e9c96fb727"
+          },
+          {
+            "type": "html",
+            "text": " Augment with [[Doug Schmidt]]'s ACE toolkit, and it's a [[Distributed Component Environment]] for developing hybrid viewer/server applications.",
+            "id": "a9130093dce0cddac0465fa14f7ce37c"
+          },
+          {
+            "type": "html",
+            "text": " Augment with [[Mark Linton]]'s Fresco (see [[Fresco Framework]]) toolkit (future possibility), and it's a cross-platform GUI toolkit with unique vector-graphic capability.",
+            "id": "6937b803dc273536c86ae1832074ae21"
+          },
+          {
+            "type": "html",
+            "text": " It might be a good starting point for the infinite canvas of [[Reinventing Comics]].  Or a graphics-oriented white-board conferencing system.  Or a ... (add your idea here).",
+            "id": "b3059f3038b4332463ee4a609b9f49ea"
+          },
+          {
+            "type": "html",
+            "text": " It's a [[Hyper Structured Graphics]] environment ala Tgif.",
+            "id": "e2c71f5728bc273705d8126b1083096c"
+          },
+          {
+            "type": "html",
+            "text": " It's a museum piece of [[Free Software]] [[Design Patterns]], a trove of prior-art stretching back to 1986 for convenient patent immunity.",
+            "id": "087cccddbc83f5db162ddd5596b63b4a"
+          },
+          {
+            "type": "html",
+            "text": " It supports the [[Ipl Package]].",
+            "id": "81c1f56a3fe8f5415d863b1a35a979e0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "19f17ed6577389dec1ec6bd94e4198e5"
+          },
+          {
+            "type": "html",
+            "text": "See Also: [[Compound Object Programming]], [[Source Components]], [[Design Patterns]], [[Layered Application Framework]]",
+            "id": "c45ef65ca3e458c83e2bb1a2cb826461"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "19f17ed6577389dec1ec6bd94e4198e5"
+          },
+          {
+            "type": "html",
+            "text": "[[[Category Framework]]]",
+            "id": "e63ceb5f3119585c2dc2cb82d58e5be7"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?IvTools c2.com]",
+            "id": "8348e729c740449c9d1ca672099abc3d"
+          }
+        ]
+      }
+    }
+  ]
+}
