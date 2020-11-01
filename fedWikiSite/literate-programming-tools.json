@@ -1,0 +1,177 @@
+{
+  "title": "Literate Programming Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "(see also [[Literate Programming]] where there is a list of some tools)",
+      "id": "f31de87d5849b492cf7cd8dd9d24aa3f"
+    },
+    {
+      "type": "html",
+      "text": "\nI want to start here (?) a study of Literate Programming, and especially its implications for collaborative, Web hosted, free software projects. I want to develop a Web-based tool for open/free software development, for other projects, and I maintain that some principles of lit-prog would be essential for this tool.",
+      "id": "4c557a6208d2b6462d1935be7e2e092a"
+    },
+    {
+      "type": "html",
+      "text": "\nSome preliminary ideas to study and develop:",
+      "id": "24f0d14b9e57eb0dc59623224ef0599b"
+    },
+    {
+      "type": "html",
+      "text": " Focus on documentation:<br>essential for supporting the entire software development life-cycle, as opposed to just the coding phase. I want to take this idea to the extreme. To make a pun of it: whereas Extreme Programming says \"the code is the documentation\", I claim it is the other way around: software is nothing but documentation! Thus, what better development tool is there... than a Wiki?!",
+      "id": "be036038f6b845aedfe75681c9252dca"
+    },
+    {
+      "type": "html",
+      "text": " Software architecture, lit-prog, and hypertext:<br>I suggest that Wiki-like hypertexts can organize code better, and even help manipulate the software's architecture. Lit-prog's \"inverting the sock\" (code inside, documentation outside) might be just what was missing, to free us of the poor way programming languages deal with modularization.",
+      "id": "949546830a1bb9c5b45f56c966aab9f1"
+    },
+    {
+      "type": "html",
+      "text": " Against [[Source Forge]]:<br>this is where my proposal begins -- in suggesting that the SF model of software development is too poor. SF only provides a CVS repository, and mailing-lists (the rest is done better by Google). But CVS does little more than FTP, and mlists only get you noise (where Wiki produces signal!).",
+      "id": "8e7ad0d1032e16c7327111f096760216"
+    },
+    {
+      "type": "html",
+      "text": "\nResources for studying:",
+      "id": "ecec9d0aa2ab4c5059432604e2ebb432"
+    },
+    {
+      "type": "html",
+      "text": " (I've various research papers about lit-prog, but I'll re-read and list only the intelligent ones here, with some commentary, soon...)",
+      "id": "8584ee8397ad4547b607e1f3b73734dd"
+    },
+    {
+      "type": "html",
+      "text": "\nHelp needed:",
+      "id": "572434e3374d5ec7d8f43848419d42da"
+    },
+    {
+      "type": "html",
+      "text": " Hosting for this (and other) projects:<br>more Wikis, for discussions, and application platforms (hosting PHP, Python, Java?) for the real thing. Any help in finding, or setting up, Web sites, would be great!",
+      "id": "087ad24c739290f4400faba0d579d46c"
+    },
+    {
+      "type": "html",
+      "text": " Resources to study...",
+      "id": "75821cd92f1c980a0d384c00ef7fffae"
+    },
+    {
+      "type": "html",
+      "text": " Expert commentary on this study, as it develops...",
+      "id": "616fe6939c4ad63ea2f56865fa52148f"
+    },
+    {
+      "type": "html",
+      "text": "-- Molly (molly_k22@yahoo.com)",
+      "id": "39381be699e0b997874910ed6f3edb9a"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "da35188fa5d06a6b79f8c8846650cea9"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Literate Programming]]",
+      "id": "0af27adac7947897bc22cbfd6f60aace"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?LiterateProgrammingTools c2.com]",
+      "id": "3637f7f03a0eecc14022c527c1e85267"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1283363107000,
+      "id": "0478a2bd8a675cd286ce3aab4b79dcd1",
+      "type": "create",
+      "item": {
+        "title": "Literate Programming Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "(see also [[Literate Programming]] where there is a list of some tools)",
+            "id": "f31de87d5849b492cf7cd8dd9d24aa3f"
+          },
+          {
+            "type": "html",
+            "text": "\nI want to start here (?) a study of Literate Programming, and especially its implications for collaborative, Web hosted, free software projects. I want to develop a Web-based tool for open/free software development, for other projects, and I maintain that some principles of lit-prog would be essential for this tool.",
+            "id": "4c557a6208d2b6462d1935be7e2e092a"
+          },
+          {
+            "type": "html",
+            "text": "\nSome preliminary ideas to study and develop:",
+            "id": "24f0d14b9e57eb0dc59623224ef0599b"
+          },
+          {
+            "type": "html",
+            "text": " Focus on documentation:<br>essential for supporting the entire software development life-cycle, as opposed to just the coding phase. I want to take this idea to the extreme. To make a pun of it: whereas Extreme Programming says \"the code is the documentation\", I claim it is the other way around: software is nothing but documentation! Thus, what better development tool is there... than a Wiki?!",
+            "id": "be036038f6b845aedfe75681c9252dca"
+          },
+          {
+            "type": "html",
+            "text": " Software architecture, lit-prog, and hypertext:<br>I suggest that Wiki-like hypertexts can organize code better, and even help manipulate the software's architecture. Lit-prog's \"inverting the sock\" (code inside, documentation outside) might be just what was missing, to free us of the poor way programming languages deal with modularization.",
+            "id": "949546830a1bb9c5b45f56c966aab9f1"
+          },
+          {
+            "type": "html",
+            "text": " Against [[Source Forge]]:<br>this is where my proposal begins -- in suggesting that the SF model of software development is too poor. SF only provides a CVS repository, and mailing-lists (the rest is done better by Google). But CVS does little more than FTP, and mlists only get you noise (where Wiki produces signal!).",
+            "id": "8e7ad0d1032e16c7327111f096760216"
+          },
+          {
+            "type": "html",
+            "text": "\nResources for studying:",
+            "id": "ecec9d0aa2ab4c5059432604e2ebb432"
+          },
+          {
+            "type": "html",
+            "text": " (I've various research papers about lit-prog, but I'll re-read and list only the intelligent ones here, with some commentary, soon...)",
+            "id": "8584ee8397ad4547b607e1f3b73734dd"
+          },
+          {
+            "type": "html",
+            "text": "\nHelp needed:",
+            "id": "572434e3374d5ec7d8f43848419d42da"
+          },
+          {
+            "type": "html",
+            "text": " Hosting for this (and other) projects:<br>more Wikis, for discussions, and application platforms (hosting PHP, Python, Java?) for the real thing. Any help in finding, or setting up, Web sites, would be great!",
+            "id": "087ad24c739290f4400faba0d579d46c"
+          },
+          {
+            "type": "html",
+            "text": " Resources to study...",
+            "id": "75821cd92f1c980a0d384c00ef7fffae"
+          },
+          {
+            "type": "html",
+            "text": " Expert commentary on this study, as it develops...",
+            "id": "616fe6939c4ad63ea2f56865fa52148f"
+          },
+          {
+            "type": "html",
+            "text": "-- Molly (molly_k22@yahoo.com)",
+            "id": "39381be699e0b997874910ed6f3edb9a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "da35188fa5d06a6b79f8c8846650cea9"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Literate Programming]]",
+            "id": "0af27adac7947897bc22cbfd6f60aace"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?LiterateProgrammingTools c2.com]",
+            "id": "3637f7f03a0eecc14022c527c1e85267"
+          }
+        ]
+      }
+    }
+  ]
+}
