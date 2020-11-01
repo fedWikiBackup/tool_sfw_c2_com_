@@ -1,0 +1,37 @@
+{
+  "title": "Simple Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "A [[Simple Tool]] is one that solves a single problem domain very completely and consistently, can integrate painlessly with other [[Simple Tool]](s), and has a very simple user interface. Wiki itself is on its way to becoming a nice [[Simple Tool]].",
+      "id": "60096bdc09b037278bdea64e9b4374d4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SimpleTool c2.com]",
+      "id": "0fdfd89c1976d3ce66247f38946f10ae"
+    }
+  ],
+  "journal": [
+    {
+      "date": 895780857000,
+      "id": "ef96708c2d437fb28381fec804182913",
+      "type": "create",
+      "item": {
+        "title": "Simple Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "A [[Simple Tool]] is one that solves a single problem domain very completely and consistently, can integrate painlessly with other [[Simple Tool]](s), and has a very simple user interface. Wiki itself is on its way to becoming a nice [[Simple Tool]].",
+            "id": "60096bdc09b037278bdea64e9b4374d4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SimpleTool c2.com]",
+            "id": "0fdfd89c1976d3ce66247f38946f10ae"
+          }
+        ]
+      }
+    }
+  ]
+}
