@@ -1,0 +1,57 @@
+{
+  "title": "Tooled Composite",
+  "story": [
+    {
+      "type": "html",
+      "text": "A [[Compound Pattern]] of [[Composite Pattern]], [[State Pattern]], [[Prototype Pattern]], [[Visitor Pattern]], and [[Command Pattern]]. [[Tooled Composite]] supports [[Direct Manipulation]] in graphical editors. I sketch it in my September '99 [[Pattern Hatching]] column in [[Cpp Report]]. [http://www.research.ibm.com/designpatterns/pubs/ph-sep99.pdf www.research.ibm.com] is an approximation of that article. Its follow-on, [[Visitor In Frameworks]], discusses how to circumvent Visitor's familiar problems in frameworks.",
+      "id": "86f57b35d80cfe748c90e9a6bfd6ca75"
+    },
+    {
+      "type": "html",
+      "text": "\nRelated Example: [[Unidraw Framework]]",
+      "id": "96150b766b505c9b9ab8f938e763e7e9"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Pattern]]",
+      "id": "77e5bade994b2f3f8ed571215cc9e39a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TooledComposite c2.com]",
+      "id": "93b5edf9c521e72cb42b0d38a8f5c960"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1040430012000,
+      "id": "0f53b6a8533664cd45f799582c32cef7",
+      "type": "create",
+      "item": {
+        "title": "Tooled Composite",
+        "story": [
+          {
+            "type": "html",
+            "text": "A [[Compound Pattern]] of [[Composite Pattern]], [[State Pattern]], [[Prototype Pattern]], [[Visitor Pattern]], and [[Command Pattern]]. [[Tooled Composite]] supports [[Direct Manipulation]] in graphical editors. I sketch it in my September '99 [[Pattern Hatching]] column in [[Cpp Report]]. [http://www.research.ibm.com/designpatterns/pubs/ph-sep99.pdf www.research.ibm.com] is an approximation of that article. Its follow-on, [[Visitor In Frameworks]], discusses how to circumvent Visitor's familiar problems in frameworks.",
+            "id": "86f57b35d80cfe748c90e9a6bfd6ca75"
+          },
+          {
+            "type": "html",
+            "text": "\nRelated Example: [[Unidraw Framework]]",
+            "id": "96150b766b505c9b9ab8f938e763e7e9"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Pattern]]",
+            "id": "77e5bade994b2f3f8ed571215cc9e39a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TooledComposite c2.com]",
+            "id": "93b5edf9c521e72cb42b0d38a8f5c960"
+          }
+        ]
+      }
+    }
+  ]
+}

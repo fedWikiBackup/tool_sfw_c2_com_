@@ -1,0 +1,67 @@
+{
+  "title": "Using Tools To Avoid Copy And Paste Programming",
+  "story": [
+    {
+      "type": "html",
+      "text": "See [[Copy And Paste Programming]].",
+      "id": "f69137eee93b77efb19ed44ea322aa7c"
+    },
+    {
+      "type": "html",
+      "text": "\nUse [[Pee Em Dee]] as a tool to detect [[Code Duplication]].",
+      "id": "e3c99d0eec75b19993369927a414d30c"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Refactor Mercilessly]] until [[Pee Em Dee]] detects no code duplication.",
+      "id": "e228badd6d8f717330ae50a9a2d38778"
+    },
+    {
+      "type": "html",
+      "text": "\nSee [[Cpd Tool]] or go directly to [http://pmd.sourceforge.net/cpd.html pmd.sourceforge.net] ",
+      "id": "ecc64135fe5caeccd4ec59c2e9585b0e"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?UsingToolsToAvoidCopyAndPasteProgramming c2.com]",
+      "id": "963fb842885d9d19f51195e6a6a4c4e1"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1280232734000,
+      "id": "3c453257b6e68afe57ed7ec3c62eb14c",
+      "type": "create",
+      "item": {
+        "title": "Using Tools To Avoid Copy And Paste Programming",
+        "story": [
+          {
+            "type": "html",
+            "text": "See [[Copy And Paste Programming]].",
+            "id": "f69137eee93b77efb19ed44ea322aa7c"
+          },
+          {
+            "type": "html",
+            "text": "\nUse [[Pee Em Dee]] as a tool to detect [[Code Duplication]].",
+            "id": "e3c99d0eec75b19993369927a414d30c"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Refactor Mercilessly]] until [[Pee Em Dee]] detects no code duplication.",
+            "id": "e228badd6d8f717330ae50a9a2d38778"
+          },
+          {
+            "type": "html",
+            "text": "\nSee [[Cpd Tool]] or go directly to [http://pmd.sourceforge.net/cpd.html pmd.sourceforge.net] ",
+            "id": "ecc64135fe5caeccd4ec59c2e9585b0e"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?UsingToolsToAvoidCopyAndPasteProgramming c2.com]",
+            "id": "963fb842885d9d19f51195e6a6a4c4e1"
+          }
+        ]
+      }
+    }
+  ]
+}

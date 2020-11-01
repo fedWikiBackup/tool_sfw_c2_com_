@@ -1,0 +1,77 @@
+{
+  "title": "Configuration Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "The VAJ [[Configuration Tool]] developed by [[Customer Care]].",
+      "id": "78e177a2d7ae4629bea8da1d1ea4bfba"
+    },
+    {
+      "type": "html",
+      "text": "\nAvailable at \n[http://www.jboxx.com/developerscorner/configMap2.0_e.html www.jboxx.com]",
+      "id": "975e1cd140a560bc151f0c0278c5a783"
+    },
+    {
+      "type": "html",
+      "text": "[[[Broken Link]] to flash [[Broken Website]]]\nor [http://www.jboxx.com/ www.jboxx.com] choose \"Free Downloads\".",
+      "id": "7b33e741a31c1822f843369041b25d03"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "5310b984b1a9e700900268ce846aa6f0"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm not sure whether the \"Solutions\" provided sinces VAJ 3.5 are a full replacement for this.",
+      "id": "74cee3ffccc868074f0ea8aa7abd8558"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ConfigurationTool c2.com]",
+      "id": "d44c68a2171ec626315b1bcdc1baebbc"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1052496806000,
+      "id": "a87c69dac55c0217910575bb0536568e",
+      "type": "create",
+      "item": {
+        "title": "Configuration Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "The VAJ [[Configuration Tool]] developed by [[Customer Care]].",
+            "id": "78e177a2d7ae4629bea8da1d1ea4bfba"
+          },
+          {
+            "type": "html",
+            "text": "\nAvailable at \n[http://www.jboxx.com/developerscorner/configMap2.0_e.html www.jboxx.com]",
+            "id": "975e1cd140a560bc151f0c0278c5a783"
+          },
+          {
+            "type": "html",
+            "text": "[[[Broken Link]] to flash [[Broken Website]]]\nor [http://www.jboxx.com/ www.jboxx.com] choose \"Free Downloads\".",
+            "id": "7b33e741a31c1822f843369041b25d03"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "5310b984b1a9e700900268ce846aa6f0"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm not sure whether the \"Solutions\" provided sinces VAJ 3.5 are a full replacement for this.",
+            "id": "74cee3ffccc868074f0ea8aa7abd8558"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ConfigurationTool c2.com]",
+            "id": "d44c68a2171ec626315b1bcdc1baebbc"
+          }
+        ]
+      }
+    }
+  ]
+}

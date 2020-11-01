@@ -1,0 +1,97 @@
+{
+  "title": "Light Duty Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "It seems there is often a need for \"light duty\" tools or packages that make it easy to test, package, practice, and/or install something that has [[Big Iron]] counterparts.",
+      "id": "b406701d899a5e63f1ff10aa2327a1da"
+    },
+    {
+      "type": "html",
+      "text": " Databases",
+      "id": "aed08bfc28661ca5574fb4f1d0cccc77"
+    },
+    {
+      "type": "html",
+      "text": " See [[Nimble Database]]",
+      "id": "7a083e43fa432e7ae4cec39e277abbe9"
+    },
+    {
+      "type": "html",
+      "text": " Web Servers",
+      "id": "1fd74e522bd3e9c822c6cfe7c34c7e79"
+    },
+    {
+      "type": "html",
+      "text": " [[Personal Web Server]]",
+      "id": "5a69c3bdc1a106b0e67897ca9d664409"
+    },
+    {
+      "type": "html",
+      "text": " Languages",
+      "id": "aa7f75a07818e97521eac4f176d1e78f"
+    },
+    {
+      "type": "html",
+      "text": " Lisp Lite ? ",
+      "id": "871801e9aebcdc0a1b839f10d3e8ae2b"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?LightDutyTools c2.com]",
+      "id": "450191ff562c402c8ce2780541b0a588"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1078623329000,
+      "id": "774ec76fbad5e80d8b98ee8b0eac33ef",
+      "type": "create",
+      "item": {
+        "title": "Light Duty Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "It seems there is often a need for \"light duty\" tools or packages that make it easy to test, package, practice, and/or install something that has [[Big Iron]] counterparts.",
+            "id": "b406701d899a5e63f1ff10aa2327a1da"
+          },
+          {
+            "type": "html",
+            "text": " Databases",
+            "id": "aed08bfc28661ca5574fb4f1d0cccc77"
+          },
+          {
+            "type": "html",
+            "text": " See [[Nimble Database]]",
+            "id": "7a083e43fa432e7ae4cec39e277abbe9"
+          },
+          {
+            "type": "html",
+            "text": " Web Servers",
+            "id": "1fd74e522bd3e9c822c6cfe7c34c7e79"
+          },
+          {
+            "type": "html",
+            "text": " [[Personal Web Server]]",
+            "id": "5a69c3bdc1a106b0e67897ca9d664409"
+          },
+          {
+            "type": "html",
+            "text": " Languages",
+            "id": "aa7f75a07818e97521eac4f176d1e78f"
+          },
+          {
+            "type": "html",
+            "text": " Lisp Lite ? ",
+            "id": "871801e9aebcdc0a1b839f10d3e8ae2b"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?LightDutyTools c2.com]",
+            "id": "450191ff562c402c8ce2780541b0a588"
+          }
+        ]
+      }
+    }
+  ]
+}

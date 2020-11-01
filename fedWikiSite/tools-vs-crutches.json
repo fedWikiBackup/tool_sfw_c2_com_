@@ -1,0 +1,77 @@
+{
+  "title": "Tools Vs Crutches",
+  "story": [
+    {
+      "type": "html",
+      "text": "Inspired by something in [[Ruby Instead Of Smalltalk]].",
+      "id": "0e718ece376ed1ed832cfdf4bf2b59de"
+    },
+    {
+      "type": "html",
+      "text": "\nIn the general case, a tool is an instrument that enables its user to do something new or different, something they don't already expect to be able to do without the tool. So a tool is an instrument that <b>creates new expectations</b> in the user's mind.",
+      "id": "f1ce5f98e1d95b146eff54640c837fe3"
+    },
+    {
+      "type": "html",
+      "text": "\nIn contradistinction, a crutch is an instrument that remedies certain deficiencies of the user. The user already has certain expectations and the crutch enables the user to meet them. So a crutch is an instrument that <b>meets users' expectations</b>.",
+      "id": "7abf0d32354917edddd7fb3ae19aff5f"
+    },
+    {
+      "type": "html",
+      "text": "\nThis is the context in which any suggestion of \"making software meet the user's expectations\" should be interpreted. And it is clearly the correct context since, if the software you're building meets the expectations that users have from other systems, then what possible reason would the users of these other systems have to use your software in the first place?",
+      "id": "f94d0e5cc6d754c618682cd6873086fc"
+    },
+    {
+      "type": "html",
+      "text": "\nSoftware shouldn't meet some other system's, or other software's, expectations. It should create NEW expectations. And it should create strong expectations by being simple and consistent.",
+      "id": "043f053df6837f5f2289bce3eb320a11"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolsVsCrutches c2.com]",
+      "id": "701ab4c5f602ee26b230b86b4a5fbb93"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1141090001000,
+      "id": "d37224f45f8eef7777d71be53bd7c86b",
+      "type": "create",
+      "item": {
+        "title": "Tools Vs Crutches",
+        "story": [
+          {
+            "type": "html",
+            "text": "Inspired by something in [[Ruby Instead Of Smalltalk]].",
+            "id": "0e718ece376ed1ed832cfdf4bf2b59de"
+          },
+          {
+            "type": "html",
+            "text": "\nIn the general case, a tool is an instrument that enables its user to do something new or different, something they don't already expect to be able to do without the tool. So a tool is an instrument that <b>creates new expectations</b> in the user's mind.",
+            "id": "f1ce5f98e1d95b146eff54640c837fe3"
+          },
+          {
+            "type": "html",
+            "text": "\nIn contradistinction, a crutch is an instrument that remedies certain deficiencies of the user. The user already has certain expectations and the crutch enables the user to meet them. So a crutch is an instrument that <b>meets users' expectations</b>.",
+            "id": "7abf0d32354917edddd7fb3ae19aff5f"
+          },
+          {
+            "type": "html",
+            "text": "\nThis is the context in which any suggestion of \"making software meet the user's expectations\" should be interpreted. And it is clearly the correct context since, if the software you're building meets the expectations that users have from other systems, then what possible reason would the users of these other systems have to use your software in the first place?",
+            "id": "f94d0e5cc6d754c618682cd6873086fc"
+          },
+          {
+            "type": "html",
+            "text": "\nSoftware shouldn't meet some other system's, or other software's, expectations. It should create NEW expectations. And it should create strong expectations by being simple and consistent.",
+            "id": "043f053df6837f5f2289bce3eb320a11"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolsVsCrutches c2.com]",
+            "id": "701ab4c5f602ee26b230b86b4a5fbb93"
+          }
+        ]
+      }
+    }
+  ]
+}

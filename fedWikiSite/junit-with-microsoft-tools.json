@@ -1,0 +1,417 @@
+{
+  "title": "Junit With Microsoft Tools",
+  "story": [
+    {
+      "type": "code",
+      "text": "  CategoryTesting:",
+      "id": "4fd7181d0c8fdda944910af46d7e377c"
+    },
+    {
+      "type": "html",
+      "text": "On using [[Java Unit]] with Microsoft tools.",
+      "id": "ce65e0c9092c75f31268786a9545763b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "02bf5f4ed88b99f3e995af35bfd5e10a"
+    },
+    {
+      "type": "html",
+      "text": "There are some problems using JUnit with Microsoft's SDK 2.01 (implements JDK 1.1.4).",
+      "id": "d075d04c4c84b49e56643a3de17c365e"
+    },
+    {
+      "type": "html",
+      "text": "\nWhen running JUnit2 using Microsoft's jview tool, the following error message is output to the command shell:",
+      "id": "4ae6807c76d40f1d4d8ac6353e2e5c96"
+    },
+    {
+      "type": "html",
+      "text": "[[Border Layout]]:<br>cannot add to layout: unknown constraint: null",
+      "id": "8a767160a364cce9292f1c1c5f13d94f"
+    },
+    {
+      "type": "html",
+      "text": "The [[Test Runner]] frame appears crippled: much smaller than it should be and missing some key elements.  I'll try to include a picture of it - must find out how to do that with Wiki.",
+      "id": "73129e58f4eb896a21240c4290424d2f"
+    },
+    {
+      "type": "html",
+      "text": "[Answer:  Publish it on another web site, and then put the \"http\" web address for it here.  Wiki, instead of displaying a link to your picture will display the picture itself.]",
+      "id": "c872f7747a4c0edf15deea67d072374f"
+    },
+    {
+      "type": "html",
+      "text": "\nTo fix the problem, change line 217 of junit.ui.[[Test Runner]] from:",
+      "id": "407a8fe8be547051fc87d09adadd4136"
+    },
+    {
+      "type": "code",
+      "text": "  add(panel);",
+      "id": "fe5d6bbb905b85af48898ab952ab8cb3"
+    },
+    {
+      "type": "html",
+      "text": "to:",
+      "id": "4f8a2544e339658a8b4e73453df020ba"
+    },
+    {
+      "type": "code",
+      "text": "  add(panel, BorderLayout.CENTER);",
+      "id": "3369c419acee12f5ea60d67131505c25"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "02bf5f4ed88b99f3e995af35bfd5e10a"
+    },
+    {
+      "type": "html",
+      "text": "When compiling the JUnit2 framework with the jvc tool, errors are detected in junit.tests.Test<b></b>Test.  For example, the following error message applies to line 41:",
+      "id": "10b7268d828ff26495bcbd3403a05510"
+    },
+    {
+      "type": "html",
+      "text": "error J0269:<br>Ambiguous name: inherited 'void [[Test Case]].assertNull(Object)'",
+      "id": "6d2429d233c80502ec292b419c907186"
+    },
+    {
+      "type": "code",
+      "text": "  and outer scope 'void TestCase.assertNull(Object)'--an explicit 'this'\n  qualifier is required",
+      "id": "f50690abaa8457b185d4dc458922cb19"
+    },
+    {
+      "type": "html",
+      "text": "\nTo fix the problem, you must change the line from:",
+      "id": "1451f1210b4fc5a66c3ba2b3c1c5feed"
+    },
+    {
+      "type": "code",
+      "text": "  assertNull(null);",
+      "id": "1bc73077b40f8cff0c29fd984c9cb016"
+    },
+    {
+      "type": "html",
+      "text": "to:",
+      "id": "4f8a2544e339658a8b4e73453df020ba"
+    },
+    {
+      "type": "code",
+      "text": "  this.assertNull(null);",
+      "id": "00c51a45b4e82d6e837914fea7abe7b8"
+    },
+    {
+      "type": "html",
+      "text": "\nSimilar errors are detected on the following lines (line numbers on left):",
+      "id": "67fbb372d858913de0dd120cd2dd2ff3"
+    },
+    {
+      "type": "html",
+      "text": " assertEquals(null, new Object());",
+      "id": "9685a21cac841ae09a6149ca8658da55"
+    },
+    {
+      "type": "html",
+      "text": " assertSame(new Integer(1), new Integer(1));",
+      "id": "84cbb109bcc79e2354f8d953a9541ab3"
+    },
+    {
+      "type": "html",
+      "text": " fail();",
+      "id": "50edc4c352731aca52a1020f8948f962"
+    },
+    {
+      "type": "html",
+      "text": " assertNotNull(null);",
+      "id": "578f746a4c9e6fdd818fb1cb5b52a42e"
+    },
+    {
+      "type": "html",
+      "text": " assert(false);",
+      "id": "0228f69a5ed335eb9f12b3bc8c122bb8"
+    },
+    {
+      "type": "html",
+      "text": " assert(true);",
+      "id": "5be6fc9782bf728fd718c36843ad54d6"
+    },
+    {
+      "type": "html",
+      "text": " fail();",
+      "id": "50edc4c352731aca52a1020f8948f962"
+    },
+    {
+      "type": "html",
+      "text": " assert(true);",
+      "id": "5be6fc9782bf728fd718c36843ad54d6"
+    },
+    {
+      "type": "html",
+      "text": "\nOnce again, fixing the problem is as simple as putting <i>this.</i> in front of the method call.",
+      "id": "cf15d1c591854d9c2aaa1424493211a9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "02bf5f4ed88b99f3e995af35bfd5e10a"
+    },
+    {
+      "type": "html",
+      "text": "The above alterations will give you a clean compile, but that doesn't mean that your problems are ended.  Consider this scenario:",
+      "id": "ca6fab6074cafecbc40cf5d5b208f10c"
+    },
+    {
+      "type": "html",
+      "text": " Compile the JUnit2 framework with jvc.",
+      "id": "204f25ca2d5b04f26722b35a92fe44f7"
+    },
+    {
+      "type": "html",
+      "text": " Start the test runner with jview.  ie. <i>jview junit.ui.[[Test Runner]]</i>",
+      "id": "86ce07f94818fa124f716ef1ac178729"
+    },
+    {
+      "type": "html",
+      "text": " Type the name of a test class e.g. <i>junit.samples.money.[[Money Test]]</i>",
+      "id": "6606e0675e3d41c24db185fbe1420fa8"
+    },
+    {
+      "type": "html",
+      "text": " Press the Run button",
+      "id": "65028359fa4bde654037f20968ab40c8"
+    },
+    {
+      "type": "html",
+      "text": "\nThe following exception is thrown:\nException occurred during event dispatching:\njava.lang.[[No Such Method Error]]: junit/ui/[[Test Runner]]: method showInfo(Ljava/lang/Str\ning;)V not found",
+      "id": "758a11bad0e328043e150b3478927602"
+    },
+    {
+      "type": "code",
+      "text": "  at junit/ui/TestRunner.runSuite\n  at junit/ui/TestRunner$7.actionPerformed\n  at java/awt/Button.processActionEvent\n  at java/awt/Button.processEvent\n  at java/awt/Component.dispatchEventImpl\n  at java/awt/Component.dispatchEvent\n  at com/ms/awt/WUIPeer.handleEvent\n  at com/ms/awt/WButtonPeer.handleEvent\n  at java/awt/Component.postEvent\n  at com/ms/ui/AwtUIHost.postEvent\n  at com/ms/awt/WUIPeer.postEvent\n  at com/ms/ui/UIRoot.postEvent\n  at com/ms/ui/UIComponent.postEvent\n  at com/ms/ui/UIStateContainer.postEvent\n  at com/ms/ui/UIButton.�\n  at com/ms/ui/UIButton.mouseClicked\n  at com/ms/ui/UIComponent.handleEvent\n  at com/ms/ui/UIComponent.postEvent\n  at com/ms/ui/UIStateContainer.postEvent\n  at com/ms/ui/UIComponent.postEvent\n  at com/ms/ui/UIStateComponent.postEvent\n  at com/ms/ui/UIRoot.�\n  at com/ms/ui/UIRoot.forwardEvent\n  at com/ms/ui/AwtUIHost.postEvent\n  at com/ms/awt/WUIPeer.postEvent\n  at com/ms/ui/AwtUIHost.processEvent\n  at java/awt/Component.dispatchEventImpl\n  at java/awt/Container.dispatchEventImpl\n  at java/awt/Component.dispatchEvent\n  at java/awt/EventDispatchThread.run",
+      "id": "0571d3cebac1fc8dfdb3166263dd42fb"
+    },
+    {
+      "type": "html",
+      "text": "\nThe only solution is to compile the JUnit2 framework with Sun's Java 2 compiler, javac. You still need to have made the above-mentioned change to junit.ui.[[Test Runner]].  The actual test classes, like all those in junit.samples, can be compiled with Microsoft's compiler.  You will then be able to run junit.ui.[[Test Runner]] using jview.",
+      "id": "fd995da0ab2417ff164f3a00b364c2f8"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?JunitWithMicrosoftTools c2.com]",
+      "id": "62dfcd44bc8dd226804293a6607be722"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1025056621000,
+      "id": "84ad85b513b9592ecb1288c243e41698",
+      "type": "create",
+      "item": {
+        "title": "Junit With Microsoft Tools",
+        "story": [
+          {
+            "type": "code",
+            "text": "  CategoryTesting:",
+            "id": "4fd7181d0c8fdda944910af46d7e377c"
+          },
+          {
+            "type": "html",
+            "text": "On using [[Java Unit]] with Microsoft tools.",
+            "id": "ce65e0c9092c75f31268786a9545763b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "02bf5f4ed88b99f3e995af35bfd5e10a"
+          },
+          {
+            "type": "html",
+            "text": "There are some problems using JUnit with Microsoft's SDK 2.01 (implements JDK 1.1.4).",
+            "id": "d075d04c4c84b49e56643a3de17c365e"
+          },
+          {
+            "type": "html",
+            "text": "\nWhen running JUnit2 using Microsoft's jview tool, the following error message is output to the command shell:",
+            "id": "4ae6807c76d40f1d4d8ac6353e2e5c96"
+          },
+          {
+            "type": "html",
+            "text": "[[Border Layout]]:<br>cannot add to layout: unknown constraint: null",
+            "id": "8a767160a364cce9292f1c1c5f13d94f"
+          },
+          {
+            "type": "html",
+            "text": "The [[Test Runner]] frame appears crippled: much smaller than it should be and missing some key elements.  I'll try to include a picture of it - must find out how to do that with Wiki.",
+            "id": "73129e58f4eb896a21240c4290424d2f"
+          },
+          {
+            "type": "html",
+            "text": "[Answer:  Publish it on another web site, and then put the \"http\" web address for it here.  Wiki, instead of displaying a link to your picture will display the picture itself.]",
+            "id": "c872f7747a4c0edf15deea67d072374f"
+          },
+          {
+            "type": "html",
+            "text": "\nTo fix the problem, change line 217 of junit.ui.[[Test Runner]] from:",
+            "id": "407a8fe8be547051fc87d09adadd4136"
+          },
+          {
+            "type": "code",
+            "text": "  add(panel);",
+            "id": "fe5d6bbb905b85af48898ab952ab8cb3"
+          },
+          {
+            "type": "html",
+            "text": "to:",
+            "id": "4f8a2544e339658a8b4e73453df020ba"
+          },
+          {
+            "type": "code",
+            "text": "  add(panel, BorderLayout.CENTER);",
+            "id": "3369c419acee12f5ea60d67131505c25"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "02bf5f4ed88b99f3e995af35bfd5e10a"
+          },
+          {
+            "type": "html",
+            "text": "When compiling the JUnit2 framework with the jvc tool, errors are detected in junit.tests.Test<b></b>Test.  For example, the following error message applies to line 41:",
+            "id": "10b7268d828ff26495bcbd3403a05510"
+          },
+          {
+            "type": "html",
+            "text": "error J0269:<br>Ambiguous name: inherited 'void [[Test Case]].assertNull(Object)'",
+            "id": "6d2429d233c80502ec292b419c907186"
+          },
+          {
+            "type": "code",
+            "text": "  and outer scope 'void TestCase.assertNull(Object)'--an explicit 'this'\n  qualifier is required",
+            "id": "f50690abaa8457b185d4dc458922cb19"
+          },
+          {
+            "type": "html",
+            "text": "\nTo fix the problem, you must change the line from:",
+            "id": "1451f1210b4fc5a66c3ba2b3c1c5feed"
+          },
+          {
+            "type": "code",
+            "text": "  assertNull(null);",
+            "id": "1bc73077b40f8cff0c29fd984c9cb016"
+          },
+          {
+            "type": "html",
+            "text": "to:",
+            "id": "4f8a2544e339658a8b4e73453df020ba"
+          },
+          {
+            "type": "code",
+            "text": "  this.assertNull(null);",
+            "id": "00c51a45b4e82d6e837914fea7abe7b8"
+          },
+          {
+            "type": "html",
+            "text": "\nSimilar errors are detected on the following lines (line numbers on left):",
+            "id": "67fbb372d858913de0dd120cd2dd2ff3"
+          },
+          {
+            "type": "html",
+            "text": " assertEquals(null, new Object());",
+            "id": "9685a21cac841ae09a6149ca8658da55"
+          },
+          {
+            "type": "html",
+            "text": " assertSame(new Integer(1), new Integer(1));",
+            "id": "84cbb109bcc79e2354f8d953a9541ab3"
+          },
+          {
+            "type": "html",
+            "text": " fail();",
+            "id": "50edc4c352731aca52a1020f8948f962"
+          },
+          {
+            "type": "html",
+            "text": " assertNotNull(null);",
+            "id": "578f746a4c9e6fdd818fb1cb5b52a42e"
+          },
+          {
+            "type": "html",
+            "text": " assert(false);",
+            "id": "0228f69a5ed335eb9f12b3bc8c122bb8"
+          },
+          {
+            "type": "html",
+            "text": " assert(true);",
+            "id": "5be6fc9782bf728fd718c36843ad54d6"
+          },
+          {
+            "type": "html",
+            "text": " fail();",
+            "id": "50edc4c352731aca52a1020f8948f962"
+          },
+          {
+            "type": "html",
+            "text": " assert(true);",
+            "id": "5be6fc9782bf728fd718c36843ad54d6"
+          },
+          {
+            "type": "html",
+            "text": "\nOnce again, fixing the problem is as simple as putting <i>this.</i> in front of the method call.",
+            "id": "cf15d1c591854d9c2aaa1424493211a9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "02bf5f4ed88b99f3e995af35bfd5e10a"
+          },
+          {
+            "type": "html",
+            "text": "The above alterations will give you a clean compile, but that doesn't mean that your problems are ended.  Consider this scenario:",
+            "id": "ca6fab6074cafecbc40cf5d5b208f10c"
+          },
+          {
+            "type": "html",
+            "text": " Compile the JUnit2 framework with jvc.",
+            "id": "204f25ca2d5b04f26722b35a92fe44f7"
+          },
+          {
+            "type": "html",
+            "text": " Start the test runner with jview.  ie. <i>jview junit.ui.[[Test Runner]]</i>",
+            "id": "86ce07f94818fa124f716ef1ac178729"
+          },
+          {
+            "type": "html",
+            "text": " Type the name of a test class e.g. <i>junit.samples.money.[[Money Test]]</i>",
+            "id": "6606e0675e3d41c24db185fbe1420fa8"
+          },
+          {
+            "type": "html",
+            "text": " Press the Run button",
+            "id": "65028359fa4bde654037f20968ab40c8"
+          },
+          {
+            "type": "html",
+            "text": "\nThe following exception is thrown:\nException occurred during event dispatching:\njava.lang.[[No Such Method Error]]: junit/ui/[[Test Runner]]: method showInfo(Ljava/lang/Str\ning;)V not found",
+            "id": "758a11bad0e328043e150b3478927602"
+          },
+          {
+            "type": "code",
+            "text": "  at junit/ui/TestRunner.runSuite\n  at junit/ui/TestRunner$7.actionPerformed\n  at java/awt/Button.processActionEvent\n  at java/awt/Button.processEvent\n  at java/awt/Component.dispatchEventImpl\n  at java/awt/Component.dispatchEvent\n  at com/ms/awt/WUIPeer.handleEvent\n  at com/ms/awt/WButtonPeer.handleEvent\n  at java/awt/Component.postEvent\n  at com/ms/ui/AwtUIHost.postEvent\n  at com/ms/awt/WUIPeer.postEvent\n  at com/ms/ui/UIRoot.postEvent\n  at com/ms/ui/UIComponent.postEvent\n  at com/ms/ui/UIStateContainer.postEvent\n  at com/ms/ui/UIButton.�\n  at com/ms/ui/UIButton.mouseClicked\n  at com/ms/ui/UIComponent.handleEvent\n  at com/ms/ui/UIComponent.postEvent\n  at com/ms/ui/UIStateContainer.postEvent\n  at com/ms/ui/UIComponent.postEvent\n  at com/ms/ui/UIStateComponent.postEvent\n  at com/ms/ui/UIRoot.�\n  at com/ms/ui/UIRoot.forwardEvent\n  at com/ms/ui/AwtUIHost.postEvent\n  at com/ms/awt/WUIPeer.postEvent\n  at com/ms/ui/AwtUIHost.processEvent\n  at java/awt/Component.dispatchEventImpl\n  at java/awt/Container.dispatchEventImpl\n  at java/awt/Component.dispatchEvent\n  at java/awt/EventDispatchThread.run",
+            "id": "0571d3cebac1fc8dfdb3166263dd42fb"
+          },
+          {
+            "type": "html",
+            "text": "\nThe only solution is to compile the JUnit2 framework with Sun's Java 2 compiler, javac. You still need to have made the above-mentioned change to junit.ui.[[Test Runner]].  The actual test classes, like all those in junit.samples, can be compiled with Microsoft's compiler.  You will then be able to run junit.ui.[[Test Runner]] using jview.",
+            "id": "fd995da0ab2417ff164f3a00b364c2f8"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?JunitWithMicrosoftTools c2.com]",
+            "id": "62dfcd44bc8dd226804293a6607be722"
+          }
+        ]
+      }
+    }
+  ]
+}

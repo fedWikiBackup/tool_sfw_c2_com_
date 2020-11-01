@@ -1,0 +1,37 @@
+{
+  "title": "The Right Tool For The Job",
+  "story": [
+    {
+      "type": "html",
+      "text": "See [[Pick The Right Tool For The Job]]",
+      "id": "ac3de67594795c520bb0b9b608cac2a1"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TheRightToolForTheJob c2.com]",
+      "id": "69417d86860beddb796da2deb687ee8a"
+    }
+  ],
+  "journal": [
+    {
+      "date": 952567273000,
+      "id": "78b2b463cd2706ad95ac52eba2e8418a",
+      "type": "create",
+      "item": {
+        "title": "The Right Tool For The Job",
+        "story": [
+          {
+            "type": "html",
+            "text": "See [[Pick The Right Tool For The Job]]",
+            "id": "ac3de67594795c520bb0b9b608cac2a1"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TheRightToolForTheJob c2.com]",
+            "id": "69417d86860beddb796da2deb687ee8a"
+          }
+        ]
+      }
+    }
+  ]
+}

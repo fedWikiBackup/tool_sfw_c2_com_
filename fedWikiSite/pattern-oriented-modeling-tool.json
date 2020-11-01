@@ -1,0 +1,237 @@
+{
+  "title": "Pattern Oriented Modeling Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "UML tools model systems in terms of a huge set of OO primitives, BON tool(s) in terms of objects and contracts, but what would a tool for modeling in terms of home-made pattern languages look like?",
+      "id": "253cf257de2bf8bd68b32d5904abf91c"
+    },
+    {
+      "type": "html",
+      "text": "\nSome of the features might be:",
+      "id": "678a73aff6c7cc39fc7f1e843829181b"
+    },
+    {
+      "type": "html",
+      "text": " Basic features of a graph-editing tool. Let you arrange things how you like, move things around, etc.",
+      "id": "9e58551d3bb67aa9f1e367dc2b70f098"
+    },
+    {
+      "type": "html",
+      "text": " Focused on informal communication and making sense of things. Not a thousand pages of fine details for interacting with code generation tools etc.",
+      "id": "f5783a06d663603410ab27d2816fb3b8"
+    },
+    {
+      "type": "html",
+      "text": " Integration with a pattern repository (eg Wiki).",
+      "id": "6f59003843e429e0367566cb26332b9b"
+    },
+    {
+      "type": "html",
+      "text": " Ability to assign different shapes to important patterns.",
+      "id": "908946ac477ebd30418f0075fb6d17d2"
+    },
+    {
+      "type": "html",
+      "text": " Fairly free-form, as few rules as possible.",
+      "id": "7cfa32ca81bb3ee3865dded432b59934"
+    },
+    {
+      "type": "html",
+      "text": " ???",
+      "id": "49ee10f698e3acd7e163efc646752aa3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "00b213b945e57849fb4a32502c8aaff7"
+    },
+    {
+      "type": "html",
+      "text": "As an object-oriented programmer, I've been guilty of finding UML occasionally useful for documenting and making sense of object relationships. I like to be able to look at an aspect of a design and think \"yes, that's obviously sensible\", and sometimes looking at a diagram makes that much easier for me.",
+      "id": "cdf53d7834ea4d050d44c662cad80fec"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm not an object-oriented programmer anymore, but I do still like piccies. Classes, objects, aggregations, processes, modules, ...., [[Theyre All Patterns Anyway]], so why not just have a simple tool for organising them. Instead of expressing my diagrams in terms of the UML metamodel, I'll express them as a system of patterns from the pattern language that seems most appropriate for my problem.",
+      "id": "12e23fc0659a81a81f1c20505f0b138a"
+    },
+    {
+      "type": "html",
+      "text": "\nFor example, in modeling an Erlang system I might want the following \"Pattern[: participants]\" language:",
+      "id": "4403badbe7421736c5f752281117cc5a"
+    },
+    {
+      "type": "html",
+      "text": " Supervision:<br>supervisor, workers",
+      "id": "aef62477355ca02d28a45e4bef4f867a"
+    },
+    {
+      "type": "html",
+      "text": " Server",
+      "id": "ac3861bb1853248be471a708359bf770"
+    },
+    {
+      "type": "html",
+      "text": " Event channel:<br>manager, handlers",
+      "id": "2787f77f7b81ccf0fa6f261bc030ba51"
+    },
+    {
+      "type": "html",
+      "text": "Which is enough to let me look at a design I'm dealing with now and make sense of it more easily. It's a fairly small and informal sort of system, but those patterns have well defined semantics and can tell me a lot about what's going on - so small simple diagrams convey all the meaning I need. Additions like \"one-for-all\" or \"one-for-one\" properties in supervisors could optionally be added to make the diagram more precise if that seemed appropriate.",
+      "id": "c3a88357c71cc07acea548250f6d099b"
+    },
+    {
+      "type": "html",
+      "text": "\nThese things are okay to draw on paper, but today I feel like I'd like to have a tool to help. I wonder if a tool could be built that is to describing (discovering?) pattern-based systems what Wiki is to discussing patterns.",
+      "id": "ab152b6d37301cb7a3ea09a1bbed6a63"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Luke Gorrie]]",
+      "id": "e3d2518493078dfc7a1a5e84f1019e0b"
+    },
+    {
+      "type": "html",
+      "text": "\nDoesn't the TogetherJ tool provide some sort of support for the Gof patterns?\nHas anybody here used it?",
+      "id": "572b56abbe3818e9cb60156e852cb9c7"
+    },
+    {
+      "type": "html",
+      "text": "\nI did have a play with the Whiteboard edition of TogetherJ a little while ago, and I do believe it had a repository for commonly used designs and you could create new projects based upon these designs.",
+      "id": "36073e9f5605308fbad554c96251463f"
+    },
+    {
+      "type": "html",
+      "text": "--[[Stuart Barker]]\nStrike that, just had a scan of the TogetherJ website (www.togetherj.com) and couldn't find anything about it. --SB",
+      "id": "b4d8645e7cef166dd71ab2d749568120"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PatternOrientedModelingTool c2.com]",
+      "id": "c8acf0b683d916ce6ad28e9edd545759"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1334106074000,
+      "id": "954041b96f9e7cb1447d8696fb83170f",
+      "type": "create",
+      "item": {
+        "title": "Pattern Oriented Modeling Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "UML tools model systems in terms of a huge set of OO primitives, BON tool(s) in terms of objects and contracts, but what would a tool for modeling in terms of home-made pattern languages look like?",
+            "id": "253cf257de2bf8bd68b32d5904abf91c"
+          },
+          {
+            "type": "html",
+            "text": "\nSome of the features might be:",
+            "id": "678a73aff6c7cc39fc7f1e843829181b"
+          },
+          {
+            "type": "html",
+            "text": " Basic features of a graph-editing tool. Let you arrange things how you like, move things around, etc.",
+            "id": "9e58551d3bb67aa9f1e367dc2b70f098"
+          },
+          {
+            "type": "html",
+            "text": " Focused on informal communication and making sense of things. Not a thousand pages of fine details for interacting with code generation tools etc.",
+            "id": "f5783a06d663603410ab27d2816fb3b8"
+          },
+          {
+            "type": "html",
+            "text": " Integration with a pattern repository (eg Wiki).",
+            "id": "6f59003843e429e0367566cb26332b9b"
+          },
+          {
+            "type": "html",
+            "text": " Ability to assign different shapes to important patterns.",
+            "id": "908946ac477ebd30418f0075fb6d17d2"
+          },
+          {
+            "type": "html",
+            "text": " Fairly free-form, as few rules as possible.",
+            "id": "7cfa32ca81bb3ee3865dded432b59934"
+          },
+          {
+            "type": "html",
+            "text": " ???",
+            "id": "49ee10f698e3acd7e163efc646752aa3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "00b213b945e57849fb4a32502c8aaff7"
+          },
+          {
+            "type": "html",
+            "text": "As an object-oriented programmer, I've been guilty of finding UML occasionally useful for documenting and making sense of object relationships. I like to be able to look at an aspect of a design and think \"yes, that's obviously sensible\", and sometimes looking at a diagram makes that much easier for me.",
+            "id": "cdf53d7834ea4d050d44c662cad80fec"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm not an object-oriented programmer anymore, but I do still like piccies. Classes, objects, aggregations, processes, modules, ...., [[Theyre All Patterns Anyway]], so why not just have a simple tool for organising them. Instead of expressing my diagrams in terms of the UML metamodel, I'll express them as a system of patterns from the pattern language that seems most appropriate for my problem.",
+            "id": "12e23fc0659a81a81f1c20505f0b138a"
+          },
+          {
+            "type": "html",
+            "text": "\nFor example, in modeling an Erlang system I might want the following \"Pattern[: participants]\" language:",
+            "id": "4403badbe7421736c5f752281117cc5a"
+          },
+          {
+            "type": "html",
+            "text": " Supervision:<br>supervisor, workers",
+            "id": "aef62477355ca02d28a45e4bef4f867a"
+          },
+          {
+            "type": "html",
+            "text": " Server",
+            "id": "ac3861bb1853248be471a708359bf770"
+          },
+          {
+            "type": "html",
+            "text": " Event channel:<br>manager, handlers",
+            "id": "2787f77f7b81ccf0fa6f261bc030ba51"
+          },
+          {
+            "type": "html",
+            "text": "Which is enough to let me look at a design I'm dealing with now and make sense of it more easily. It's a fairly small and informal sort of system, but those patterns have well defined semantics and can tell me a lot about what's going on - so small simple diagrams convey all the meaning I need. Additions like \"one-for-all\" or \"one-for-one\" properties in supervisors could optionally be added to make the diagram more precise if that seemed appropriate.",
+            "id": "c3a88357c71cc07acea548250f6d099b"
+          },
+          {
+            "type": "html",
+            "text": "\nThese things are okay to draw on paper, but today I feel like I'd like to have a tool to help. I wonder if a tool could be built that is to describing (discovering?) pattern-based systems what Wiki is to discussing patterns.",
+            "id": "ab152b6d37301cb7a3ea09a1bbed6a63"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Luke Gorrie]]",
+            "id": "e3d2518493078dfc7a1a5e84f1019e0b"
+          },
+          {
+            "type": "html",
+            "text": "\nDoesn't the TogetherJ tool provide some sort of support for the Gof patterns?\nHas anybody here used it?",
+            "id": "572b56abbe3818e9cb60156e852cb9c7"
+          },
+          {
+            "type": "html",
+            "text": "\nI did have a play with the Whiteboard edition of TogetherJ a little while ago, and I do believe it had a repository for commonly used designs and you could create new projects based upon these designs.",
+            "id": "36073e9f5605308fbad554c96251463f"
+          },
+          {
+            "type": "html",
+            "text": "--[[Stuart Barker]]\nStrike that, just had a scan of the TogetherJ website (www.togetherj.com) and couldn't find anything about it. --SB",
+            "id": "b4d8645e7cef166dd71ab2d749568120"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PatternOrientedModelingTool c2.com]",
+            "id": "c8acf0b683d916ce6ad28e9edd545759"
+          }
+        ]
+      }
+    }
+  ]
+}

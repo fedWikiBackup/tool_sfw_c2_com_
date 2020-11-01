@@ -1,0 +1,477 @@
+{
+  "title": "Tools For Extreme Programming In Distributed Environments",
+  "story": [
+    {
+      "type": "html",
+      "text": "A list of tools useful for [[Extreme Programming]] in distributed environments.",
+      "id": "83b52412446b65ec394d3cb4ca5769b4"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4fafb9b1947df6c2ee8697182e3e2999"
+    },
+    {
+      "type": "html",
+      "text": "[[Virtual Pair Programming]]",
+      "id": "199b08558504dc5112bc00ec1ecaa66d"
+    },
+    {
+      "type": "html",
+      "text": " COAST -- [http://www.darmstadt.gmd.de/concert/software/coast.html www.darmstadt.gmd.de]",
+      "id": "2d97c98fe7a3cf5f4191309e82617eea"
+    },
+    {
+      "type": "html",
+      "text": " jEdit ([[Jay Edit]])",
+      "id": "44dbc6791f1d66d2ac14c230dbed96ba"
+    },
+    {
+      "type": "html",
+      "text": " kibitz -- [http://dev.scriptics.com/man/expect5.31/kibitz.1.html dev.scriptics.com]",
+      "id": "2378ebaf66ef525a78752db5e2006a15"
+    },
+    {
+      "type": "html",
+      "text": " [[Net Meeting]] -- [http://www.microsoft.com/windows/netmeeting/ www.microsoft.com]",
+      "id": "32e26800e568e15e771c6df7d2d3d923"
+    },
+    {
+      "type": "html",
+      "text": " [[Sh Buf]]",
+      "id": "d82d00816541cc4c8943e3c5f6e1871b"
+    },
+    {
+      "type": "html",
+      "text": " Timbuktu -- [http://www.netopia.com/software/products/tb2/ www.netopia.com]",
+      "id": "54d0f9d531852c72aca7052797c92570"
+    },
+    {
+      "type": "html",
+      "text": " VNC ([[Virtual Network Computing]])",
+      "id": "403908879ed7764710546010be6592bf"
+    },
+    {
+      "type": "html",
+      "text": " [[Gobby Editor]]",
+      "id": "ab2e7f03627c296e39363465977abff2"
+    },
+    {
+      "type": "html",
+      "text": "\nRefactoring",
+      "id": "8e7c7f41b519d14c87cc3f0672352ce6"
+    },
+    {
+      "type": "html",
+      "text": " [[Category Refactoring Browser]]",
+      "id": "598d255ec9a5118e4938919a46b2a6e4"
+    },
+    {
+      "type": "html",
+      "text": " [[Refactoring Browser For Java]]",
+      "id": "394409041dce8b46a396d728f41a9aee"
+    },
+    {
+      "type": "html",
+      "text": " XPTools -- [http://www.xptools.com/ www.xptools.com]",
+      "id": "fdd787053314e29fff7763abc9145f41"
+    },
+    {
+      "type": "html",
+      "text": "\n[[User Stories]]/[[Release Planning]]",
+      "id": "9f532461d02f2a0a7212bc710ebd11d3"
+    },
+    {
+      "type": "html",
+      "text": " [[Target Process]]:Planning -- [http://www.targetprocess.com/ www.targetprocess.com]",
+      "id": "5c61893cda1fe92c9413b846e2a632d5"
+    },
+    {
+      "type": "html",
+      "text": " [[Xp Plan It]]",
+      "id": "53973249ecc6e7a506c0a89170e85524"
+    },
+    {
+      "type": "html",
+      "text": " XPWeb -- [http://xpweb.sourceforge.net/ xpweb.sourceforge.net]",
+      "id": "2814cb2f6843b39396ed2a700a573d95"
+    },
+    {
+      "type": "html",
+      "text": " Storm -- [http://xpstorm.sourceforge.net/ xpstorm.sourceforge.net]",
+      "id": "a190306e36cfacd63b65aaec1fb615b8"
+    },
+    {
+      "type": "html",
+      "text": " [[Wiki Wiki Clone]]",
+      "id": "b3d2a771e2e2af1f7ff9cefe99031a15"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Continuous Integration]]",
+      "id": "d573b075b1cc60c1eabb5f044d74d61a"
+    },
+    {
+      "type": "html",
+      "text": " CVS ([[Concurrent Versions System]])",
+      "id": "e8529340903509649fc0fb3d1f4d2827"
+    },
+    {
+      "type": "html",
+      "text": " [[Sub Version]]",
+      "id": "2177da7d7856d58c8fcbc1dfb9e4fad3"
+    },
+    {
+      "type": "html",
+      "text": " Code Co-Op -- [http://www.relisoft.com/co_op/ www.relisoft.com]",
+      "id": "93d78a2000d5422bdc03621af05a2716"
+    },
+    {
+      "type": "html",
+      "text": " [[Cruise Control]]",
+      "id": "05a7520ea1fef93ab04abbc90b2d7f36"
+    },
+    {
+      "type": "html",
+      "text": " [[Mozilla Tinderbox]] --  [http://tinderbox.mozilla.org/showbuilds.cgi tinderbox.mozilla.org]",
+      "id": "e934940e0675029977b85c13cc327cf8"
+    },
+    {
+      "type": "html",
+      "text": " ViewCVS -- [http://viewcvs.sourceforge.net/ viewcvs.sourceforge.net]",
+      "id": "4180d579a16b0211e992e7ff18c95656"
+    },
+    {
+      "type": "html",
+      "text": " diff and patch",
+      "id": "120edc291d9654ed006b8b76a255d23b"
+    },
+    {
+      "type": "html",
+      "text": "[[Unit Test]]s",
+      "id": "9796de38c9ffe0d6a2868ade7874c304"
+    },
+    {
+      "type": "html",
+      "text": " [[Testing Framework]]s",
+      "id": "106bea534e0efe7785dbbf34de0f2b06"
+    },
+    {
+      "type": "html",
+      "text": " xUnit (such as [[Java Unit]])",
+      "id": "f239a7fd3620f51ae2575d4ccfc0dd77"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Acceptance Test]]s",
+      "id": "f17446b9071eb4f03a0340602dd379c9"
+    },
+    {
+      "type": "html",
+      "text": "",
+      "id": "271b5ec88320dc53780ba9d97f45eeac"
+    },
+    {
+      "type": "html",
+      "text": "\n[[On Site Customer]]",
+      "id": "0bf0517a1eed52b498c1e1c15141af52"
+    },
+    {
+      "type": "html",
+      "text": " ",
+      "id": "3ef8a845c19ac8f4e09304449d57fddc"
+    },
+    {
+      "type": "html",
+      "text": "\nMisc/Code Quality",
+      "id": "03b18ee75bc6f86150a0002ac5bc37cc"
+    },
+    {
+      "type": "html",
+      "text": " Same -- [http://sourceforge.net/projects/same/ sourceforge.net]",
+      "id": "d138b4fe81739b5e1ee5c7425c18ef5f"
+    },
+    {
+      "type": "html",
+      "text": "\nPutting it all together",
+      "id": "fd565ee16f320135571befaa5a0f5394"
+    },
+    {
+      "type": "html",
+      "text": " [[Source Cast]] -- [http://www.collab.net/products/sourcecast/ www.collab.net]",
+      "id": "fd605b8647e9b6f310da6c37800cdef7"
+    },
+    {
+      "type": "html",
+      "text": " [[Source Forge]]",
+      "id": "396aaaaca731e617c7138fbff629cd6c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4fafb9b1947df6c2ee8697182e3e2999"
+    },
+    {
+      "type": "html",
+      "text": "See [[Distributed Software Development]], [[Virtual Pair Programming]]",
+      "id": "e71cb2b44041e410896af5e2126785ac"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4fafb9b1947df6c2ee8697182e3e2999"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "de031361fd5ff1aa68337550934226c9"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolsForExtremeProgrammingInDistributedEnvironments c2.com]",
+      "id": "3aa657ecd882cd03e0ab973ea0d1fd08"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1350063927000,
+      "id": "82bce967f6e569daad3ce15ba18a3139",
+      "type": "create",
+      "item": {
+        "title": "Tools For Extreme Programming In Distributed Environments",
+        "story": [
+          {
+            "type": "html",
+            "text": "A list of tools useful for [[Extreme Programming]] in distributed environments.",
+            "id": "83b52412446b65ec394d3cb4ca5769b4"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4fafb9b1947df6c2ee8697182e3e2999"
+          },
+          {
+            "type": "html",
+            "text": "[[Virtual Pair Programming]]",
+            "id": "199b08558504dc5112bc00ec1ecaa66d"
+          },
+          {
+            "type": "html",
+            "text": " COAST -- [http://www.darmstadt.gmd.de/concert/software/coast.html www.darmstadt.gmd.de]",
+            "id": "2d97c98fe7a3cf5f4191309e82617eea"
+          },
+          {
+            "type": "html",
+            "text": " jEdit ([[Jay Edit]])",
+            "id": "44dbc6791f1d66d2ac14c230dbed96ba"
+          },
+          {
+            "type": "html",
+            "text": " kibitz -- [http://dev.scriptics.com/man/expect5.31/kibitz.1.html dev.scriptics.com]",
+            "id": "2378ebaf66ef525a78752db5e2006a15"
+          },
+          {
+            "type": "html",
+            "text": " [[Net Meeting]] -- [http://www.microsoft.com/windows/netmeeting/ www.microsoft.com]",
+            "id": "32e26800e568e15e771c6df7d2d3d923"
+          },
+          {
+            "type": "html",
+            "text": " [[Sh Buf]]",
+            "id": "d82d00816541cc4c8943e3c5f6e1871b"
+          },
+          {
+            "type": "html",
+            "text": " Timbuktu -- [http://www.netopia.com/software/products/tb2/ www.netopia.com]",
+            "id": "54d0f9d531852c72aca7052797c92570"
+          },
+          {
+            "type": "html",
+            "text": " VNC ([[Virtual Network Computing]])",
+            "id": "403908879ed7764710546010be6592bf"
+          },
+          {
+            "type": "html",
+            "text": " [[Gobby Editor]]",
+            "id": "ab2e7f03627c296e39363465977abff2"
+          },
+          {
+            "type": "html",
+            "text": "\nRefactoring",
+            "id": "8e7c7f41b519d14c87cc3f0672352ce6"
+          },
+          {
+            "type": "html",
+            "text": " [[Category Refactoring Browser]]",
+            "id": "598d255ec9a5118e4938919a46b2a6e4"
+          },
+          {
+            "type": "html",
+            "text": " [[Refactoring Browser For Java]]",
+            "id": "394409041dce8b46a396d728f41a9aee"
+          },
+          {
+            "type": "html",
+            "text": " XPTools -- [http://www.xptools.com/ www.xptools.com]",
+            "id": "fdd787053314e29fff7763abc9145f41"
+          },
+          {
+            "type": "html",
+            "text": "\n[[User Stories]]/[[Release Planning]]",
+            "id": "9f532461d02f2a0a7212bc710ebd11d3"
+          },
+          {
+            "type": "html",
+            "text": " [[Target Process]]:Planning -- [http://www.targetprocess.com/ www.targetprocess.com]",
+            "id": "5c61893cda1fe92c9413b846e2a632d5"
+          },
+          {
+            "type": "html",
+            "text": " [[Xp Plan It]]",
+            "id": "53973249ecc6e7a506c0a89170e85524"
+          },
+          {
+            "type": "html",
+            "text": " XPWeb -- [http://xpweb.sourceforge.net/ xpweb.sourceforge.net]",
+            "id": "2814cb2f6843b39396ed2a700a573d95"
+          },
+          {
+            "type": "html",
+            "text": " Storm -- [http://xpstorm.sourceforge.net/ xpstorm.sourceforge.net]",
+            "id": "a190306e36cfacd63b65aaec1fb615b8"
+          },
+          {
+            "type": "html",
+            "text": " [[Wiki Wiki Clone]]",
+            "id": "b3d2a771e2e2af1f7ff9cefe99031a15"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Continuous Integration]]",
+            "id": "d573b075b1cc60c1eabb5f044d74d61a"
+          },
+          {
+            "type": "html",
+            "text": " CVS ([[Concurrent Versions System]])",
+            "id": "e8529340903509649fc0fb3d1f4d2827"
+          },
+          {
+            "type": "html",
+            "text": " [[Sub Version]]",
+            "id": "2177da7d7856d58c8fcbc1dfb9e4fad3"
+          },
+          {
+            "type": "html",
+            "text": " Code Co-Op -- [http://www.relisoft.com/co_op/ www.relisoft.com]",
+            "id": "93d78a2000d5422bdc03621af05a2716"
+          },
+          {
+            "type": "html",
+            "text": " [[Cruise Control]]",
+            "id": "05a7520ea1fef93ab04abbc90b2d7f36"
+          },
+          {
+            "type": "html",
+            "text": " [[Mozilla Tinderbox]] --  [http://tinderbox.mozilla.org/showbuilds.cgi tinderbox.mozilla.org]",
+            "id": "e934940e0675029977b85c13cc327cf8"
+          },
+          {
+            "type": "html",
+            "text": " ViewCVS -- [http://viewcvs.sourceforge.net/ viewcvs.sourceforge.net]",
+            "id": "4180d579a16b0211e992e7ff18c95656"
+          },
+          {
+            "type": "html",
+            "text": " diff and patch",
+            "id": "120edc291d9654ed006b8b76a255d23b"
+          },
+          {
+            "type": "html",
+            "text": "[[Unit Test]]s",
+            "id": "9796de38c9ffe0d6a2868ade7874c304"
+          },
+          {
+            "type": "html",
+            "text": " [[Testing Framework]]s",
+            "id": "106bea534e0efe7785dbbf34de0f2b06"
+          },
+          {
+            "type": "html",
+            "text": " xUnit (such as [[Java Unit]])",
+            "id": "f239a7fd3620f51ae2575d4ccfc0dd77"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Acceptance Test]]s",
+            "id": "f17446b9071eb4f03a0340602dd379c9"
+          },
+          {
+            "type": "html",
+            "text": "",
+            "id": "271b5ec88320dc53780ba9d97f45eeac"
+          },
+          {
+            "type": "html",
+            "text": "\n[[On Site Customer]]",
+            "id": "0bf0517a1eed52b498c1e1c15141af52"
+          },
+          {
+            "type": "html",
+            "text": " ",
+            "id": "3ef8a845c19ac8f4e09304449d57fddc"
+          },
+          {
+            "type": "html",
+            "text": "\nMisc/Code Quality",
+            "id": "03b18ee75bc6f86150a0002ac5bc37cc"
+          },
+          {
+            "type": "html",
+            "text": " Same -- [http://sourceforge.net/projects/same/ sourceforge.net]",
+            "id": "d138b4fe81739b5e1ee5c7425c18ef5f"
+          },
+          {
+            "type": "html",
+            "text": "\nPutting it all together",
+            "id": "fd565ee16f320135571befaa5a0f5394"
+          },
+          {
+            "type": "html",
+            "text": " [[Source Cast]] -- [http://www.collab.net/products/sourcecast/ www.collab.net]",
+            "id": "fd605b8647e9b6f310da6c37800cdef7"
+          },
+          {
+            "type": "html",
+            "text": " [[Source Forge]]",
+            "id": "396aaaaca731e617c7138fbff629cd6c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4fafb9b1947df6c2ee8697182e3e2999"
+          },
+          {
+            "type": "html",
+            "text": "See [[Distributed Software Development]], [[Virtual Pair Programming]]",
+            "id": "e71cb2b44041e410896af5e2126785ac"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4fafb9b1947df6c2ee8697182e3e2999"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "de031361fd5ff1aa68337550934226c9"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolsForExtremeProgrammingInDistributedEnvironments c2.com]",
+            "id": "3aa657ecd882cd03e0ab973ea0d1fd08"
+          }
+        ]
+      }
+    }
+  ]
+}

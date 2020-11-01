@@ -1,0 +1,207 @@
+{
+  "title": "Imake Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "Imake (including the xmkmf tool) is a build configuration tool which generates Makefiles. It was developed back in the 80s by former [[Tektronix Inc]] engineer [[Todd Brunhoff]] as part of the X Windows System, and is (or was until recently) a key part of the development environment for X - at least the XFree86 distribution.",
+      "id": "fde9ef33b878fe99f3196eaf765479a0"
+    },
+    {
+      "type": "html",
+      "text": "<i>The inheritors of XFree86 are working to replace imake with an [[Auto Conf]] based make system, like many other large [[Open Source]] projects.  They are also breaking the X source tree into modules that can be compiled independently.  Soon, imake will become a relic of history.</i>",
+      "id": "912509aba64b34d46aaf37c303623bc8"
+    },
+    {
+      "type": "html",
+      "text": "\nI don't think it's used anywhere else.",
+      "id": "af28b3bdb61f2d31d73355cfdf47fdec"
+    },
+    {
+      "type": "html",
+      "text": "\nIt is a classic example of [[Do The Simplest Thing That Could Possibly Work]] going awry. Even its author repeatedly has disclaimed it as a \"dirty hack\" or some such.",
+      "id": "f6e46fbd9e6b2b8968ba7b89ddcfe89b"
+    },
+    {
+      "type": "html",
+      "text": "\nEssentially what Imake does, is that it serves as a preprocessor for Makefiles. You feed it a \"makefile template\" (an Imakefile) describing the software you want it to build, and \"target description\" files describing the target you want to build it for, and it outputs a set of Makefiles customized for your particular target. ",
+      "id": "e2d23b418bd0a73d134cfeb362322cdf"
+    },
+    {
+      "type": "html",
+      "text": "\nThis was done in the days before Gnu make (to say nothing of other build configuration tools such as [[Apache Ant]]) was widely available - and was designed to deal with numerous different Unices, each with their own crippled version of Make (and other insidious platform differences).  ",
+      "id": "1c59b9ee675fb6e280c029c380a02ff7"
+    },
+    {
+      "type": "html",
+      "text": "\nHowever....",
+      "id": "235d1d660c79cfb9c5de51f65c7cf301"
+    },
+    {
+      "type": "html",
+      "text": " Both the template and the generated makefile tend to begin at about 10,000 lines in the simple case and grow without bounds from there",
+      "id": "1b65d17031a7ba7eee9686e887559b0f"
+    },
+    {
+      "type": "html",
+      "text": " Rather than invent a preprocessor, the author of Imake decided to use an existing one. Unfortunately, the [[Cee Preprocessor]] was chosen - as a front-end to [[Cee Language]], cpp is barely adequate. As a general-purpose macro processor, cpp is terrible. This makes Imakefiles <i>way</i> more complicated than they need to be; as you are constantly having to hack around the limitations of cpp. Plus, cpp and Make interact with each other in strange ways; e.g.",
+      "id": "36b38b2e7b70a5153a0a3f6218a84ebf"
+    },
+    {
+      "type": "html",
+      "text": " Both treat backslash-newline as a \"line continuation\" indicator. To embed a backslash-newline in the resultant Makefile, you have to type @@\\ in the Imakefile. Making sure, of course, you haven't left any whitespace <i>after</i> that backslash....",
+      "id": "e9c05d9528593608cc6160795a84bc7f"
+    },
+    {
+      "type": "html",
+      "text": " Many pathnames found in Unix makefiles contain a path separator (/) followed by the \"select all files\" wildcard (*). Of course, to cpp the string /* starts a comment. Some of the hardest-to-debug problems with imake are when this shows up in an Imakefile.",
+      "id": "4c7bfe3fda714f4f6cc2d9da1c70d110"
+    },
+    {
+      "type": "html",
+      "text": " The imake distribution contains a set of sample templates for various platforms. Unfortunately, they contain reams of X-specific cruft; use of imake to build anything that isn't X is an interesting challenge.",
+      "id": "f30dd9a4c2dca986c2cfa4483da6c3e8"
+    },
+    {
+      "type": "html",
+      "text": " Invoking imake directly is difficult--a typical imake command line is several lines long, with numerous difficult-to-remember options.  As a result, a typical imake-generated makefile consists of rules to rebuild the makefile, so the user doesn't have to run imake directly--\"make Makefiles\" will do the trick.  But what if",
+      "id": "278d35f85df0160ef5ac54e6deaa6fc8"
+    },
+    {
+      "type": "html",
+      "text": " You are bootstrapping the system for the first time?",
+      "id": "6f5e56dfe977aac213db83b7ab2fd128"
+    },
+    {
+      "type": "html",
+      "text": " A change to the imakefile causes in invalid makefile to be generated, such that make fails?",
+      "id": "ca23347242191757d3f9134f6a29ae1a"
+    },
+    {
+      "type": "html",
+      "text": " In the latter case, most Imakefiles arrange for a backup copy of the makefile to be made.  In the former case, you're on your own--the usual solutions include a \"bootstrap script\", and/or a hand-written top-level Makefile.  Constructing either is a RPITA.",
+      "id": "a26388ab9753154fdbdf4b534d1f7716"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "46e2f8f17d41b5b59cb1016aa6978110"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Software Tool]]",
+      "id": "6dac851b711f17b5611322eaa522253c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ImakeTool c2.com]",
+      "id": "a62945d4d97e71e2dd00ae08f97ee6db"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1177107071000,
+      "id": "495120fbc3255491be315b4f3d77802e",
+      "type": "create",
+      "item": {
+        "title": "Imake Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "Imake (including the xmkmf tool) is a build configuration tool which generates Makefiles. It was developed back in the 80s by former [[Tektronix Inc]] engineer [[Todd Brunhoff]] as part of the X Windows System, and is (or was until recently) a key part of the development environment for X - at least the XFree86 distribution.",
+            "id": "fde9ef33b878fe99f3196eaf765479a0"
+          },
+          {
+            "type": "html",
+            "text": "<i>The inheritors of XFree86 are working to replace imake with an [[Auto Conf]] based make system, like many other large [[Open Source]] projects.  They are also breaking the X source tree into modules that can be compiled independently.  Soon, imake will become a relic of history.</i>",
+            "id": "912509aba64b34d46aaf37c303623bc8"
+          },
+          {
+            "type": "html",
+            "text": "\nI don't think it's used anywhere else.",
+            "id": "af28b3bdb61f2d31d73355cfdf47fdec"
+          },
+          {
+            "type": "html",
+            "text": "\nIt is a classic example of [[Do The Simplest Thing That Could Possibly Work]] going awry. Even its author repeatedly has disclaimed it as a \"dirty hack\" or some such.",
+            "id": "f6e46fbd9e6b2b8968ba7b89ddcfe89b"
+          },
+          {
+            "type": "html",
+            "text": "\nEssentially what Imake does, is that it serves as a preprocessor for Makefiles. You feed it a \"makefile template\" (an Imakefile) describing the software you want it to build, and \"target description\" files describing the target you want to build it for, and it outputs a set of Makefiles customized for your particular target. ",
+            "id": "e2d23b418bd0a73d134cfeb362322cdf"
+          },
+          {
+            "type": "html",
+            "text": "\nThis was done in the days before Gnu make (to say nothing of other build configuration tools such as [[Apache Ant]]) was widely available - and was designed to deal with numerous different Unices, each with their own crippled version of Make (and other insidious platform differences).  ",
+            "id": "1c59b9ee675fb6e280c029c380a02ff7"
+          },
+          {
+            "type": "html",
+            "text": "\nHowever....",
+            "id": "235d1d660c79cfb9c5de51f65c7cf301"
+          },
+          {
+            "type": "html",
+            "text": " Both the template and the generated makefile tend to begin at about 10,000 lines in the simple case and grow without bounds from there",
+            "id": "1b65d17031a7ba7eee9686e887559b0f"
+          },
+          {
+            "type": "html",
+            "text": " Rather than invent a preprocessor, the author of Imake decided to use an existing one. Unfortunately, the [[Cee Preprocessor]] was chosen - as a front-end to [[Cee Language]], cpp is barely adequate. As a general-purpose macro processor, cpp is terrible. This makes Imakefiles <i>way</i> more complicated than they need to be; as you are constantly having to hack around the limitations of cpp. Plus, cpp and Make interact with each other in strange ways; e.g.",
+            "id": "36b38b2e7b70a5153a0a3f6218a84ebf"
+          },
+          {
+            "type": "html",
+            "text": " Both treat backslash-newline as a \"line continuation\" indicator. To embed a backslash-newline in the resultant Makefile, you have to type @@\\ in the Imakefile. Making sure, of course, you haven't left any whitespace <i>after</i> that backslash....",
+            "id": "e9c05d9528593608cc6160795a84bc7f"
+          },
+          {
+            "type": "html",
+            "text": " Many pathnames found in Unix makefiles contain a path separator (/) followed by the \"select all files\" wildcard (*). Of course, to cpp the string /* starts a comment. Some of the hardest-to-debug problems with imake are when this shows up in an Imakefile.",
+            "id": "4c7bfe3fda714f4f6cc2d9da1c70d110"
+          },
+          {
+            "type": "html",
+            "text": " The imake distribution contains a set of sample templates for various platforms. Unfortunately, they contain reams of X-specific cruft; use of imake to build anything that isn't X is an interesting challenge.",
+            "id": "f30dd9a4c2dca986c2cfa4483da6c3e8"
+          },
+          {
+            "type": "html",
+            "text": " Invoking imake directly is difficult--a typical imake command line is several lines long, with numerous difficult-to-remember options.  As a result, a typical imake-generated makefile consists of rules to rebuild the makefile, so the user doesn't have to run imake directly--\"make Makefiles\" will do the trick.  But what if",
+            "id": "278d35f85df0160ef5ac54e6deaa6fc8"
+          },
+          {
+            "type": "html",
+            "text": " You are bootstrapping the system for the first time?",
+            "id": "6f5e56dfe977aac213db83b7ab2fd128"
+          },
+          {
+            "type": "html",
+            "text": " A change to the imakefile causes in invalid makefile to be generated, such that make fails?",
+            "id": "ca23347242191757d3f9134f6a29ae1a"
+          },
+          {
+            "type": "html",
+            "text": " In the latter case, most Imakefiles arrange for a backup copy of the makefile to be made.  In the former case, you're on your own--the usual solutions include a \"bootstrap script\", and/or a hand-written top-level Makefile.  Constructing either is a RPITA.",
+            "id": "a26388ab9753154fdbdf4b534d1f7716"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "46e2f8f17d41b5b59cb1016aa6978110"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Software Tool]]",
+            "id": "6dac851b711f17b5611322eaa522253c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ImakeTool c2.com]",
+            "id": "a62945d4d97e71e2dd00ae08f97ee6db"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "title": "Nant Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "NAnt is a [[Build Process]] tool for [[Microsoft Dot Net]], based upon [[Apache Ant]]. NAnt includes support for [[Ndoc Tool]] and [[Nunit Framework]].",
+      "id": "f65117d7ac4253226b007d2f0506dfe4"
+    },
+    {
+      "type": "html",
+      "text": " [http://nant.sourceforge.net/ nant.sourceforge.net]",
+      "id": "3958ecb83254d7a6a66e1ad00250d52e"
+    },
+    {
+      "type": "html",
+      "text": "\nNAnt is probably the most popular open build language for the [[Microsoft Dot Net]] platform, though the pure [[Visual Studio]] IDE and the Nmake clone of make it also ships with (see [[Using Nmake]]). The pre-announcement of [[Microsoft Build]] puts a cloud over its future, though as it also runs on the [[Mono Project]], it has a future. [[Apache Ant]]'s support for [[Microsoft Dot Net]] projects is more limited, which implies that combination is less popular. ",
+      "id": "113abcdf5e1382b986b33eccdd8fc88f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6bca9293c47fbd4bb55b92c4c228e428"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's not very good.  Poke around the Nant wiki and see for yourself, or download and try it. Then try [[Scons Build Tool]].  You'll get your stuff working much faster.  [[Scons Build Tool]] is great for [[Dot Net]].",
+      "id": "e1a9da226a2fa9f6e05930a6dc8cbe31"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6bca9293c47fbd4bb55b92c4c228e428"
+    },
+    {
+      "type": "html",
+      "text": "\nI think [[Apache Ant]] and [[Nant Tool]] are really poor at what they do.  It's about the worst use of [[Extensible Markup Language]] I have seen. It's a real drag to edit and maintain these files.  They are convoluted, and rather than lying on top of XML, they intertwine.  They have horrible macro expansions in attributes and weird structures.  But hey, they are in XML.  That must be good.",
+      "id": "bbc9c7a184df127817bf124a1f377f7d"
+    },
+    {
+      "type": "html",
+      "text": "\nFor [[Dot Net]], SConsTool is much easier to get working and is better supported.",
+      "id": "5d28c1805979fee9358024f6aa5c2216"
+    },
+    {
+      "type": "html",
+      "text": "-If you think that macro expansions in text elements is horrible, then so is XPath, XML Schema and many other XML extension specifications.  The nice thing about XML based languages is that the XML toolchain can work with them, as well as humans. Now, machines may have the upper hand in terms of legibility, but that is XML for you. If you think [[Apache Ant]] and [[Nant Tool]] are the worst uses of [[Extensible Markup Language]], please take a look at the XML output of MSWord. That isn't even easily machine readable. \nNote that the Ant team reguarly gets complaints about 1. Ant not handling double dashes -- in comments, 2. Bad handling of foreign characters in XML files not declaring their encoding to be other than UTF-8 and 3, whitespace sensitive inside tasks. (1) and (2) are actually requirements of XML; whitespace sensitivity is something deliberately retained for better output formatting. Yet judging by the frequency of these complaints, users do have issues with XML. It's hard to blame Ant, Nant and soon MSBuild for this -only by moving to a non-XML syntax do you improve authorability. --[[Steve Loughran]].",
+      "id": "2151427d9f9a2165cc1cd7675bc4b363"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6bca9293c47fbd4bb55b92c4c228e428"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Draco Dot Net]] and [[Cruise Control Net]] provide [[Continuous Integration]] for NAnt builds.",
+      "id": "b6287cfec6be2cd87ef9c05b50d17c60"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "6bca9293c47fbd4bb55b92c4c228e428"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Dot Net]] [[Category Software Tool]] [[Category Ant]]",
+      "id": "26fb119f9edd1cc2553397de3ee746fe"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?NantTool c2.com]",
+      "id": "36a6247ba9b48239e5d18775591793e3"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1232472587000,
+      "id": "ea115d6aee53a55011469090ca6b7210",
+      "type": "create",
+      "item": {
+        "title": "Nant Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "NAnt is a [[Build Process]] tool for [[Microsoft Dot Net]], based upon [[Apache Ant]]. NAnt includes support for [[Ndoc Tool]] and [[Nunit Framework]].",
+            "id": "f65117d7ac4253226b007d2f0506dfe4"
+          },
+          {
+            "type": "html",
+            "text": " [http://nant.sourceforge.net/ nant.sourceforge.net]",
+            "id": "3958ecb83254d7a6a66e1ad00250d52e"
+          },
+          {
+            "type": "html",
+            "text": "\nNAnt is probably the most popular open build language for the [[Microsoft Dot Net]] platform, though the pure [[Visual Studio]] IDE and the Nmake clone of make it also ships with (see [[Using Nmake]]). The pre-announcement of [[Microsoft Build]] puts a cloud over its future, though as it also runs on the [[Mono Project]], it has a future. [[Apache Ant]]'s support for [[Microsoft Dot Net]] projects is more limited, which implies that combination is less popular. ",
+            "id": "113abcdf5e1382b986b33eccdd8fc88f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6bca9293c47fbd4bb55b92c4c228e428"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's not very good.  Poke around the Nant wiki and see for yourself, or download and try it. Then try [[Scons Build Tool]].  You'll get your stuff working much faster.  [[Scons Build Tool]] is great for [[Dot Net]].",
+            "id": "e1a9da226a2fa9f6e05930a6dc8cbe31"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6bca9293c47fbd4bb55b92c4c228e428"
+          },
+          {
+            "type": "html",
+            "text": "\nI think [[Apache Ant]] and [[Nant Tool]] are really poor at what they do.  It's about the worst use of [[Extensible Markup Language]] I have seen. It's a real drag to edit and maintain these files.  They are convoluted, and rather than lying on top of XML, they intertwine.  They have horrible macro expansions in attributes and weird structures.  But hey, they are in XML.  That must be good.",
+            "id": "bbc9c7a184df127817bf124a1f377f7d"
+          },
+          {
+            "type": "html",
+            "text": "\nFor [[Dot Net]], SConsTool is much easier to get working and is better supported.",
+            "id": "5d28c1805979fee9358024f6aa5c2216"
+          },
+          {
+            "type": "html",
+            "text": "-If you think that macro expansions in text elements is horrible, then so is XPath, XML Schema and many other XML extension specifications.  The nice thing about XML based languages is that the XML toolchain can work with them, as well as humans. Now, machines may have the upper hand in terms of legibility, but that is XML for you. If you think [[Apache Ant]] and [[Nant Tool]] are the worst uses of [[Extensible Markup Language]], please take a look at the XML output of MSWord. That isn't even easily machine readable. \nNote that the Ant team reguarly gets complaints about 1. Ant not handling double dashes -- in comments, 2. Bad handling of foreign characters in XML files not declaring their encoding to be other than UTF-8 and 3, whitespace sensitive inside tasks. (1) and (2) are actually requirements of XML; whitespace sensitivity is something deliberately retained for better output formatting. Yet judging by the frequency of these complaints, users do have issues with XML. It's hard to blame Ant, Nant and soon MSBuild for this -only by moving to a non-XML syntax do you improve authorability. --[[Steve Loughran]].",
+            "id": "2151427d9f9a2165cc1cd7675bc4b363"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6bca9293c47fbd4bb55b92c4c228e428"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Draco Dot Net]] and [[Cruise Control Net]] provide [[Continuous Integration]] for NAnt builds.",
+            "id": "b6287cfec6be2cd87ef9c05b50d17c60"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "6bca9293c47fbd4bb55b92c4c228e428"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Dot Net]] [[Category Software Tool]] [[Category Ant]]",
+            "id": "26fb119f9edd1cc2553397de3ee746fe"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?NantTool c2.com]",
+            "id": "36a6247ba9b48239e5d18775591793e3"
+          }
+        ]
+      }
+    }
+  ]
+}

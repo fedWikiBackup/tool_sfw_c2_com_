@@ -1,0 +1,447 @@
+{
+  "title": "Richards Suite Of Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "I've spent several hours just staring at my new can opener. It's a marvel of design and it amazes me that people can build such things. If the calculator hadn't, I think that would have rammed it home that everyday small needs are important too.",
+      "id": "028b7f44d66e1cbee795f6e217f10880"
+    },
+    {
+      "type": "html",
+      "text": "\nIncludes:",
+      "id": "7f45d76ef72631b26d166c1198e5f7b6"
+    },
+    {
+      "type": "html",
+      "text": " [[Richards Calculator]]",
+      "id": "824eef1d47d4a918a66fb811cded7670"
+    },
+    {
+      "type": "html",
+      "text": " [[Richards Merge Tool]]",
+      "id": "423d8c115b1189a97c79ca507594df4d"
+    },
+    {
+      "type": "html",
+      "text": " [[Referential Editor]]",
+      "id": "6a0be256b6f4e3a9988fff902eb948a2"
+    },
+    {
+      "type": "html",
+      "text": " [[Text Search Tool]]",
+      "id": "3f5210761cb80d6124e5237f337e4889"
+    },
+    {
+      "type": "html",
+      "text": "\nother proposals / challenges?",
+      "id": "047988e3ea75954e5bcdca7cea059851"
+    },
+    {
+      "type": "html",
+      "text": "<i>Yes. [[Richards Database]]. In this context, I'm only interested in the user's view of database software. The internal architecture and model - relational, OO, network, XML, whatever - is irrelevant and as far as I'm concerned <b>shouldn't need to be mentioned</b>, as the user shouldn't have to know this.</i> -- [[Dave Voorhis]]",
+      "id": "865525fefeca37c6710107ecb08491d3"
+    },
+    {
+      "type": "html",
+      "text": "\nI don't use databases so I don't have a clear user view of them. I use a filesystem and I want to use it <b>as</b> a database. Then there's the [[Universal Catalog]] which is really just a vastly distributed database in an OO language. I think you need to be more specific.",
+      "id": "36e5fcb05377008a1adc6a464f892e97"
+    },
+    {
+      "type": "html",
+      "text": "<i>Okay, I'll try, but I shall be \"more specific\" only in the most abstract and general terms in order to keep things brief, in order to avoid any reference to prior art, and in order to avoid any domain-specific references. The goal is to achieve the most generally-applicable design possible.</i>",
+      "id": "bcd9d7bc9cc0e355c107b6273d184542"
+    },
+    {
+      "type": "html",
+      "text": "<i>Store, retrieve, and recombine information about the world in a meaningful, intuitive, consistent and controlled way, in order to evaluate information about historical events and make predictions about future events, while ensuring that the information accurately reflects reality at all times.</i>",
+      "id": "609c7df6cdab8b8e45f79dd091aa03a9"
+    },
+    {
+      "type": "html",
+      "text": "<i>Is that what you have in mind for [[Universal Catalog]]? I think I've described \"information system\".</i>",
+      "id": "903d09f9a0ebb0cbfc6026b22122c7fc"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Dave Voorhis]]",
+      "id": "f60ebba7736ae25a97c897c2b5593e3d"
+    },
+    {
+      "type": "html",
+      "text": "\nDave, every single one of my designs has unified something. Until maybe [[Richards Calculator]].",
+      "id": "5903b4445a06b2249ba095ded1f06f14"
+    },
+    {
+      "type": "html",
+      "text": " [[Universal Catalog]] intends to unify all static media ",
+      "id": "5badaac8edab147cb3ff87818cf91d17"
+    },
+    {
+      "type": "html",
+      "text": " [[Neo Wiki]] intends to unify all text-based interactive media ",
+      "id": "2aaa4d78e1361d4ce9dee3c63f186de6"
+    },
+    {
+      "type": "html",
+      "text": " [[Object Browser]] intends to unify all user interfaces ",
+      "id": "b50fc1ba63d9eb40186dae91ebba0b72"
+    },
+    {
+      "type": "html",
+      "text": " [[Generalized Capabilities]]? intends to unify all power relations ",
+      "id": "58b3d9e0b71a9b9dc87e6ff47c58b7ca"
+    },
+    {
+      "type": "html",
+      "text": " [[Blue Abyss]] intends to unify all object systems",
+      "id": "e9c40821f2a7e1881e91cc6f7266f6d4"
+    },
+    {
+      "type": "html",
+      "text": "\nAnd you know what?",
+      "id": "e2a73ed2da205281afe7b80e0e52377a"
+    },
+    {
+      "type": "html",
+      "text": " UC was first conceived as a catalog of all fanfic",
+      "id": "f58a035ad0276d90ba72789320143b27"
+    },
+    {
+      "type": "html",
+      "text": " NW only unified quickly because it followed a precedent",
+      "id": "f9f28bb0cf611f0d7d51f3bee85a7cad"
+    },
+    {
+      "type": "html",
+      "text": " Caps/[[Blue Abyss]] started as a better filesystem",
+      "id": "0aa6598f6ebcbf96a93287e822db7dab"
+    },
+    {
+      "type": "html",
+      "text": "\nOnly the OB was conceived from the first as a general system for [[Blue Abyss]].",
+      "id": "6262107fd1cc050e0ca9a42acd324e7d"
+    },
+    {
+      "type": "html",
+      "text": "\nDesign works better when it's <i>concrete</i>.",
+      "id": "5d7e99bd36a8cadab3774a3e2714bd46"
+    },
+    {
+      "type": "html",
+      "text": "\nOkay, my question is can your need be filled by a [[Neo Wiki]] area governed by historian-fascists?",
+      "id": "d9495b2b07a616c8af414d13f8fdf313"
+    },
+    {
+      "type": "html",
+      "text": "-- RK",
+      "id": "a6428d8f1726b9c8f9e30e27eb2b59ec"
+    },
+    {
+      "type": "html",
+      "text": "<i>I don't know. Can a [[Neo Wiki]] area governed by historian-fascists generate a balance sheet and income statement (i.e., standard reports) at the end of every month? A typical foundation goal of database systems, beyond retrieval of individual data items (eg., \"What is Bob's address?\"), is to produce standardized or ad-hoc formatted reports.</i>",
+      "id": "5fd766f79f786b07cdd1d98eca2f0b6a"
+    },
+    {
+      "type": "html",
+      "text": "<i>And what do you mean by \"power relations\"? In my mind, set theory is conjured. I assume this is not what you have in mind.</i> -- [[Dave Voorhis]]",
+      "id": "5ea27cd53454a4327f9ad270ae9b2f98"
+    },
+    {
+      "type": "html",
+      "text": "\nOh, I thought you were trying to support historical analysis, as in by historians.",
+      "id": "4a711a61c3809adf5138e45a79b1d3a0"
+    },
+    {
+      "type": "html",
+      "text": "\nPower relations refers to things like \"I own you, therefore I can unilaterally delete all of your work everywhere\" and \"I own this object therefore I'm giving user X the ability to change it so long as its size remains constant\".",
+      "id": "644ead77e522be63a71b9826aa496a0d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e5ea14f42feb7836731b19c4e1c7040e"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Luser Attitude Readjustment Tool]], natch.",
+      "id": "a40326746d2258fac3e47613f7e04f67"
+    },
+    {
+      "type": "html",
+      "text": "<i>I'm already working on [[Programmer Attitude Readjustment]].</i>",
+      "id": "a8332aa1cc8e423854f982465707da88"
+    },
+    {
+      "type": "html",
+      "text": "<i>The moral of the story is this: be really sure you want a problem solved before asking someone to solve it. You might not like the solution they come up with.</i>",
+      "id": "599a61db4427f43bf22d6772190a2744"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e5ea14f42feb7836731b19c4e1c7040e"
+    },
+    {
+      "type": "html",
+      "text": "Richard, can it be, that you 'suffer' from [[Abstraction Addiction]]? -- .gz",
+      "id": "b08d71c09041c5b6e375123caa819790"
+    },
+    {
+      "type": "html",
+      "text": "\nNo. And leveling that charge at a concept user is very much akin to saying that a mathematician sees mathematics in everything ... and that this is somehow a bad thing.",
+      "id": "cfd0e75f503a31efae8f794bd1917162"
+    },
+    {
+      "type": "html",
+      "text": "\nAs for getting Real Work Done (tm), I haven't even bothered designing a referential editor or text search tool. I put it on wiki as a way of flushing out my errant thoughts. I'm still focused on designing a new GUI. I'm just on a hiatus at the moment until I get my internet connection and can actually follow up on all the 3D engine suggestions I've gathered. -- rk",
+      "id": "d7dc07599c2418abe72ecc718b84f602"
+    },
+    {
+      "type": "html",
+      "text": "\nSorry, it was not meant as a 'charge'. But your comparison with a mathematician is well placed. The point of my page really is not what one 'sees', but how that affect what one 'does'. And even though I was triggered by this page, it must not necessarily apply to you. -- .gz",
+      "id": "2421358bd84687e6c1c4af7c319fa08e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e5ea14f42feb7836731b19c4e1c7040e"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Interaction Design]] [[Category Project]]",
+      "id": "b053731ac4cc2c9533796e0fb070d02b"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?RichardsSuiteOfTools c2.com]",
+      "id": "d0c6db7401d9be806901334d163aeb5c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1135181885000,
+      "id": "13694a879a71aa5d22b0b3c8f7a6c8cb",
+      "type": "create",
+      "item": {
+        "title": "Richards Suite Of Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "I've spent several hours just staring at my new can opener. It's a marvel of design and it amazes me that people can build such things. If the calculator hadn't, I think that would have rammed it home that everyday small needs are important too.",
+            "id": "028b7f44d66e1cbee795f6e217f10880"
+          },
+          {
+            "type": "html",
+            "text": "\nIncludes:",
+            "id": "7f45d76ef72631b26d166c1198e5f7b6"
+          },
+          {
+            "type": "html",
+            "text": " [[Richards Calculator]]",
+            "id": "824eef1d47d4a918a66fb811cded7670"
+          },
+          {
+            "type": "html",
+            "text": " [[Richards Merge Tool]]",
+            "id": "423d8c115b1189a97c79ca507594df4d"
+          },
+          {
+            "type": "html",
+            "text": " [[Referential Editor]]",
+            "id": "6a0be256b6f4e3a9988fff902eb948a2"
+          },
+          {
+            "type": "html",
+            "text": " [[Text Search Tool]]",
+            "id": "3f5210761cb80d6124e5237f337e4889"
+          },
+          {
+            "type": "html",
+            "text": "\nother proposals / challenges?",
+            "id": "047988e3ea75954e5bcdca7cea059851"
+          },
+          {
+            "type": "html",
+            "text": "<i>Yes. [[Richards Database]]. In this context, I'm only interested in the user's view of database software. The internal architecture and model - relational, OO, network, XML, whatever - is irrelevant and as far as I'm concerned <b>shouldn't need to be mentioned</b>, as the user shouldn't have to know this.</i> -- [[Dave Voorhis]]",
+            "id": "865525fefeca37c6710107ecb08491d3"
+          },
+          {
+            "type": "html",
+            "text": "\nI don't use databases so I don't have a clear user view of them. I use a filesystem and I want to use it <b>as</b> a database. Then there's the [[Universal Catalog]] which is really just a vastly distributed database in an OO language. I think you need to be more specific.",
+            "id": "36e5fcb05377008a1adc6a464f892e97"
+          },
+          {
+            "type": "html",
+            "text": "<i>Okay, I'll try, but I shall be \"more specific\" only in the most abstract and general terms in order to keep things brief, in order to avoid any reference to prior art, and in order to avoid any domain-specific references. The goal is to achieve the most generally-applicable design possible.</i>",
+            "id": "bcd9d7bc9cc0e355c107b6273d184542"
+          },
+          {
+            "type": "html",
+            "text": "<i>Store, retrieve, and recombine information about the world in a meaningful, intuitive, consistent and controlled way, in order to evaluate information about historical events and make predictions about future events, while ensuring that the information accurately reflects reality at all times.</i>",
+            "id": "609c7df6cdab8b8e45f79dd091aa03a9"
+          },
+          {
+            "type": "html",
+            "text": "<i>Is that what you have in mind for [[Universal Catalog]]? I think I've described \"information system\".</i>",
+            "id": "903d09f9a0ebb0cbfc6026b22122c7fc"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Dave Voorhis]]",
+            "id": "f60ebba7736ae25a97c897c2b5593e3d"
+          },
+          {
+            "type": "html",
+            "text": "\nDave, every single one of my designs has unified something. Until maybe [[Richards Calculator]].",
+            "id": "5903b4445a06b2249ba095ded1f06f14"
+          },
+          {
+            "type": "html",
+            "text": " [[Universal Catalog]] intends to unify all static media ",
+            "id": "5badaac8edab147cb3ff87818cf91d17"
+          },
+          {
+            "type": "html",
+            "text": " [[Neo Wiki]] intends to unify all text-based interactive media ",
+            "id": "2aaa4d78e1361d4ce9dee3c63f186de6"
+          },
+          {
+            "type": "html",
+            "text": " [[Object Browser]] intends to unify all user interfaces ",
+            "id": "b50fc1ba63d9eb40186dae91ebba0b72"
+          },
+          {
+            "type": "html",
+            "text": " [[Generalized Capabilities]]? intends to unify all power relations ",
+            "id": "58b3d9e0b71a9b9dc87e6ff47c58b7ca"
+          },
+          {
+            "type": "html",
+            "text": " [[Blue Abyss]] intends to unify all object systems",
+            "id": "e9c40821f2a7e1881e91cc6f7266f6d4"
+          },
+          {
+            "type": "html",
+            "text": "\nAnd you know what?",
+            "id": "e2a73ed2da205281afe7b80e0e52377a"
+          },
+          {
+            "type": "html",
+            "text": " UC was first conceived as a catalog of all fanfic",
+            "id": "f58a035ad0276d90ba72789320143b27"
+          },
+          {
+            "type": "html",
+            "text": " NW only unified quickly because it followed a precedent",
+            "id": "f9f28bb0cf611f0d7d51f3bee85a7cad"
+          },
+          {
+            "type": "html",
+            "text": " Caps/[[Blue Abyss]] started as a better filesystem",
+            "id": "0aa6598f6ebcbf96a93287e822db7dab"
+          },
+          {
+            "type": "html",
+            "text": "\nOnly the OB was conceived from the first as a general system for [[Blue Abyss]].",
+            "id": "6262107fd1cc050e0ca9a42acd324e7d"
+          },
+          {
+            "type": "html",
+            "text": "\nDesign works better when it's <i>concrete</i>.",
+            "id": "5d7e99bd36a8cadab3774a3e2714bd46"
+          },
+          {
+            "type": "html",
+            "text": "\nOkay, my question is can your need be filled by a [[Neo Wiki]] area governed by historian-fascists?",
+            "id": "d9495b2b07a616c8af414d13f8fdf313"
+          },
+          {
+            "type": "html",
+            "text": "-- RK",
+            "id": "a6428d8f1726b9c8f9e30e27eb2b59ec"
+          },
+          {
+            "type": "html",
+            "text": "<i>I don't know. Can a [[Neo Wiki]] area governed by historian-fascists generate a balance sheet and income statement (i.e., standard reports) at the end of every month? A typical foundation goal of database systems, beyond retrieval of individual data items (eg., \"What is Bob's address?\"), is to produce standardized or ad-hoc formatted reports.</i>",
+            "id": "5fd766f79f786b07cdd1d98eca2f0b6a"
+          },
+          {
+            "type": "html",
+            "text": "<i>And what do you mean by \"power relations\"? In my mind, set theory is conjured. I assume this is not what you have in mind.</i> -- [[Dave Voorhis]]",
+            "id": "5ea27cd53454a4327f9ad270ae9b2f98"
+          },
+          {
+            "type": "html",
+            "text": "\nOh, I thought you were trying to support historical analysis, as in by historians.",
+            "id": "4a711a61c3809adf5138e45a79b1d3a0"
+          },
+          {
+            "type": "html",
+            "text": "\nPower relations refers to things like \"I own you, therefore I can unilaterally delete all of your work everywhere\" and \"I own this object therefore I'm giving user X the ability to change it so long as its size remains constant\".",
+            "id": "644ead77e522be63a71b9826aa496a0d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e5ea14f42feb7836731b19c4e1c7040e"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Luser Attitude Readjustment Tool]], natch.",
+            "id": "a40326746d2258fac3e47613f7e04f67"
+          },
+          {
+            "type": "html",
+            "text": "<i>I'm already working on [[Programmer Attitude Readjustment]].</i>",
+            "id": "a8332aa1cc8e423854f982465707da88"
+          },
+          {
+            "type": "html",
+            "text": "<i>The moral of the story is this: be really sure you want a problem solved before asking someone to solve it. You might not like the solution they come up with.</i>",
+            "id": "599a61db4427f43bf22d6772190a2744"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e5ea14f42feb7836731b19c4e1c7040e"
+          },
+          {
+            "type": "html",
+            "text": "Richard, can it be, that you 'suffer' from [[Abstraction Addiction]]? -- .gz",
+            "id": "b08d71c09041c5b6e375123caa819790"
+          },
+          {
+            "type": "html",
+            "text": "\nNo. And leveling that charge at a concept user is very much akin to saying that a mathematician sees mathematics in everything ... and that this is somehow a bad thing.",
+            "id": "cfd0e75f503a31efae8f794bd1917162"
+          },
+          {
+            "type": "html",
+            "text": "\nAs for getting Real Work Done (tm), I haven't even bothered designing a referential editor or text search tool. I put it on wiki as a way of flushing out my errant thoughts. I'm still focused on designing a new GUI. I'm just on a hiatus at the moment until I get my internet connection and can actually follow up on all the 3D engine suggestions I've gathered. -- rk",
+            "id": "d7dc07599c2418abe72ecc718b84f602"
+          },
+          {
+            "type": "html",
+            "text": "\nSorry, it was not meant as a 'charge'. But your comparison with a mathematician is well placed. The point of my page really is not what one 'sees', but how that affect what one 'does'. And even though I was triggered by this page, it must not necessarily apply to you. -- .gz",
+            "id": "2421358bd84687e6c1c4af7c319fa08e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e5ea14f42feb7836731b19c4e1c7040e"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Interaction Design]] [[Category Project]]",
+            "id": "b053731ac4cc2c9533796e0fb070d02b"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?RichardsSuiteOfTools c2.com]",
+            "id": "d0c6db7401d9be806901334d163aeb5c"
+          }
+        ]
+      }
+    }
+  ]
+}

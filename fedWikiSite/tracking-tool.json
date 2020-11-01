@@ -1,0 +1,297 @@
+{
+  "title": "Tracking Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "<b>Use a Tracking Tool</b>",
+      "id": "caf77ac88a3dde4c12cd2b2faf77a1bf"
+    },
+    {
+      "type": "html",
+      "text": "\nPost-it notes, programmer's memories, even email, are all unreliable repositories for bug reports and feature requests. All of them are also difficult to coordinate on a team of more than 2 people working together for more than a few days. Select a tool that is easy to use and very configurable.",
+      "id": "c08d2d9413338d088c39a96dc8e84069"
+    },
+    {
+      "type": "html",
+      "text": "<b>Therefore:</b>",
+      "id": "4a51496124384c2c7ef0cc8549a600b7"
+    },
+    {
+      "type": "html",
+      "text": "\nUse an automated tracking tool. The tool doesn't have to be sophisticated -- it can be a spreadsheet in simple cases -- but it must be shared.",
+      "id": "ba5dcc966fc96d564ce8ee77868561ff"
+    },
+    {
+      "type": "html",
+      "text": "\nBug tracking software has features to help manage work. Users can create filters and sorts to assist workflow. Filter on the field \"Detected By\" with your id to show the bugs you've filed. Filter on \"Assigned To\" to see your responsibilities. Sort by Severity to track the top problems.",
+      "id": "e5a51f243a40b5818b3a3bcbe2a2b82f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+    },
+    {
+      "type": "html",
+      "text": "From the [[Xp Mailing List]]: (should go to [[No Task Database]], similarly to [[No Bug Database]])",
+      "id": "a50eeb6e9efb4e95ac8363f326dcd317"
+    },
+    {
+      "type": "html",
+      "text": "\nMy favorite XP tracking tool that I've used to date was one we devised on a six-programmer XP project: all programmers in one room, customer in same room, supplemented by several analysts who attended planning meetings, helped write cards, wrote analysis docs, etc.",
+      "id": "5fac13815d476326436065eb447fadd1"
+    },
+    {
+      "type": "html",
+      "text": "\nStories were written on note cards, as were tasks. We kept the story cards in a standard card file, which worked fine. We started out signing up for tasks, and keeping them on our desks, but this made it harder to figure out progress, because someone had to poke around and ask everyone where they were, find out what tasks were done, update a spreadsheet etc. About a week into the project, it suddenly hit me that what we needed was one of those hanging fruit baskets -- the ones made of three metal mesh baskets hanging from chains. Someone on the team had one, and brought it in the next day.  We hung it right in the middle of the programming area.",
+      "id": "24eeca35e2bcfa40e4b97b727baef70b"
+    },
+    {
+      "type": "html",
+      "text": "\nWe were using a pretty much by-the-book planning game up to this point.  However now instead of signing-up and taking the tasks at the planning meeting we just got a sense of how much there was to do, and whether we thought we could get it done or not. The task cards were then placed (thrown) into the lowest of the hanging baskets. Whenever someone needed a task to do, they simply grabbed a pair partner and then a task from the basket (or vice versa, sometimes they grabbed a task then picked a\npartner). When they finished their task, they initialed the card, and put the card in the middle basket.",
+      "id": "82091a49e886e83e68fac54ccc3b3d50"
+    },
+    {
+      "type": "html",
+      "text": "(in case you were wondering, we put apples in the top basket)",
+      "id": "ea450038d5d29c6262355b104edb3580"
+    },
+    {
+      "type": "html",
+      "text": "\nEveryone, the programmers, the customer, the analysts, even our CEO walking by, could immediately see how things were going: if there were a lot of cards in the lowest basket, it was easy for anyone -- everyone -- to ask, \"Lot of cards up there, are we on track?\" If there were a lot of cards overall, velocity was good, if there were a bunch in the middle basket, and only a few in the lower one, we knew we needed to break down more stories, and so forth (so many great reports, right out of the box!).",
+      "id": "183bbea5ce01e817f210e58e556fd084"
+    },
+    {
+      "type": "html",
+      "text": "\nUsing this tool, tracking became a trivial activity that everyone just did. As the coach, I might have been a bit more obsessive about it, but really after a while, everyone got in the habit of sifting through the tasks to see what was left to be done -- both to choose what to do next, and to see how much was left to do.",
+      "id": "b7dbcd3af86b126632de0aba138ff95f"
+    },
+    {
+      "type": "html",
+      "text": "\nWorked like a charm for the entirety of the three-month project. -- [[Bill Caputo]]",
+      "id": "357f19dbd9e21ea0e5dccd6d8d5533d0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+    },
+    {
+      "type": "code",
+      "text": " '''Agility''' (http://www.agileedge.com Bug Tracking) from AgileEdge is a Web-based Issue and Bug tracker. Agility is a highly customizable solution to track all your project needs.  Agility also features a rich security framework that can be customized at the project level.",
+      "id": "ad609fb7345a3a9fbde14f003294881f"
+    },
+    {
+      "type": "html",
+      "text": "<b>Bontq</b> ([http://www.bontq.com www.bontq.com] Web Based Bug and Issue Tracking System) It allows you to manage projects and track bugs very easy because of its clean and user-friendly interface. The essential part of Bontq is it's Desktop Client. Using Desktop Client's functionality you can Capture Screenshots, Record Videos and attach them right to your items.",
+      "id": "8457c828045f650824cac4eeb78d42a2"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+    },
+    {
+      "type": "html",
+      "text": "<b>Issue Tracking Anywhere</b> is a web-based issue tracking system designed for work item tracking, bug tracking, customer support and project management. It has two editions: Standalone (15 users free) and Hosted. The Hosted edition uses SaaS (Software as a Service) as the delivery model and is fully managed by Dynamsoft. ([http://www.dynamsoft.com/Products/ITA_Overview.aspx www.dynamsoft.com])",
+      "id": "49075de9cc887256a3eea0eb44ba61e3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+    },
+    {
+      "type": "html",
+      "text": "[[Defect Tracking Patterns]]",
+      "id": "976575b052f1e78ac69bedef025455b5"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+    },
+    {
+      "type": "html",
+      "text": "[[Extreme Planner]] is a commercial tool we are using for planning and tracking stories and tasks - its working out really well so far ([http://www.extremeplanner.com www.extremeplanner.com]) ",
+      "id": "fdca67273975edab2400e7bd729437ed"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+    },
+    {
+      "type": "html",
+      "text": "[[Target Process]]:Suite ([http://www.targetprocess.com www.targetprocess.com]) is an integrated Project Management and Bug Tracking tool. It was designed to support Extreme Programming planning style and other agile approaches.",
+      "id": "ae3e5cc278c20cad92b7ddf93eb72f48"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Bug]]",
+      "id": "9de5aa48fa4ffffb43df2d655326ad3c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TrackingTool c2.com]",
+      "id": "9cc4ca4e80e06b7cddbee97b2696eddc"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1397556422000,
+      "id": "62240e85ae99a0e56f63e545bb0ec2ed",
+      "type": "create",
+      "item": {
+        "title": "Tracking Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "<b>Use a Tracking Tool</b>",
+            "id": "caf77ac88a3dde4c12cd2b2faf77a1bf"
+          },
+          {
+            "type": "html",
+            "text": "\nPost-it notes, programmer's memories, even email, are all unreliable repositories for bug reports and feature requests. All of them are also difficult to coordinate on a team of more than 2 people working together for more than a few days. Select a tool that is easy to use and very configurable.",
+            "id": "c08d2d9413338d088c39a96dc8e84069"
+          },
+          {
+            "type": "html",
+            "text": "<b>Therefore:</b>",
+            "id": "4a51496124384c2c7ef0cc8549a600b7"
+          },
+          {
+            "type": "html",
+            "text": "\nUse an automated tracking tool. The tool doesn't have to be sophisticated -- it can be a spreadsheet in simple cases -- but it must be shared.",
+            "id": "ba5dcc966fc96d564ce8ee77868561ff"
+          },
+          {
+            "type": "html",
+            "text": "\nBug tracking software has features to help manage work. Users can create filters and sorts to assist workflow. Filter on the field \"Detected By\" with your id to show the bugs you've filed. Filter on \"Assigned To\" to see your responsibilities. Sort by Severity to track the top problems.",
+            "id": "e5a51f243a40b5818b3a3bcbe2a2b82f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+          },
+          {
+            "type": "html",
+            "text": "From the [[Xp Mailing List]]: (should go to [[No Task Database]], similarly to [[No Bug Database]])",
+            "id": "a50eeb6e9efb4e95ac8363f326dcd317"
+          },
+          {
+            "type": "html",
+            "text": "\nMy favorite XP tracking tool that I've used to date was one we devised on a six-programmer XP project: all programmers in one room, customer in same room, supplemented by several analysts who attended planning meetings, helped write cards, wrote analysis docs, etc.",
+            "id": "5fac13815d476326436065eb447fadd1"
+          },
+          {
+            "type": "html",
+            "text": "\nStories were written on note cards, as were tasks. We kept the story cards in a standard card file, which worked fine. We started out signing up for tasks, and keeping them on our desks, but this made it harder to figure out progress, because someone had to poke around and ask everyone where they were, find out what tasks were done, update a spreadsheet etc. About a week into the project, it suddenly hit me that what we needed was one of those hanging fruit baskets -- the ones made of three metal mesh baskets hanging from chains. Someone on the team had one, and brought it in the next day.  We hung it right in the middle of the programming area.",
+            "id": "24eeca35e2bcfa40e4b97b727baef70b"
+          },
+          {
+            "type": "html",
+            "text": "\nWe were using a pretty much by-the-book planning game up to this point.  However now instead of signing-up and taking the tasks at the planning meeting we just got a sense of how much there was to do, and whether we thought we could get it done or not. The task cards were then placed (thrown) into the lowest of the hanging baskets. Whenever someone needed a task to do, they simply grabbed a pair partner and then a task from the basket (or vice versa, sometimes they grabbed a task then picked a\npartner). When they finished their task, they initialed the card, and put the card in the middle basket.",
+            "id": "82091a49e886e83e68fac54ccc3b3d50"
+          },
+          {
+            "type": "html",
+            "text": "(in case you were wondering, we put apples in the top basket)",
+            "id": "ea450038d5d29c6262355b104edb3580"
+          },
+          {
+            "type": "html",
+            "text": "\nEveryone, the programmers, the customer, the analysts, even our CEO walking by, could immediately see how things were going: if there were a lot of cards in the lowest basket, it was easy for anyone -- everyone -- to ask, \"Lot of cards up there, are we on track?\" If there were a lot of cards overall, velocity was good, if there were a bunch in the middle basket, and only a few in the lower one, we knew we needed to break down more stories, and so forth (so many great reports, right out of the box!).",
+            "id": "183bbea5ce01e817f210e58e556fd084"
+          },
+          {
+            "type": "html",
+            "text": "\nUsing this tool, tracking became a trivial activity that everyone just did. As the coach, I might have been a bit more obsessive about it, but really after a while, everyone got in the habit of sifting through the tasks to see what was left to be done -- both to choose what to do next, and to see how much was left to do.",
+            "id": "b7dbcd3af86b126632de0aba138ff95f"
+          },
+          {
+            "type": "html",
+            "text": "\nWorked like a charm for the entirety of the three-month project. -- [[Bill Caputo]]",
+            "id": "357f19dbd9e21ea0e5dccd6d8d5533d0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+          },
+          {
+            "type": "code",
+            "text": " '''Agility''' (http://www.agileedge.com Bug Tracking) from AgileEdge is a Web-based Issue and Bug tracker. Agility is a highly customizable solution to track all your project needs.  Agility also features a rich security framework that can be customized at the project level.",
+            "id": "ad609fb7345a3a9fbde14f003294881f"
+          },
+          {
+            "type": "html",
+            "text": "<b>Bontq</b> ([http://www.bontq.com www.bontq.com] Web Based Bug and Issue Tracking System) It allows you to manage projects and track bugs very easy because of its clean and user-friendly interface. The essential part of Bontq is it's Desktop Client. Using Desktop Client's functionality you can Capture Screenshots, Record Videos and attach them right to your items.",
+            "id": "8457c828045f650824cac4eeb78d42a2"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+          },
+          {
+            "type": "html",
+            "text": "<b>Issue Tracking Anywhere</b> is a web-based issue tracking system designed for work item tracking, bug tracking, customer support and project management. It has two editions: Standalone (15 users free) and Hosted. The Hosted edition uses SaaS (Software as a Service) as the delivery model and is fully managed by Dynamsoft. ([http://www.dynamsoft.com/Products/ITA_Overview.aspx www.dynamsoft.com])",
+            "id": "49075de9cc887256a3eea0eb44ba61e3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+          },
+          {
+            "type": "html",
+            "text": "[[Defect Tracking Patterns]]",
+            "id": "976575b052f1e78ac69bedef025455b5"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+          },
+          {
+            "type": "html",
+            "text": "[[Extreme Planner]] is a commercial tool we are using for planning and tracking stories and tasks - its working out really well so far ([http://www.extremeplanner.com www.extremeplanner.com]) ",
+            "id": "fdca67273975edab2400e7bd729437ed"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+          },
+          {
+            "type": "html",
+            "text": "[[Target Process]]:Suite ([http://www.targetprocess.com www.targetprocess.com]) is an integrated Project Management and Bug Tracking tool. It was designed to support Extreme Programming planning style and other agile approaches.",
+            "id": "ae3e5cc278c20cad92b7ddf93eb72f48"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "50a1a540ef49ef683a94784d1a5bfa2a"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Bug]]",
+            "id": "9de5aa48fa4ffffb43df2d655326ad3c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TrackingTool c2.com]",
+            "id": "9cc4ca4e80e06b7cddbee97b2696eddc"
+          }
+        ]
+      }
+    }
+  ]
+}

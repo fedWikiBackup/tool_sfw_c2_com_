@@ -1,0 +1,47 @@
+{
+  "title": "Visual Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Software that lets you create pretty pictures, with the purpose of deluding people that software is being designed.",
+      "id": "e620054f025fa91435d222eab9a8cd2a"
+    },
+    {
+      "type": "html",
+      "text": " [[Graph Viz]]",
+      "id": "14b21c6f03db0d4dfa934ad177c78317"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?VisualTools c2.com]",
+      "id": "dac29647fd444687168275d0b6ab221b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 947784458000,
+      "id": "01af8dc349e0f56af696eb9cf5d1dcfb",
+      "type": "create",
+      "item": {
+        "title": "Visual Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Software that lets you create pretty pictures, with the purpose of deluding people that software is being designed.",
+            "id": "e620054f025fa91435d222eab9a8cd2a"
+          },
+          {
+            "type": "html",
+            "text": " [[Graph Viz]]",
+            "id": "14b21c6f03db0d4dfa934ad177c78317"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?VisualTools c2.com]",
+            "id": "dac29647fd444687168275d0b6ab221b"
+          }
+        ]
+      }
+    }
+  ]
+}

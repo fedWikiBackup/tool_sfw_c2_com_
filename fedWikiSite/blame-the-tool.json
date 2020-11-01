@@ -1,0 +1,57 @@
+{
+  "title": "Blame The Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "A highly effective technique to [[Avoid Doing Any Work]]. Reports of success are as high as 96%.",
+      "id": "d31c2b70e457d388eccd85550dbce1ce"
+    },
+    {
+      "type": "html",
+      "text": "\nThis is even better if the tool you blame is a software IDE. The obvious solution to your blaming of the tool is to write your own IDE, which you can of course waste many months on - it (obviously) needs to be fully modular, and you can go on writing abstract classes and making design decisions for many months before you have to implement anything - and when you fail to implement it properly, you can [[Blame The Tool]].",
+      "id": "32bdf2a3207d58235a128ebf16239d16"
+    },
+    {
+      "type": "html",
+      "text": "\nThinking like this most certainly is reason to call for [[Process Improvement]], [[Process Improvement Tools]] and perhaps led to the shift to O<b></b>ffshoreProgrammers.",
+      "id": "5f3d8bfa73eb29827ae64769a1e33300"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?BlameTheTool c2.com]",
+      "id": "1544f10b22d80778eb2cbf847085934a"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1106451141000,
+      "id": "2e9dfa45dbd642789a772c1dfc1aa4cb",
+      "type": "create",
+      "item": {
+        "title": "Blame The Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "A highly effective technique to [[Avoid Doing Any Work]]. Reports of success are as high as 96%.",
+            "id": "d31c2b70e457d388eccd85550dbce1ce"
+          },
+          {
+            "type": "html",
+            "text": "\nThis is even better if the tool you blame is a software IDE. The obvious solution to your blaming of the tool is to write your own IDE, which you can of course waste many months on - it (obviously) needs to be fully modular, and you can go on writing abstract classes and making design decisions for many months before you have to implement anything - and when you fail to implement it properly, you can [[Blame The Tool]].",
+            "id": "32bdf2a3207d58235a128ebf16239d16"
+          },
+          {
+            "type": "html",
+            "text": "\nThinking like this most certainly is reason to call for [[Process Improvement]], [[Process Improvement Tools]] and perhaps led to the shift to O<b></b>ffshoreProgrammers.",
+            "id": "5f3d8bfa73eb29827ae64769a1e33300"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?BlameTheTool c2.com]",
+            "id": "1544f10b22d80778eb2cbf847085934a"
+          }
+        ]
+      }
+    }
+  ]
+}

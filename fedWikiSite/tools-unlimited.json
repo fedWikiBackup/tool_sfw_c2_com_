@@ -1,0 +1,87 @@
+{
+  "title": "Tools Unlimited",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>Don't limit your options (tools) </i>[[Thinking Out Loud]].[[Donald Noyes]].20131209",
+      "id": "46cef269949dc40cae8cec2233628635"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "2f937b41e5a914b87f4842a0342040d5"
+    },
+    {
+      "type": "html",
+      "text": " Tool usage may include:",
+      "id": "8d897f48a33596410f7e41da848101e2"
+    },
+    {
+      "type": "html",
+      "text": " [[Using Members As Tools]]?",
+      "id": "ef238e91277cedbc05675ba95176af85"
+    },
+    {
+      "type": "html",
+      "text": " [[Using Elements As Tools]]?",
+      "id": "f4bcc84fe513f9dd958511a3b77eb7f6"
+    },
+    {
+      "type": "html",
+      "text": " [[Using Links As Tools]]? ",
+      "id": "09c2a9ca066f0b57162902b0f1d16519"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolsUnlimited c2.com]",
+      "id": "3186c3855f2e8e43fa29b8d0132cdb83"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1386576193000,
+      "id": "b5ad1e0e0b3fe9831f2831aa7a52011c",
+      "type": "create",
+      "item": {
+        "title": "Tools Unlimited",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>Don't limit your options (tools) </i>[[Thinking Out Loud]].[[Donald Noyes]].20131209",
+            "id": "46cef269949dc40cae8cec2233628635"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "2f937b41e5a914b87f4842a0342040d5"
+          },
+          {
+            "type": "html",
+            "text": " Tool usage may include:",
+            "id": "8d897f48a33596410f7e41da848101e2"
+          },
+          {
+            "type": "html",
+            "text": " [[Using Members As Tools]]?",
+            "id": "ef238e91277cedbc05675ba95176af85"
+          },
+          {
+            "type": "html",
+            "text": " [[Using Elements As Tools]]?",
+            "id": "f4bcc84fe513f9dd958511a3b77eb7f6"
+          },
+          {
+            "type": "html",
+            "text": " [[Using Links As Tools]]? ",
+            "id": "09c2a9ca066f0b57162902b0f1d16519"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolsUnlimited c2.com]",
+            "id": "3186c3855f2e8e43fa29b8d0132cdb83"
+          }
+        ]
+      }
+    }
+  ]
+}

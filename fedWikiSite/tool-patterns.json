@@ -1,0 +1,167 @@
+{
+  "title": "Tool Patterns",
+  "story": [
+    {
+      "type": "html",
+      "text": "One of the things that's missing so far (or, at least, so \nfar as I know) is a strong distinction between <i>types</i> \nof software.",
+      "id": "a0c34fa4cab8785186fd3cbeee30ba47"
+    },
+    {
+      "type": "code",
+      "text": "  -- These may be the same as or isomorphic to SystemMetaphor's -- Kent Beck",
+      "id": "d24b1037eec07fee221bdd5798d6cc2b"
+    },
+    {
+      "type": "html",
+      "text": "\nNot at the level of Word-Processor versus Spreadsheet versus \nDatabase-n-Forms.",
+      "id": "ef135a7b03833ad6b9e1f86904d17d61"
+    },
+    {
+      "type": "html",
+      "text": "\nBut, more at the level of \"intended audience.\" Or, \nperhaps, \"intended use.\" ",
+      "id": "e70525d1ae217dbb4a9cfc4d0cfbbc63"
+    },
+    {
+      "type": "html",
+      "text": "\nThere are certain tasks that are well-defined right from the\nstart. You know what you have to do and software which is\nsomewhat rigidly constrained and forces you to make all\nthe decisions up front is fine.",
+      "id": "f7fd460b49d50f4b361ed8d708b77c33"
+    },
+    {
+      "type": "html",
+      "text": "\nThere are other tasks where the outcome is uncertain. You're not sure what you're going to produce (more precisely, how\nwhat you're going to produce works), or what the essential \npoints are. ",
+      "id": "000270042087557ca58a8518b44e286d"
+    },
+    {
+      "type": "html",
+      "text": "\nThis distinction leads to different types of software ",
+      "id": "fe404573835bf1223a2416ae0c2b6c49"
+    },
+    {
+      "type": "html",
+      "text": "(based on different <i>use patterns</i>). Examples:",
+      "id": "06713e3a4016dab987ea72e6d359af04"
+    },
+    {
+      "type": "code",
+      "text": "     Category 1 Software:Income Tax Software\n     Category 2 Task: Developer Tools ",
+      "id": "e5b77d6a32a22064feaad307e573f5a3"
+    },
+    {
+      "type": "html",
+      "text": "\nI think that, in the world of the future, all software \nwill eventually be designed to handle tasks in category ",
+      "id": "ce3522364cd892d695e3aef95780b70b"
+    },
+    {
+      "type": "html",
+      "text": "(2) (all tasks start out in category (2).  \nPart of the job a good software package will do is, \nwhen a task has evolved into a category (1) task, \nis generate scripts for it).",
+      "id": "878d14de298235e41954181a27e38cee"
+    },
+    {
+      "type": "html",
+      "text": "\nAnd, thinking about software this way leads to emphasizing \ncertain design principles.",
+      "id": "82452e1ecfbc54372362b67144963cf6"
+    },
+    {
+      "type": "html",
+      "text": "\nFor example: [[Allow For Boot Strapping]]",
+      "id": "4598c3a54595f1f891b3d1b92ce915a0"
+    },
+    {
+      "type": "html",
+      "text": "\n[[William Grosso]]",
+      "id": "75c2a9e9bbe5898a3fa2ec0277754fde"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolPatterns c2.com]",
+      "id": "0913f1b173990c324e944bad283006ef"
+    }
+  ],
+  "journal": [
+    {
+      "date": 895780914000,
+      "id": "4d3e51eff156de1203af23722b3dd2e9",
+      "type": "create",
+      "item": {
+        "title": "Tool Patterns",
+        "story": [
+          {
+            "type": "html",
+            "text": "One of the things that's missing so far (or, at least, so \nfar as I know) is a strong distinction between <i>types</i> \nof software.",
+            "id": "a0c34fa4cab8785186fd3cbeee30ba47"
+          },
+          {
+            "type": "code",
+            "text": "  -- These may be the same as or isomorphic to SystemMetaphor's -- Kent Beck",
+            "id": "d24b1037eec07fee221bdd5798d6cc2b"
+          },
+          {
+            "type": "html",
+            "text": "\nNot at the level of Word-Processor versus Spreadsheet versus \nDatabase-n-Forms.",
+            "id": "ef135a7b03833ad6b9e1f86904d17d61"
+          },
+          {
+            "type": "html",
+            "text": "\nBut, more at the level of \"intended audience.\" Or, \nperhaps, \"intended use.\" ",
+            "id": "e70525d1ae217dbb4a9cfc4d0cfbbc63"
+          },
+          {
+            "type": "html",
+            "text": "\nThere are certain tasks that are well-defined right from the\nstart. You know what you have to do and software which is\nsomewhat rigidly constrained and forces you to make all\nthe decisions up front is fine.",
+            "id": "f7fd460b49d50f4b361ed8d708b77c33"
+          },
+          {
+            "type": "html",
+            "text": "\nThere are other tasks where the outcome is uncertain. You're not sure what you're going to produce (more precisely, how\nwhat you're going to produce works), or what the essential \npoints are. ",
+            "id": "000270042087557ca58a8518b44e286d"
+          },
+          {
+            "type": "html",
+            "text": "\nThis distinction leads to different types of software ",
+            "id": "fe404573835bf1223a2416ae0c2b6c49"
+          },
+          {
+            "type": "html",
+            "text": "(based on different <i>use patterns</i>). Examples:",
+            "id": "06713e3a4016dab987ea72e6d359af04"
+          },
+          {
+            "type": "code",
+            "text": "     Category 1 Software:Income Tax Software\n     Category 2 Task: Developer Tools ",
+            "id": "e5b77d6a32a22064feaad307e573f5a3"
+          },
+          {
+            "type": "html",
+            "text": "\nI think that, in the world of the future, all software \nwill eventually be designed to handle tasks in category ",
+            "id": "ce3522364cd892d695e3aef95780b70b"
+          },
+          {
+            "type": "html",
+            "text": "(2) (all tasks start out in category (2).  \nPart of the job a good software package will do is, \nwhen a task has evolved into a category (1) task, \nis generate scripts for it).",
+            "id": "878d14de298235e41954181a27e38cee"
+          },
+          {
+            "type": "html",
+            "text": "\nAnd, thinking about software this way leads to emphasizing \ncertain design principles.",
+            "id": "82452e1ecfbc54372362b67144963cf6"
+          },
+          {
+            "type": "html",
+            "text": "\nFor example: [[Allow For Boot Strapping]]",
+            "id": "4598c3a54595f1f891b3d1b92ce915a0"
+          },
+          {
+            "type": "html",
+            "text": "\n[[William Grosso]]",
+            "id": "75c2a9e9bbe5898a3fa2ec0277754fde"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolPatterns c2.com]",
+            "id": "0913f1b173990c324e944bad283006ef"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "title": "Tool Chain",
+  "story": [
+    {
+      "type": "html",
+      "text": "The computer is an amazing tool. But after you buy one you discover that you need a few more tools to go with it. This is the tool chain. Your hardware manufacturer is at the head of the chain. (More than one chain actually, see [[Supply Chain]].) Your os vendor, Microsoft perhaps, is the next in the chain. Then your Microsoft application vendor, say Adobe if you are a graphic artist. Then comes your photoshop plug-in vendor, and so on.",
+      "id": "5a108d5bc61ff8ebb8982222a583d988"
+    },
+    {
+      "type": "html",
+      "text": "\nI was at a software testing conference recently and noticed that the vendors there were pretty far out on the tool chain. Lots of testers use a product called [[Win Runner]]. They weren't at the show. But there was a company (several actually) that made tools that would help testers use [[Win Runner]]. These folks were out at level 3. (We will start numbering with the computer vendor as zero.) What amazed me is that there was also a vendor at level 4. They made tools that would work with the tools that work with [[Win Runner]] that works with Windows that works on my computer. This can't be a very stable place to build a business or serve your customers.",
+      "id": "ff29f71f1442c02a889813ab6acc5839"
+    },
+    {
+      "type": "html",
+      "text": "\nMicrosoft is proud of the business opportunities that they have created. Of course the best opportunities spawn the longest chains and these eventually collapse with someone consuming a vendor that depended on them. It makes for brutal business and seems to favor the monopolist.",
+      "id": "5df10b63879986701a34b02e4d56c6d4"
+    },
+    {
+      "type": "html",
+      "text": "\nPerhaps open source offers an alternative growth model. An innovator can contribute to an existing project, or, if unwelcome, can fork the project as suits his own community. Still chains abound.  -- [[Ward Cunningham]]",
+      "id": "947dc397bcc29ad29a4e2fc951419d84"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+    },
+    {
+      "type": "html",
+      "text": "\nSome tool chains ...",
+      "id": "7cfe01267d2c824f35bcce207a495938"
+    },
+    {
+      "type": "html",
+      "text": " filter plug-in, photoshop, windows, pc ",
+      "id": "e515a5dbb61278baf80b75eb01e99b2c"
+    },
+    {
+      "type": "html",
+      "text": " boost, stl, c++, c, hw",
+      "id": "749b10259b17553f9e6882d75f4ce954"
+    },
+    {
+      "type": "html",
+      "text": " web, tcp-ip, dsl, telco",
+      "id": "2cca56bc0bde47b4ec8d601ce69f0f9d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+    },
+    {
+      "type": "html",
+      "text": "\nMulti-platform tools make for alternative chains. Consider my own fit framework ([http://fit.c2.com fit.c2.com]) which is built in multiple languages which are themselves multi-platform.",
+      "id": "646249cff8da3e471af93b7e4250c67e"
+    },
+    {
+      "type": "html",
+      "text": " fit, java, windows, pc",
+      "id": "190d7f91340980a9befadeadbb59e7b2"
+    },
+    {
+      "type": "html",
+      "text": " fit, java, linux, pc",
+      "id": "7474e8dcca9ed3b087e36fde0ba2fc21"
+    },
+    {
+      "type": "html",
+      "text": " fit, java, bsd, mac",
+      "id": "68d0747be0394375e00291e43dfdb765"
+    },
+    {
+      "type": "html",
+      "text": " fit, python, windows, pc",
+      "id": "ee153a2259634b3e253d57ffb4baef55"
+    },
+    {
+      "type": "html",
+      "text": " fit, python, linux, pc",
+      "id": "35e47b39364f1d3a996e89ae0de4979c"
+    },
+    {
+      "type": "html",
+      "text": " fit, python, bsd, mac",
+      "id": "e396991de67026df5c2a217ab0c9cf90"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+    },
+    {
+      "type": "html",
+      "text": "\nEven in a random model (where all opportunities are equal, and each chain has the same opportunity to add a link), the monopolist is favored.  If the chances to add a link are about the same as the chances to lose one, most chains will have no links, but a few will have long ones.",
+      "id": "68262ed1e75209ebae1aec270a926326"
+    },
+    {
+      "type": "html",
+      "text": "\nWhere open source may differ is that links tend to be lost by bitrot rather than bankruptcy, so if that provides enough positive bias we should expect a less hockey-sticked distribution.",
+      "id": "3269bef96de301ef13a6b033dc1af21f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+    },
+    {
+      "type": "html",
+      "text": "\nSee [[Web Development Tool Chain]]",
+      "id": "ac1d6439583f7dbe881d8b14a7c8dc9d"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolChain c2.com]",
+      "id": "7e4e6524f1ce6b8b96240b5c3150582f"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1087196173000,
+      "id": "c677ec5c71e37aff45eafe4ded0d0da2",
+      "type": "create",
+      "item": {
+        "title": "Tool Chain",
+        "story": [
+          {
+            "type": "html",
+            "text": "The computer is an amazing tool. But after you buy one you discover that you need a few more tools to go with it. This is the tool chain. Your hardware manufacturer is at the head of the chain. (More than one chain actually, see [[Supply Chain]].) Your os vendor, Microsoft perhaps, is the next in the chain. Then your Microsoft application vendor, say Adobe if you are a graphic artist. Then comes your photoshop plug-in vendor, and so on.",
+            "id": "5a108d5bc61ff8ebb8982222a583d988"
+          },
+          {
+            "type": "html",
+            "text": "\nI was at a software testing conference recently and noticed that the vendors there were pretty far out on the tool chain. Lots of testers use a product called [[Win Runner]]. They weren't at the show. But there was a company (several actually) that made tools that would help testers use [[Win Runner]]. These folks were out at level 3. (We will start numbering with the computer vendor as zero.) What amazed me is that there was also a vendor at level 4. They made tools that would work with the tools that work with [[Win Runner]] that works with Windows that works on my computer. This can't be a very stable place to build a business or serve your customers.",
+            "id": "ff29f71f1442c02a889813ab6acc5839"
+          },
+          {
+            "type": "html",
+            "text": "\nMicrosoft is proud of the business opportunities that they have created. Of course the best opportunities spawn the longest chains and these eventually collapse with someone consuming a vendor that depended on them. It makes for brutal business and seems to favor the monopolist.",
+            "id": "5df10b63879986701a34b02e4d56c6d4"
+          },
+          {
+            "type": "html",
+            "text": "\nPerhaps open source offers an alternative growth model. An innovator can contribute to an existing project, or, if unwelcome, can fork the project as suits his own community. Still chains abound.  -- [[Ward Cunningham]]",
+            "id": "947dc397bcc29ad29a4e2fc951419d84"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+          },
+          {
+            "type": "html",
+            "text": "\nSome tool chains ...",
+            "id": "7cfe01267d2c824f35bcce207a495938"
+          },
+          {
+            "type": "html",
+            "text": " filter plug-in, photoshop, windows, pc ",
+            "id": "e515a5dbb61278baf80b75eb01e99b2c"
+          },
+          {
+            "type": "html",
+            "text": " boost, stl, c++, c, hw",
+            "id": "749b10259b17553f9e6882d75f4ce954"
+          },
+          {
+            "type": "html",
+            "text": " web, tcp-ip, dsl, telco",
+            "id": "2cca56bc0bde47b4ec8d601ce69f0f9d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+          },
+          {
+            "type": "html",
+            "text": "\nMulti-platform tools make for alternative chains. Consider my own fit framework ([http://fit.c2.com fit.c2.com]) which is built in multiple languages which are themselves multi-platform.",
+            "id": "646249cff8da3e471af93b7e4250c67e"
+          },
+          {
+            "type": "html",
+            "text": " fit, java, windows, pc",
+            "id": "190d7f91340980a9befadeadbb59e7b2"
+          },
+          {
+            "type": "html",
+            "text": " fit, java, linux, pc",
+            "id": "7474e8dcca9ed3b087e36fde0ba2fc21"
+          },
+          {
+            "type": "html",
+            "text": " fit, java, bsd, mac",
+            "id": "68d0747be0394375e00291e43dfdb765"
+          },
+          {
+            "type": "html",
+            "text": " fit, python, windows, pc",
+            "id": "ee153a2259634b3e253d57ffb4baef55"
+          },
+          {
+            "type": "html",
+            "text": " fit, python, linux, pc",
+            "id": "35e47b39364f1d3a996e89ae0de4979c"
+          },
+          {
+            "type": "html",
+            "text": " fit, python, bsd, mac",
+            "id": "e396991de67026df5c2a217ab0c9cf90"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+          },
+          {
+            "type": "html",
+            "text": "\nEven in a random model (where all opportunities are equal, and each chain has the same opportunity to add a link), the monopolist is favored.  If the chances to add a link are about the same as the chances to lose one, most chains will have no links, but a few will have long ones.",
+            "id": "68262ed1e75209ebae1aec270a926326"
+          },
+          {
+            "type": "html",
+            "text": "\nWhere open source may differ is that links tend to be lost by bitrot rather than bankruptcy, so if that provides enough positive bias we should expect a less hockey-sticked distribution.",
+            "id": "3269bef96de301ef13a6b033dc1af21f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c69016baa24132a6f3692ad3cdd1d5f0"
+          },
+          {
+            "type": "html",
+            "text": "\nSee [[Web Development Tool Chain]]",
+            "id": "ac1d6439583f7dbe881d8b14a7c8dc9d"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolChain c2.com]",
+            "id": "7e4e6524f1ce6b8b96240b5c3150582f"
+          }
+        ]
+      }
+    }
+  ]
+}

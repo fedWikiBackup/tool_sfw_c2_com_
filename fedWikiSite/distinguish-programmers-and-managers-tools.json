@@ -1,0 +1,147 @@
+{
+  "title": "Distinguish Programmers And Managers Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "\nSome tools (where \"tool\" can be a CASE tool, a project planning tool, a process, or anything like that) are meant to aid <i>programmers</i>.  Aiding programmers refers to anything that makes the programmers more productive, clarifies their thinking, eliminates redundancy or rote in the development process, etc.",
+      "id": "15c760451db1cae219cea50b21d05fed"
+    },
+    {
+      "type": "html",
+      "text": "\nExamples (of tools that are generally only useful to the programming team) include:",
+      "id": "e3784dbc4b2f29cef568bdb484c42c38"
+    },
+    {
+      "type": "html",
+      "text": " Version tracking systems/configuration management tools.",
+      "id": "152e59774f03773a27047272ab2bc954"
+    },
+    {
+      "type": "html",
+      "text": " Compilers, debuggers, [[Refactoring Browser]]s, etc.",
+      "id": "6e00234bfca960561c0d9b4907e1b26b"
+    },
+    {
+      "type": "html",
+      "text": " [[Unit Test]] frameworks, other SQA tools.",
+      "id": "31a71cd9e8ecef4888738293b6dfe475"
+    },
+    {
+      "type": "html",
+      "text": "\nOther tools are intended to aid <i>managers</i>; allowing management to track and report on the progress of the project, estimate time and cost, audit the ongoing work, etc.  The king of management tools is, of course, the schedule.",
+      "id": "e1c420c7c9a2ac0e39255c43411d0dba"
+    },
+    {
+      "type": "html",
+      "text": "\nMany tools and processes are (in theory) capable of serving both masters:",
+      "id": "989d032ad479a626bc77f97102519082"
+    },
+    {
+      "type": "html",
+      "text": " [[Design Reviews]] and formal design procedures.  Allows programmers to clarify and crystallize the design; allows management to verify that due diligence is being paid to such issues",
+      "id": "e7067580ffcc2330e5582ddf07abf2bc"
+    },
+    {
+      "type": "html",
+      "text": " [[Defect Tracking]] systems.  Allows programmers to track issues (defects or whatever else) and address them in an orderly fashion.  Allows management to have visibility and input to such process, also allows management (in theory at least) to measure the defect-generation rate of programmers and thus audit their performance.",
+      "id": "bbc614ba4196595400d721cc8a3e296f"
+    },
+    {
+      "type": "html",
+      "text": "\nHowever, in many cases attempts to serve <i>both</i> masters will fail; as the two uses of such tools conflict.",
+      "id": "94d68b0a6d2ead868540e77a23461e19"
+    },
+    {
+      "type": "html",
+      "text": " Management-audited design tools often turn into [[Big Design Up Front]]; a better technique for programmers is the [[Little Design Up Front]] (which is not designed with management audit concerns in mind)",
+      "id": "94adcbfdcf1f5efc248cb1f7321993b7"
+    },
+    {
+      "type": "html",
+      "text": " Use of [[Defect Tracking]] systems as a measure of programmer performance <b>kills</b> its effectiveness as a method for the team to handle defects.  If programmers know that any defect filed \"against them\" is a demerit, alternate defect tracking systems (and ones which are highly error-prone) will often arise.  Programmers will view having a defect filed \"against them\" as an offense and get pissed off when such bug reports are filed.",
+      "id": "1159ea7acdafc7b85473a8fb528ac793"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?DistinguishProgrammersAndManagersTools c2.com]",
+      "id": "8a6cb7bad965d4c427e58dfbb973bbee"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1095180208000,
+      "id": "59c7040356ea688be9bf51a2750a9600",
+      "type": "create",
+      "item": {
+        "title": "Distinguish Programmers And Managers Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "\nSome tools (where \"tool\" can be a CASE tool, a project planning tool, a process, or anything like that) are meant to aid <i>programmers</i>.  Aiding programmers refers to anything that makes the programmers more productive, clarifies their thinking, eliminates redundancy or rote in the development process, etc.",
+            "id": "15c760451db1cae219cea50b21d05fed"
+          },
+          {
+            "type": "html",
+            "text": "\nExamples (of tools that are generally only useful to the programming team) include:",
+            "id": "e3784dbc4b2f29cef568bdb484c42c38"
+          },
+          {
+            "type": "html",
+            "text": " Version tracking systems/configuration management tools.",
+            "id": "152e59774f03773a27047272ab2bc954"
+          },
+          {
+            "type": "html",
+            "text": " Compilers, debuggers, [[Refactoring Browser]]s, etc.",
+            "id": "6e00234bfca960561c0d9b4907e1b26b"
+          },
+          {
+            "type": "html",
+            "text": " [[Unit Test]] frameworks, other SQA tools.",
+            "id": "31a71cd9e8ecef4888738293b6dfe475"
+          },
+          {
+            "type": "html",
+            "text": "\nOther tools are intended to aid <i>managers</i>; allowing management to track and report on the progress of the project, estimate time and cost, audit the ongoing work, etc.  The king of management tools is, of course, the schedule.",
+            "id": "e1c420c7c9a2ac0e39255c43411d0dba"
+          },
+          {
+            "type": "html",
+            "text": "\nMany tools and processes are (in theory) capable of serving both masters:",
+            "id": "989d032ad479a626bc77f97102519082"
+          },
+          {
+            "type": "html",
+            "text": " [[Design Reviews]] and formal design procedures.  Allows programmers to clarify and crystallize the design; allows management to verify that due diligence is being paid to such issues",
+            "id": "e7067580ffcc2330e5582ddf07abf2bc"
+          },
+          {
+            "type": "html",
+            "text": " [[Defect Tracking]] systems.  Allows programmers to track issues (defects or whatever else) and address them in an orderly fashion.  Allows management to have visibility and input to such process, also allows management (in theory at least) to measure the defect-generation rate of programmers and thus audit their performance.",
+            "id": "bbc614ba4196595400d721cc8a3e296f"
+          },
+          {
+            "type": "html",
+            "text": "\nHowever, in many cases attempts to serve <i>both</i> masters will fail; as the two uses of such tools conflict.",
+            "id": "94d68b0a6d2ead868540e77a23461e19"
+          },
+          {
+            "type": "html",
+            "text": " Management-audited design tools often turn into [[Big Design Up Front]]; a better technique for programmers is the [[Little Design Up Front]] (which is not designed with management audit concerns in mind)",
+            "id": "94adcbfdcf1f5efc248cb1f7321993b7"
+          },
+          {
+            "type": "html",
+            "text": " Use of [[Defect Tracking]] systems as a measure of programmer performance <b>kills</b> its effectiveness as a method for the team to handle defects.  If programmers know that any defect filed \"against them\" is a demerit, alternate defect tracking systems (and ones which are highly error-prone) will often arise.  Programmers will view having a defect filed \"against them\" as an offense and get pissed off when such bug reports are filed.",
+            "id": "1159ea7acdafc7b85473a8fb528ac793"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?DistinguishProgrammersAndManagersTools c2.com]",
+            "id": "8a6cb7bad965d4c427e58dfbb973bbee"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1207 @@
+{
+  "title": "Collaboration Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Collection of sites with vendors of collaboration tools. ",
+      "id": "060eaa22a00d3072e4034fb1ff0ea2fd"
+    },
+    {
+      "type": "html",
+      "text": "<b>Tools</b>",
+      "id": "1762c4debba5ad2eceef6851d943db5b"
+    },
+    {
+      "type": "html",
+      "text": "<b>Community ecologies</b>",
+      "id": "42aae0d700a72359dd8cf5c2306f06da"
+    },
+    {
+      "type": "html",
+      "text": "Groove:<br>[http://www.groove.net/ www.groove.net]  <- absorbed by Microsoft??",
+      "id": "e658c4bf174e0cf444c573e6f470553c"
+    },
+    {
+      "type": "html",
+      "text": "Firetalk:<br>[http://www.firetalk.com/ www.firetalk.com] No longer Available 8/30/2001",
+      "id": "581bedfee4ee43d043cdfdec26e69837"
+    },
+    {
+      "type": "html",
+      "text": "P2P, q&a:<br>[http://www.askmecorp.com/products.asp?si1=0 www.askmecorp.com]",
+      "id": "575f732f15ee3466af1a0c10f4cafda6"
+    },
+    {
+      "type": "html",
+      "text": "Bizgrokker:<br>[http://gw.knav.com/ gw.knav.com]",
+      "id": "6ea8968a5db0b6bd702dc2e6f90ca796"
+    },
+    {
+      "type": "html",
+      "text": " Shared Page: [http://www.sharedpage.com www.sharedpage.com] (Webstart [http://www.sharedpage.com/download/Multitaneous.jnlp www.sharedpage.com])",
+      "id": "c5eeb4a42ac80529dbde28084534e1ae"
+    },
+    {
+      "type": "html",
+      "text": "<b>Team & officeware</b>",
+      "id": "c68ab9cc8cdc04da3b3a8b1b4c0130ce"
+    },
+    {
+      "type": "html",
+      "text": "Actionmint:<br>[https://www.actionmint.com www.actionmint.com]",
+      "id": "74e5533381e9cd99f64addcf06141b25"
+    },
+    {
+      "type": "html",
+      "text": "[[Agile Place]]:<br>[http://www.agileplace.com www.agileplace.com]",
+      "id": "d592d47d3a863cb0742bbf9dc81e67e4"
+    },
+    {
+      "type": "html",
+      "text": "[[Work Zone]] Extranet:<br>[http://www.trichys.com www.trichys.com]",
+      "id": "e3285e7ca92126dafbf0a0a812bcaca3"
+    },
+    {
+      "type": "html",
+      "text": "AKG:<br>[http://www.akgroup.com/ www.akgroup.com]",
+      "id": "4f8c3a8ff1488b9ed960dde5de0abb4a"
+    },
+    {
+      "type": "html",
+      "text": "Correlate:<br>[http://www.correlate.com./coverage.html www.correlate.com.] ",
+      "id": "ef9c3e101dddfe8da6ebffc75cc7ca3b"
+    },
+    {
+      "type": "html",
+      "text": "Collaborex:<br>[http://www.collaborex.com/solutions/index.asp www.collaborex.com]",
+      "id": "34fd33b7abccda622ca6c98b899607cf"
+    },
+    {
+      "type": "html",
+      "text": "Flypaper:<br>[http://www.flypaper.com/ www.flypaper.com]",
+      "id": "44379e1c17fd5551f53cafb1fae2c470"
+    },
+    {
+      "type": "html",
+      "text": "Intranets.com:<br>[http://www.intranets.com/ www.intranets.com]",
+      "id": "a40827ba6395f1a0c5e054b7ca3293c5"
+    },
+    {
+      "type": "html",
+      "text": "Oracle Collaboration Suite:<br>[http://www.oracle.com www.oracle.com]",
+      "id": "e491eddad387127329e20881a60cbeb2"
+    },
+    {
+      "type": "html",
+      "text": "Pioneer Spirit:<br>[http://pioneerspirit.com/ pioneerspirit.com] and [http://www.pioneerspirit.co.uk/ www.pioneerspirit.co.uk]",
+      "id": "22b1b518a9ca89214b0f3420bce8235b"
+    },
+    {
+      "type": "html",
+      "text": "Planning XP Style:<br>[[Xp Plan It]]",
+      "id": "239b075e74a2d94d071b705f7a9c4e0a"
+    },
+    {
+      "type": "html",
+      "text": "reThinkndo:<br>[http://www.rethinkanddo.com/ www.rethinkanddo.com]",
+      "id": "b9bcdff0c8afeac2b53098ca5b626344"
+    },
+    {
+      "type": "html",
+      "text": "Team Synergy:<br>[http://www.teamsynergy.weblobby.com/ www.teamsynergy.weblobby.com]",
+      "id": "896c9d064d709fac9ca225f61f09bd1a"
+    },
+    {
+      "type": "html",
+      "text": "Virtual teams:<br>[http://www.virtualteams.com/ www.virtualteams.com]",
+      "id": "107d05567a9059f0a7bec0902d938234"
+    },
+    {
+      "type": "html",
+      "text": "Marketing Team Collaboration:<br>[http://www.marketingcentral.com/ www.marketingcentral.com]",
+      "id": "ebaa49a1d2059a85958633dcb4003338"
+    },
+    {
+      "type": "html",
+      "text": "[[Project Open]]:<br>[http://www.project-open.org/ www.project-open.org]",
+      "id": "c15492c489f94a6245454c970b89fdca"
+    },
+    {
+      "type": "html",
+      "text": "[[Share Point]]:<br>[http://www.microsoft.com/business/portals.aspx www.microsoft.com]",
+      "id": "7c3f8cbb46ae5e58222061777ac07c20"
+    },
+    {
+      "type": "html",
+      "text": "<b>Society and association focus</b>",
+      "id": "647c101f99db50c56949855ba6a4ccbb"
+    },
+    {
+      "type": "html",
+      "text": "AIIM The ECM Association [http://www.aiim.org/ www.aiim.org]",
+      "id": "7fefe9ccd1ff8dbb01445ba5667de135"
+    },
+    {
+      "type": "html",
+      "text": "Community of science, finding funding:<br>[http://www.cos.com/ www.cos.com]",
+      "id": "ee3809f566a668d7e066729de42e01ae"
+    },
+    {
+      "type": "html",
+      "text": "Content Management Portal [http://www.contentmanager.de www.contentmanager.de]",
+      "id": "65986278d6dcbafa2783dc982e5151dd"
+    },
+    {
+      "type": "html",
+      "text": "Practicity:<br>[http://www.truesourceinc.com/Practicity/product.html www.truesourceinc.com]",
+      "id": "ffe0b02df12a444f3aed786724c4bfe1"
+    },
+    {
+      "type": "html",
+      "text": "Mitre's Overview:<br>[http://cvw.sourceforge.net/cvw/info/CVWOverview.php3 cvw.sourceforge.net]",
+      "id": "d7780aa4678ed07a8af17d279e1232a4"
+    },
+    {
+      "type": "html",
+      "text": "123Signup, membership management system:<br>[http://www.123signup.com/ www.123signup.com]",
+      "id": "ec41dd5e47622d22de27d8e19a1d55f9"
+    },
+    {
+      "type": "html",
+      "text": "eTaptestry, social capital:<br>[http://www.etapestry.com/ www.etapestry.com]",
+      "id": "f9902a62cc7649830375aa3286065156"
+    },
+    {
+      "type": "html",
+      "text": "Mit's Visual Who:<br>[http://smg.media.mit.edu/people/Judith/VisualWho/VisualWho.html smg.media.mit.edu]",
+      "id": "fb303686da289540acf57bf48697b0a9"
+    },
+    {
+      "type": "html",
+      "text": "My Association:<br>[http://www.myassociation.com/main.jsp?flash=true www.myassociation.com]",
+      "id": "b5b37756cef7f7674598700e36d2de73"
+    },
+    {
+      "type": "html",
+      "text": "Communispace, community learning:<br>[http://www.communispace.com/ www.communispace.com]",
+      "id": "a78e9088b650a9c0256cedd39dc69bbe"
+    },
+    {
+      "type": "html",
+      "text": "eSociety, community (closed doors):<br>[http://www.esociety.com/ www.esociety.com]",
+      "id": "9eb1a87a0e8a4c5e38428da5eddf7fdb"
+    },
+    {
+      "type": "html",
+      "text": "Open Idea Project:<br>[http://209.181.77.58:8080/openidea/index_html 209.181.77.58:8080]",
+      "id": "ecda5491667008725b6ae8ef0ebc6052"
+    },
+    {
+      "type": "html",
+      "text": "Collabdemo & thoughtstream:<br>[http://209.181.77.58:8080/openidea/oip_wiki/ColabDemo1 209.181.77.58:8080]",
+      "id": "b85796247b60c8680509d209deb53552"
+    },
+    {
+      "type": "html",
+      "text": "<b>Portals & community engines</b>",
+      "id": "6b86e1e7aadcf268a4f6a9d0998db739"
+    },
+    {
+      "type": "html",
+      "text": "Knowledge Interspace:<br>[http://www.knowledgeinterspace.com/index_ip.html www.knowledgeinterspace.com]",
+      "id": "17a89323018ac6eae9bce5a6e793163a"
+    },
+    {
+      "type": "html",
+      "text": "eTango:<br>[http://www.etango.com/products/default.htm www.etango.com] ",
+      "id": "c925cd2a206152b86a1b1978ada13893"
+    },
+    {
+      "type": "html",
+      "text": "iBelong:<br>[http://www.ibelong.com/ www.ibelong.com] ",
+      "id": "3a3dedc8d30af0ab334fe44d351c9542"
+    },
+    {
+      "type": "html",
+      "text": "Engenia collaborative portal:<br>[http://www.engenia.com/main.html www.engenia.com]",
+      "id": "0e41fcb006a05d962d7fd1912aa89e66"
+    },
+    {
+      "type": "html",
+      "text": "Knowledge (learning) community from Powerworx:<br>[http://www.powerworxlearning.com/knowledgecommunity/index.html www.powerworxlearning.com]",
+      "id": "e0b702c28feafda8150bc2061cd19de0"
+    },
+    {
+      "type": "html",
+      "text": "Quiq (b2b portal communities):<br>[http://www.quiq.com/ www.quiq.com]",
+      "id": "58b6cdea292ae8f24174499241a45d18"
+    },
+    {
+      "type": "html",
+      "text": "Community Engine:<br>[http://www.webfair.org/products.html www.webfair.org]",
+      "id": "14aa621de7523d6fe6bd3fd932c9e4a9"
+    },
+    {
+      "type": "html",
+      "text": "Insero linear XML board:<br>[http://www.insero.com/community.html www.insero.com]",
+      "id": "1b1cf23ffb80ef535eeb7d763b7b3f2c"
+    },
+    {
+      "type": "html",
+      "text": "<b>Wiki stuff</b>",
+      "id": "382582ea97bc2d442ad9a4c3e2d07d99"
+    },
+    {
+      "type": "html",
+      "text": "Engelbart's OHS Wiki:<br>[http://bootstrap.org:8080/OHS/RecentChanges bootstrap.org:8080]",
+      "id": "d6d183cd8c96cbe46500f351b62b4af4"
+    },
+    {
+      "type": "html",
+      "text": "[[Meatball Wiki]]:<br>[http://www.usemod.com/cgi-bin/mb.pl www.usemod.com]",
+      "id": "b9c64dbeba40f2030a1359426d015634"
+    },
+    {
+      "type": "html",
+      "text": "Metababy, Wiki like publishing:<br>[http://www.MetaBaby.com/meta/index.html www.MetaBaby.com]",
+      "id": "c2f7bcd6473354bf1f210e5a519c6391"
+    },
+    {
+      "type": "html",
+      "text": "[[Community Wiki]]:<br>[http://communitywiki.org communitywiki.org]",
+      "id": "08d737d38ccb649e4d8863ff3001bfa9"
+    },
+    {
+      "type": "html",
+      "text": "<b>Yellow Pages and people directories</b>",
+      "id": "762883cd68c03fbdd7f7a0016103bd7b"
+    },
+    {
+      "type": "html",
+      "text": "Tacit (e-mail yellowpages):<br>[http://www.tacit.com www.tacit.com]",
+      "id": "287b4a0d1baaff8a4768c828a310e48c"
+    },
+    {
+      "type": "html",
+      "text": "Orbital (expertise profiles):<br>[http://www.orbitalsw.com www.orbitalsw.com]",
+      "id": "9429b1af808c5da967936f9e1a91653e"
+    },
+    {
+      "type": "html",
+      "text": "Collaborative filters and paths, social navigation:<br>[http://www.dcs.gla.ac.uk/~matthew/papers/socnav.pdf www.dcs.gla.ac.uk]",
+      "id": "648161b250982c6b325390f28db717da"
+    },
+    {
+      "type": "html",
+      "text": "Article on Enterprise Wiki:<br>[http://www.cmswatch.com/Feature/145-Wikis-in-the-enterprise?printable=1 www.cmswatch.com]",
+      "id": "c8a802b3f1e684093e8c591a6d09418d"
+    },
+    {
+      "type": "html",
+      "text": "<b>Other</b>",
+      "id": "2d5c18577dc5c97b84a72d2e73854485"
+    },
+    {
+      "type": "html",
+      "text": "Colloguia distributed collaboration:<br>[http://colloquia.bangor.ac.uk/ll/ colloquia.bangor.ac.uk]",
+      "id": "e677c9a7728dd4c9e20af9700d203fed"
+    },
+    {
+      "type": "html",
+      "text": "Town design:<br>[http://www.charrettecenter.com www.charrettecenter.com]",
+      "id": "c72dc7b6c8c698924237903f3b64587e"
+    },
+    {
+      "type": "html",
+      "text": "Knowledge Garden, annotation and conversation:<br>[http://knowledgegarden.org knowledgegarden.org]",
+      "id": "91a63ebf59d7b5376ad956da11600592"
+    },
+    {
+      "type": "html",
+      "text": "OpenACS:<br>[http://openacs.org/what-is-openacs.adp openacs.org]",
+      "id": "4f9c002c107729b4cc32c54c95abcf52"
+    },
+    {
+      "type": "html",
+      "text": "We k notes:<br>[http://webknotes.sourceforge.net/ webknotes.sourceforge.net]",
+      "id": "d61f1ce4bd406cc4c8f8494724c6c649"
+    },
+    {
+      "type": "html",
+      "text": "Metatalk, a community blog:<br>[http://metatalk.metafilter.com/ metatalk.metafilter.com]",
+      "id": "d1d755e27b78811a4dd9c13342ea2958"
+    },
+    {
+      "type": "html",
+      "text": "Vworlds open source multimedia collaboration:<br>[http://www.vworlds.org/ www.vworlds.org] ",
+      "id": "84b9253e5f2faa2c63f2e7dc0e4ebb74"
+    },
+    {
+      "type": "html",
+      "text": "Accentuate nested objects:<br>[http://www.accentuate.com/about/index.html www.accentuate.com]",
+      "id": "296ac2b8ccb3d2fc5a7c6578ab0922df"
+    },
+    {
+      "type": "html",
+      "text": "Weblogs:<br>[http://www.weblogs.com/about www.weblogs.com]",
+      "id": "fbcd3d4cea0f7aa286ab6636def2e4f3"
+    },
+    {
+      "type": "html",
+      "text": "Comminiblogger:<br>[http://www.contenu.nu/nublog.html#communiblogger www.contenu.nu]",
+      "id": "3bbd37d181df846cc89493d27cf924da"
+    },
+    {
+      "type": "html",
+      "text": "Web hosting:<br>[http://www.editthispage.com/ www.editthispage.com]",
+      "id": "b4ef45135ca270fdb6d90432ab2ab9ba"
+    },
+    {
+      "type": "html",
+      "text": "Twisted Systems traction (for teams):<br>[http://www.twisted-systems.com/ www.twisted-systems.com]",
+      "id": "842b2fc51a4ae868494e148a66619f17"
+    },
+    {
+      "type": "html",
+      "text": "Mitre's CVW:<br>[http://cvw.mitre.org/cvw/info/CVWOverview.php3 cvw.mitre.org]",
+      "id": "c3e8fe17f94c858e3fcd9239385f3b78"
+    },
+    {
+      "type": "html",
+      "text": "GK AIMS collaboration around projects World Bank:<br>[http://gkaims.globalknowledge.org/ gkaims.globalknowledge.org] ",
+      "id": "7d9ab39fff661f5743e672cf9daaf577"
+    },
+    {
+      "type": "html",
+      "text": "See [[Km Sources]]",
+      "id": "48c7349accf4ad014bf373d695a2f7ee"
+    },
+    {
+      "type": "html",
+      "text": "Web Collaboration Software:<br>[http://www.YEdit.com/ www.YEdit.com]",
+      "id": "cbda035d12858bd988ee4eae52979056"
+    },
+    {
+      "type": "html",
+      "text": "Multiuser collaborative text editor:<br>[http://www.codingmonkeys.de/subethaedit/ www.codingmonkeys.de]",
+      "id": "05432a5ea7e36fa3d3d024da3c8240d9"
+    },
+    {
+      "type": "html",
+      "text": "<b>Platforms</b>",
+      "id": "b6558aa3f8876c67cdef5b5a70702dfa"
+    },
+    {
+      "type": "html",
+      "text": "E-mail-oriented community aggregator:<br>[http://www.egroups.com www.egroups.com]",
+      "id": "23a2714ce5e63700b8ae1b96fa26585f"
+    },
+    {
+      "type": "html",
+      "text": "Community aggregator:<br>[http://www.sixdegrees.com/ www.sixdegrees.com]",
+      "id": "2915fdf887c4b6d7d599f8124e89a00e"
+    },
+    {
+      "type": "html",
+      "text": "<b>General compilations</b>",
+      "id": "c9acfffa1c2d9d5c6494b88127e5782b"
+    },
+    {
+      "type": "html",
+      "text": "Collaboration technologies at E&Y, Nov, 2000:<br>[http://www.construction.com/technologyother/2000/11/13/15378/63922531-0605-KEYWORD.Missing.asp www.construction.com]",
+      "id": "29bff1cba673bc7a034909a3e5c5179d"
+    },
+    {
+      "type": "html",
+      "text": "Coworking:<br>[http://www.coworking.com/ www.coworking.com] ",
+      "id": "a867b7eeef07a3dd126a0e72f57046a8"
+    },
+    {
+      "type": "html",
+      "text": "Collaboration tools [http://www.collaboration-tools.com/ www.collaboration-tools.com]",
+      "id": "12b54b1e0acdd0498e1d04273dd8d96c"
+    },
+    {
+      "type": "html",
+      "text": "Durlacher's tool list:<br>[http://www.durlacher.co.uk/research/resrepdetail21.asp www.durlacher.co.uk]",
+      "id": "d258b6c65e11571130f563a9bc76f5e7"
+    },
+    {
+      "type": "html",
+      "text": "Web techniques December 2000 issue:<br>[http://www.webtechniques.com/calendar/ www.webtechniques.com]",
+      "id": "b5589e1af247ffd10a8ad6049ca3a237"
+    },
+    {
+      "type": "html",
+      "text": "Weblogs, 03/2000:<br>[http://www.mediainfo.com/ephome/news/newshtm/stop/st030800.htm www.mediainfo.com]",
+      "id": "4d49f3cb9c1d03bd0b7fe404c656c8e5"
+    },
+    {
+      "type": "html",
+      "text": "Collaborative knowledge Thagard, 1997:<br>[http://cogsci.uwaterloo.ca/Articles/Pages/Collab.html cogsci.uwaterloo.ca]",
+      "id": "4c26b1deb4273b943767e6ec70f89993"
+    },
+    {
+      "type": "html",
+      "text": "KM News reviews:<br>[http://www.kmnews.com/Products.htm www.kmnews.com] ",
+      "id": "48e52163be82ccfda48f5d0680af3496"
+    },
+    {
+      "type": "html",
+      "text": "Gene Bellinger's product list:<br>[http://www.outsights.com/systems/kmgmt/kmgmt.htm www.outsights.com]",
+      "id": "0a80f24917fbbcbb2d0f5091cfedd76e"
+    },
+    {
+      "type": "html",
+      "text": "KM World's Knowledge Universe:<br>[http://www.kmworld.com/KMUniverse www.kmworld.com]",
+      "id": "2033cff5188506693198254c8972f704"
+    },
+    {
+      "type": "html",
+      "text": "KM Magazine Vendor Research Center:<br>[http://enterprise.supersites.net/kmmagn2/int/tj0.htm enterprise.supersites.net]",
+      "id": "99e7cf47ef86cffd0726a26aeb2f7125"
+    },
+    {
+      "type": "html",
+      "text": "Knowledge Manager Reviews:<br>[http://www.chironpub.com/Past/past-headlines.html www.chironpub.com]",
+      "id": "8e6da3c9f92dd6a3e5d98fe371ecfbbd"
+    },
+    {
+      "type": "html",
+      "text": "KM Watchdog Archives:<br>[http://www.analysis-by-design.on.ca/rd/Watchdog/body.htm www.analysis-by-design.on.ca]",
+      "id": "969685ec7b2fb892c94deafcb1c21da3"
+    },
+    {
+      "type": "html",
+      "text": "Wiki [[Also Knowledge Tools]] :<br>[http://www.voght.com/cgi-bin/pywiki?AlsoKnowledgeTools www.voght.com]",
+      "id": "dee7881d1e083d66e152d82e470dc802"
+    },
+    {
+      "type": "html",
+      "text": "Web Dav HTTP extensions for collaboration:<br>[http://www.webdav.org/ www.webdav.org]\t",
+      "id": "cd500c567f843e404a79b3ebd322d802"
+    },
+    {
+      "type": "html",
+      "text": "Java Wiki Engines:<br>[http://java-source.net/open-source/wiki-engines java-source.net]",
+      "id": "f9a407de6ea6d5d5169490514de35975"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8fa6702606c54ba5395712b899f1b4a"
+    },
+    {
+      "type": "html",
+      "text": "<b>Knowledge Mapping</b>",
+      "id": "03d67d75d68893f99c882661df02c1aa"
+    },
+    {
+      "type": "html",
+      "text": "[[Km Wiki]] :<br>[http://kmwiki.wikispaces.com/ kmwiki.wikispaces.com]",
+      "id": "f5155f26e7189f8fc021c0f4198dd28e"
+    },
+    {
+      "type": "html",
+      "text": "<b>Ontology of tools</b>",
+      "id": "8ff4398ae0ddbbe20e0f092befc0686a"
+    },
+    {
+      "type": "html",
+      "text": "Community bloggers:<br>[http://www.contenu.nu/nublog.html#communiblogger www.contenu.nu]",
+      "id": "53396c46c1b58e9942121f24c90726c9"
+    },
+    {
+      "type": "html",
+      "text": "Wiki [[Km Ontology]] :<br>[http://www.voght.com/cgi-bin/pywiki?KmOntology www.voght.com]",
+      "id": "6540eb8c9ee3827b8fcf51b17ea7373b"
+    },
+    {
+      "type": "html",
+      "text": "Collaborative technologies:<br>[http://www.collaborate.com/publications/section1-2.html www.collaborate.com]",
+      "id": "0520654959ff3b1a99dc79e7d28926e3"
+    },
+    {
+      "type": "html",
+      "text": "Bootstrap OHS Wiki:<br>[http://bootstrap.org:8080/OHS/OHS bootstrap.org:8080]",
+      "id": "b8c946da5c2d490db08ddc91397fa6f7"
+    },
+    {
+      "type": "html",
+      "text": "IU business school taxonomy:<br>[http://www.bus.indiana.edu/isweb/teachln/epss_p600/tax.htm www.bus.indiana.edu]",
+      "id": "e040a7df3d2e424e5cc567bfbc51318e"
+    },
+    {
+      "type": "html",
+      "text": "<b>Breaking News</b>",
+      "id": "1c24a1d8b5608cf10444d19cd83c158f"
+    },
+    {
+      "type": "html",
+      "text": "Comment driven community:<br>[http://www.contenu.nu/200006.html#hateon www.contenu.nu]",
+      "id": "5641ec5ecde9d4ef6963d3ce656b9e8f"
+    },
+    {
+      "type": "html",
+      "text": "Psybernet, blog:<br>[http://psybernet.editthispage.com/ psybernet.editthispage.com]",
+      "id": "bc9e9deb7ae875e607be49c7a72a9854"
+    },
+    {
+      "type": "html",
+      "text": "Cogos (05/04) [http://www.cogos.com/cogosweb/cogoswebsite.nsf/?Open www.cogos.com]",
+      "id": "2defcb2a64d86dacdfbcb63780a5c165"
+    },
+    {
+      "type": "html",
+      "text": "<b>Bibliography of collaboration</b>",
+      "id": "a538f3fed9ed4f51c3e1871de8127712"
+    },
+    {
+      "type": "html",
+      "text": "Bibligraphy:<br>[http://alexia.lis.uiuc.edu/~twidale/lis450/biblio1.html alexia.lis.uiuc.edu]",
+      "id": "22c32bafd7c66becbd95e28d65f20113"
+    },
+    {
+      "type": "html",
+      "text": "Communities of Practice resources:<br>[http://www.teleport.com/~smithjd/CP_bib/index.html www.teleport.com]",
+      "id": "e2daa8c412cd03c68a050133f69bf8e5"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8fa6702606c54ba5395712b899f1b4a"
+    },
+    {
+      "type": "html",
+      "text": "\nThe original version of this page can be found at [http://www.voght.com/cgi-bin/pywiki?CollabTools www.voght.com].",
+      "id": "138124af3af844ec06e882fb94d87360"
+    },
+    {
+      "type": "html",
+      "text": "\nWe gratefully welcome all contributions and suggestions. [[Denham Grey]] 04/22/99",
+      "id": "6f5972fcb06cd7073a74a95167d398c2"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "d8fa6702606c54ba5395712b899f1b4a"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]] [[Category Collaboration]] [[Category Web Annotation]]",
+      "id": "564f46b31ea7b1bca94f32f2a99fc45f"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?CollaborationTools c2.com]",
+      "id": "3cc7607487dd9dc202f2f104c30bd4c6"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1401710827000,
+      "id": "a6f4d9c3a82cc52be62f887242f997b6",
+      "type": "create",
+      "item": {
+        "title": "Collaboration Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Collection of sites with vendors of collaboration tools. ",
+            "id": "060eaa22a00d3072e4034fb1ff0ea2fd"
+          },
+          {
+            "type": "html",
+            "text": "<b>Tools</b>",
+            "id": "1762c4debba5ad2eceef6851d943db5b"
+          },
+          {
+            "type": "html",
+            "text": "<b>Community ecologies</b>",
+            "id": "42aae0d700a72359dd8cf5c2306f06da"
+          },
+          {
+            "type": "html",
+            "text": "Groove:<br>[http://www.groove.net/ www.groove.net]  <- absorbed by Microsoft??",
+            "id": "e658c4bf174e0cf444c573e6f470553c"
+          },
+          {
+            "type": "html",
+            "text": "Firetalk:<br>[http://www.firetalk.com/ www.firetalk.com] No longer Available 8/30/2001",
+            "id": "581bedfee4ee43d043cdfdec26e69837"
+          },
+          {
+            "type": "html",
+            "text": "P2P, q&a:<br>[http://www.askmecorp.com/products.asp?si1=0 www.askmecorp.com]",
+            "id": "575f732f15ee3466af1a0c10f4cafda6"
+          },
+          {
+            "type": "html",
+            "text": "Bizgrokker:<br>[http://gw.knav.com/ gw.knav.com]",
+            "id": "6ea8968a5db0b6bd702dc2e6f90ca796"
+          },
+          {
+            "type": "html",
+            "text": " Shared Page: [http://www.sharedpage.com www.sharedpage.com] (Webstart [http://www.sharedpage.com/download/Multitaneous.jnlp www.sharedpage.com])",
+            "id": "c5eeb4a42ac80529dbde28084534e1ae"
+          },
+          {
+            "type": "html",
+            "text": "<b>Team & officeware</b>",
+            "id": "c68ab9cc8cdc04da3b3a8b1b4c0130ce"
+          },
+          {
+            "type": "html",
+            "text": "Actionmint:<br>[https://www.actionmint.com www.actionmint.com]",
+            "id": "74e5533381e9cd99f64addcf06141b25"
+          },
+          {
+            "type": "html",
+            "text": "[[Agile Place]]:<br>[http://www.agileplace.com www.agileplace.com]",
+            "id": "d592d47d3a863cb0742bbf9dc81e67e4"
+          },
+          {
+            "type": "html",
+            "text": "[[Work Zone]] Extranet:<br>[http://www.trichys.com www.trichys.com]",
+            "id": "e3285e7ca92126dafbf0a0a812bcaca3"
+          },
+          {
+            "type": "html",
+            "text": "AKG:<br>[http://www.akgroup.com/ www.akgroup.com]",
+            "id": "4f8c3a8ff1488b9ed960dde5de0abb4a"
+          },
+          {
+            "type": "html",
+            "text": "Correlate:<br>[http://www.correlate.com./coverage.html www.correlate.com.] ",
+            "id": "ef9c3e101dddfe8da6ebffc75cc7ca3b"
+          },
+          {
+            "type": "html",
+            "text": "Collaborex:<br>[http://www.collaborex.com/solutions/index.asp www.collaborex.com]",
+            "id": "34fd33b7abccda622ca6c98b899607cf"
+          },
+          {
+            "type": "html",
+            "text": "Flypaper:<br>[http://www.flypaper.com/ www.flypaper.com]",
+            "id": "44379e1c17fd5551f53cafb1fae2c470"
+          },
+          {
+            "type": "html",
+            "text": "Intranets.com:<br>[http://www.intranets.com/ www.intranets.com]",
+            "id": "a40827ba6395f1a0c5e054b7ca3293c5"
+          },
+          {
+            "type": "html",
+            "text": "Oracle Collaboration Suite:<br>[http://www.oracle.com www.oracle.com]",
+            "id": "e491eddad387127329e20881a60cbeb2"
+          },
+          {
+            "type": "html",
+            "text": "Pioneer Spirit:<br>[http://pioneerspirit.com/ pioneerspirit.com] and [http://www.pioneerspirit.co.uk/ www.pioneerspirit.co.uk]",
+            "id": "22b1b518a9ca89214b0f3420bce8235b"
+          },
+          {
+            "type": "html",
+            "text": "Planning XP Style:<br>[[Xp Plan It]]",
+            "id": "239b075e74a2d94d071b705f7a9c4e0a"
+          },
+          {
+            "type": "html",
+            "text": "reThinkndo:<br>[http://www.rethinkanddo.com/ www.rethinkanddo.com]",
+            "id": "b9bcdff0c8afeac2b53098ca5b626344"
+          },
+          {
+            "type": "html",
+            "text": "Team Synergy:<br>[http://www.teamsynergy.weblobby.com/ www.teamsynergy.weblobby.com]",
+            "id": "896c9d064d709fac9ca225f61f09bd1a"
+          },
+          {
+            "type": "html",
+            "text": "Virtual teams:<br>[http://www.virtualteams.com/ www.virtualteams.com]",
+            "id": "107d05567a9059f0a7bec0902d938234"
+          },
+          {
+            "type": "html",
+            "text": "Marketing Team Collaboration:<br>[http://www.marketingcentral.com/ www.marketingcentral.com]",
+            "id": "ebaa49a1d2059a85958633dcb4003338"
+          },
+          {
+            "type": "html",
+            "text": "[[Project Open]]:<br>[http://www.project-open.org/ www.project-open.org]",
+            "id": "c15492c489f94a6245454c970b89fdca"
+          },
+          {
+            "type": "html",
+            "text": "[[Share Point]]:<br>[http://www.microsoft.com/business/portals.aspx www.microsoft.com]",
+            "id": "7c3f8cbb46ae5e58222061777ac07c20"
+          },
+          {
+            "type": "html",
+            "text": "<b>Society and association focus</b>",
+            "id": "647c101f99db50c56949855ba6a4ccbb"
+          },
+          {
+            "type": "html",
+            "text": "AIIM The ECM Association [http://www.aiim.org/ www.aiim.org]",
+            "id": "7fefe9ccd1ff8dbb01445ba5667de135"
+          },
+          {
+            "type": "html",
+            "text": "Community of science, finding funding:<br>[http://www.cos.com/ www.cos.com]",
+            "id": "ee3809f566a668d7e066729de42e01ae"
+          },
+          {
+            "type": "html",
+            "text": "Content Management Portal [http://www.contentmanager.de www.contentmanager.de]",
+            "id": "65986278d6dcbafa2783dc982e5151dd"
+          },
+          {
+            "type": "html",
+            "text": "Practicity:<br>[http://www.truesourceinc.com/Practicity/product.html www.truesourceinc.com]",
+            "id": "ffe0b02df12a444f3aed786724c4bfe1"
+          },
+          {
+            "type": "html",
+            "text": "Mitre's Overview:<br>[http://cvw.sourceforge.net/cvw/info/CVWOverview.php3 cvw.sourceforge.net]",
+            "id": "d7780aa4678ed07a8af17d279e1232a4"
+          },
+          {
+            "type": "html",
+            "text": "123Signup, membership management system:<br>[http://www.123signup.com/ www.123signup.com]",
+            "id": "ec41dd5e47622d22de27d8e19a1d55f9"
+          },
+          {
+            "type": "html",
+            "text": "eTaptestry, social capital:<br>[http://www.etapestry.com/ www.etapestry.com]",
+            "id": "f9902a62cc7649830375aa3286065156"
+          },
+          {
+            "type": "html",
+            "text": "Mit's Visual Who:<br>[http://smg.media.mit.edu/people/Judith/VisualWho/VisualWho.html smg.media.mit.edu]",
+            "id": "fb303686da289540acf57bf48697b0a9"
+          },
+          {
+            "type": "html",
+            "text": "My Association:<br>[http://www.myassociation.com/main.jsp?flash=true www.myassociation.com]",
+            "id": "b5b37756cef7f7674598700e36d2de73"
+          },
+          {
+            "type": "html",
+            "text": "Communispace, community learning:<br>[http://www.communispace.com/ www.communispace.com]",
+            "id": "a78e9088b650a9c0256cedd39dc69bbe"
+          },
+          {
+            "type": "html",
+            "text": "eSociety, community (closed doors):<br>[http://www.esociety.com/ www.esociety.com]",
+            "id": "9eb1a87a0e8a4c5e38428da5eddf7fdb"
+          },
+          {
+            "type": "html",
+            "text": "Open Idea Project:<br>[http://209.181.77.58:8080/openidea/index_html 209.181.77.58:8080]",
+            "id": "ecda5491667008725b6ae8ef0ebc6052"
+          },
+          {
+            "type": "html",
+            "text": "Collabdemo & thoughtstream:<br>[http://209.181.77.58:8080/openidea/oip_wiki/ColabDemo1 209.181.77.58:8080]",
+            "id": "b85796247b60c8680509d209deb53552"
+          },
+          {
+            "type": "html",
+            "text": "<b>Portals & community engines</b>",
+            "id": "6b86e1e7aadcf268a4f6a9d0998db739"
+          },
+          {
+            "type": "html",
+            "text": "Knowledge Interspace:<br>[http://www.knowledgeinterspace.com/index_ip.html www.knowledgeinterspace.com]",
+            "id": "17a89323018ac6eae9bce5a6e793163a"
+          },
+          {
+            "type": "html",
+            "text": "eTango:<br>[http://www.etango.com/products/default.htm www.etango.com] ",
+            "id": "c925cd2a206152b86a1b1978ada13893"
+          },
+          {
+            "type": "html",
+            "text": "iBelong:<br>[http://www.ibelong.com/ www.ibelong.com] ",
+            "id": "3a3dedc8d30af0ab334fe44d351c9542"
+          },
+          {
+            "type": "html",
+            "text": "Engenia collaborative portal:<br>[http://www.engenia.com/main.html www.engenia.com]",
+            "id": "0e41fcb006a05d962d7fd1912aa89e66"
+          },
+          {
+            "type": "html",
+            "text": "Knowledge (learning) community from Powerworx:<br>[http://www.powerworxlearning.com/knowledgecommunity/index.html www.powerworxlearning.com]",
+            "id": "e0b702c28feafda8150bc2061cd19de0"
+          },
+          {
+            "type": "html",
+            "text": "Quiq (b2b portal communities):<br>[http://www.quiq.com/ www.quiq.com]",
+            "id": "58b6cdea292ae8f24174499241a45d18"
+          },
+          {
+            "type": "html",
+            "text": "Community Engine:<br>[http://www.webfair.org/products.html www.webfair.org]",
+            "id": "14aa621de7523d6fe6bd3fd932c9e4a9"
+          },
+          {
+            "type": "html",
+            "text": "Insero linear XML board:<br>[http://www.insero.com/community.html www.insero.com]",
+            "id": "1b1cf23ffb80ef535eeb7d763b7b3f2c"
+          },
+          {
+            "type": "html",
+            "text": "<b>Wiki stuff</b>",
+            "id": "382582ea97bc2d442ad9a4c3e2d07d99"
+          },
+          {
+            "type": "html",
+            "text": "Engelbart's OHS Wiki:<br>[http://bootstrap.org:8080/OHS/RecentChanges bootstrap.org:8080]",
+            "id": "d6d183cd8c96cbe46500f351b62b4af4"
+          },
+          {
+            "type": "html",
+            "text": "[[Meatball Wiki]]:<br>[http://www.usemod.com/cgi-bin/mb.pl www.usemod.com]",
+            "id": "b9c64dbeba40f2030a1359426d015634"
+          },
+          {
+            "type": "html",
+            "text": "Metababy, Wiki like publishing:<br>[http://www.MetaBaby.com/meta/index.html www.MetaBaby.com]",
+            "id": "c2f7bcd6473354bf1f210e5a519c6391"
+          },
+          {
+            "type": "html",
+            "text": "[[Community Wiki]]:<br>[http://communitywiki.org communitywiki.org]",
+            "id": "08d737d38ccb649e4d8863ff3001bfa9"
+          },
+          {
+            "type": "html",
+            "text": "<b>Yellow Pages and people directories</b>",
+            "id": "762883cd68c03fbdd7f7a0016103bd7b"
+          },
+          {
+            "type": "html",
+            "text": "Tacit (e-mail yellowpages):<br>[http://www.tacit.com www.tacit.com]",
+            "id": "287b4a0d1baaff8a4768c828a310e48c"
+          },
+          {
+            "type": "html",
+            "text": "Orbital (expertise profiles):<br>[http://www.orbitalsw.com www.orbitalsw.com]",
+            "id": "9429b1af808c5da967936f9e1a91653e"
+          },
+          {
+            "type": "html",
+            "text": "Collaborative filters and paths, social navigation:<br>[http://www.dcs.gla.ac.uk/~matthew/papers/socnav.pdf www.dcs.gla.ac.uk]",
+            "id": "648161b250982c6b325390f28db717da"
+          },
+          {
+            "type": "html",
+            "text": "Article on Enterprise Wiki:<br>[http://www.cmswatch.com/Feature/145-Wikis-in-the-enterprise?printable=1 www.cmswatch.com]",
+            "id": "c8a802b3f1e684093e8c591a6d09418d"
+          },
+          {
+            "type": "html",
+            "text": "<b>Other</b>",
+            "id": "2d5c18577dc5c97b84a72d2e73854485"
+          },
+          {
+            "type": "html",
+            "text": "Colloguia distributed collaboration:<br>[http://colloquia.bangor.ac.uk/ll/ colloquia.bangor.ac.uk]",
+            "id": "e677c9a7728dd4c9e20af9700d203fed"
+          },
+          {
+            "type": "html",
+            "text": "Town design:<br>[http://www.charrettecenter.com www.charrettecenter.com]",
+            "id": "c72dc7b6c8c698924237903f3b64587e"
+          },
+          {
+            "type": "html",
+            "text": "Knowledge Garden, annotation and conversation:<br>[http://knowledgegarden.org knowledgegarden.org]",
+            "id": "91a63ebf59d7b5376ad956da11600592"
+          },
+          {
+            "type": "html",
+            "text": "OpenACS:<br>[http://openacs.org/what-is-openacs.adp openacs.org]",
+            "id": "4f9c002c107729b4cc32c54c95abcf52"
+          },
+          {
+            "type": "html",
+            "text": "We k notes:<br>[http://webknotes.sourceforge.net/ webknotes.sourceforge.net]",
+            "id": "d61f1ce4bd406cc4c8f8494724c6c649"
+          },
+          {
+            "type": "html",
+            "text": "Metatalk, a community blog:<br>[http://metatalk.metafilter.com/ metatalk.metafilter.com]",
+            "id": "d1d755e27b78811a4dd9c13342ea2958"
+          },
+          {
+            "type": "html",
+            "text": "Vworlds open source multimedia collaboration:<br>[http://www.vworlds.org/ www.vworlds.org] ",
+            "id": "84b9253e5f2faa2c63f2e7dc0e4ebb74"
+          },
+          {
+            "type": "html",
+            "text": "Accentuate nested objects:<br>[http://www.accentuate.com/about/index.html www.accentuate.com]",
+            "id": "296ac2b8ccb3d2fc5a7c6578ab0922df"
+          },
+          {
+            "type": "html",
+            "text": "Weblogs:<br>[http://www.weblogs.com/about www.weblogs.com]",
+            "id": "fbcd3d4cea0f7aa286ab6636def2e4f3"
+          },
+          {
+            "type": "html",
+            "text": "Comminiblogger:<br>[http://www.contenu.nu/nublog.html#communiblogger www.contenu.nu]",
+            "id": "3bbd37d181df846cc89493d27cf924da"
+          },
+          {
+            "type": "html",
+            "text": "Web hosting:<br>[http://www.editthispage.com/ www.editthispage.com]",
+            "id": "b4ef45135ca270fdb6d90432ab2ab9ba"
+          },
+          {
+            "type": "html",
+            "text": "Twisted Systems traction (for teams):<br>[http://www.twisted-systems.com/ www.twisted-systems.com]",
+            "id": "842b2fc51a4ae868494e148a66619f17"
+          },
+          {
+            "type": "html",
+            "text": "Mitre's CVW:<br>[http://cvw.mitre.org/cvw/info/CVWOverview.php3 cvw.mitre.org]",
+            "id": "c3e8fe17f94c858e3fcd9239385f3b78"
+          },
+          {
+            "type": "html",
+            "text": "GK AIMS collaboration around projects World Bank:<br>[http://gkaims.globalknowledge.org/ gkaims.globalknowledge.org] ",
+            "id": "7d9ab39fff661f5743e672cf9daaf577"
+          },
+          {
+            "type": "html",
+            "text": "See [[Km Sources]]",
+            "id": "48c7349accf4ad014bf373d695a2f7ee"
+          },
+          {
+            "type": "html",
+            "text": "Web Collaboration Software:<br>[http://www.YEdit.com/ www.YEdit.com]",
+            "id": "cbda035d12858bd988ee4eae52979056"
+          },
+          {
+            "type": "html",
+            "text": "Multiuser collaborative text editor:<br>[http://www.codingmonkeys.de/subethaedit/ www.codingmonkeys.de]",
+            "id": "05432a5ea7e36fa3d3d024da3c8240d9"
+          },
+          {
+            "type": "html",
+            "text": "<b>Platforms</b>",
+            "id": "b6558aa3f8876c67cdef5b5a70702dfa"
+          },
+          {
+            "type": "html",
+            "text": "E-mail-oriented community aggregator:<br>[http://www.egroups.com www.egroups.com]",
+            "id": "23a2714ce5e63700b8ae1b96fa26585f"
+          },
+          {
+            "type": "html",
+            "text": "Community aggregator:<br>[http://www.sixdegrees.com/ www.sixdegrees.com]",
+            "id": "2915fdf887c4b6d7d599f8124e89a00e"
+          },
+          {
+            "type": "html",
+            "text": "<b>General compilations</b>",
+            "id": "c9acfffa1c2d9d5c6494b88127e5782b"
+          },
+          {
+            "type": "html",
+            "text": "Collaboration technologies at E&Y, Nov, 2000:<br>[http://www.construction.com/technologyother/2000/11/13/15378/63922531-0605-KEYWORD.Missing.asp www.construction.com]",
+            "id": "29bff1cba673bc7a034909a3e5c5179d"
+          },
+          {
+            "type": "html",
+            "text": "Coworking:<br>[http://www.coworking.com/ www.coworking.com] ",
+            "id": "a867b7eeef07a3dd126a0e72f57046a8"
+          },
+          {
+            "type": "html",
+            "text": "Collaboration tools [http://www.collaboration-tools.com/ www.collaboration-tools.com]",
+            "id": "12b54b1e0acdd0498e1d04273dd8d96c"
+          },
+          {
+            "type": "html",
+            "text": "Durlacher's tool list:<br>[http://www.durlacher.co.uk/research/resrepdetail21.asp www.durlacher.co.uk]",
+            "id": "d258b6c65e11571130f563a9bc76f5e7"
+          },
+          {
+            "type": "html",
+            "text": "Web techniques December 2000 issue:<br>[http://www.webtechniques.com/calendar/ www.webtechniques.com]",
+            "id": "b5589e1af247ffd10a8ad6049ca3a237"
+          },
+          {
+            "type": "html",
+            "text": "Weblogs, 03/2000:<br>[http://www.mediainfo.com/ephome/news/newshtm/stop/st030800.htm www.mediainfo.com]",
+            "id": "4d49f3cb9c1d03bd0b7fe404c656c8e5"
+          },
+          {
+            "type": "html",
+            "text": "Collaborative knowledge Thagard, 1997:<br>[http://cogsci.uwaterloo.ca/Articles/Pages/Collab.html cogsci.uwaterloo.ca]",
+            "id": "4c26b1deb4273b943767e6ec70f89993"
+          },
+          {
+            "type": "html",
+            "text": "KM News reviews:<br>[http://www.kmnews.com/Products.htm www.kmnews.com] ",
+            "id": "48e52163be82ccfda48f5d0680af3496"
+          },
+          {
+            "type": "html",
+            "text": "Gene Bellinger's product list:<br>[http://www.outsights.com/systems/kmgmt/kmgmt.htm www.outsights.com]",
+            "id": "0a80f24917fbbcbb2d0f5091cfedd76e"
+          },
+          {
+            "type": "html",
+            "text": "KM World's Knowledge Universe:<br>[http://www.kmworld.com/KMUniverse www.kmworld.com]",
+            "id": "2033cff5188506693198254c8972f704"
+          },
+          {
+            "type": "html",
+            "text": "KM Magazine Vendor Research Center:<br>[http://enterprise.supersites.net/kmmagn2/int/tj0.htm enterprise.supersites.net]",
+            "id": "99e7cf47ef86cffd0726a26aeb2f7125"
+          },
+          {
+            "type": "html",
+            "text": "Knowledge Manager Reviews:<br>[http://www.chironpub.com/Past/past-headlines.html www.chironpub.com]",
+            "id": "8e6da3c9f92dd6a3e5d98fe371ecfbbd"
+          },
+          {
+            "type": "html",
+            "text": "KM Watchdog Archives:<br>[http://www.analysis-by-design.on.ca/rd/Watchdog/body.htm www.analysis-by-design.on.ca]",
+            "id": "969685ec7b2fb892c94deafcb1c21da3"
+          },
+          {
+            "type": "html",
+            "text": "Wiki [[Also Knowledge Tools]] :<br>[http://www.voght.com/cgi-bin/pywiki?AlsoKnowledgeTools www.voght.com]",
+            "id": "dee7881d1e083d66e152d82e470dc802"
+          },
+          {
+            "type": "html",
+            "text": "Web Dav HTTP extensions for collaboration:<br>[http://www.webdav.org/ www.webdav.org]\t",
+            "id": "cd500c567f843e404a79b3ebd322d802"
+          },
+          {
+            "type": "html",
+            "text": "Java Wiki Engines:<br>[http://java-source.net/open-source/wiki-engines java-source.net]",
+            "id": "f9a407de6ea6d5d5169490514de35975"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8fa6702606c54ba5395712b899f1b4a"
+          },
+          {
+            "type": "html",
+            "text": "<b>Knowledge Mapping</b>",
+            "id": "03d67d75d68893f99c882661df02c1aa"
+          },
+          {
+            "type": "html",
+            "text": "[[Km Wiki]] :<br>[http://kmwiki.wikispaces.com/ kmwiki.wikispaces.com]",
+            "id": "f5155f26e7189f8fc021c0f4198dd28e"
+          },
+          {
+            "type": "html",
+            "text": "<b>Ontology of tools</b>",
+            "id": "8ff4398ae0ddbbe20e0f092befc0686a"
+          },
+          {
+            "type": "html",
+            "text": "Community bloggers:<br>[http://www.contenu.nu/nublog.html#communiblogger www.contenu.nu]",
+            "id": "53396c46c1b58e9942121f24c90726c9"
+          },
+          {
+            "type": "html",
+            "text": "Wiki [[Km Ontology]] :<br>[http://www.voght.com/cgi-bin/pywiki?KmOntology www.voght.com]",
+            "id": "6540eb8c9ee3827b8fcf51b17ea7373b"
+          },
+          {
+            "type": "html",
+            "text": "Collaborative technologies:<br>[http://www.collaborate.com/publications/section1-2.html www.collaborate.com]",
+            "id": "0520654959ff3b1a99dc79e7d28926e3"
+          },
+          {
+            "type": "html",
+            "text": "Bootstrap OHS Wiki:<br>[http://bootstrap.org:8080/OHS/OHS bootstrap.org:8080]",
+            "id": "b8c946da5c2d490db08ddc91397fa6f7"
+          },
+          {
+            "type": "html",
+            "text": "IU business school taxonomy:<br>[http://www.bus.indiana.edu/isweb/teachln/epss_p600/tax.htm www.bus.indiana.edu]",
+            "id": "e040a7df3d2e424e5cc567bfbc51318e"
+          },
+          {
+            "type": "html",
+            "text": "<b>Breaking News</b>",
+            "id": "1c24a1d8b5608cf10444d19cd83c158f"
+          },
+          {
+            "type": "html",
+            "text": "Comment driven community:<br>[http://www.contenu.nu/200006.html#hateon www.contenu.nu]",
+            "id": "5641ec5ecde9d4ef6963d3ce656b9e8f"
+          },
+          {
+            "type": "html",
+            "text": "Psybernet, blog:<br>[http://psybernet.editthispage.com/ psybernet.editthispage.com]",
+            "id": "bc9e9deb7ae875e607be49c7a72a9854"
+          },
+          {
+            "type": "html",
+            "text": "Cogos (05/04) [http://www.cogos.com/cogosweb/cogoswebsite.nsf/?Open www.cogos.com]",
+            "id": "2defcb2a64d86dacdfbcb63780a5c165"
+          },
+          {
+            "type": "html",
+            "text": "<b>Bibliography of collaboration</b>",
+            "id": "a538f3fed9ed4f51c3e1871de8127712"
+          },
+          {
+            "type": "html",
+            "text": "Bibligraphy:<br>[http://alexia.lis.uiuc.edu/~twidale/lis450/biblio1.html alexia.lis.uiuc.edu]",
+            "id": "22c32bafd7c66becbd95e28d65f20113"
+          },
+          {
+            "type": "html",
+            "text": "Communities of Practice resources:<br>[http://www.teleport.com/~smithjd/CP_bib/index.html www.teleport.com]",
+            "id": "e2daa8c412cd03c68a050133f69bf8e5"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8fa6702606c54ba5395712b899f1b4a"
+          },
+          {
+            "type": "html",
+            "text": "\nThe original version of this page can be found at [http://www.voght.com/cgi-bin/pywiki?CollabTools www.voght.com].",
+            "id": "138124af3af844ec06e882fb94d87360"
+          },
+          {
+            "type": "html",
+            "text": "\nWe gratefully welcome all contributions and suggestions. [[Denham Grey]] 04/22/99",
+            "id": "6f5972fcb06cd7073a74a95167d398c2"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d8fa6702606c54ba5395712b899f1b4a"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]] [[Category Collaboration]] [[Category Web Annotation]]",
+            "id": "564f46b31ea7b1bca94f32f2a99fc45f"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?CollaborationTools c2.com]",
+            "id": "3cc7607487dd9dc202f2f104c30bd4c6"
+          }
+        ]
+      }
+    }
+  ]
+}

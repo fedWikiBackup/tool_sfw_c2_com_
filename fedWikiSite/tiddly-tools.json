@@ -1,0 +1,97 @@
+{
+  "title": "Tiddly Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Want to find a useful plug-in for [[Tiddly Wiki]]?",
+      "id": "7733ebcaeda37f4a311fc57f101a3477"
+    },
+    {
+      "type": "html",
+      "text": "\nTry:",
+      "id": "90837e2719786ce45f95aa7cd2874040"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.tiddlywiki.org/wiki/Special:Allpages www.tiddlywiki.org]",
+      "id": "8bfa9d5c7b93284abf3b8d56445aa8ef"
+    },
+    {
+      "type": "html",
+      "text": "\nRelated:",
+      "id": "071ca85307ddf95e1f97160a7ac9bf79"
+    },
+    {
+      "type": "html",
+      "text": " [http://tiddlyvault.tiddlyspot.com/ tiddlyvault.tiddlyspot.com]",
+      "id": "925dfbe0d6fe3176d0f400cf517cad1c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "7c1b768a33fd934dea545b62b89d0115"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Wiki Implementation]] ",
+      "id": "1559d7a610c5a99cb9feb8e51dd9ac6b"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TiddlyTools c2.com]",
+      "id": "cbd47cc4156d28668ec9bab2f2b3e7a9"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1200888029000,
+      "id": "3e1c1efdb43004a56496379717979a8a",
+      "type": "create",
+      "item": {
+        "title": "Tiddly Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Want to find a useful plug-in for [[Tiddly Wiki]]?",
+            "id": "7733ebcaeda37f4a311fc57f101a3477"
+          },
+          {
+            "type": "html",
+            "text": "\nTry:",
+            "id": "90837e2719786ce45f95aa7cd2874040"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.tiddlywiki.org/wiki/Special:Allpages www.tiddlywiki.org]",
+            "id": "8bfa9d5c7b93284abf3b8d56445aa8ef"
+          },
+          {
+            "type": "html",
+            "text": "\nRelated:",
+            "id": "071ca85307ddf95e1f97160a7ac9bf79"
+          },
+          {
+            "type": "html",
+            "text": " [http://tiddlyvault.tiddlyspot.com/ tiddlyvault.tiddlyspot.com]",
+            "id": "925dfbe0d6fe3176d0f400cf517cad1c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "7c1b768a33fd934dea545b62b89d0115"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Wiki Implementation]] ",
+            "id": "1559d7a610c5a99cb9feb8e51dd9ac6b"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TiddlyTools c2.com]",
+            "id": "cbd47cc4156d28668ec9bab2f2b3e7a9"
+          }
+        ]
+      }
+    }
+  ]
+}

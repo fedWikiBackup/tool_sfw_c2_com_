@@ -1,0 +1,127 @@
+{
+  "title": "Object Relational Mapping Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "I'd like to hear personal experiences about object-relational mapping tools.  I've used [[Top Link]] through a third party application.  Seems to me that it lacks some features and the object model is quite messy.  But this is an older version and the third party people may not have used it properly.",
+      "id": "30bdce82a7d6d7bb44eae5cb44eddc68"
+    },
+    {
+      "type": "html",
+      "text": "\nI've read about [[Coco Base]], but have no personal experience using it.",
+      "id": "9757f665a730834ed96282deb187172c"
+    },
+    {
+      "type": "html",
+      "text": "\nBoth products seem quite expensive.  That's why I'm rather interested in hearing about open source tools in this area.  Or inexpensive ones.",
+      "id": "77231259b6c1489d3af2b2b2b3154c21"
+    },
+    {
+      "type": "html",
+      "text": "\nThanks.",
+      "id": "7c105aea40680fbca255cf2aee79b365"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Gary Zuo]]",
+      "id": "6f4d86bb389945d872ed732f2c3034a1"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "53c73e6358243e5527abe337d0515825"
+    },
+    {
+      "type": "html",
+      "text": "\nSee the Cetus Links page on object-relational mapping at [http://www.cetus-links.org/oo_db_systems_3.html www.cetus-links.org].",
+      "id": "b06a5b6a95b1c67dfe443a2a081d510e"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also: [[Top Link For Java Usage Experiences]]",
+      "id": "b7c57d97f6d4adeeb2ee13f0d48db4b9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "53c73e6358243e5527abe337d0515825"
+    },
+    {
+      "type": "html",
+      "text": "I have had success with [[Hiber Nate]] -- [[Zhon Johansen]]",
+      "id": "e8d1dc5b960e0f6895d2c761ee847f3a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ObjectRelationalMappingTools c2.com]",
+      "id": "7060affe31a5ea4e9c6c62de38efec5c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1087916554000,
+      "id": "0fba87eb7a0508ba6da8f00acec2d388",
+      "type": "create",
+      "item": {
+        "title": "Object Relational Mapping Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "I'd like to hear personal experiences about object-relational mapping tools.  I've used [[Top Link]] through a third party application.  Seems to me that it lacks some features and the object model is quite messy.  But this is an older version and the third party people may not have used it properly.",
+            "id": "30bdce82a7d6d7bb44eae5cb44eddc68"
+          },
+          {
+            "type": "html",
+            "text": "\nI've read about [[Coco Base]], but have no personal experience using it.",
+            "id": "9757f665a730834ed96282deb187172c"
+          },
+          {
+            "type": "html",
+            "text": "\nBoth products seem quite expensive.  That's why I'm rather interested in hearing about open source tools in this area.  Or inexpensive ones.",
+            "id": "77231259b6c1489d3af2b2b2b3154c21"
+          },
+          {
+            "type": "html",
+            "text": "\nThanks.",
+            "id": "7c105aea40680fbca255cf2aee79b365"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Gary Zuo]]",
+            "id": "6f4d86bb389945d872ed732f2c3034a1"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "53c73e6358243e5527abe337d0515825"
+          },
+          {
+            "type": "html",
+            "text": "\nSee the Cetus Links page on object-relational mapping at [http://www.cetus-links.org/oo_db_systems_3.html www.cetus-links.org].",
+            "id": "b06a5b6a95b1c67dfe443a2a081d510e"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also: [[Top Link For Java Usage Experiences]]",
+            "id": "b7c57d97f6d4adeeb2ee13f0d48db4b9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "53c73e6358243e5527abe337d0515825"
+          },
+          {
+            "type": "html",
+            "text": "I have had success with [[Hiber Nate]] -- [[Zhon Johansen]]",
+            "id": "e8d1dc5b960e0f6895d2c761ee847f3a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ObjectRelationalMappingTools c2.com]",
+            "id": "7060affe31a5ea4e9c6c62de38efec5c"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Wiki Tool Bar",
+  "story": [
+    {
+      "type": "html",
+      "text": "The [[Recent Changes Junkie]]'s utility belt:",
+      "id": "2a90756e640e27c19afbad85ad4990fa"
+    },
+    {
+      "type": "html",
+      "text": "[Image disabled until reliable host can be found]",
+      "id": "89260f5e6ad4b685f2e43884bb71600a"
+    },
+    {
+      "type": "html",
+      "text": " <b>wRecent</b> - Plain bookmark to [[Recent Changes]] (or quickChanges)",
+      "id": "6a2c90d694c23dc36415bbe217ca481e"
+    },
+    {
+      "type": "html",
+      "text": " <b>wGo</b> - Jump to a [[Wiki Page]].  (See [[Wiki Go Bookmarklet]])",
+      "id": "35902a1e5a0cdab23bf99f5909b6334d"
+    },
+    {
+      "type": "html",
+      "text": " <b>wFind</b> - Search [[Wiki Page]] titles.  (See [[Wiki Find Bookmarklet]])",
+      "id": "ec135369cf3fac5c9e82bc8db7dc5d02"
+    },
+    {
+      "type": "html",
+      "text": " <b>wEdit</b> - Edit the current page (See [[Edit Page Bookmarklet]])",
+      "id": "6474f97f588d05d61883ff20a7dec1b7"
+    },
+    {
+      "type": "html",
+      "text": " <b>wDiff</b> - Show the [[Quick Diff]] of the current page (See [[Quick Diff Bookmarklet]])",
+      "id": "ee0bc7cc9e6d27a4417d826608ea9c5f"
+    },
+    {
+      "type": "html",
+      "text": "(Yes, the names are cryptic. Choose yours however you like. There is a never-ending battle between the excessively verbose and the excessively terse; in this case, I had to let the latter triumph).",
+      "id": "801104a878b8db3408257364a3f8a08c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?WikiToolBar c2.com]",
+      "id": "1d4c78bc9e83cd28a11cc3ac162c2933"
+    }
+  ],
+  "journal": [
+    {
+      "date": 988489417000,
+      "id": "c0c7160ea1bdd953db00788cfdded004",
+      "type": "create",
+      "item": {
+        "title": "Wiki Tool Bar",
+        "story": [
+          {
+            "type": "html",
+            "text": "The [[Recent Changes Junkie]]'s utility belt:",
+            "id": "2a90756e640e27c19afbad85ad4990fa"
+          },
+          {
+            "type": "html",
+            "text": "[Image disabled until reliable host can be found]",
+            "id": "89260f5e6ad4b685f2e43884bb71600a"
+          },
+          {
+            "type": "html",
+            "text": " <b>wRecent</b> - Plain bookmark to [[Recent Changes]] (or quickChanges)",
+            "id": "6a2c90d694c23dc36415bbe217ca481e"
+          },
+          {
+            "type": "html",
+            "text": " <b>wGo</b> - Jump to a [[Wiki Page]].  (See [[Wiki Go Bookmarklet]])",
+            "id": "35902a1e5a0cdab23bf99f5909b6334d"
+          },
+          {
+            "type": "html",
+            "text": " <b>wFind</b> - Search [[Wiki Page]] titles.  (See [[Wiki Find Bookmarklet]])",
+            "id": "ec135369cf3fac5c9e82bc8db7dc5d02"
+          },
+          {
+            "type": "html",
+            "text": " <b>wEdit</b> - Edit the current page (See [[Edit Page Bookmarklet]])",
+            "id": "6474f97f588d05d61883ff20a7dec1b7"
+          },
+          {
+            "type": "html",
+            "text": " <b>wDiff</b> - Show the [[Quick Diff]] of the current page (See [[Quick Diff Bookmarklet]])",
+            "id": "ee0bc7cc9e6d27a4417d826608ea9c5f"
+          },
+          {
+            "type": "html",
+            "text": "(Yes, the names are cryptic. Choose yours however you like. There is a never-ending battle between the excessively verbose and the excessively terse; in this case, I had to let the latter triumph).",
+            "id": "801104a878b8db3408257364a3f8a08c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?WikiToolBar c2.com]",
+            "id": "1d4c78bc9e83cd28a11cc3ac162c2933"
+          }
+        ]
+      }
+    }
+  ]
+}

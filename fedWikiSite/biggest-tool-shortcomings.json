@@ -1,0 +1,137 @@
+{
+  "title": "Biggest Tool Shortcomings",
+  "story": [
+    {
+      "type": "html",
+      "text": "Certain limitations of languages or tools seem to bother us more than others. This is an attempt to catalog practical problem areas with existing tools. Maybe after we list them, we can vote on them.",
+      "id": "4875f79ef6dadd22ef958ee7c7bae514"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "ef6ebf57735ed130f3de077449c050d7"
+    },
+    {
+      "type": "html",
+      "text": "<b>User Interfaces</b>",
+      "id": "89a3de24014e45a81a4e45cc0149150f"
+    },
+    {
+      "type": "html",
+      "text": " Lack of good [[Remote Gui Protocols]] to replace or enhance web-based apps.",
+      "id": "9c59dc948d12d217be2cdf8103ba994f"
+    },
+    {
+      "type": "html",
+      "text": "<b>Compilers </b>",
+      "id": "b31083d42123b72646633d5c263f6b7d"
+    },
+    {
+      "type": "html",
+      "text": " ?",
+      "id": "ed060b9078988fe65b49fdda9c15feb4"
+    },
+    {
+      "type": "html",
+      "text": "<b>Other</b>",
+      "id": "3b4a9432dc1b9680fa99c93aeb0ac03f"
+    },
+    {
+      "type": "html",
+      "text": " Spam",
+      "id": "81e4256ee032f55468b9b3be3ec0dc75"
+    },
+    {
+      "type": "html",
+      "text": " Micropayments",
+      "id": "04be8b83891578860b28da4abcda6f94"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "ef6ebf57735ed130f3de077449c050d7"
+    },
+    {
+      "type": "html",
+      "text": "See also [[Shortest Tool Bigcomings]]",
+      "id": "c2b1d7b7d7a82f0c1f46500894a3ca58"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?BiggestToolShortcomings c2.com]",
+      "id": "6b21e3bf56c1becfad8ec6edbe35f187"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1369933797000,
+      "id": "7cd3bc150f46a3e86da00b931c4c95f6",
+      "type": "create",
+      "item": {
+        "title": "Biggest Tool Shortcomings",
+        "story": [
+          {
+            "type": "html",
+            "text": "Certain limitations of languages or tools seem to bother us more than others. This is an attempt to catalog practical problem areas with existing tools. Maybe after we list them, we can vote on them.",
+            "id": "4875f79ef6dadd22ef958ee7c7bae514"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "ef6ebf57735ed130f3de077449c050d7"
+          },
+          {
+            "type": "html",
+            "text": "<b>User Interfaces</b>",
+            "id": "89a3de24014e45a81a4e45cc0149150f"
+          },
+          {
+            "type": "html",
+            "text": " Lack of good [[Remote Gui Protocols]] to replace or enhance web-based apps.",
+            "id": "9c59dc948d12d217be2cdf8103ba994f"
+          },
+          {
+            "type": "html",
+            "text": "<b>Compilers </b>",
+            "id": "b31083d42123b72646633d5c263f6b7d"
+          },
+          {
+            "type": "html",
+            "text": " ?",
+            "id": "ed060b9078988fe65b49fdda9c15feb4"
+          },
+          {
+            "type": "html",
+            "text": "<b>Other</b>",
+            "id": "3b4a9432dc1b9680fa99c93aeb0ac03f"
+          },
+          {
+            "type": "html",
+            "text": " Spam",
+            "id": "81e4256ee032f55468b9b3be3ec0dc75"
+          },
+          {
+            "type": "html",
+            "text": " Micropayments",
+            "id": "04be8b83891578860b28da4abcda6f94"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "ef6ebf57735ed130f3de077449c050d7"
+          },
+          {
+            "type": "html",
+            "text": "See also [[Shortest Tool Bigcomings]]",
+            "id": "c2b1d7b7d7a82f0c1f46500894a3ca58"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?BiggestToolShortcomings c2.com]",
+            "id": "6b21e3bf56c1becfad8ec6edbe35f187"
+          }
+        ]
+      }
+    }
+  ]
+}

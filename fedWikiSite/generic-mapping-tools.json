@@ -1,0 +1,47 @@
+{
+  "title": "Generic Mapping Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Generic Mapping Tools (GMT for short), is a standard way of creating maps (of earth).  It is located at [http://gmt.soest.hawaii.edu/ gmt.soest.hawaii.edu].  GMT is used by scientists worldwide to create maps.  It is [[Research Grade Code]], so beware.  The [[Man Files]] that come with the package are fairly good, and describe how to use it.  The Tutorial that also comes with it is very good, and quite necessary for beginners.  Mostly, GMT is used for [[Scientific Purposes]], and is only really useful in that realm.",
+      "id": "100b854ff17334045fd218e31a3b1770"
+    },
+    {
+      "type": "html",
+      "text": "--[[Daniel Staudigel]]",
+      "id": "f1794973f0b162194aacc472ebe831ca"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?GenericMappingTools c2.com]",
+      "id": "c56d53167e486976918de83183bed24c"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1030834154000,
+      "id": "d5fbe6e362a0bb26eb571722c210690f",
+      "type": "create",
+      "item": {
+        "title": "Generic Mapping Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Generic Mapping Tools (GMT for short), is a standard way of creating maps (of earth).  It is located at [http://gmt.soest.hawaii.edu/ gmt.soest.hawaii.edu].  GMT is used by scientists worldwide to create maps.  It is [[Research Grade Code]], so beware.  The [[Man Files]] that come with the package are fairly good, and describe how to use it.  The Tutorial that also comes with it is very good, and quite necessary for beginners.  Mostly, GMT is used for [[Scientific Purposes]], and is only really useful in that realm.",
+            "id": "100b854ff17334045fd218e31a3b1770"
+          },
+          {
+            "type": "html",
+            "text": "--[[Daniel Staudigel]]",
+            "id": "f1794973f0b162194aacc472ebe831ca"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?GenericMappingTools c2.com]",
+            "id": "c56d53167e486976918de83183bed24c"
+          }
+        ]
+      }
+    }
+  ]
+}

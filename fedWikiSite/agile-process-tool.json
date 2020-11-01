@@ -1,0 +1,347 @@
+{
+  "title": "Agile Process Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "The Agile Process Tool is a simple concept for managing software process improvement. It has worked for me as responsible for the software process at an IT vendor, as a project manager and as a developer. It might work for you as well.",
+      "id": "5814676d342c0fd8747dab2cd1a1e764"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Henrik Thomsen]]",
+      "id": "0ba5a644526355d6713f4748400b9cfe"
+    },
+    {
+      "type": "html",
+      "text": "<b>Problem scenario 1</b>",
+      "id": "9c87d1aca6379e12eea03017dd0404be"
+    },
+    {
+      "type": "html",
+      "text": "\nYou are responsible for implementing a software process in your organization. You want to communicate to staff and management why a specific process would improve your organization's capacity to deliver better, cheaper and faster. You find it difficult to get people involved. Staff seems reluctant to change and management seems to be most preoccupied with costs of licenses for QA tools, CASE tools and so on.",
+      "id": "1eb576c1b9dea722bcf3a17be617b3e5"
+    },
+    {
+      "type": "html",
+      "text": "<b>Problem scenario 2</b>",
+      "id": "6369c157f591008893bc670c0413cfae"
+    },
+    {
+      "type": "html",
+      "text": "\nYou are a project manager. You must deliver a subsystem before deadline. You must ensure that your team adheres to a number of QA procedures and corporate protocols. How do you make sure that the team knows the protocols and follows them? How do you motivate your team to do the right things and do them right?",
+      "id": "83cbeca7c17c71e73b2602b606df33f2"
+    },
+    {
+      "type": "html",
+      "text": "<b>Problem scenario 3</b>",
+      "id": "228e41f265e9a4c7c81534d607543a24"
+    },
+    {
+      "type": "html",
+      "text": "\nYou are a developer. You just joined a project. You must deliver working and tested code on time. You must adhere to a number of protocols in doing so. How do you find out what protocols and standards cover your work? Where do you find standards, guidelines and templates for documents and code? Where do you find installation manuals and user manuals for the tools you need to use?",
+      "id": "1cb54a60b5bcca3b85225089b01a36cd"
+    },
+    {
+      "type": "html",
+      "text": "<b>Proposed solution</b>",
+      "id": "89f8fa59bb765d0ec2f687fbfabffc25"
+    },
+    {
+      "type": "html",
+      "text": "\nThe Agile Process Tool is a process modelled in a database. The model of a process is described in Alistair Cockburn's book [1]. There are four reasons why you should model your process in a database [2]:",
+      "id": "3aa7a7d3b4094ba8a440f016b1e8225e"
+    },
+    {
+      "type": "html",
+      "text": " Modelling the process is simpler and thus faster than using a Quality Management tool (such as [[Quali Ware]])",
+      "id": "5cfa394eebf8d053b82401cc150e40a9"
+    },
+    {
+      "type": "html",
+      "text": " You can draw out reports that give you overview over process activities, roles and so on [3]",
+      "id": "dbe10d48e29bfd7567d527150eb0d26d"
+    },
+    {
+      "type": "html",
+      "text": " You can draw out reports that show a job description [4] for every role in the process",
+      "id": "b3936229e830394193a1aeea9a0aeb68"
+    },
+    {
+      "type": "html",
+      "text": " You can easily make changes to the process",
+      "id": "0fbbbd4c7a3f75a46141067d330dc56d"
+    },
+    {
+      "type": "html",
+      "text": "<i>Model the process</i>",
+      "id": "a9fd46a2f4f6528530702c983a61396f"
+    },
+    {
+      "type": "html",
+      "text": "\nQuality Management tools such as [[Quali Ware]] are of course more efficient than a simple access database. You will probably need these tools in order to do enterprise-scale software improvement. But if you are in the process of implementing a new process, the purchase, installation and adaptation of a QM tool is a lengthy process. You want to start discussions about your software process before you even make contact to a QM tool vendor.",
+      "id": "038542b8529dda51aa45070cd3070627"
+    },
+    {
+      "type": "html",
+      "text": "<i>Draw out process overviews</i>",
+      "id": "efbdddcc3cd57aaaf17813ba8c18f4ac"
+    },
+    {
+      "type": "html",
+      "text": "\nReports that show an overview of the process are more suitable for presentation to management than drawings on a whiteboard. The overviews may help you to communicate what the process is about and how the process fits in with your organization as well as possible changes that need to be made to the organization.",
+      "id": "017bc633d5d5ed3776d452cf0958165b"
+    },
+    {
+      "type": "html",
+      "text": "<i>Examine the work description for every role</i>",
+      "id": "5623ed72ba89f3daa8b47d23f49e3619"
+    },
+    {
+      "type": "html",
+      "text": "\nWhen you present a software process to staff that covers an entire software product lifecycle, you may find that people are looking at their watches or dozing off. In my experience it is more effective to assemble people that are likely to fill out a particular role in the process, and discuss the procedures that are relevant to them. When you show staff their job description it should put a smile on their faces, or at least they should feel that the activities, techniques and tools are close to their primary skills. If not, you know you have a task of cultivating people and marketing the software process.",
+      "id": "07658a37a08f6592dca091af96618036"
+    },
+    {
+      "type": "html",
+      "text": "<i>Make changes to the process</i>",
+      "id": "1c212371245fce685068486a600a8ad0"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's important to do continuous process improvement. Whenever the process breaks, you must fix it. I recommend reflection workshops as described in [1] at project kick-off and at regular intervals during a project. Proposed changes to the process can easily be modelled in the database. This means that you can rapidly execute a new process by giving job descriptions to staff. For me, this approach has been a more effective than updating a complex QM tool or intranet site and then publish the entire lifecycle process to staff.",
+      "id": "c4fed39d965860611786f11ca398f95b"
+    },
+    {
+      "type": "html",
+      "text": "<b>Scope of the Agile Process Tool</b>",
+      "id": "60ca0b29e72a7f9a0c74d289e96469e9"
+    },
+    {
+      "type": "html",
+      "text": "\nThe Agile Process Tool database [2] doesn't support diagramming. You will almost certainly need to produce process or activity diagrams that shows lifecycles, sequences, iterations, flow-back and stuff like that. You must create diagrams using [[Power Point]], [[Quali Ware]] or some other tool. You can link to the diagrams from the database.",
+      "id": "95d73824baa134dc3427b32ede8da95f"
+    },
+    {
+      "type": "html",
+      "text": "\nThe Agile Process Tool database [2] will not be sufficient as a Quality Management system. For ISO 9000, you need a hierarchical process description with a strategic section, a description of QA procedures with process diagrams, and work flow descriptions also with process diagrams.",
+      "id": "cb13cd9364611b78e2d094d3adab2b5e"
+    },
+    {
+      "type": "html",
+      "text": "<b>References</b>",
+      "id": "16aab9079375e37da52a9de24e563b72"
+    },
+    {
+      "type": "html",
+      "text": "[1] <b>Agile Software Development</b>, Alistair Cockburn, Addison-Wesley Pub, 2001",
+      "id": "7bb4e98542987c2ef01da2c5cdefd2e0"
+    },
+    {
+      "type": "html",
+      "text": "[2] <b>Agile Process Tool Access Database</b>, [http://www.conexp.dk/docs/AgileProcessTool.zip www.conexp.dk]",
+      "id": "cbfaa96e18d7e94650a4cc07b72895c7"
+    },
+    {
+      "type": "html",
+      "text": "[3] <b>Example Process Overview Report</b>, [http://www.conexp.dk/docs/xpplus.pdf www.conexp.dk]",
+      "id": "67e3b091b1254f571cb157ad1af54dde"
+    },
+    {
+      "type": "html",
+      "text": "[4] <b>Example Job Description</b>, [http://www.conexp.dk/docs/Role.pdf www.conexp.dk]",
+      "id": "6e9e82eb560702ba9c4a725047f0e8e7"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "57d922811ec87d97fc9242c7b827b0ca"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "97c09079bccc9ab713d7b324036f937e"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?AgileProcessTool c2.com]",
+      "id": "8552e792f02e3918aa7fd7f9decf3707"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1153486267000,
+      "id": "350c4f84776bcd2bfe4717c5e72554fd",
+      "type": "create",
+      "item": {
+        "title": "Agile Process Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "The Agile Process Tool is a simple concept for managing software process improvement. It has worked for me as responsible for the software process at an IT vendor, as a project manager and as a developer. It might work for you as well.",
+            "id": "5814676d342c0fd8747dab2cd1a1e764"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Henrik Thomsen]]",
+            "id": "0ba5a644526355d6713f4748400b9cfe"
+          },
+          {
+            "type": "html",
+            "text": "<b>Problem scenario 1</b>",
+            "id": "9c87d1aca6379e12eea03017dd0404be"
+          },
+          {
+            "type": "html",
+            "text": "\nYou are responsible for implementing a software process in your organization. You want to communicate to staff and management why a specific process would improve your organization's capacity to deliver better, cheaper and faster. You find it difficult to get people involved. Staff seems reluctant to change and management seems to be most preoccupied with costs of licenses for QA tools, CASE tools and so on.",
+            "id": "1eb576c1b9dea722bcf3a17be617b3e5"
+          },
+          {
+            "type": "html",
+            "text": "<b>Problem scenario 2</b>",
+            "id": "6369c157f591008893bc670c0413cfae"
+          },
+          {
+            "type": "html",
+            "text": "\nYou are a project manager. You must deliver a subsystem before deadline. You must ensure that your team adheres to a number of QA procedures and corporate protocols. How do you make sure that the team knows the protocols and follows them? How do you motivate your team to do the right things and do them right?",
+            "id": "83cbeca7c17c71e73b2602b606df33f2"
+          },
+          {
+            "type": "html",
+            "text": "<b>Problem scenario 3</b>",
+            "id": "228e41f265e9a4c7c81534d607543a24"
+          },
+          {
+            "type": "html",
+            "text": "\nYou are a developer. You just joined a project. You must deliver working and tested code on time. You must adhere to a number of protocols in doing so. How do you find out what protocols and standards cover your work? Where do you find standards, guidelines and templates for documents and code? Where do you find installation manuals and user manuals for the tools you need to use?",
+            "id": "1cb54a60b5bcca3b85225089b01a36cd"
+          },
+          {
+            "type": "html",
+            "text": "<b>Proposed solution</b>",
+            "id": "89f8fa59bb765d0ec2f687fbfabffc25"
+          },
+          {
+            "type": "html",
+            "text": "\nThe Agile Process Tool is a process modelled in a database. The model of a process is described in Alistair Cockburn's book [1]. There are four reasons why you should model your process in a database [2]:",
+            "id": "3aa7a7d3b4094ba8a440f016b1e8225e"
+          },
+          {
+            "type": "html",
+            "text": " Modelling the process is simpler and thus faster than using a Quality Management tool (such as [[Quali Ware]])",
+            "id": "5cfa394eebf8d053b82401cc150e40a9"
+          },
+          {
+            "type": "html",
+            "text": " You can draw out reports that give you overview over process activities, roles and so on [3]",
+            "id": "dbe10d48e29bfd7567d527150eb0d26d"
+          },
+          {
+            "type": "html",
+            "text": " You can draw out reports that show a job description [4] for every role in the process",
+            "id": "b3936229e830394193a1aeea9a0aeb68"
+          },
+          {
+            "type": "html",
+            "text": " You can easily make changes to the process",
+            "id": "0fbbbd4c7a3f75a46141067d330dc56d"
+          },
+          {
+            "type": "html",
+            "text": "<i>Model the process</i>",
+            "id": "a9fd46a2f4f6528530702c983a61396f"
+          },
+          {
+            "type": "html",
+            "text": "\nQuality Management tools such as [[Quali Ware]] are of course more efficient than a simple access database. You will probably need these tools in order to do enterprise-scale software improvement. But if you are in the process of implementing a new process, the purchase, installation and adaptation of a QM tool is a lengthy process. You want to start discussions about your software process before you even make contact to a QM tool vendor.",
+            "id": "038542b8529dda51aa45070cd3070627"
+          },
+          {
+            "type": "html",
+            "text": "<i>Draw out process overviews</i>",
+            "id": "efbdddcc3cd57aaaf17813ba8c18f4ac"
+          },
+          {
+            "type": "html",
+            "text": "\nReports that show an overview of the process are more suitable for presentation to management than drawings on a whiteboard. The overviews may help you to communicate what the process is about and how the process fits in with your organization as well as possible changes that need to be made to the organization.",
+            "id": "017bc633d5d5ed3776d452cf0958165b"
+          },
+          {
+            "type": "html",
+            "text": "<i>Examine the work description for every role</i>",
+            "id": "5623ed72ba89f3daa8b47d23f49e3619"
+          },
+          {
+            "type": "html",
+            "text": "\nWhen you present a software process to staff that covers an entire software product lifecycle, you may find that people are looking at their watches or dozing off. In my experience it is more effective to assemble people that are likely to fill out a particular role in the process, and discuss the procedures that are relevant to them. When you show staff their job description it should put a smile on their faces, or at least they should feel that the activities, techniques and tools are close to their primary skills. If not, you know you have a task of cultivating people and marketing the software process.",
+            "id": "07658a37a08f6592dca091af96618036"
+          },
+          {
+            "type": "html",
+            "text": "<i>Make changes to the process</i>",
+            "id": "1c212371245fce685068486a600a8ad0"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's important to do continuous process improvement. Whenever the process breaks, you must fix it. I recommend reflection workshops as described in [1] at project kick-off and at regular intervals during a project. Proposed changes to the process can easily be modelled in the database. This means that you can rapidly execute a new process by giving job descriptions to staff. For me, this approach has been a more effective than updating a complex QM tool or intranet site and then publish the entire lifecycle process to staff.",
+            "id": "c4fed39d965860611786f11ca398f95b"
+          },
+          {
+            "type": "html",
+            "text": "<b>Scope of the Agile Process Tool</b>",
+            "id": "60ca0b29e72a7f9a0c74d289e96469e9"
+          },
+          {
+            "type": "html",
+            "text": "\nThe Agile Process Tool database [2] doesn't support diagramming. You will almost certainly need to produce process or activity diagrams that shows lifecycles, sequences, iterations, flow-back and stuff like that. You must create diagrams using [[Power Point]], [[Quali Ware]] or some other tool. You can link to the diagrams from the database.",
+            "id": "95d73824baa134dc3427b32ede8da95f"
+          },
+          {
+            "type": "html",
+            "text": "\nThe Agile Process Tool database [2] will not be sufficient as a Quality Management system. For ISO 9000, you need a hierarchical process description with a strategic section, a description of QA procedures with process diagrams, and work flow descriptions also with process diagrams.",
+            "id": "cb13cd9364611b78e2d094d3adab2b5e"
+          },
+          {
+            "type": "html",
+            "text": "<b>References</b>",
+            "id": "16aab9079375e37da52a9de24e563b72"
+          },
+          {
+            "type": "html",
+            "text": "[1] <b>Agile Software Development</b>, Alistair Cockburn, Addison-Wesley Pub, 2001",
+            "id": "7bb4e98542987c2ef01da2c5cdefd2e0"
+          },
+          {
+            "type": "html",
+            "text": "[2] <b>Agile Process Tool Access Database</b>, [http://www.conexp.dk/docs/AgileProcessTool.zip www.conexp.dk]",
+            "id": "cbfaa96e18d7e94650a4cc07b72895c7"
+          },
+          {
+            "type": "html",
+            "text": "[3] <b>Example Process Overview Report</b>, [http://www.conexp.dk/docs/xpplus.pdf www.conexp.dk]",
+            "id": "67e3b091b1254f571cb157ad1af54dde"
+          },
+          {
+            "type": "html",
+            "text": "[4] <b>Example Job Description</b>, [http://www.conexp.dk/docs/Role.pdf www.conexp.dk]",
+            "id": "6e9e82eb560702ba9c4a725047f0e8e7"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "57d922811ec87d97fc9242c7b827b0ca"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "97c09079bccc9ab713d7b324036f937e"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?AgileProcessTool c2.com]",
+            "id": "8552e792f02e3918aa7fd7f9decf3707"
+          }
+        ]
+      }
+    }
+  ]
+}

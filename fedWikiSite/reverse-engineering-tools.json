@@ -1,0 +1,187 @@
+{
+  "title": "Reverse Engineering Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Tools that help [[Reverse Engineering]].",
+      "id": "23258f8361f51bb5d72d8d300e809e4b"
+    },
+    {
+      "type": "html",
+      "text": "\nCommercial tools for source code reverse engineering of object oriented languages include: ",
+      "id": "5940a7df4e15a6f113374c9eba1b41ee"
+    },
+    {
+      "type": "html",
+      "text": " Sniff",
+      "id": "0a1afd58fae3ee6d5991b8ba69a05df7"
+    },
+    {
+      "type": "html",
+      "text": " [[Together Java]]",
+      "id": "f995e7438baa0a3a72269bff49296c22"
+    },
+    {
+      "type": "html",
+      "text": " [[Understand For Cee Plus Plus]]",
+      "id": "e240a8391820ff0468e2b4fc47b8c681"
+    },
+    {
+      "type": "html",
+      "text": " [[Rational Rose]]",
+      "id": "5cb2481f78027aa48f2b404eb6944275"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Rational Rose]] and [[Together Java]] can generate [[Uml Diagram]]s from the [[Source Code]]. [[Reverse Modeling Tools]] ? ",
+      "id": "5f61106d55718857f5433b7d5a861d38"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Understand For Cee Plus Plus]] extracts metrics, [[Cross Reference]] and [[Functions Call Trees]] from the [[Source Code]].",
+      "id": "c51b1ad1b7a944ec2e692541214a129a"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Philippe Antras]]",
+      "id": "320db22f68cb58b7c9004a60736db443"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "5a155958646605812ff79e4d461c8bf2"
+    },
+    {
+      "type": "html",
+      "text": "\nThere are a few very good free tools for reverse engineering as well.  For example,\nESSModel generates excellent class diagrams from the source--and it's very fast!\nESSModel is [[Open Source]] [[Free Software]] and is available at [http://www.essmodel.com/download.html www.essmodel.com] \nor from the [[Source Forge]] project page at [http://sourceforge.net/projects/essmodel sourceforge.net]",
+      "id": "05a841ea5fb73f538fc63dd7c487f220"
+    },
+    {
+      "type": "html",
+      "text": "\nYou can also try some promising free tool for Java Reversing :",
+      "id": "8e247516c0d8471e05fe6ebf5f675e7d"
+    },
+    {
+      "type": "html",
+      "text": " RTEO (Round Trip Engineering Objects)",
+      "id": "5c70e500799f066a79871ea9f1757469"
+    },
+    {
+      "type": "html",
+      "text": "It is available here : [http://www.rteo.org www.rteo.org]",
+      "id": "9380f0452964ffa4e67f08c4bbc1ca80"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "5a155958646605812ff79e4d461c8bf2"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "8aed299dbd26964283f1b4c0e69acd71"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ReverseEngineeringTools c2.com]",
+      "id": "dce2d2cd3dbe59614618177eb86a530d"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1145999369000,
+      "id": "6ea4a25cbe615987d87c154102c9271f",
+      "type": "create",
+      "item": {
+        "title": "Reverse Engineering Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Tools that help [[Reverse Engineering]].",
+            "id": "23258f8361f51bb5d72d8d300e809e4b"
+          },
+          {
+            "type": "html",
+            "text": "\nCommercial tools for source code reverse engineering of object oriented languages include: ",
+            "id": "5940a7df4e15a6f113374c9eba1b41ee"
+          },
+          {
+            "type": "html",
+            "text": " Sniff",
+            "id": "0a1afd58fae3ee6d5991b8ba69a05df7"
+          },
+          {
+            "type": "html",
+            "text": " [[Together Java]]",
+            "id": "f995e7438baa0a3a72269bff49296c22"
+          },
+          {
+            "type": "html",
+            "text": " [[Understand For Cee Plus Plus]]",
+            "id": "e240a8391820ff0468e2b4fc47b8c681"
+          },
+          {
+            "type": "html",
+            "text": " [[Rational Rose]]",
+            "id": "5cb2481f78027aa48f2b404eb6944275"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Rational Rose]] and [[Together Java]] can generate [[Uml Diagram]]s from the [[Source Code]]. [[Reverse Modeling Tools]] ? ",
+            "id": "5f61106d55718857f5433b7d5a861d38"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Understand For Cee Plus Plus]] extracts metrics, [[Cross Reference]] and [[Functions Call Trees]] from the [[Source Code]].",
+            "id": "c51b1ad1b7a944ec2e692541214a129a"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Philippe Antras]]",
+            "id": "320db22f68cb58b7c9004a60736db443"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "5a155958646605812ff79e4d461c8bf2"
+          },
+          {
+            "type": "html",
+            "text": "\nThere are a few very good free tools for reverse engineering as well.  For example,\nESSModel generates excellent class diagrams from the source--and it's very fast!\nESSModel is [[Open Source]] [[Free Software]] and is available at [http://www.essmodel.com/download.html www.essmodel.com] \nor from the [[Source Forge]] project page at [http://sourceforge.net/projects/essmodel sourceforge.net]",
+            "id": "05a841ea5fb73f538fc63dd7c487f220"
+          },
+          {
+            "type": "html",
+            "text": "\nYou can also try some promising free tool for Java Reversing :",
+            "id": "8e247516c0d8471e05fe6ebf5f675e7d"
+          },
+          {
+            "type": "html",
+            "text": " RTEO (Round Trip Engineering Objects)",
+            "id": "5c70e500799f066a79871ea9f1757469"
+          },
+          {
+            "type": "html",
+            "text": "It is available here : [http://www.rteo.org www.rteo.org]",
+            "id": "9380f0452964ffa4e67f08c4bbc1ca80"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "5a155958646605812ff79e4d461c8bf2"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "8aed299dbd26964283f1b4c0e69acd71"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ReverseEngineeringTools c2.com]",
+            "id": "dce2d2cd3dbe59614618177eb86a530d"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "title": "Java Awt Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Java Awt Toolkit]] demonstrates a few [[Java Patterns]]. ",
+      "id": "de6a80b30593c4c3691580cf78339572"
+    },
+    {
+      "type": "html",
+      "text": "\nThe java.awt.Toolkit is the glue that joins the platform-independent classes in the java.awt package with their counterparts in java.awt.peer. Some methods defined by Toolkit query the native operating system directly. ",
+      "id": "ff43d4007b3fa50e7f7a7242f54b182c"
+    },
+    {
+      "type": "html",
+      "text": "\njava.awt.Toolkit is an [[Abstract Factory]].  Created through  the [[Singleton Pattern]] using the [[Parameter Classes]] [[Java Idiom]].",
+      "id": "7826ddcb3da36a010e46fa315aa543b6"
+    },
+    {
+      "type": "code",
+      "text": " public abstract class  Toolkit {",
+      "id": "221d41207604b56ae88875e1e755d6b9"
+    },
+    {
+      "type": "code",
+      "text": "  // '''Our singleton instance'''.\n  private static Toolkit toolkit;",
+      "id": "44c6cebb9c6f9fb7a18f65d5ba09875a"
+    },
+    {
+      "type": "code",
+      "text": "  public static synchronized Toolkit getDefaultToolkit() {\n  if (toolkit == null) {\n  try {\n  java.lang.Compiler.disable();",
+      "id": "5e3599f09a7843180201e884212969e8"
+    },
+    {
+      "type": "code",
+      "text": "  java.security.Access''''''Controller.doPrivileged(\n  new java.security.Privileged''''''Action() {\n  public Object run() {\n    String nm = null;\n    try {\n    // '''The ParameterClasses implementation'''.\n    nm = System.getProperty(\"awt.toolkit\", \"sun.awt.motif.MToolkit\");\n    toolkit = (Toolkit)Class.forName(nm).newInstance();\n    } catch (Class''''''Not''''''Found''''''Exception e) {\n    throw new AWTError(\"Toolkit not found: \" + nm);\n    } catch (Instantiation''''''Exception e) {\n    throw new AWTError(\"Could not instantiate Toolkit: \" + nm);\n    } catch (Illegal''''''Access''''''Exception e) {\n    throw new AWTError(\"Could not access Toolkit: \" + nm);\n    }\n    return null;\n   }\n  });\n  loadAssistiveTechnologies();\n  } finally {\n  // Make sure to always re-enable the JIT.\n    java.lang.Compiler.enable();\n  }\n  }\n  return toolkit;\n  }",
+      "id": "416a651c87e5d33657932fe608edb830"
+    },
+    {
+      "type": "image",
+      "url": "http://www.geekfarm.org/emeade/wikimages/abstractfactory.gif",
+      "text": "www.geekfarm.org",
+      "id": "018c802f6a210f1e745ffe12922523f4"
+    },
+    {
+      "type": "html",
+      "text": "\nDiagram of [[Abstract Factory]]:\n",
+      "id": "8f88961629a02479b42855b68750b4a1"
+    },
+    {
+      "type": "image",
+      "url": "http://www.geekfarm.org/emeade/wikimages/abstractfactory_toolkit.gif",
+      "text": "www.geekfarm.org",
+      "id": "a9ca5dbb34f9dd9cb3cb0a4e3366400f"
+    },
+    {
+      "type": "html",
+      "text": "\nDiagram of Toolkit as [[Abstract Factory]]:\n",
+      "id": "c65e16e92f2851ea59d7f8dcb5ea1117"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9e11da7ea0b97cfb05b8fbbc7d80832f"
+    },
+    {
+      "type": "html",
+      "text": "See also [[The Story Of Awt]]",
+      "id": "90c8a989027602e9dace04c45c8c589c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9e11da7ea0b97cfb05b8fbbc7d80832f"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Java Platform]]",
+      "id": "dd9115d00c290a079a3b09a237c15267"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?JavaAwtToolkit c2.com]",
+      "id": "63aa5b0772fc722d63857640b49e5645"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1051612675000,
+      "id": "5bec48e50d3195c5d2b3bff9f50ecc08",
+      "type": "create",
+      "item": {
+        "title": "Java Awt Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Java Awt Toolkit]] demonstrates a few [[Java Patterns]]. ",
+            "id": "de6a80b30593c4c3691580cf78339572"
+          },
+          {
+            "type": "html",
+            "text": "\nThe java.awt.Toolkit is the glue that joins the platform-independent classes in the java.awt package with their counterparts in java.awt.peer. Some methods defined by Toolkit query the native operating system directly. ",
+            "id": "ff43d4007b3fa50e7f7a7242f54b182c"
+          },
+          {
+            "type": "html",
+            "text": "\njava.awt.Toolkit is an [[Abstract Factory]].  Created through  the [[Singleton Pattern]] using the [[Parameter Classes]] [[Java Idiom]].",
+            "id": "7826ddcb3da36a010e46fa315aa543b6"
+          },
+          {
+            "type": "code",
+            "text": " public abstract class  Toolkit {",
+            "id": "221d41207604b56ae88875e1e755d6b9"
+          },
+          {
+            "type": "code",
+            "text": "  // '''Our singleton instance'''.\n  private static Toolkit toolkit;",
+            "id": "44c6cebb9c6f9fb7a18f65d5ba09875a"
+          },
+          {
+            "type": "code",
+            "text": "  public static synchronized Toolkit getDefaultToolkit() {\n  if (toolkit == null) {\n  try {\n  java.lang.Compiler.disable();",
+            "id": "5e3599f09a7843180201e884212969e8"
+          },
+          {
+            "type": "code",
+            "text": "  java.security.Access''''''Controller.doPrivileged(\n  new java.security.Privileged''''''Action() {\n  public Object run() {\n    String nm = null;\n    try {\n    // '''The ParameterClasses implementation'''.\n    nm = System.getProperty(\"awt.toolkit\", \"sun.awt.motif.MToolkit\");\n    toolkit = (Toolkit)Class.forName(nm).newInstance();\n    } catch (Class''''''Not''''''Found''''''Exception e) {\n    throw new AWTError(\"Toolkit not found: \" + nm);\n    } catch (Instantiation''''''Exception e) {\n    throw new AWTError(\"Could not instantiate Toolkit: \" + nm);\n    } catch (Illegal''''''Access''''''Exception e) {\n    throw new AWTError(\"Could not access Toolkit: \" + nm);\n    }\n    return null;\n   }\n  });\n  loadAssistiveTechnologies();\n  } finally {\n  // Make sure to always re-enable the JIT.\n    java.lang.Compiler.enable();\n  }\n  }\n  return toolkit;\n  }",
+            "id": "416a651c87e5d33657932fe608edb830"
+          },
+          {
+            "type": "image",
+            "url": "http://www.geekfarm.org/emeade/wikimages/abstractfactory.gif",
+            "text": "www.geekfarm.org",
+            "id": "018c802f6a210f1e745ffe12922523f4"
+          },
+          {
+            "type": "html",
+            "text": "\nDiagram of [[Abstract Factory]]:\n",
+            "id": "8f88961629a02479b42855b68750b4a1"
+          },
+          {
+            "type": "image",
+            "url": "http://www.geekfarm.org/emeade/wikimages/abstractfactory_toolkit.gif",
+            "text": "www.geekfarm.org",
+            "id": "a9ca5dbb34f9dd9cb3cb0a4e3366400f"
+          },
+          {
+            "type": "html",
+            "text": "\nDiagram of Toolkit as [[Abstract Factory]]:\n",
+            "id": "c65e16e92f2851ea59d7f8dcb5ea1117"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9e11da7ea0b97cfb05b8fbbc7d80832f"
+          },
+          {
+            "type": "html",
+            "text": "See also [[The Story Of Awt]]",
+            "id": "90c8a989027602e9dace04c45c8c589c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9e11da7ea0b97cfb05b8fbbc7d80832f"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Java Platform]]",
+            "id": "dd9115d00c290a079a3b09a237c15267"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?JavaAwtToolkit c2.com]",
+            "id": "63aa5b0772fc722d63857640b49e5645"
+          }
+        ]
+      }
+    }
+  ]
+}

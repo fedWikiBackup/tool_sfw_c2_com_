@@ -1,0 +1,67 @@
+{
+  "title": "Ndoc Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>NDoc</i> is a free documentation generation tool for [[Microsoft Dot Net]].  It is better than the \"Build Comment Web Pages\" wizard included with [[Visual Studio Dot Net]].",
+      "id": "a4064ded104a605780f1b5bd011365c0"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://ndoc.sourceforge.net/ ndoc.sourceforge.net]",
+      "id": "9889ec97919e3343b99a169c74625ba7"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "05e4c2d0a0b40f5730dffe390a4b84bf"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Dot Net]] [[Category Software Tool]]",
+      "id": "b08818a09be78a561291dd4be2622ee3"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?NdocTool c2.com]",
+      "id": "d4b4d6aa6ab2c136101f670ee4ac5d00"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1103683252000,
+      "id": "c6445425db2aad6ae63ae65343687ead",
+      "type": "create",
+      "item": {
+        "title": "Ndoc Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>NDoc</i> is a free documentation generation tool for [[Microsoft Dot Net]].  It is better than the \"Build Comment Web Pages\" wizard included with [[Visual Studio Dot Net]].",
+            "id": "a4064ded104a605780f1b5bd011365c0"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://ndoc.sourceforge.net/ ndoc.sourceforge.net]",
+            "id": "9889ec97919e3343b99a169c74625ba7"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "05e4c2d0a0b40f5730dffe390a4b84bf"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Dot Net]] [[Category Software Tool]]",
+            "id": "b08818a09be78a561291dd4be2622ee3"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?NdocTool c2.com]",
+            "id": "d4b4d6aa6ab2c136101f670ee4ac5d00"
+          }
+        ]
+      }
+    }
+  ]
+}

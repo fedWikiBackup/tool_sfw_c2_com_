@@ -1,0 +1,87 @@
+{
+  "title": "Cpd Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "CPD (for \"Copy-Paste Duplication\") is a tool that automatically finds duplication in source code.",
+      "id": "b277ac8fda0d4f42685755de40f0986c"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's tuned for Java code.",
+      "id": "a253762f1784fd2928e6d3d96a1522ba"
+    },
+    {
+      "type": "html",
+      "text": "\nAlso available as a plugin for the [[Eclipse Ide]]. And there's a [[Java Spaces]] version available too, which is funky. --[[Tom Copeland]]",
+      "id": "0dbb02f61bc4cedb1b01005ac377b5be"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://pmd.sourceforge.net/cpd.html pmd.sourceforge.net]",
+      "id": "717ebbd69dcf2511416d715981a3eee0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c25fe3bccffae6d810a2d5ac8ad65bfb"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Category Duplication Finding Tool]]",
+      "id": "359047f1c32fc2bfe7b2971c2677c474"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?CpdTool c2.com]",
+      "id": "c8827820f886387370c238c610fe8cdd"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1070340703000,
+      "id": "25e14ab74d31c8e6994f67a46665cc0f",
+      "type": "create",
+      "item": {
+        "title": "Cpd Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "CPD (for \"Copy-Paste Duplication\") is a tool that automatically finds duplication in source code.",
+            "id": "b277ac8fda0d4f42685755de40f0986c"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's tuned for Java code.",
+            "id": "a253762f1784fd2928e6d3d96a1522ba"
+          },
+          {
+            "type": "html",
+            "text": "\nAlso available as a plugin for the [[Eclipse Ide]]. And there's a [[Java Spaces]] version available too, which is funky. --[[Tom Copeland]]",
+            "id": "0dbb02f61bc4cedb1b01005ac377b5be"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://pmd.sourceforge.net/cpd.html pmd.sourceforge.net]",
+            "id": "717ebbd69dcf2511416d715981a3eee0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c25fe3bccffae6d810a2d5ac8ad65bfb"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Category Duplication Finding Tool]]",
+            "id": "359047f1c32fc2bfe7b2971c2677c474"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?CpdTool c2.com]",
+            "id": "c8827820f886387370c238c610fe8cdd"
+          }
+        ]
+      }
+    }
+  ]
+}

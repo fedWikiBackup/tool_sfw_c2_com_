@@ -1,0 +1,227 @@
+{
+  "title": "Scons Build Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "SConsBuildTool [http://www.scons.org/ www.scons.org] is a software construction tool (build tool, or make tool) implemented in [[Python Language]]. It uses Python scripts as \"configuration files\" for software builds. Based on the design that won the Software Carpentry build tool competition, SCons solves a number of problems associated with other build tools, especially including the classic and ubiquitous Make itself.",
+      "id": "5738f99ba4105d3410a0d59fa7f58aa1"
+    },
+    {
+      "type": "html",
+      "text": "\nIn its evolution, scons will be more general than a make replacement -- it will be a Gnu Build System replacement. The Gnu Build System (GBS) is also known as the set of Autotools (autoconf, automake, autoheader, etc...)",
+      "id": "07d688eec97f75e1401a7e34d9727299"
+    },
+    {
+      "type": "html",
+      "text": "\nDistinctive features of SCons include:",
+      "id": "26d4b7d3c1fb526c218917d4281efeae"
+    },
+    {
+      "type": "html",
+      "text": " modular design, lending itself to embedding in other applications",
+      "id": "e50a1eb5f30bd97cff24b23ad263bd9e"
+    },
+    {
+      "type": "html",
+      "text": " a [[Global View]] of all dependencies in the source tree",
+      "id": "7a9b86c735a2a089bd7fa55e49caebf2"
+    },
+    {
+      "type": "html",
+      "text": " an improved model for [[Parallel Builds]] (-j)",
+      "id": "9bd57b3416fba016b2c5a21b2fd4045c"
+    },
+    {
+      "type": "html",
+      "text": " automatic scanning of files for dependencies",
+      "id": "6f4b73c389022d3f4cbc5bbfd3e91a97"
+    },
+    {
+      "type": "html",
+      "text": " use of MD5 signatures for deciding whether a file is up-to-date",
+      "id": "a94a5d6ac4e2e13183be50c2bb91c009"
+    },
+    {
+      "type": "html",
+      "text": " use of MD5 signatures instead of traditional file timestamps available as an option",
+      "id": "9a37053a00b716c73e46349c8db27492"
+    },
+    {
+      "type": "html",
+      "text": " use of Python functions or objects to build target files",
+      "id": "f2744d7338abe545b0dd9ffbcd3231b4"
+    },
+    {
+      "type": "html",
+      "text": " easy user extensibility. ",
+      "id": "69cdfbea04b318b23159b2e2ee856e7c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c5fa85e233d5b4825924d94d8825ddfb"
+    },
+    {
+      "type": "html",
+      "text": "\nIt is much easier to use than [[Nant Tool]] or \n[[Apache Ant]].  Spend a few hours with [[Nant Tool]], trying to get a project going, then try [[Scons Build Tool]].  You won't go back.  ",
+      "id": "3582a911785e4af9df547694ec5283af"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's the Cadillac of build tools - and it's free. <i>What? If i didn't know it i wouldn't want to after reading this...</i>",
+      "id": "8794ed92dfd2af28970a8b5d0aed0f8e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c5fa85e233d5b4825924d94d8825ddfb"
+    },
+    {
+      "type": "html",
+      "text": "<b>Comments</b>",
+      "id": "47850b2abaedcc56203cbf28c94e2d07"
+    },
+    {
+      "type": "html",
+      "text": "\nPerformance / scalability seems to be quite an issue for scons.  My experience with it has been with two [[Build System]]s that were both originally written in scons (and saw benefits in both cases from the scons' ease of use) but then had to be rewritten due to poor performance.  The first seemed to suffer from scons doing many unnecesary checks for files in the filesystem (this apparently has been fixed) and the second seemed to spend most of its time churning through Python code.  In both cases performance was good for small test projects but then when it was ramped up for use by everyone it fell down.",
+      "id": "dc784b645644d020cb698edc75b04efc"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Damyan Pepper]]",
+      "id": "6f5939f7173a8510be31fd98f0781c37"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "c5fa85e233d5b4825924d94d8825ddfb"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "779ca17efa4720f05893db3f903764c9"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SconsBuildTool c2.com]",
+      "id": "3847bff5cd58b5e1399afd74a0f5562e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1135227619000,
+      "id": "add720919cf3eff10ec88e71e2924742",
+      "type": "create",
+      "item": {
+        "title": "Scons Build Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "SConsBuildTool [http://www.scons.org/ www.scons.org] is a software construction tool (build tool, or make tool) implemented in [[Python Language]]. It uses Python scripts as \"configuration files\" for software builds. Based on the design that won the Software Carpentry build tool competition, SCons solves a number of problems associated with other build tools, especially including the classic and ubiquitous Make itself.",
+            "id": "5738f99ba4105d3410a0d59fa7f58aa1"
+          },
+          {
+            "type": "html",
+            "text": "\nIn its evolution, scons will be more general than a make replacement -- it will be a Gnu Build System replacement. The Gnu Build System (GBS) is also known as the set of Autotools (autoconf, automake, autoheader, etc...)",
+            "id": "07d688eec97f75e1401a7e34d9727299"
+          },
+          {
+            "type": "html",
+            "text": "\nDistinctive features of SCons include:",
+            "id": "26d4b7d3c1fb526c218917d4281efeae"
+          },
+          {
+            "type": "html",
+            "text": " modular design, lending itself to embedding in other applications",
+            "id": "e50a1eb5f30bd97cff24b23ad263bd9e"
+          },
+          {
+            "type": "html",
+            "text": " a [[Global View]] of all dependencies in the source tree",
+            "id": "7a9b86c735a2a089bd7fa55e49caebf2"
+          },
+          {
+            "type": "html",
+            "text": " an improved model for [[Parallel Builds]] (-j)",
+            "id": "9bd57b3416fba016b2c5a21b2fd4045c"
+          },
+          {
+            "type": "html",
+            "text": " automatic scanning of files for dependencies",
+            "id": "6f4b73c389022d3f4cbc5bbfd3e91a97"
+          },
+          {
+            "type": "html",
+            "text": " use of MD5 signatures for deciding whether a file is up-to-date",
+            "id": "a94a5d6ac4e2e13183be50c2bb91c009"
+          },
+          {
+            "type": "html",
+            "text": " use of MD5 signatures instead of traditional file timestamps available as an option",
+            "id": "9a37053a00b716c73e46349c8db27492"
+          },
+          {
+            "type": "html",
+            "text": " use of Python functions or objects to build target files",
+            "id": "f2744d7338abe545b0dd9ffbcd3231b4"
+          },
+          {
+            "type": "html",
+            "text": " easy user extensibility. ",
+            "id": "69cdfbea04b318b23159b2e2ee856e7c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c5fa85e233d5b4825924d94d8825ddfb"
+          },
+          {
+            "type": "html",
+            "text": "\nIt is much easier to use than [[Nant Tool]] or \n[[Apache Ant]].  Spend a few hours with [[Nant Tool]], trying to get a project going, then try [[Scons Build Tool]].  You won't go back.  ",
+            "id": "3582a911785e4af9df547694ec5283af"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's the Cadillac of build tools - and it's free. <i>What? If i didn't know it i wouldn't want to after reading this...</i>",
+            "id": "8794ed92dfd2af28970a8b5d0aed0f8e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c5fa85e233d5b4825924d94d8825ddfb"
+          },
+          {
+            "type": "html",
+            "text": "<b>Comments</b>",
+            "id": "47850b2abaedcc56203cbf28c94e2d07"
+          },
+          {
+            "type": "html",
+            "text": "\nPerformance / scalability seems to be quite an issue for scons.  My experience with it has been with two [[Build System]]s that were both originally written in scons (and saw benefits in both cases from the scons' ease of use) but then had to be rewritten due to poor performance.  The first seemed to suffer from scons doing many unnecesary checks for files in the filesystem (this apparently has been fixed) and the second seemed to spend most of its time churning through Python code.  In both cases performance was good for small test projects but then when it was ramped up for use by everyone it fell down.",
+            "id": "dc784b645644d020cb698edc75b04efc"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Damyan Pepper]]",
+            "id": "6f5939f7173a8510be31fd98f0781c37"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "c5fa85e233d5b4825924d94d8825ddfb"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "779ca17efa4720f05893db3f903764c9"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SconsBuildTool c2.com]",
+            "id": "3847bff5cd58b5e1399afd74a0f5562e"
+          }
+        ]
+      }
+    }
+  ]
+}

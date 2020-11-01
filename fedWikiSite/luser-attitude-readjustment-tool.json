@@ -1,0 +1,107 @@
+{
+  "title": "Luser Attitude Readjustment Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "LART",
+      "id": "3097612b219e9011750b54e7c23c205a"
+    },
+    {
+      "type": "html",
+      "text": "\nClass of tools used for dealing with PEBKAC errors (problem exists between keyboard and chair).",
+      "id": "8b33ff25a63cbb6eacca54dab32be9ea"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Jargon File]]: [http://catb.org/~esr/jargon/html/L/LART.html catb.org]",
+      "id": "dac6dc1e398312c87eff5b4c80a7d043"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "5f66d3b37b488a52b9ddcad26684061a"
+    },
+    {
+      "type": "html",
+      "text": "\nAn [[Attitude Adjustment Tool]].",
+      "id": "1b37bfd388c2e80446376565c0f5509e"
+    },
+    {
+      "type": "html",
+      "text": "\nThe more violent will also include [[Parking Lot Therapy]].",
+      "id": "8a2712ab69f73dcfc5c3874e7580e163"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "5f66d3b37b488a52b9ddcad26684061a"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Computer Education]]",
+      "id": "c8883f1212397f3c7864f8be29b577e1"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?LuserAttitudeReadjustmentTool c2.com]",
+      "id": "c36126e16c0aa8b317d6e3c32d8ff1ad"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1100937434000,
+      "id": "0ca4a330b9bdbdbc6eea494ec8eab4e0",
+      "type": "create",
+      "item": {
+        "title": "Luser Attitude Readjustment Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "LART",
+            "id": "3097612b219e9011750b54e7c23c205a"
+          },
+          {
+            "type": "html",
+            "text": "\nClass of tools used for dealing with PEBKAC errors (problem exists between keyboard and chair).",
+            "id": "8b33ff25a63cbb6eacca54dab32be9ea"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Jargon File]]: [http://catb.org/~esr/jargon/html/L/LART.html catb.org]",
+            "id": "dac6dc1e398312c87eff5b4c80a7d043"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "5f66d3b37b488a52b9ddcad26684061a"
+          },
+          {
+            "type": "html",
+            "text": "\nAn [[Attitude Adjustment Tool]].",
+            "id": "1b37bfd388c2e80446376565c0f5509e"
+          },
+          {
+            "type": "html",
+            "text": "\nThe more violent will also include [[Parking Lot Therapy]].",
+            "id": "8a2712ab69f73dcfc5c3874e7580e163"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "5f66d3b37b488a52b9ddcad26684061a"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Computer Education]]",
+            "id": "c8883f1212397f3c7864f8be29b577e1"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?LuserAttitudeReadjustmentTool c2.com]",
+            "id": "c36126e16c0aa8b317d6e3c32d8ff1ad"
+          }
+        ]
+      }
+    }
+  ]
+}

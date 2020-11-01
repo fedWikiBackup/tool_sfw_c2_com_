@@ -1,0 +1,437 @@
+{
+  "title": "Pick The Right Tool For The Job",
+  "story": [
+    {
+      "type": "html",
+      "text": "Don't try to hammer a nail with a monkey wrench.",
+      "id": "500340915cadf7cfedb86dbbd3f295b4"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "Don't use a screwdriver to pound nails. It takes forever and wrecks the screwdriver.",
+      "id": "2ecd6fbdd0359d5dc4a17b31c3fc6df0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "Based on requirements, <b>always</b> pick the right tool for the job. -- [[Drew Marsh]]",
+      "id": "d17a891786844684ad20db5cc759f6d1"
+    },
+    {
+      "type": "html",
+      "text": "\nYes, always. Identifying your [[Problem Frame]] can help with this. -- [[Keith Braithwaite]]",
+      "id": "c26945c664c0f2027e7931f9d33796be"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "In practice, few people seem to be able to pick the right tool, because they don't know enough different tools. Also, the right tool for a job happens to be highly dependent on who is going to use it. Maybe this leads to [[Pick The Right Programmer For The Job]]? (or [[Specialization Is For Insects]])",
+      "id": "69368526ebd473a9db2ad47e265d30b9"
+    },
+    {
+      "type": "html",
+      "text": "\nThe [[Luke Gorrie]] story on [[Language Agnostic]] drives this point home. I'd seek to employ someone like Luke every time, vs someone who can recite the latest Java API verbatim (or, in past days, the ARM). But I'd also take a chance on someone who showed the ability to be trained into a Luke. -- [[Keith Braithwaite]]",
+      "id": "30a3c7f3321a4f74c0dbeb5a1dddd7ce"
+    },
+    {
+      "type": "html",
+      "text": "<i>I feel compelled to admit that, because I'm a beginner Scheme programmer, doing things the way I did took longer than it would have taken me to do everything by hand. :-) I rationalize this by saying that it gave me experience with this [[Kawa Scheme]] -> [[Java Language]] compiler that I hope to use heavily in the future. -- [[Luke Gorrie]]</i>",
+      "id": "5431d5d40d2b3d4d4c5a77aefe519439"
+    },
+    {
+      "type": "html",
+      "text": "\nDon't underrate yourself Luke, there are few developers around who would even think of proceeding the way you have, let alone do it. -- KB",
+      "id": "4dd0ed9002268158455ed2d1db90b791"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "I'm sure this is better than picking the wrong tool for the job, but it isn't easy to know what the right thing is. It isn't easy to know all the requirements, and it isn't easy to know what tool set those requirements imply, especially as both tool sets and requirements are apt to change.",
+      "id": "19578d4d9f900765956bd1a496b3d620"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm not suggesting it isn't worth some effort, but I suspect a more plausible goal is [[Pick An Ok Tool For The Job]].",
+      "id": "0412bbeeeb32253edb4a956b6ed798cd"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "[[Irreverent Dyslexia]] alert. When scoping out jobs and considering tools, don't forget to also [[Pick The Right Fool For The Job]], especially if you want it done right.",
+      "id": "efbeae1ac43393a077737d78e08edc9d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "An alternative could be [[Pick The Right Job For The Tool]].",
+      "id": "9b8695d70824cf8259dd3d1f8f0b0b92"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "Managers' alternative: [[Pick The Right Fool For The Job]].",
+      "id": "12a7cfb8645b4f446399a847f7c208f6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "OK, let's face it. The language list ([http://cui.unige.ch/OSG/info/Langlist/intro.html cui.unige.ch]) contains 2350 programming languages. I bet you didn't evaluate them all before embarking on your current project. This is a typical example of where it is irrational to be fully rational. Everybody uses a shortlist, and this leads automatically to [[Pick An Ok Tool For The Job]]. But why wasn't the [[Haskell Language]] on your shortlist?",
+      "id": "479403f8d78f3cdd99bac88f8cea7d47"
+    },
+    {
+      "type": "html",
+      "text": "[This sort of decision-making is known as in economics theory as 'satisficing' ([http://en.wikipedia.org/wiki/Satisficing en.wikipedia.org]), and is unavoidable in any situation where there is insufficient information to determine absolute optimality (i.e., any non-trivial real world situation). While it means that it is usually impossible to find an optimal solution, it does not serve as an argument against attempting to find a <i>better</i> solution. - [[Jay Osako]]]",
+      "id": "08266221fee012667edd53c4fbab9614"
+    },
+    {
+      "type": "html",
+      "text": "<i>Ok, you have 2350 languages, but how are they related?  I have heard someone claim that they had a \"broad\" programming background because they knew c,c++,java and a bit of perl (this was a while ago, I am sure that today they would add c# and python, etc.).  While laughable, these sorts of claims are not as rare as one might hope.  Compare to someone who knew, say, smalltalk, lisp, fortran, and a bit of java....or some permutation</i>",
+      "id": "a3342ab9c6a153a80aa81926b797a5ab"
+    },
+    {
+      "type": "html",
+      "text": "\nThis sort of decision-making is known as in economics theory as 'satisficing' ([http://en.wikipedia.org/wiki/Satisficing en.wikipedia.org]), and is unavoidable in any situation where there is insufficient information to determine absolute optimality (i.e., any non-trivial real world situation). - [[Jay Osako]]",
+      "id": "c8bb78bef72d4d7cc07f307e80d4917d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "\nI am not sure how to pick the right (i.e. absolute best) tool for the job.  I can pick an adequate tool for the job.  Isn't that sufficient?",
+      "id": "343142ee92299d8489f25f0ea3c524c4"
+    },
+    {
+      "type": "html",
+      "text": "<i>If \"adequate\" means \"right,\" then yes.</i>",
+      "id": "5130497281be103bfbfe40d972c6325f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "\nRE: [...] <i>languages are simply tools at our disposal, a skilled carpenter could attempt to use his saw to lever out a bent nail but it would take alot more time and lateral thinking, but the claw hammer is just laying there doing nothing.  Every language has its time and place. [...] I dont think it is possible to create a magic-bullet language, <b>and no one should try</b>.</i> [emphasis added, originally from [[Cee Plus Plus]]]",
+      "id": "66e7e30aab8fdff6d786f74c77a25ee4"
+    },
+    {
+      "type": "html",
+      "text": "\nIt is true that languages are tools and that there is merit in choosing [[The Right Tool For The Job]]. But it isn't often that just one 'tool' is right for every part of a job. Running with your analogy, a typical project may call for both the saw and the claw hammer. Unfortunately, putting too many tools in your toolbox starts making that toolbox very bulky and heavy - difficult to manage, difficult to learn, and difficult to afford. The same is true of software tools... well, they don't have any physical weight, but they do impose a large learning burden, configuration management costs, and so on (different editors/compilers/interpreters; different forms of managed memory; unwieldy, unsafe, and inefficient [[Foreign Function Interface]]s; challenges supporting optimizatons/safety/security/reliability/debugging/error handling/logging/transactions/MT-safety/and various other [[Cross Cutting Concern]]s between multilingual components; etc.). ",
+      "id": "a0f5df39dfd7fe93050a812c775313c4"
+    },
+    {
+      "type": "html",
+      "text": "\nBecause there is a hefty price-tag associated with keeping extra languages in your language-toolbox, [[Pick The Right Tool For The Job]], no matter how practical it <i>sounds</i>, is not, in practice, always practical. As a result, there is also considerable merit in the idea of a [[General Purpose Programming Language]] that aims to be all things for all projects. Even when such a language does not provide [[The Right Tool]], it will often be [[Good Enough]]. But because it isn't possible for language designers to predict all uses of a language it is useful for a [[General Purpose Programming Language]] to have the [[Meta Programming]] facilities to extend it as required (much like the [[All Purpose Tool Kit]] contains a $20 bill just in case). Similarly, because it isn't possible for project developers to anticipate or respond to all feature demands, it helps if the language makes easy and <i>relatively</i> efficient support for safe and efficient runtime extensions - [[Alternate Hard And Soft Layers]] and [[Plugin Architecture]] all within just one language.",
+      "id": "bfa155fa7b14991a6f40105298056540"
+    },
+    {
+      "type": "html",
+      "text": "\nUnfortunately, while [[Cee Plus Plus]] does aim to be something of a [[General Purpose Programming Language]], it is far from ideal for such a purpose. The inability to modularize a new feature in a [[General Purpose Programming Language]] without leaking implementation details or severely compromising [[Non Functional Requirements]] has been called the [[Missing Feature Smell]], and C++ positively reeks of it. It lacks, among other things, suitably powerful [[Meta Programming]] facilities ([[Template Metaprogramming]] is not [[Good Enough]]), and is awful at [[Alternate Hard And Soft Layers]] (bad enough that people have created dedicated general purpose languages that aren't [[Cee Plus Plus]] to become the 'soft layer').",
+      "id": "608d594f0e1072183c27f954ab82d759"
+    },
+    {
+      "type": "html",
+      "text": "\nBut, regardless of whether C++ is suitable to the goal, the benefits of having a single language that is [[Good Enough]] for every task is very appealing, very practical, and well worth pursuing. The dream is enough to inspire such thoughts as the [[Single Language Operating System]]. The trick is to avoid the language itself becoming the massive and unwieldy toolbox aforementioned.  We need a single, coherent tool - perhaps related to [[Symmetry Of Language]]. And even if it is 'impossible' to succeed 100% of the way, coming arbitrarily close is still likely to be a great deal better and more practical than is the situation today.",
+      "id": "a987fdd180801ead19757598c7a6afcf"
+    },
+    {
+      "type": "html",
+      "text": "<b>RE:</b> [[[Cee Plus Plus]]] is awful at [[Alternate Hard And Soft Layers]] (bad enough that people have created dedicated general purpose languages that aren't [[Cee Plus Plus]] to become the 'soft layer').",
+      "id": "5e4a4c862c252bca5bd69669f6c81d7c"
+    },
+    {
+      "type": "html",
+      "text": "<i>Wait ... the whole purpose of [[Alternate Hard And Soft Layers]] is </i>precisely<i> to get away from lower-level, less-flexible langauges like C/C++ for expressing solutions to problems in their ideal notation.  Your parenthetical qualification, therefore, serves no purpose as stated.  Who <b>ever</b> would consider using C++ as a soft layer?  However, many folks </i>have<i> invented new languages (the most famous of which is [[Java Language]]) to avoid C++ like the plague that it is, for the purpose of serving as a </i>hard<i> layer.  So, shouldn't you have written, \". . ., that aren't [[Cee Plus Plus]] to be the 'hard layer'\" instead?</i>",
+      "id": "891103191a461c3861c7679f01cc47bd"
+    },
+    {
+      "type": "html",
+      "text": "\nA [[General Purpose Programming Language]] <i>should be</i> able to [[Alternate Hard And Soft Layers]] <i>without</i> resorting to a different language. I do not believe that there <i>should be</i> a significant dichotomy between 'lower-level, less-flexible languages like C/C++' and 'languages for expressing solutions to problems in their ideal notation'; a [[General Purpose Programming Language]] <i>should be</i> '[[Good Enough]]' at fulfilling both roles - fulfilling many such roles is what \"general purpose\" <i>means</i>.  [[Cee Plus Plus]]'s failure to be good as a soft layer (no language-recognized modularity, safety/sandboxing, general lack of support for parsing or interpreting in its standard library, etc.) and its failure to provide expression of some problems in a [[Good Enough]] (if not ideal) notation (due to weak [[Meta Programming]]) are both failures of [[Cee Plus Plus]] in its role as a [[General Purpose Programming Language]] - which is significant because [[Cee Plus Plus]] does not fill any roles as a [[Domain Specific Language]]. ",
+      "id": "82d68787dbc57b0b679e5787d29d46ae"
+    },
+    {
+      "type": "html",
+      "text": "\nOther languages that purport to be [[General Purpose Programming Language]]s often have the same failing. For example, [[Java Language]] should be the soft layer for [[Java Language]]. It works for compiled Lisp and Forth. Why not Java and C++?",
+      "id": "7ceec2d76af51efbb43d01b9f054acd0"
+    },
+    {
+      "type": "html",
+      "text": "\nThat people feel the need to \"avoid C++ like the plague that it is\" is <i>because</i> the lack of support for effective [[Meta Programming]] and [[Alternate Hard And Soft Layers]] are just two among a myriad of failures for [[Cee Plus Plus]] in its role as a [[General Purpose Programming Language]]. ",
+      "id": "2ecbf9998614c8408062602c622d1129"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "0d818e65786062ed10a27914e30d01a2"
+    },
+    {
+      "type": "html",
+      "text": "See also: [[Language Agnostic]], [[Method Agnostic]], [[Mixing Paradigms]], [[Utah Phillips]], [[Fallacy Of The Right Tool]]",
+      "id": "e8ad4d8db527bc197a3e8400f698b8ef"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PickTheRightToolForTheJob c2.com]",
+      "id": "9430ae918c9373eeaeab413da8b53ea0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1417044074000,
+      "id": "0f9c8c9ebb320e78a6e8f4085f9baa3e",
+      "type": "create",
+      "item": {
+        "title": "Pick The Right Tool For The Job",
+        "story": [
+          {
+            "type": "html",
+            "text": "Don't try to hammer a nail with a monkey wrench.",
+            "id": "500340915cadf7cfedb86dbbd3f295b4"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "Don't use a screwdriver to pound nails. It takes forever and wrecks the screwdriver.",
+            "id": "2ecd6fbdd0359d5dc4a17b31c3fc6df0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "Based on requirements, <b>always</b> pick the right tool for the job. -- [[Drew Marsh]]",
+            "id": "d17a891786844684ad20db5cc759f6d1"
+          },
+          {
+            "type": "html",
+            "text": "\nYes, always. Identifying your [[Problem Frame]] can help with this. -- [[Keith Braithwaite]]",
+            "id": "c26945c664c0f2027e7931f9d33796be"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "In practice, few people seem to be able to pick the right tool, because they don't know enough different tools. Also, the right tool for a job happens to be highly dependent on who is going to use it. Maybe this leads to [[Pick The Right Programmer For The Job]]? (or [[Specialization Is For Insects]])",
+            "id": "69368526ebd473a9db2ad47e265d30b9"
+          },
+          {
+            "type": "html",
+            "text": "\nThe [[Luke Gorrie]] story on [[Language Agnostic]] drives this point home. I'd seek to employ someone like Luke every time, vs someone who can recite the latest Java API verbatim (or, in past days, the ARM). But I'd also take a chance on someone who showed the ability to be trained into a Luke. -- [[Keith Braithwaite]]",
+            "id": "30a3c7f3321a4f74c0dbeb5a1dddd7ce"
+          },
+          {
+            "type": "html",
+            "text": "<i>I feel compelled to admit that, because I'm a beginner Scheme programmer, doing things the way I did took longer than it would have taken me to do everything by hand. :-) I rationalize this by saying that it gave me experience with this [[Kawa Scheme]] -> [[Java Language]] compiler that I hope to use heavily in the future. -- [[Luke Gorrie]]</i>",
+            "id": "5431d5d40d2b3d4d4c5a77aefe519439"
+          },
+          {
+            "type": "html",
+            "text": "\nDon't underrate yourself Luke, there are few developers around who would even think of proceeding the way you have, let alone do it. -- KB",
+            "id": "4dd0ed9002268158455ed2d1db90b791"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "I'm sure this is better than picking the wrong tool for the job, but it isn't easy to know what the right thing is. It isn't easy to know all the requirements, and it isn't easy to know what tool set those requirements imply, especially as both tool sets and requirements are apt to change.",
+            "id": "19578d4d9f900765956bd1a496b3d620"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm not suggesting it isn't worth some effort, but I suspect a more plausible goal is [[Pick An Ok Tool For The Job]].",
+            "id": "0412bbeeeb32253edb4a956b6ed798cd"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "[[Irreverent Dyslexia]] alert. When scoping out jobs and considering tools, don't forget to also [[Pick The Right Fool For The Job]], especially if you want it done right.",
+            "id": "efbeae1ac43393a077737d78e08edc9d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "An alternative could be [[Pick The Right Job For The Tool]].",
+            "id": "9b8695d70824cf8259dd3d1f8f0b0b92"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "Managers' alternative: [[Pick The Right Fool For The Job]].",
+            "id": "12a7cfb8645b4f446399a847f7c208f6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "OK, let's face it. The language list ([http://cui.unige.ch/OSG/info/Langlist/intro.html cui.unige.ch]) contains 2350 programming languages. I bet you didn't evaluate them all before embarking on your current project. This is a typical example of where it is irrational to be fully rational. Everybody uses a shortlist, and this leads automatically to [[Pick An Ok Tool For The Job]]. But why wasn't the [[Haskell Language]] on your shortlist?",
+            "id": "479403f8d78f3cdd99bac88f8cea7d47"
+          },
+          {
+            "type": "html",
+            "text": "[This sort of decision-making is known as in economics theory as 'satisficing' ([http://en.wikipedia.org/wiki/Satisficing en.wikipedia.org]), and is unavoidable in any situation where there is insufficient information to determine absolute optimality (i.e., any non-trivial real world situation). While it means that it is usually impossible to find an optimal solution, it does not serve as an argument against attempting to find a <i>better</i> solution. - [[Jay Osako]]]",
+            "id": "08266221fee012667edd53c4fbab9614"
+          },
+          {
+            "type": "html",
+            "text": "<i>Ok, you have 2350 languages, but how are they related?  I have heard someone claim that they had a \"broad\" programming background because they knew c,c++,java and a bit of perl (this was a while ago, I am sure that today they would add c# and python, etc.).  While laughable, these sorts of claims are not as rare as one might hope.  Compare to someone who knew, say, smalltalk, lisp, fortran, and a bit of java....or some permutation</i>",
+            "id": "a3342ab9c6a153a80aa81926b797a5ab"
+          },
+          {
+            "type": "html",
+            "text": "\nThis sort of decision-making is known as in economics theory as 'satisficing' ([http://en.wikipedia.org/wiki/Satisficing en.wikipedia.org]), and is unavoidable in any situation where there is insufficient information to determine absolute optimality (i.e., any non-trivial real world situation). - [[Jay Osako]]",
+            "id": "c8bb78bef72d4d7cc07f307e80d4917d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "\nI am not sure how to pick the right (i.e. absolute best) tool for the job.  I can pick an adequate tool for the job.  Isn't that sufficient?",
+            "id": "343142ee92299d8489f25f0ea3c524c4"
+          },
+          {
+            "type": "html",
+            "text": "<i>If \"adequate\" means \"right,\" then yes.</i>",
+            "id": "5130497281be103bfbfe40d972c6325f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "\nRE: [...] <i>languages are simply tools at our disposal, a skilled carpenter could attempt to use his saw to lever out a bent nail but it would take alot more time and lateral thinking, but the claw hammer is just laying there doing nothing.  Every language has its time and place. [...] I dont think it is possible to create a magic-bullet language, <b>and no one should try</b>.</i> [emphasis added, originally from [[Cee Plus Plus]]]",
+            "id": "66e7e30aab8fdff6d786f74c77a25ee4"
+          },
+          {
+            "type": "html",
+            "text": "\nIt is true that languages are tools and that there is merit in choosing [[The Right Tool For The Job]]. But it isn't often that just one 'tool' is right for every part of a job. Running with your analogy, a typical project may call for both the saw and the claw hammer. Unfortunately, putting too many tools in your toolbox starts making that toolbox very bulky and heavy - difficult to manage, difficult to learn, and difficult to afford. The same is true of software tools... well, they don't have any physical weight, but they do impose a large learning burden, configuration management costs, and so on (different editors/compilers/interpreters; different forms of managed memory; unwieldy, unsafe, and inefficient [[Foreign Function Interface]]s; challenges supporting optimizatons/safety/security/reliability/debugging/error handling/logging/transactions/MT-safety/and various other [[Cross Cutting Concern]]s between multilingual components; etc.). ",
+            "id": "a0f5df39dfd7fe93050a812c775313c4"
+          },
+          {
+            "type": "html",
+            "text": "\nBecause there is a hefty price-tag associated with keeping extra languages in your language-toolbox, [[Pick The Right Tool For The Job]], no matter how practical it <i>sounds</i>, is not, in practice, always practical. As a result, there is also considerable merit in the idea of a [[General Purpose Programming Language]] that aims to be all things for all projects. Even when such a language does not provide [[The Right Tool]], it will often be [[Good Enough]]. But because it isn't possible for language designers to predict all uses of a language it is useful for a [[General Purpose Programming Language]] to have the [[Meta Programming]] facilities to extend it as required (much like the [[All Purpose Tool Kit]] contains a $20 bill just in case). Similarly, because it isn't possible for project developers to anticipate or respond to all feature demands, it helps if the language makes easy and <i>relatively</i> efficient support for safe and efficient runtime extensions - [[Alternate Hard And Soft Layers]] and [[Plugin Architecture]] all within just one language.",
+            "id": "bfa155fa7b14991a6f40105298056540"
+          },
+          {
+            "type": "html",
+            "text": "\nUnfortunately, while [[Cee Plus Plus]] does aim to be something of a [[General Purpose Programming Language]], it is far from ideal for such a purpose. The inability to modularize a new feature in a [[General Purpose Programming Language]] without leaking implementation details or severely compromising [[Non Functional Requirements]] has been called the [[Missing Feature Smell]], and C++ positively reeks of it. It lacks, among other things, suitably powerful [[Meta Programming]] facilities ([[Template Metaprogramming]] is not [[Good Enough]]), and is awful at [[Alternate Hard And Soft Layers]] (bad enough that people have created dedicated general purpose languages that aren't [[Cee Plus Plus]] to become the 'soft layer').",
+            "id": "608d594f0e1072183c27f954ab82d759"
+          },
+          {
+            "type": "html",
+            "text": "\nBut, regardless of whether C++ is suitable to the goal, the benefits of having a single language that is [[Good Enough]] for every task is very appealing, very practical, and well worth pursuing. The dream is enough to inspire such thoughts as the [[Single Language Operating System]]. The trick is to avoid the language itself becoming the massive and unwieldy toolbox aforementioned.  We need a single, coherent tool - perhaps related to [[Symmetry Of Language]]. And even if it is 'impossible' to succeed 100% of the way, coming arbitrarily close is still likely to be a great deal better and more practical than is the situation today.",
+            "id": "a987fdd180801ead19757598c7a6afcf"
+          },
+          {
+            "type": "html",
+            "text": "<b>RE:</b> [[[Cee Plus Plus]]] is awful at [[Alternate Hard And Soft Layers]] (bad enough that people have created dedicated general purpose languages that aren't [[Cee Plus Plus]] to become the 'soft layer').",
+            "id": "5e4a4c862c252bca5bd69669f6c81d7c"
+          },
+          {
+            "type": "html",
+            "text": "<i>Wait ... the whole purpose of [[Alternate Hard And Soft Layers]] is </i>precisely<i> to get away from lower-level, less-flexible langauges like C/C++ for expressing solutions to problems in their ideal notation.  Your parenthetical qualification, therefore, serves no purpose as stated.  Who <b>ever</b> would consider using C++ as a soft layer?  However, many folks </i>have<i> invented new languages (the most famous of which is [[Java Language]]) to avoid C++ like the plague that it is, for the purpose of serving as a </i>hard<i> layer.  So, shouldn't you have written, \". . ., that aren't [[Cee Plus Plus]] to be the 'hard layer'\" instead?</i>",
+            "id": "891103191a461c3861c7679f01cc47bd"
+          },
+          {
+            "type": "html",
+            "text": "\nA [[General Purpose Programming Language]] <i>should be</i> able to [[Alternate Hard And Soft Layers]] <i>without</i> resorting to a different language. I do not believe that there <i>should be</i> a significant dichotomy between 'lower-level, less-flexible languages like C/C++' and 'languages for expressing solutions to problems in their ideal notation'; a [[General Purpose Programming Language]] <i>should be</i> '[[Good Enough]]' at fulfilling both roles - fulfilling many such roles is what \"general purpose\" <i>means</i>.  [[Cee Plus Plus]]'s failure to be good as a soft layer (no language-recognized modularity, safety/sandboxing, general lack of support for parsing or interpreting in its standard library, etc.) and its failure to provide expression of some problems in a [[Good Enough]] (if not ideal) notation (due to weak [[Meta Programming]]) are both failures of [[Cee Plus Plus]] in its role as a [[General Purpose Programming Language]] - which is significant because [[Cee Plus Plus]] does not fill any roles as a [[Domain Specific Language]]. ",
+            "id": "82d68787dbc57b0b679e5787d29d46ae"
+          },
+          {
+            "type": "html",
+            "text": "\nOther languages that purport to be [[General Purpose Programming Language]]s often have the same failing. For example, [[Java Language]] should be the soft layer for [[Java Language]]. It works for compiled Lisp and Forth. Why not Java and C++?",
+            "id": "7ceec2d76af51efbb43d01b9f054acd0"
+          },
+          {
+            "type": "html",
+            "text": "\nThat people feel the need to \"avoid C++ like the plague that it is\" is <i>because</i> the lack of support for effective [[Meta Programming]] and [[Alternate Hard And Soft Layers]] are just two among a myriad of failures for [[Cee Plus Plus]] in its role as a [[General Purpose Programming Language]]. ",
+            "id": "2ecbf9998614c8408062602c622d1129"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "0d818e65786062ed10a27914e30d01a2"
+          },
+          {
+            "type": "html",
+            "text": "See also: [[Language Agnostic]], [[Method Agnostic]], [[Mixing Paradigms]], [[Utah Phillips]], [[Fallacy Of The Right Tool]]",
+            "id": "e8ad4d8db527bc197a3e8400f698b8ef"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PickTheRightToolForTheJob c2.com]",
+            "id": "9430ae918c9373eeaeab413da8b53ea0"
+          }
+        ]
+      }
+    }
+  ]
+}

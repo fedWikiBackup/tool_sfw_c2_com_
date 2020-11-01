@@ -1,0 +1,427 @@
+{
+  "title": "Design Tools For Xp",
+  "story": [
+    {
+      "type": "html",
+      "text": "Does anyone doing XP use design tools other than the programming environment itself? If so, what and why? If not, is that because nothing else is needed or because no one sells anything useful? What tools *would* be useful to support XP? --[[John Daniels]]",
+      "id": "135c07a2c01fe98f180a248998a9babd"
+    },
+    {
+      "type": "html",
+      "text": "\nHere are some:",
+      "id": "7b6a26566236cb53273d5808b9f162fb"
+    },
+    {
+      "type": "html",
+      "text": " [[Crc Card]]s - used in small groups (2,3,4) to face fear before beginning the first test case, to quickly brainstorm alternatives, and to include the customer in discussions in a way that isn't possible from the source code",
+      "id": "0cf94bafc3431b0f1ce6092148bd90f4"
+    },
+    {
+      "type": "html",
+      "text": " [[Uml Diagram]]s - used in nearly the same way- the diagrams are hand-drawn on a sheet of paper or a whiteboard",
+      "id": "44bc6f5cffa822fd7854cedeea2ae39e"
+    },
+    {
+      "type": "html",
+      "text": " [[Refactoring Browser]] - I include this since amazingly enough it isn�t part of everyone's environment",
+      "id": "500437bbc57fc7a516a6ad0625321da8"
+    },
+    {
+      "type": "html",
+      "text": " [[Story Telling]] - can accompany any of the above, or used alone",
+      "id": "48dd3966cd41f18f88a6188944cb3eb1"
+    },
+    {
+      "type": "html",
+      "text": "\nI also use the [[Object Explorer]] to understand what is there, but it is more of a reminder than any kind of synthesis tool.",
+      "id": "e66c513e1f5ccadf58f496fcb436903f"
+    },
+    {
+      "type": "html",
+      "text": "\nWhich brings me to the second part of your question. Until we reach the limits of what can be accomplished with these technologically simple tools, we won't write (or buy) anything more complicated. When we can't move forward as fast as we want, we'll do something different.",
+      "id": "8ad10d0718262e4eff5cc7786d5dd45f"
+    },
+    {
+      "type": "html",
+      "text": "\nXP isn't explicitly anti- [[Project Management]]/CASE tool, but it is pro-simplicity and pro-directness, which rules out all the tools I've seen. It's absolutely amazing what you can do with cards, and until I understand their limits I won't start programming something else.",
+      "id": "f11517a1b9a3ff8b2c2c72d3b8543a12"
+    },
+    {
+      "type": "html",
+      "text": "--[[Kent Beck]]",
+      "id": "d50d162a6f157ab94e9ed910018c820d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "755fb26a6481fa52271204a0f1151b88"
+    },
+    {
+      "type": "html",
+      "text": "Is anyone using tools such as TogetherJ ([[Together Java]]) on an XP project? I'm thinking of tools that create diagrammatic visualizations of the structure of your code, rather than tools that encourage 'model first'. If you are, I'd like to know how you're using them and how useful they've been.",
+      "id": "9974055b8e36a8f595c8c62e52a75dd4"
+    },
+    {
+      "type": "html",
+      "text": "--[[John Daniels]]",
+      "id": "8e16ffe1c7d67fb43d7e955d8d29d29f"
+    },
+    {
+      "type": "html",
+      "text": "\nIn [[Xp At Arinc]], we use Rational Rose as a sort of computer-based [[Crc Card]] session.  While pairing, it's common for one of us to be much more familiar with the part of the code the pair is working on.  That person will open up Rose when a question comes up and use Rose to quickly sketch a static or dynamic model for the other person.  For static sketches, we don't use anything other than the ability to draw a class and connect it to another using inheritance or composition lines.  For dynamic sketches, we use the collaboration diagram and again draw objects and composition lines, occasionally adding a couple of methods across a connection to illustrate ordering.",
+      "id": "460fbcac6f5167c8403a521dbc7bc2b6"
+    },
+    {
+      "type": "html",
+      "text": "\nThe technique is very successful.  Of course, we're using rose in a completely 'unauthorized' fashion, as a sort of dedicated whiteboard, but we like it anyway.  (One person on our team saves most of his sketches, as we have a document deliverable that can benefit from finished versions of some of the drawings, but let me stress that the resulting model file is <i>strictly</i> a process output for the team, not the input to any sort of design session other than the in-situ session that generated it.)  -- [[Michael Hill]]",
+      "id": "e672dc338a6441e2b8b6ca6cd8b38d57"
+    },
+    {
+      "type": "html",
+      "text": "<i>Couldn't you scribble the diagram on a card faster?</i>",
+      "id": "0344c10a4aabc0396e581d427217c346"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "755fb26a6481fa52271204a0f1151b88"
+    },
+    {
+      "type": "html",
+      "text": "At my current gig we're not really doing Xp, but we are following parts of it (extreme testing, aggressive refactoring, interative & constant designing).  We use Together/J extensively, both for autogeneration of various bits of glue code required by the framework we're working with, and for modeling.  Our modeling is dynamic.. the object model is just another view of the code (and with TJ it really literally is).  It's working out great.",
+      "id": "259b35b39b95783c59c302d844266751"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Dave Astels]]",
+      "id": "4dd4aebf17678a4fa9b3221292543dd9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "755fb26a6481fa52271204a0f1151b88"
+    },
+    {
+      "type": "html",
+      "text": "I've used programmer's editors for years.  They make me go faster.  In the past few years, many of these editor's have obtained what I consider to be a killer feature -- something which really makes me go faster:",
+      "id": "2b6dfa1a83483e27a4c70763050e15fd"
+    },
+    {
+      "type": "html",
+      "text": "\nYou create an instance variable:",
+      "id": "aaa79d37083c255ac170a6b0857684ff"
+    },
+    {
+      "type": "code",
+      "text": "  Portfolio p = new Portfolio();",
+      "id": "6000ae692e3bedb45433683e45c7fcc1"
+    },
+    {
+      "type": "html",
+      "text": "\nthen you type:",
+      "id": "448089a379c6d20a2e747a4eee305998"
+    },
+    {
+      "type": "code",
+      "text": "  p.",
+      "id": "3d77f9a9ab68a7547afb64dbd9ebdc79"
+    },
+    {
+      "type": "html",
+      "text": "\nand the next thing you see is a pop-up like this:",
+      "id": "d575d092adcd72d11306bad305304002"
+    },
+    {
+      "type": "code",
+      "text": "   \n  p. --------------\n    | addLoan()    |\n    | removeLoan() |\n    | Portfolio()  |\n    | toString()   |\n    | etc.         |\n     --------------",
+      "id": "c0c9ff7de70bb13782625fab07813faf"
+    },
+    {
+      "type": "html",
+      "text": "\nThis helps me:",
+      "id": "543200d90ad1d55d0665f21434bf54a7"
+    },
+    {
+      "type": "html",
+      "text": " Remember the names of methods",
+      "id": "532f54806e97de46dba8ef9b0f2e5b3a"
+    },
+    {
+      "type": "html",
+      "text": " Remember what the class can do",
+      "id": "015dab8bdd88117d8c69112de8f7289f"
+    },
+    {
+      "type": "html",
+      "text": " Save time by not having to jump somewhere to lookup methods",
+      "id": "8fbf6cfb834b504a9d4ec9c966a816cd"
+    },
+    {
+      "type": "html",
+      "text": " Quickly navigate a body of code I don't know well",
+      "id": "ac359462e4762f6683fbc687a8c52343"
+    },
+    {
+      "type": "html",
+      "text": "\nIn addition, some editors take this a step farther.  When you highlight methods in the pop-up, the editor displays the method's [[Java Doc]] comments.  And when you do select a method, you are then prompted, via pop-ups again, to input the correct parameters for the method.",
+      "id": "7bdcc70720b25ebf9a1abacb532bc37d"
+    },
+    {
+      "type": "html",
+      "text": "\nA fellow programmer turned me on to [[Visual Slick Edit]], which does everything I mention above, and a whole lot more. It has definitely made me go faster - and it's Code Beautifier is a thing of beauty (use it to implement team [[Coding Conventions]]). --[[Joshua Kerievsky]]",
+      "id": "3d2991bf91d15ffbfd5a7dd762cf31bd"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "755fb26a6481fa52271204a0f1151b88"
+    },
+    {
+      "type": "html",
+      "text": "\nWhat about Wiki as a project design and discussion tool - including the customer(s)?  How should wiki be used with [[Index Card]]s, a [[Refactoring Browser]] and [[Object Explorer]]. These four I think would satisfy me for a long while - especially if I had the last two in [[Visual Age]] for Java.  Having said that, in our excitement last year I came to feel we ended up using our Wiki clone a bit too much and losing card and face to face contact more than was best (see [[Knowing When To Stop]]).",
+      "id": "1c2d46ac61484e44b370196265457622"
+    },
+    {
+      "type": "html",
+      "text": "\nWhat are other people's experience? How much did C3 benefit from the XP discussions on <i>this</i> Wiki?  Or was it all cost, for the greater good? \n[[Index Card]]s certainly seem best in the coffee shop.",
+      "id": "23693f7ea5727800093f7f99eb2e7529"
+    },
+    {
+      "type": "html",
+      "text": "--[[Richard Drake]]",
+      "id": "84817ef6d29bdf33c9b291b07282234d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "755fb26a6481fa52271204a0f1151b88"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Crc Cards]]",
+      "id": "6a7ec629868313f56f29bd0d6a0a8297"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?DesignToolsForXp c2.com]",
+      "id": "e34eceee469426e0662045edf9c5bdac"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1080175587000,
+      "id": "4135cf692768aebe2c9a992b173367a9",
+      "type": "create",
+      "item": {
+        "title": "Design Tools For Xp",
+        "story": [
+          {
+            "type": "html",
+            "text": "Does anyone doing XP use design tools other than the programming environment itself? If so, what and why? If not, is that because nothing else is needed or because no one sells anything useful? What tools *would* be useful to support XP? --[[John Daniels]]",
+            "id": "135c07a2c01fe98f180a248998a9babd"
+          },
+          {
+            "type": "html",
+            "text": "\nHere are some:",
+            "id": "7b6a26566236cb53273d5808b9f162fb"
+          },
+          {
+            "type": "html",
+            "text": " [[Crc Card]]s - used in small groups (2,3,4) to face fear before beginning the first test case, to quickly brainstorm alternatives, and to include the customer in discussions in a way that isn't possible from the source code",
+            "id": "0cf94bafc3431b0f1ce6092148bd90f4"
+          },
+          {
+            "type": "html",
+            "text": " [[Uml Diagram]]s - used in nearly the same way- the diagrams are hand-drawn on a sheet of paper or a whiteboard",
+            "id": "44bc6f5cffa822fd7854cedeea2ae39e"
+          },
+          {
+            "type": "html",
+            "text": " [[Refactoring Browser]] - I include this since amazingly enough it isn�t part of everyone's environment",
+            "id": "500437bbc57fc7a516a6ad0625321da8"
+          },
+          {
+            "type": "html",
+            "text": " [[Story Telling]] - can accompany any of the above, or used alone",
+            "id": "48dd3966cd41f18f88a6188944cb3eb1"
+          },
+          {
+            "type": "html",
+            "text": "\nI also use the [[Object Explorer]] to understand what is there, but it is more of a reminder than any kind of synthesis tool.",
+            "id": "e66c513e1f5ccadf58f496fcb436903f"
+          },
+          {
+            "type": "html",
+            "text": "\nWhich brings me to the second part of your question. Until we reach the limits of what can be accomplished with these technologically simple tools, we won't write (or buy) anything more complicated. When we can't move forward as fast as we want, we'll do something different.",
+            "id": "8ad10d0718262e4eff5cc7786d5dd45f"
+          },
+          {
+            "type": "html",
+            "text": "\nXP isn't explicitly anti- [[Project Management]]/CASE tool, but it is pro-simplicity and pro-directness, which rules out all the tools I've seen. It's absolutely amazing what you can do with cards, and until I understand their limits I won't start programming something else.",
+            "id": "f11517a1b9a3ff8b2c2c72d3b8543a12"
+          },
+          {
+            "type": "html",
+            "text": "--[[Kent Beck]]",
+            "id": "d50d162a6f157ab94e9ed910018c820d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "755fb26a6481fa52271204a0f1151b88"
+          },
+          {
+            "type": "html",
+            "text": "Is anyone using tools such as TogetherJ ([[Together Java]]) on an XP project? I'm thinking of tools that create diagrammatic visualizations of the structure of your code, rather than tools that encourage 'model first'. If you are, I'd like to know how you're using them and how useful they've been.",
+            "id": "9974055b8e36a8f595c8c62e52a75dd4"
+          },
+          {
+            "type": "html",
+            "text": "--[[John Daniels]]",
+            "id": "8e16ffe1c7d67fb43d7e955d8d29d29f"
+          },
+          {
+            "type": "html",
+            "text": "\nIn [[Xp At Arinc]], we use Rational Rose as a sort of computer-based [[Crc Card]] session.  While pairing, it's common for one of us to be much more familiar with the part of the code the pair is working on.  That person will open up Rose when a question comes up and use Rose to quickly sketch a static or dynamic model for the other person.  For static sketches, we don't use anything other than the ability to draw a class and connect it to another using inheritance or composition lines.  For dynamic sketches, we use the collaboration diagram and again draw objects and composition lines, occasionally adding a couple of methods across a connection to illustrate ordering.",
+            "id": "460fbcac6f5167c8403a521dbc7bc2b6"
+          },
+          {
+            "type": "html",
+            "text": "\nThe technique is very successful.  Of course, we're using rose in a completely 'unauthorized' fashion, as a sort of dedicated whiteboard, but we like it anyway.  (One person on our team saves most of his sketches, as we have a document deliverable that can benefit from finished versions of some of the drawings, but let me stress that the resulting model file is <i>strictly</i> a process output for the team, not the input to any sort of design session other than the in-situ session that generated it.)  -- [[Michael Hill]]",
+            "id": "e672dc338a6441e2b8b6ca6cd8b38d57"
+          },
+          {
+            "type": "html",
+            "text": "<i>Couldn't you scribble the diagram on a card faster?</i>",
+            "id": "0344c10a4aabc0396e581d427217c346"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "755fb26a6481fa52271204a0f1151b88"
+          },
+          {
+            "type": "html",
+            "text": "At my current gig we're not really doing Xp, but we are following parts of it (extreme testing, aggressive refactoring, interative & constant designing).  We use Together/J extensively, both for autogeneration of various bits of glue code required by the framework we're working with, and for modeling.  Our modeling is dynamic.. the object model is just another view of the code (and with TJ it really literally is).  It's working out great.",
+            "id": "259b35b39b95783c59c302d844266751"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Dave Astels]]",
+            "id": "4dd4aebf17678a4fa9b3221292543dd9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "755fb26a6481fa52271204a0f1151b88"
+          },
+          {
+            "type": "html",
+            "text": "I've used programmer's editors for years.  They make me go faster.  In the past few years, many of these editor's have obtained what I consider to be a killer feature -- something which really makes me go faster:",
+            "id": "2b6dfa1a83483e27a4c70763050e15fd"
+          },
+          {
+            "type": "html",
+            "text": "\nYou create an instance variable:",
+            "id": "aaa79d37083c255ac170a6b0857684ff"
+          },
+          {
+            "type": "code",
+            "text": "  Portfolio p = new Portfolio();",
+            "id": "6000ae692e3bedb45433683e45c7fcc1"
+          },
+          {
+            "type": "html",
+            "text": "\nthen you type:",
+            "id": "448089a379c6d20a2e747a4eee305998"
+          },
+          {
+            "type": "code",
+            "text": "  p.",
+            "id": "3d77f9a9ab68a7547afb64dbd9ebdc79"
+          },
+          {
+            "type": "html",
+            "text": "\nand the next thing you see is a pop-up like this:",
+            "id": "d575d092adcd72d11306bad305304002"
+          },
+          {
+            "type": "code",
+            "text": "   \n  p. --------------\n    | addLoan()    |\n    | removeLoan() |\n    | Portfolio()  |\n    | toString()   |\n    | etc.         |\n     --------------",
+            "id": "c0c9ff7de70bb13782625fab07813faf"
+          },
+          {
+            "type": "html",
+            "text": "\nThis helps me:",
+            "id": "543200d90ad1d55d0665f21434bf54a7"
+          },
+          {
+            "type": "html",
+            "text": " Remember the names of methods",
+            "id": "532f54806e97de46dba8ef9b0f2e5b3a"
+          },
+          {
+            "type": "html",
+            "text": " Remember what the class can do",
+            "id": "015dab8bdd88117d8c69112de8f7289f"
+          },
+          {
+            "type": "html",
+            "text": " Save time by not having to jump somewhere to lookup methods",
+            "id": "8fbf6cfb834b504a9d4ec9c966a816cd"
+          },
+          {
+            "type": "html",
+            "text": " Quickly navigate a body of code I don't know well",
+            "id": "ac359462e4762f6683fbc687a8c52343"
+          },
+          {
+            "type": "html",
+            "text": "\nIn addition, some editors take this a step farther.  When you highlight methods in the pop-up, the editor displays the method's [[Java Doc]] comments.  And when you do select a method, you are then prompted, via pop-ups again, to input the correct parameters for the method.",
+            "id": "7bdcc70720b25ebf9a1abacb532bc37d"
+          },
+          {
+            "type": "html",
+            "text": "\nA fellow programmer turned me on to [[Visual Slick Edit]], which does everything I mention above, and a whole lot more. It has definitely made me go faster - and it's Code Beautifier is a thing of beauty (use it to implement team [[Coding Conventions]]). --[[Joshua Kerievsky]]",
+            "id": "3d2991bf91d15ffbfd5a7dd762cf31bd"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "755fb26a6481fa52271204a0f1151b88"
+          },
+          {
+            "type": "html",
+            "text": "\nWhat about Wiki as a project design and discussion tool - including the customer(s)?  How should wiki be used with [[Index Card]]s, a [[Refactoring Browser]] and [[Object Explorer]]. These four I think would satisfy me for a long while - especially if I had the last two in [[Visual Age]] for Java.  Having said that, in our excitement last year I came to feel we ended up using our Wiki clone a bit too much and losing card and face to face contact more than was best (see [[Knowing When To Stop]]).",
+            "id": "1c2d46ac61484e44b370196265457622"
+          },
+          {
+            "type": "html",
+            "text": "\nWhat are other people's experience? How much did C3 benefit from the XP discussions on <i>this</i> Wiki?  Or was it all cost, for the greater good? \n[[Index Card]]s certainly seem best in the coffee shop.",
+            "id": "23693f7ea5727800093f7f99eb2e7529"
+          },
+          {
+            "type": "html",
+            "text": "--[[Richard Drake]]",
+            "id": "84817ef6d29bdf33c9b291b07282234d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "755fb26a6481fa52271204a0f1151b88"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Crc Cards]]",
+            "id": "6a7ec629868313f56f29bd0d6a0a8297"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?DesignToolsForXp c2.com]",
+            "id": "e34eceee469426e0662045edf9c5bdac"
+          }
+        ]
+      }
+    }
+  ]
+}

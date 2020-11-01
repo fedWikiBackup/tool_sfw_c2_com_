@@ -1,0 +1,187 @@
+{
+  "title": "Perl Testing Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Perl has quite an active testing community - see [http://qa.perl.org/ qa.perl.org] for an overview and pointers to introductory tutorial information.",
+      "id": "b9fba2170298486db4cb77b28fe8bf6c"
+    },
+    {
+      "type": "html",
+      "text": "\nAn overview of some of the testing modules available on CPAN is at [http://qa.perl.org/test-modules.html qa.perl.org]",
+      "id": "260b8c20610a9422d6739e5354716720"
+    },
+    {
+      "type": "html",
+      "text": "\nA quick reference card for Perl testing modules is at [http://langworth.com/PerlTestCard langworth.com]",
+      "id": "96fd542398b1a5bee103760f2de6db35"
+    },
+    {
+      "type": "html",
+      "text": "\nThere are a whole family of Perl Testing tools including:",
+      "id": "0079fd5132d8e2532bc461a06682881a"
+    },
+    {
+      "type": "html",
+      "text": " Test::Simple",
+      "id": "56a06869440d932577930695382065b4"
+    },
+    {
+      "type": "html",
+      "text": " Test::More",
+      "id": "0aad4ffcb411c7e3841ab771768c5cfd"
+    },
+    {
+      "type": "html",
+      "text": " Test::Inline",
+      "id": "e913be3e5ab17d738eddb75837d21c82"
+    },
+    {
+      "type": "html",
+      "text": " Test::Harness",
+      "id": "5bc593bef416aaf7289776cdd44ee49e"
+    },
+    {
+      "type": "html",
+      "text": " CGI::Test",
+      "id": "144510355cc46c6ba14911fce2ad45b8"
+    },
+    {
+      "type": "html",
+      "text": " Test::Cmd",
+      "id": "436cb377dcb64ccecbf7faf392962ed0"
+    },
+    {
+      "type": "html",
+      "text": " Devel::Cover",
+      "id": "80d95be0a6ea93dcc015d8749ac86f48"
+    },
+    {
+      "type": "html",
+      "text": " HTTP::[[Web Test]] which provides [[Perl Web Test]]",
+      "id": "7d5196e7da37457307b18852f06bf685"
+    },
+    {
+      "type": "html",
+      "text": " Test::FIT",
+      "id": "85221327907a21fb20d8d8e1419203ce"
+    },
+    {
+      "type": "html",
+      "text": " [[Lectro Test]] is an automatic, specification-based testing system for Perl ",
+      "id": "373cc7720551995ec4ccee2989862842"
+    },
+    {
+      "type": "html",
+      "text": " ... (fill in more here!)",
+      "id": "e22c4ae0cb0cca4997587ae2a2e507f0"
+    },
+    {
+      "type": "html",
+      "text": "\nDiscussion of these occurs on the [[Perl Qa Mailing List]]",
+      "id": "751f0e03c0ea89321983a1f3992f2a80"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PerlTestingTools c2.com]",
+      "id": "68cc7a486644b1f69bc25ead97713c98"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1407870304000,
+      "id": "64521ba2cc3c7bc7c10bab62499baa20",
+      "type": "create",
+      "item": {
+        "title": "Perl Testing Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Perl has quite an active testing community - see [http://qa.perl.org/ qa.perl.org] for an overview and pointers to introductory tutorial information.",
+            "id": "b9fba2170298486db4cb77b28fe8bf6c"
+          },
+          {
+            "type": "html",
+            "text": "\nAn overview of some of the testing modules available on CPAN is at [http://qa.perl.org/test-modules.html qa.perl.org]",
+            "id": "260b8c20610a9422d6739e5354716720"
+          },
+          {
+            "type": "html",
+            "text": "\nA quick reference card for Perl testing modules is at [http://langworth.com/PerlTestCard langworth.com]",
+            "id": "96fd542398b1a5bee103760f2de6db35"
+          },
+          {
+            "type": "html",
+            "text": "\nThere are a whole family of Perl Testing tools including:",
+            "id": "0079fd5132d8e2532bc461a06682881a"
+          },
+          {
+            "type": "html",
+            "text": " Test::Simple",
+            "id": "56a06869440d932577930695382065b4"
+          },
+          {
+            "type": "html",
+            "text": " Test::More",
+            "id": "0aad4ffcb411c7e3841ab771768c5cfd"
+          },
+          {
+            "type": "html",
+            "text": " Test::Inline",
+            "id": "e913be3e5ab17d738eddb75837d21c82"
+          },
+          {
+            "type": "html",
+            "text": " Test::Harness",
+            "id": "5bc593bef416aaf7289776cdd44ee49e"
+          },
+          {
+            "type": "html",
+            "text": " CGI::Test",
+            "id": "144510355cc46c6ba14911fce2ad45b8"
+          },
+          {
+            "type": "html",
+            "text": " Test::Cmd",
+            "id": "436cb377dcb64ccecbf7faf392962ed0"
+          },
+          {
+            "type": "html",
+            "text": " Devel::Cover",
+            "id": "80d95be0a6ea93dcc015d8749ac86f48"
+          },
+          {
+            "type": "html",
+            "text": " HTTP::[[Web Test]] which provides [[Perl Web Test]]",
+            "id": "7d5196e7da37457307b18852f06bf685"
+          },
+          {
+            "type": "html",
+            "text": " Test::FIT",
+            "id": "85221327907a21fb20d8d8e1419203ce"
+          },
+          {
+            "type": "html",
+            "text": " [[Lectro Test]] is an automatic, specification-based testing system for Perl ",
+            "id": "373cc7720551995ec4ccee2989862842"
+          },
+          {
+            "type": "html",
+            "text": " ... (fill in more here!)",
+            "id": "e22c4ae0cb0cca4997587ae2a2e507f0"
+          },
+          {
+            "type": "html",
+            "text": "\nDiscussion of these occurs on the [[Perl Qa Mailing List]]",
+            "id": "751f0e03c0ea89321983a1f3992f2a80"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PerlTestingTools c2.com]",
+            "id": "68cc7a486644b1f69bc25ead97713c98"
+          }
+        ]
+      }
+    }
+  ]
+}

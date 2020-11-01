@@ -1,0 +1,667 @@
+{
+  "title": "Ideal Uml Case Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "The ideal UML case tool should be a real modeling tool (not just a drawing tool) but easy to use and supporting collaboration.",
+      "id": "ad1dbbc45e62a232887990da5248dae0"
+    },
+    {
+      "type": "html",
+      "text": "\nThis is what I've found with [[Gen My Model]] ([http://www.genmymodel.com www.genmymodel.com])",
+      "id": "834e5b2a333f298e543a449e00c51927"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "Hi All,",
+      "id": "24a6509f60494c2d3c56196b36c0494e"
+    },
+    {
+      "type": "html",
+      "text": "\nVisual Paradigm for UML 4.1([http://www.visual-paradigm.com/vpuml.php www.visual-paradigm.com]) is my Ideal UML CASE Tool. It supports UML 2.0 notation , integration with lots of IDEs , modeling with Visio Stencil , auto diagram layout...\nIt lets you build the software system more easily and efficiency.",
+      "id": "890722664a7bd2f9e1c65cf033d8028b"
+    },
+    {
+      "type": "html",
+      "text": "\nBest Regards,",
+      "id": "8a44b00be3c2d1ea0d9a7d2cf648b3a6"
+    },
+    {
+      "type": "html",
+      "text": "\nYamisaki Taro(mailto:yamisaki0417@yahoo.co.jp)",
+      "id": "4be6d7e203557b19a36b96f268ecc6bc"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "So what would be in an ideal [[Case Tool]] for the [[Unified Modeling Language]]?",
+      "id": "75a85509b5d7ece321cfb3e8d7f62b4b"
+    },
+    {
+      "type": "html",
+      "text": "<i>A beer-soaked napkin and a pen you had to ask around for.</i>",
+      "id": "daa7406ed8bd0bf8fd740a8b58d53158"
+    },
+    {
+      "type": "html",
+      "text": "<i>Or perhaps a good sized white board.</i>",
+      "id": "356e1e7ef506183b4b105a6d0b1852f2"
+    },
+    {
+      "type": "html",
+      "text": "\nI agree with the second solution.  If only you could draw things on a whiteboard and tell something to \"pretty up the lines\" and print it out.  I know that [[Printable Whiteboard]]s exist, but the problem is that the output always looks like a fuzzy fax. --[[Kyle Brown]]",
+      "id": "8de2f68cd88df7a6ea06f6351a4bf36e"
+    },
+    {
+      "type": "html",
+      "text": "\nBetter yet, see [[Electronic Whiteboard]]!",
+      "id": "5f715d770358737f52004ce303e73b69"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "See [[Uml Software]] for a list of UML CASE tools.",
+      "id": "b48d27ac6e490cae674b1dd75104ecc7"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "My ideal UML tool would be an electronic whiteboard, a combination of a",
+      "id": "38641d5d80127a3498c52bfda2779ea4"
+    },
+    {
+      "type": "html",
+      "text": "<b>large</b> LCD display and a cordless digitizer pen. See\n[http://www.wacom.com/productinfo/pl300.html www.wacom.com] ([[Large Lcd Display]])\nfor a small example, a 10-inch 1024x768 LCD display with integrated cordless\ndigitizer pen. That's too small still, but make it say 20-inch and double\nthe resolution and we'd already have something rather useful. Wall-sized\nwould be even better. Imagine a whiteboard\nwhere you could save your diagrams, recall and edit them later, and paste\nthem into design documents and [[Power Point]] presentations. --[[David Price]]",
+      "id": "0f6efd79718a6c9cf30c21bc8ee212fa"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "See [[Electronic Paper]].",
+      "id": "dbbf886937b59841ff3f04f41e193e9a"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "Paper and pen. And, when I say \"pen\", I mean anything without an eraser. I just want something to jot my design thoughts down. I use UML when I want someone else to be able to understand my design (in a common notation). If I have an eraser I am tempted to <i>pretty up</i> the picture. Design isn't about pretty pictures.  I also like paper because it prevents me from creating wall sized (highly-detailed and interconnected) class models.  No one can read those anyway.  With 8x11 you are forced to be as concise as possible. You only diagram what is important. You can't have extra noise (detailed classes) bleeding into the margins.  You capture concept instead of implementation (which is where coding comes in). If I can't fit a complete concept (package/module/subsystem/etc) on 1 page, it is way too complex to implement anyway.",
+      "id": "b17f8de317b1bbfe4775804142952d47"
+    },
+    {
+      "type": "html",
+      "text": "\nIf the design picture is worth saving, then once it is coded I redraw the design using something like Visio.",
+      "id": "1e6cad3071d1ed9805e6d22ccea0ffee"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Todd Coram]]",
+      "id": "07b27d45d7111ca0eceaf0b5f468709a"
+    },
+    {
+      "type": "html",
+      "text": "\nIn a recent job interview one of the TA's interviewing me asked what tool I preferred for this sort of thing (can't remember if he said \"doing design\", or drawing diagrams). So I waved my fountain pen in his face, I'd been taking notes in the interview, and said \"this one is hard to beat\". He gave me a very disapproving look. But I got an offer. -- [[Keith Braithwaite]]",
+      "id": "09f2ba7364ddad19c3c42c319149c522"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "\nAll I can say, Todd, is the boxes on your whiteboard must be a <i>lot</i> smaller than mine :)",
+      "id": "73e6f30f7192d1c45efbbee5e8969753"
+    },
+    {
+      "type": "html",
+      "text": "\nSeriously, the 7+-2 rule is a very good one.  I just happen to draw big diagrams, so effectively I can fit the same amount of information on a wallboard as I can an 8 1/2 by 11 sheet of paper.",
+      "id": "f95a58f37d526327664b8b22ab677993"
+    },
+    {
+      "type": "html",
+      "text": "\nI find wallboards especially useful when you're using them in groups -- it's hard to get 5 people gathered around a standard sheet of paper.",
+      "id": "da50364da3e1e2ce6c643fbcb1e248ba"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Kyle Brown]]",
+      "id": "8dd94a223eb2c579c335f76b92005d77"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Seven Plus Or Minus Two Discussion]]",
+      "id": "ac358a1054bf8fd45f07123a38078f48"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "\nHas anyone else used Together/J from Peter Coad's Object International? I find it outstanding. Visit:",
+      "id": "ab1039437a984386dc9e4a42dca548a7"
+    },
+    {
+      "type": "code",
+      "text": "  http://www.oi.com",
+      "id": "f8ec2a3442ba0fbaeec7f6a51abf2d5c"
+    },
+    {
+      "type": "html",
+      "text": "to get and try the free whiteboard edition.",
+      "id": "72d3aedc7819f9b25b9587c539186f3e"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Jim Russell]]",
+      "id": "fa139952d3709c5211205475b2bd8b2e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "\nI've been using [[Rational Rose]] 98i (patched) and it seems to work fairly well for  the basics. I find it doesn't support all the UML as well as it could which I find surprising since it is the Rational product.",
+      "id": "d639654663d69ebb230054ff8f93af4e"
+    },
+    {
+      "type": "html",
+      "text": "\nWhen I was evaluating tools I kind of liked the Together/J product too but there was a need at the time for a tool that would handle C++ as well and Rational fit the bill. (We have been assured that it will become more conformant (?) soon.",
+      "id": "3ecff7a9b8d4dc04a118281d1324e0d7"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Doug Serres]]",
+      "id": "7d2273b23c54147908b9a0c027e28038"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "\nHello all,",
+      "id": "cf071973fec19ac390e4d01861ff67c4"
+    },
+    {
+      "type": "html",
+      "text": "\nSince I am a product manager of one of the UML CASE tools, I would like\nto present you another choice over Rational Rose or Together/J.",
+      "id": "bd4ca89d7bd872240f9a5dc0c875a74c"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Magic Draw]] UML ([http://www.magicdraw.com www.magicdraw.com]), is UML tool written in Java, I'm\nsure it supports more UML diagramming than Rational Rose and is more robust. \nYou are welcome to try out the demo version. Recently I have tried Together/J\n3.0 and can say that [[Magic Draw]] at this point performs much better - you have to have a 700 PIII in order to use TJ.",
+      "id": "91b53028d8be074b48828dfbf1a6cb14"
+    },
+    {
+      "type": "html",
+      "text": "\nSaulius Kaukenas (mailto:saulius@nomagiclt.com)",
+      "id": "3fe2ee82dad38869393dc550dc068e18"
+    },
+    {
+      "type": "html",
+      "text": "<i>Just a quick plug from a user - I've used [[Magic Draw]] UML and found it a very useful tool.  There is a 'standard' version, so you can avoid wasting time and money on [[Round Trip Engineering]], and it's a hell of a lot cheaper than Rose - a very important concern for the small developer!</i> --[[Korny Sietsma]]",
+      "id": "c165005237b374b4237e89229bffa2b6"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "<i>[[Together Java]] 3.0 is out.  It can \"embed\" [[Gang Of Four]] patterns into a design.</i>",
+      "id": "06103b2b2abf9fffd39a88e9e698722d"
+    },
+    {
+      "type": "html",
+      "text": "See:<br>[http://www.togethersoft.com www.togethersoft.com].",
+      "id": "d85a67b4ae5b8ed71cca44e0d0f4266f"
+    },
+    {
+      "type": "html",
+      "text": "<i>Actually, it's up to 5.0 now.</i>",
+      "id": "90651628ae2802d8a5d26dbc57b88004"
+    },
+    {
+      "type": "html",
+      "text": "\nJust GoF patterns, or can you make your own too? --[[Luke Gorrie]]",
+      "id": "610e0943b11565fa4ca49e8f67083247"
+    },
+    {
+      "type": "html",
+      "text": "<i>You can make custom patterns, modelling rules, etc. though not with the free version</i> --[[Jason Yip]]",
+      "id": "8aa4e2a5a11f8b18e0654b5e4ed9bd60"
+    },
+    {
+      "type": "html",
+      "text": "\nAnything has to be more enjoyable to use than [[Rational Rose]]. I even prefer Visio. I've never much cared for [[Round Trip Engineering]], but I suppose if it was done well without markers I wouldn't hate it. I like [[Together Java]], but didn't understand its rules on what detail it decides to elide. --[[Robert Di Falco]]",
+      "id": "ea3773ef48bc2cb60c33c1b849d7091e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "There is one major problem with nearly every UML tool on the market.  To put an level of detail on any diagram type, especially class diagrams, you have to do too much clicking, clicking, clicking.  Click to add a member function ,then type in it's name.  Click to add a single parameter to that method you just added, then type in it's name and type or another click to select it's type.  This gets repeated for every parameter.  Click, type, click, type, click, type.... 4 dialogs, 200 widgets and 400 clicks later you've got a class with a method.  Ok, I'm exaggerating, but it is ridiculous.  This slows the designer to a crawl.",
+      "id": "117f9abb034e6754039250ae889c64e9"
+    },
+    {
+      "type": "html",
+      "text": "\nOnly one tool that I've ever seen avoids this.  Type click a button to add a new method, typing in all details, visibility, name, parameters and their types, method (return)type and stereotypes.  The tool then parses all of this and stores the information.  One click and some typing.  The tool was called Class Designer but one of the big tools vendors bought it and killed it.  Too bad.  Such a simple but effective design.  Why can't  one of the big vendors put this feature in their UML tools?",
+      "id": "bfe4bebb4fbaf2a08e96953a60eb799b"
+    },
+    {
+      "type": "html",
+      "text": "<i>Now, this was a peeve of mine using Dia.  Too much clicking and tabbing and thinking about what to put in which box.  For thinking through an idea, I'm really moving toward the whiteboard or pen/paper approach.  OTOH, having a tool to parse actual code seems like a good idea.  --[[David Jaquay]]</i>",
+      "id": "c0ba5421c49061c10ba0d16a005fdc3b"
+    },
+    {
+      "type": "html",
+      "text": "\nI've switched to white boards and notebooks.  The price is right;)",
+      "id": "baf6daf6ed2706d8c60cd8dfc0d66d94"
+    },
+    {
+      "type": "html",
+      "text": "<i>[[Um Let]] seems to be what you want. --[[Falk Bruegmann]]</i>",
+      "id": "4032973560decc50e3a382033daf0f9d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "[[Argo Uml]] is quite good (And free!)",
+      "id": "91d53b7647fe18be02b21c75121b5618"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+    },
+    {
+      "type": "html",
+      "text": "BOUML - [http://bouml.free.fr bouml.free.fr]",
+      "id": "501841ced551167c0676e0bbaab35573"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?IdealUmlCaseTool c2.com]",
+      "id": "2bd5b1df430e4addae3786bbaf6927ac"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1405488709000,
+      "id": "4be90ef68835a477ef56fd3daf24c079",
+      "type": "create",
+      "item": {
+        "title": "Ideal Uml Case Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "The ideal UML case tool should be a real modeling tool (not just a drawing tool) but easy to use and supporting collaboration.",
+            "id": "ad1dbbc45e62a232887990da5248dae0"
+          },
+          {
+            "type": "html",
+            "text": "\nThis is what I've found with [[Gen My Model]] ([http://www.genmymodel.com www.genmymodel.com])",
+            "id": "834e5b2a333f298e543a449e00c51927"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "Hi All,",
+            "id": "24a6509f60494c2d3c56196b36c0494e"
+          },
+          {
+            "type": "html",
+            "text": "\nVisual Paradigm for UML 4.1([http://www.visual-paradigm.com/vpuml.php www.visual-paradigm.com]) is my Ideal UML CASE Tool. It supports UML 2.0 notation , integration with lots of IDEs , modeling with Visio Stencil , auto diagram layout...\nIt lets you build the software system more easily and efficiency.",
+            "id": "890722664a7bd2f9e1c65cf033d8028b"
+          },
+          {
+            "type": "html",
+            "text": "\nBest Regards,",
+            "id": "8a44b00be3c2d1ea0d9a7d2cf648b3a6"
+          },
+          {
+            "type": "html",
+            "text": "\nYamisaki Taro(mailto:yamisaki0417@yahoo.co.jp)",
+            "id": "4be6d7e203557b19a36b96f268ecc6bc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "So what would be in an ideal [[Case Tool]] for the [[Unified Modeling Language]]?",
+            "id": "75a85509b5d7ece321cfb3e8d7f62b4b"
+          },
+          {
+            "type": "html",
+            "text": "<i>A beer-soaked napkin and a pen you had to ask around for.</i>",
+            "id": "daa7406ed8bd0bf8fd740a8b58d53158"
+          },
+          {
+            "type": "html",
+            "text": "<i>Or perhaps a good sized white board.</i>",
+            "id": "356e1e7ef506183b4b105a6d0b1852f2"
+          },
+          {
+            "type": "html",
+            "text": "\nI agree with the second solution.  If only you could draw things on a whiteboard and tell something to \"pretty up the lines\" and print it out.  I know that [[Printable Whiteboard]]s exist, but the problem is that the output always looks like a fuzzy fax. --[[Kyle Brown]]",
+            "id": "8de2f68cd88df7a6ea06f6351a4bf36e"
+          },
+          {
+            "type": "html",
+            "text": "\nBetter yet, see [[Electronic Whiteboard]]!",
+            "id": "5f715d770358737f52004ce303e73b69"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "See [[Uml Software]] for a list of UML CASE tools.",
+            "id": "b48d27ac6e490cae674b1dd75104ecc7"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "My ideal UML tool would be an electronic whiteboard, a combination of a",
+            "id": "38641d5d80127a3498c52bfda2779ea4"
+          },
+          {
+            "type": "html",
+            "text": "<b>large</b> LCD display and a cordless digitizer pen. See\n[http://www.wacom.com/productinfo/pl300.html www.wacom.com] ([[Large Lcd Display]])\nfor a small example, a 10-inch 1024x768 LCD display with integrated cordless\ndigitizer pen. That's too small still, but make it say 20-inch and double\nthe resolution and we'd already have something rather useful. Wall-sized\nwould be even better. Imagine a whiteboard\nwhere you could save your diagrams, recall and edit them later, and paste\nthem into design documents and [[Power Point]] presentations. --[[David Price]]",
+            "id": "0f6efd79718a6c9cf30c21bc8ee212fa"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "See [[Electronic Paper]].",
+            "id": "dbbf886937b59841ff3f04f41e193e9a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "Paper and pen. And, when I say \"pen\", I mean anything without an eraser. I just want something to jot my design thoughts down. I use UML when I want someone else to be able to understand my design (in a common notation). If I have an eraser I am tempted to <i>pretty up</i> the picture. Design isn't about pretty pictures.  I also like paper because it prevents me from creating wall sized (highly-detailed and interconnected) class models.  No one can read those anyway.  With 8x11 you are forced to be as concise as possible. You only diagram what is important. You can't have extra noise (detailed classes) bleeding into the margins.  You capture concept instead of implementation (which is where coding comes in). If I can't fit a complete concept (package/module/subsystem/etc) on 1 page, it is way too complex to implement anyway.",
+            "id": "b17f8de317b1bbfe4775804142952d47"
+          },
+          {
+            "type": "html",
+            "text": "\nIf the design picture is worth saving, then once it is coded I redraw the design using something like Visio.",
+            "id": "1e6cad3071d1ed9805e6d22ccea0ffee"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Todd Coram]]",
+            "id": "07b27d45d7111ca0eceaf0b5f468709a"
+          },
+          {
+            "type": "html",
+            "text": "\nIn a recent job interview one of the TA's interviewing me asked what tool I preferred for this sort of thing (can't remember if he said \"doing design\", or drawing diagrams). So I waved my fountain pen in his face, I'd been taking notes in the interview, and said \"this one is hard to beat\". He gave me a very disapproving look. But I got an offer. -- [[Keith Braithwaite]]",
+            "id": "09f2ba7364ddad19c3c42c319149c522"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "\nAll I can say, Todd, is the boxes on your whiteboard must be a <i>lot</i> smaller than mine :)",
+            "id": "73e6f30f7192d1c45efbbee5e8969753"
+          },
+          {
+            "type": "html",
+            "text": "\nSeriously, the 7+-2 rule is a very good one.  I just happen to draw big diagrams, so effectively I can fit the same amount of information on a wallboard as I can an 8 1/2 by 11 sheet of paper.",
+            "id": "f95a58f37d526327664b8b22ab677993"
+          },
+          {
+            "type": "html",
+            "text": "\nI find wallboards especially useful when you're using them in groups -- it's hard to get 5 people gathered around a standard sheet of paper.",
+            "id": "da50364da3e1e2ce6c643fbcb1e248ba"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Kyle Brown]]",
+            "id": "8dd94a223eb2c579c335f76b92005d77"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Seven Plus Or Minus Two Discussion]]",
+            "id": "ac358a1054bf8fd45f07123a38078f48"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "\nHas anyone else used Together/J from Peter Coad's Object International? I find it outstanding. Visit:",
+            "id": "ab1039437a984386dc9e4a42dca548a7"
+          },
+          {
+            "type": "code",
+            "text": "  http://www.oi.com",
+            "id": "f8ec2a3442ba0fbaeec7f6a51abf2d5c"
+          },
+          {
+            "type": "html",
+            "text": "to get and try the free whiteboard edition.",
+            "id": "72d3aedc7819f9b25b9587c539186f3e"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Jim Russell]]",
+            "id": "fa139952d3709c5211205475b2bd8b2e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "\nI've been using [[Rational Rose]] 98i (patched) and it seems to work fairly well for  the basics. I find it doesn't support all the UML as well as it could which I find surprising since it is the Rational product.",
+            "id": "d639654663d69ebb230054ff8f93af4e"
+          },
+          {
+            "type": "html",
+            "text": "\nWhen I was evaluating tools I kind of liked the Together/J product too but there was a need at the time for a tool that would handle C++ as well and Rational fit the bill. (We have been assured that it will become more conformant (?) soon.",
+            "id": "3ecff7a9b8d4dc04a118281d1324e0d7"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Doug Serres]]",
+            "id": "7d2273b23c54147908b9a0c027e28038"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "\nHello all,",
+            "id": "cf071973fec19ac390e4d01861ff67c4"
+          },
+          {
+            "type": "html",
+            "text": "\nSince I am a product manager of one of the UML CASE tools, I would like\nto present you another choice over Rational Rose or Together/J.",
+            "id": "bd4ca89d7bd872240f9a5dc0c875a74c"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Magic Draw]] UML ([http://www.magicdraw.com www.magicdraw.com]), is UML tool written in Java, I'm\nsure it supports more UML diagramming than Rational Rose and is more robust. \nYou are welcome to try out the demo version. Recently I have tried Together/J\n3.0 and can say that [[Magic Draw]] at this point performs much better - you have to have a 700 PIII in order to use TJ.",
+            "id": "91b53028d8be074b48828dfbf1a6cb14"
+          },
+          {
+            "type": "html",
+            "text": "\nSaulius Kaukenas (mailto:saulius@nomagiclt.com)",
+            "id": "3fe2ee82dad38869393dc550dc068e18"
+          },
+          {
+            "type": "html",
+            "text": "<i>Just a quick plug from a user - I've used [[Magic Draw]] UML and found it a very useful tool.  There is a 'standard' version, so you can avoid wasting time and money on [[Round Trip Engineering]], and it's a hell of a lot cheaper than Rose - a very important concern for the small developer!</i> --[[Korny Sietsma]]",
+            "id": "c165005237b374b4237e89229bffa2b6"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "<i>[[Together Java]] 3.0 is out.  It can \"embed\" [[Gang Of Four]] patterns into a design.</i>",
+            "id": "06103b2b2abf9fffd39a88e9e698722d"
+          },
+          {
+            "type": "html",
+            "text": "See:<br>[http://www.togethersoft.com www.togethersoft.com].",
+            "id": "d85a67b4ae5b8ed71cca44e0d0f4266f"
+          },
+          {
+            "type": "html",
+            "text": "<i>Actually, it's up to 5.0 now.</i>",
+            "id": "90651628ae2802d8a5d26dbc57b88004"
+          },
+          {
+            "type": "html",
+            "text": "\nJust GoF patterns, or can you make your own too? --[[Luke Gorrie]]",
+            "id": "610e0943b11565fa4ca49e8f67083247"
+          },
+          {
+            "type": "html",
+            "text": "<i>You can make custom patterns, modelling rules, etc. though not with the free version</i> --[[Jason Yip]]",
+            "id": "8aa4e2a5a11f8b18e0654b5e4ed9bd60"
+          },
+          {
+            "type": "html",
+            "text": "\nAnything has to be more enjoyable to use than [[Rational Rose]]. I even prefer Visio. I've never much cared for [[Round Trip Engineering]], but I suppose if it was done well without markers I wouldn't hate it. I like [[Together Java]], but didn't understand its rules on what detail it decides to elide. --[[Robert Di Falco]]",
+            "id": "ea3773ef48bc2cb60c33c1b849d7091e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "There is one major problem with nearly every UML tool on the market.  To put an level of detail on any diagram type, especially class diagrams, you have to do too much clicking, clicking, clicking.  Click to add a member function ,then type in it's name.  Click to add a single parameter to that method you just added, then type in it's name and type or another click to select it's type.  This gets repeated for every parameter.  Click, type, click, type, click, type.... 4 dialogs, 200 widgets and 400 clicks later you've got a class with a method.  Ok, I'm exaggerating, but it is ridiculous.  This slows the designer to a crawl.",
+            "id": "117f9abb034e6754039250ae889c64e9"
+          },
+          {
+            "type": "html",
+            "text": "\nOnly one tool that I've ever seen avoids this.  Type click a button to add a new method, typing in all details, visibility, name, parameters and their types, method (return)type and stereotypes.  The tool then parses all of this and stores the information.  One click and some typing.  The tool was called Class Designer but one of the big tools vendors bought it and killed it.  Too bad.  Such a simple but effective design.  Why can't  one of the big vendors put this feature in their UML tools?",
+            "id": "bfe4bebb4fbaf2a08e96953a60eb799b"
+          },
+          {
+            "type": "html",
+            "text": "<i>Now, this was a peeve of mine using Dia.  Too much clicking and tabbing and thinking about what to put in which box.  For thinking through an idea, I'm really moving toward the whiteboard or pen/paper approach.  OTOH, having a tool to parse actual code seems like a good idea.  --[[David Jaquay]]</i>",
+            "id": "c0ba5421c49061c10ba0d16a005fdc3b"
+          },
+          {
+            "type": "html",
+            "text": "\nI've switched to white boards and notebooks.  The price is right;)",
+            "id": "baf6daf6ed2706d8c60cd8dfc0d66d94"
+          },
+          {
+            "type": "html",
+            "text": "<i>[[Um Let]] seems to be what you want. --[[Falk Bruegmann]]</i>",
+            "id": "4032973560decc50e3a382033daf0f9d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "[[Argo Uml]] is quite good (And free!)",
+            "id": "91d53b7647fe18be02b21c75121b5618"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e054fbf37e25c2f2fd30f8c17dda0f9a"
+          },
+          {
+            "type": "html",
+            "text": "BOUML - [http://bouml.free.fr bouml.free.fr]",
+            "id": "501841ced551167c0676e0bbaab35573"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?IdealUmlCaseTool c2.com]",
+            "id": "2bd5b1df430e4addae3786bbaf6927ac"
+          }
+        ]
+      }
+    }
+  ]
+}

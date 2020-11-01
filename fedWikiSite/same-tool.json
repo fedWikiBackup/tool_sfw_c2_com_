@@ -1,0 +1,147 @@
+{
+  "title": "Same Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "Same is a tool to find duplicate lines in multiple text files. Very useful to find and fix [[Copy And Paste Programming]]. It has been designed by [[Marnix Klooster]] to be simple, portable, and fast.",
+      "id": "ded12a347eecc8972d3ff000abe6a555"
+    },
+    {
+      "type": "html",
+      "text": "\nsee [http://sourceforge.net/projects/same sourceforge.net]",
+      "id": "92cf8596a63e6e96b7751fda0a9cd6f1"
+    },
+    {
+      "type": "html",
+      "text": "\nan [[Emacs Lisp]] mode is also available at [http://ch.twi.tudelft.nl/~mostert/lisp.html ch.twi.tudelft.nl] made by [[Jeroen Mostert]]",
+      "id": "6fbfc771b3e276a1600a9825dcc04acd"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also: tools with similar goals: [[Category Duplication Finding Tool]]",
+      "id": "8e4f2461c49da104154c20528ed81431"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e5b56c60dbdb6b1a0ab149c514ffc071"
+    },
+    {
+      "type": "html",
+      "text": "<i>(Originally on [[Once And Only Once]]:)</i>",
+      "id": "e955d5f02336566eb9c643a17f7dfcfd"
+    },
+    {
+      "type": "html",
+      "text": "\nIndeed it is possible to build a tool for mechanically removing\nduplicated methods and code - I built such a thing for the\nlanguage Self (see [http://www.guruinfo.co.uk www.guruinfo.co.uk]). The tool did\nas much refactoring of duplicated code as it could, without\nmanual intervention to tell the tool what made sense. A lot of\nthe time the results were surprisingly good; hierarchies constructed\nby this tool were often just what you'd expect, showing that basing\nhierarchies simply on removal of duplication leads to 'good' \nhierarchies. The results of trying to automatically refactor methods\nwas (even) more contentious though. For example, although '+ 1' is \nduplicated a lot, do you really want to replace it with a method \ncalled 'incremented' (or something similar) just so that the concept \nof incrementing is expressed only once? --[[Ivan Moore]]",
+      "id": "693291dc64d54c6655f901bb9d5c69e2"
+    },
+    {
+      "type": "html",
+      "text": "\nFunny, while working on a recent project, I did exactly that.  If the '+ 1' is happening frequently on the same object, it probably wants to have such a method... at the very least, it might better explain what '+ 1' represents:  next element of a list?  next highest priority?  one second less till doomsday?  :)  --[[William Underwood]]",
+      "id": "50420bdd31f223dbd3f2a4c0aa6f6780"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e5b56c60dbdb6b1a0ab149c514ffc071"
+    },
+    {
+      "type": "html",
+      "text": "See [http://www.xpdeveloper.com/xpdwiki/Wiki.jsp?page=SameTool www.xpdeveloper.com] for a fork of Same that is faster and scales better when you have to handle hundreds of thousands of lines of code.",
+      "id": "a82ed45cf61ac6fdb32f6b7533b72ca3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e5b56c60dbdb6b1a0ab149c514ffc071"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]\n[[Category Duplication Finding Tool]]",
+      "id": "d3ec97575cc9467fff47484e215d2c71"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SameTool c2.com]",
+      "id": "5b2ff733ae66033caae930ff0bf1cfda"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1072141254000,
+      "id": "3e4bcad1ef7d8a078c7d706718836b92",
+      "type": "create",
+      "item": {
+        "title": "Same Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "Same is a tool to find duplicate lines in multiple text files. Very useful to find and fix [[Copy And Paste Programming]]. It has been designed by [[Marnix Klooster]] to be simple, portable, and fast.",
+            "id": "ded12a347eecc8972d3ff000abe6a555"
+          },
+          {
+            "type": "html",
+            "text": "\nsee [http://sourceforge.net/projects/same sourceforge.net]",
+            "id": "92cf8596a63e6e96b7751fda0a9cd6f1"
+          },
+          {
+            "type": "html",
+            "text": "\nan [[Emacs Lisp]] mode is also available at [http://ch.twi.tudelft.nl/~mostert/lisp.html ch.twi.tudelft.nl] made by [[Jeroen Mostert]]",
+            "id": "6fbfc771b3e276a1600a9825dcc04acd"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also: tools with similar goals: [[Category Duplication Finding Tool]]",
+            "id": "8e4f2461c49da104154c20528ed81431"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e5b56c60dbdb6b1a0ab149c514ffc071"
+          },
+          {
+            "type": "html",
+            "text": "<i>(Originally on [[Once And Only Once]]:)</i>",
+            "id": "e955d5f02336566eb9c643a17f7dfcfd"
+          },
+          {
+            "type": "html",
+            "text": "\nIndeed it is possible to build a tool for mechanically removing\nduplicated methods and code - I built such a thing for the\nlanguage Self (see [http://www.guruinfo.co.uk www.guruinfo.co.uk]). The tool did\nas much refactoring of duplicated code as it could, without\nmanual intervention to tell the tool what made sense. A lot of\nthe time the results were surprisingly good; hierarchies constructed\nby this tool were often just what you'd expect, showing that basing\nhierarchies simply on removal of duplication leads to 'good' \nhierarchies. The results of trying to automatically refactor methods\nwas (even) more contentious though. For example, although '+ 1' is \nduplicated a lot, do you really want to replace it with a method \ncalled 'incremented' (or something similar) just so that the concept \nof incrementing is expressed only once? --[[Ivan Moore]]",
+            "id": "693291dc64d54c6655f901bb9d5c69e2"
+          },
+          {
+            "type": "html",
+            "text": "\nFunny, while working on a recent project, I did exactly that.  If the '+ 1' is happening frequently on the same object, it probably wants to have such a method... at the very least, it might better explain what '+ 1' represents:  next element of a list?  next highest priority?  one second less till doomsday?  :)  --[[William Underwood]]",
+            "id": "50420bdd31f223dbd3f2a4c0aa6f6780"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e5b56c60dbdb6b1a0ab149c514ffc071"
+          },
+          {
+            "type": "html",
+            "text": "See [http://www.xpdeveloper.com/xpdwiki/Wiki.jsp?page=SameTool www.xpdeveloper.com] for a fork of Same that is faster and scales better when you have to handle hundreds of thousands of lines of code.",
+            "id": "a82ed45cf61ac6fdb32f6b7533b72ca3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e5b56c60dbdb6b1a0ab149c514ffc071"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]\n[[Category Duplication Finding Tool]]",
+            "id": "d3ec97575cc9467fff47484e215d2c71"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SameTool c2.com]",
+            "id": "5b2ff733ae66033caae930ff0bf1cfda"
+          }
+        ]
+      }
+    }
+  ]
+}

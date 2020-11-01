@@ -1,0 +1,277 @@
+{
+  "title": "Use The Tools We Like Or Like The Tools We Use",
+  "story": [
+    {
+      "type": "html",
+      "text": "Do we [[Use The Tools We Like Or Like The Tools We Use]]?",
+      "id": "7b4d38fb1cd528d98e55f46bbd542e86"
+    },
+    {
+      "type": "html",
+      "text": "\nWhether it is languages, editors, databases, operating systems, we become familiar with the tools that fate chooses for us. We find we can work more easily with them than with other tools. We think they are better than other tools.",
+      "id": "bf2b6ebbccae8a42f23fbee6187a9221"
+    },
+    {
+      "type": "html",
+      "text": "\nIf we have to make a choice between 2 unfamiliar tools, we don't have the time to become proficient at each. We make an arbitrary choice. Two years down the line, our tool has moved on, but we still have an impression of version n-2 of the other tool and happily engage in flame wars about it.",
+      "id": "25b62bf8fd4a023a0fed3f1fc12c9aef"
+    },
+    {
+      "type": "html",
+      "text": "<i>How about use the tools you use?  Do the best with the tool set you are given and quit whining.</i>",
+      "id": "914dca4faaffdefa4deb281c1a3e8461"
+    },
+    {
+      "type": "html",
+      "text": "\nThere's nothing wrong with my tools. They're better than your tools. That's the point.",
+      "id": "4ab4e946900effa7b70008cc2544d602"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a2319572a42858e6ffb355ab395d1c93"
+    },
+    {
+      "type": "html",
+      "text": "\nWhy work with inferior tools if much better are easily available.  If nothing better is available, and your tools are still poor, perhaps it is worth the time to create better ones.  Why settle for mediocrity (or worse). Strange concept.  I have a picture in my mind of someone handing a tool-and-die maker a cheap set of walmart sockets and saying 'now just use these and quit whining' :)",
+      "id": "0efa5860fe24a52c530f53ae0e388695"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a2319572a42858e6ffb355ab395d1c93"
+    },
+    {
+      "type": "html",
+      "text": "\nA \"rare\" counter example:",
+      "id": "f5c6d16727e97ad45df63c1bb0746381"
+    },
+    {
+      "type": "html",
+      "text": "<i>(In the tradition of \"the exception that proves the rule.\")</i>",
+      "id": "439939eadc94966b45461103426173a4"
+    },
+    {
+      "type": "html",
+      "text": "\nI continue to use \"vi\", even though I believe that emacs is a better editor.\nI know vi very well, while it would take an investment of time to become similarly proficient in emacs (and from there things would get better).",
+      "id": "30f7e3a31b3c4d22d2b27f4c610f8d75"
+    },
+    {
+      "type": "html",
+      "text": "<b>But</b> the \"payoff\" is currently insufficient for me to pay the conversion cost -- to \"go through the deep dark valley\" of training and low productivity to get from one to the other -- because I'm not currently doing enough text editing to get the payback.",
+      "id": "f70db52d01781fbe366e880aee8b7bd6"
+    },
+    {
+      "type": "html",
+      "text": "(Emacs doesn't work from within the Visual Basic IDE.)",
+      "id": "4ec15e70fb96827c969c9e52bf60a111"
+    },
+    {
+      "type": "html",
+      "text": "\nSo this is a rare example of *not* favoring my current tool.",
+      "id": "2d87a3bdc4de4b0fcbcf59c03c035ce0"
+    },
+    {
+      "type": "html",
+      "text": "(But if I were still doing lots of text editing, I'd switch to EMACS, and probably be a strong advocate of it -- proving the rule.)",
+      "id": "affcfab0d6a6a9c0426a0d022c54dbda"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Jeff Grigg]]",
+      "id": "9a963cd54b0f663285a6c57de851dc95"
+    },
+    {
+      "type": "html",
+      "text": "<i>You can use Viper mode of Emacs ([http://www.delorie.com/gnu/docs/emacs/viper.html www.delorie.com]).  In fact, Emacs can be considered a heavy feature-rich \"vi\" implementation.</i>",
+      "id": "e06c7c6bf45437e6b2234d419ddd4c77"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a2319572a42858e6ffb355ab395d1c93"
+    },
+    {
+      "type": "html",
+      "text": "\nThere are a lot of languages and tools competing for our attention. Generally people will explore a bit of each and then gravitate toward those which seem more promising. This breadth-first exploration approach is rational. However, this may result in people bypassing languages or tools with deep U-shaped learning curve, those that may require a complete mind overhaul before delivering grand productivity. It is hard to know whether they are really U-shaped or L-shaped for a given person, though. Further U (and L) curved tools are often the ones with the biggest technical evanglists promoting them.",
+      "id": "4b77a1de9e889d01234d718b682cb13f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a2319572a42858e6ffb355ab395d1c93"
+    },
+    {
+      "type": "html",
+      "text": "See also:",
+      "id": "371c17c7e6e538426078b282c3ec4b9a"
+    },
+    {
+      "type": "html",
+      "text": " [[Choose Your Rut Carefully]]",
+      "id": "3a7debf401f9254341efe55db2afe8a5"
+    },
+    {
+      "type": "html",
+      "text": " [[Microsoft Vs Open Source Databases]]",
+      "id": "c0d66fc77c9a25c35bfd8d59dc2dd683"
+    },
+    {
+      "type": "html",
+      "text": " [[Pick The Right Tool For The Job]]",
+      "id": "dde1604e13d3c22537b31c37604bfc6d"
+    },
+    {
+      "type": "html",
+      "text": " [[Ink Blot Software Engineering]]",
+      "id": "ac74b6d2b5bdc360b1ebe374552d9dd0"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?UseTheToolsWeLikeOrLikeTheToolsWeUse c2.com]",
+      "id": "76b6968143ba65c85fea918e415333e0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1416550346000,
+      "id": "2d61f6bec6c6daafed79807b5e2eac11",
+      "type": "create",
+      "item": {
+        "title": "Use The Tools We Like Or Like The Tools We Use",
+        "story": [
+          {
+            "type": "html",
+            "text": "Do we [[Use The Tools We Like Or Like The Tools We Use]]?",
+            "id": "7b4d38fb1cd528d98e55f46bbd542e86"
+          },
+          {
+            "type": "html",
+            "text": "\nWhether it is languages, editors, databases, operating systems, we become familiar with the tools that fate chooses for us. We find we can work more easily with them than with other tools. We think they are better than other tools.",
+            "id": "bf2b6ebbccae8a42f23fbee6187a9221"
+          },
+          {
+            "type": "html",
+            "text": "\nIf we have to make a choice between 2 unfamiliar tools, we don't have the time to become proficient at each. We make an arbitrary choice. Two years down the line, our tool has moved on, but we still have an impression of version n-2 of the other tool and happily engage in flame wars about it.",
+            "id": "25b62bf8fd4a023a0fed3f1fc12c9aef"
+          },
+          {
+            "type": "html",
+            "text": "<i>How about use the tools you use?  Do the best with the tool set you are given and quit whining.</i>",
+            "id": "914dca4faaffdefa4deb281c1a3e8461"
+          },
+          {
+            "type": "html",
+            "text": "\nThere's nothing wrong with my tools. They're better than your tools. That's the point.",
+            "id": "4ab4e946900effa7b70008cc2544d602"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a2319572a42858e6ffb355ab395d1c93"
+          },
+          {
+            "type": "html",
+            "text": "\nWhy work with inferior tools if much better are easily available.  If nothing better is available, and your tools are still poor, perhaps it is worth the time to create better ones.  Why settle for mediocrity (or worse). Strange concept.  I have a picture in my mind of someone handing a tool-and-die maker a cheap set of walmart sockets and saying 'now just use these and quit whining' :)",
+            "id": "0efa5860fe24a52c530f53ae0e388695"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a2319572a42858e6ffb355ab395d1c93"
+          },
+          {
+            "type": "html",
+            "text": "\nA \"rare\" counter example:",
+            "id": "f5c6d16727e97ad45df63c1bb0746381"
+          },
+          {
+            "type": "html",
+            "text": "<i>(In the tradition of \"the exception that proves the rule.\")</i>",
+            "id": "439939eadc94966b45461103426173a4"
+          },
+          {
+            "type": "html",
+            "text": "\nI continue to use \"vi\", even though I believe that emacs is a better editor.\nI know vi very well, while it would take an investment of time to become similarly proficient in emacs (and from there things would get better).",
+            "id": "30f7e3a31b3c4d22d2b27f4c610f8d75"
+          },
+          {
+            "type": "html",
+            "text": "<b>But</b> the \"payoff\" is currently insufficient for me to pay the conversion cost -- to \"go through the deep dark valley\" of training and low productivity to get from one to the other -- because I'm not currently doing enough text editing to get the payback.",
+            "id": "f70db52d01781fbe366e880aee8b7bd6"
+          },
+          {
+            "type": "html",
+            "text": "(Emacs doesn't work from within the Visual Basic IDE.)",
+            "id": "4ec15e70fb96827c969c9e52bf60a111"
+          },
+          {
+            "type": "html",
+            "text": "\nSo this is a rare example of *not* favoring my current tool.",
+            "id": "2d87a3bdc4de4b0fcbcf59c03c035ce0"
+          },
+          {
+            "type": "html",
+            "text": "(But if I were still doing lots of text editing, I'd switch to EMACS, and probably be a strong advocate of it -- proving the rule.)",
+            "id": "affcfab0d6a6a9c0426a0d022c54dbda"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Jeff Grigg]]",
+            "id": "9a963cd54b0f663285a6c57de851dc95"
+          },
+          {
+            "type": "html",
+            "text": "<i>You can use Viper mode of Emacs ([http://www.delorie.com/gnu/docs/emacs/viper.html www.delorie.com]).  In fact, Emacs can be considered a heavy feature-rich \"vi\" implementation.</i>",
+            "id": "e06c7c6bf45437e6b2234d419ddd4c77"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a2319572a42858e6ffb355ab395d1c93"
+          },
+          {
+            "type": "html",
+            "text": "\nThere are a lot of languages and tools competing for our attention. Generally people will explore a bit of each and then gravitate toward those which seem more promising. This breadth-first exploration approach is rational. However, this may result in people bypassing languages or tools with deep U-shaped learning curve, those that may require a complete mind overhaul before delivering grand productivity. It is hard to know whether they are really U-shaped or L-shaped for a given person, though. Further U (and L) curved tools are often the ones with the biggest technical evanglists promoting them.",
+            "id": "4b77a1de9e889d01234d718b682cb13f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a2319572a42858e6ffb355ab395d1c93"
+          },
+          {
+            "type": "html",
+            "text": "See also:",
+            "id": "371c17c7e6e538426078b282c3ec4b9a"
+          },
+          {
+            "type": "html",
+            "text": " [[Choose Your Rut Carefully]]",
+            "id": "3a7debf401f9254341efe55db2afe8a5"
+          },
+          {
+            "type": "html",
+            "text": " [[Microsoft Vs Open Source Databases]]",
+            "id": "c0d66fc77c9a25c35bfd8d59dc2dd683"
+          },
+          {
+            "type": "html",
+            "text": " [[Pick The Right Tool For The Job]]",
+            "id": "dde1604e13d3c22537b31c37604bfc6d"
+          },
+          {
+            "type": "html",
+            "text": " [[Ink Blot Software Engineering]]",
+            "id": "ac74b6d2b5bdc360b1ebe374552d9dd0"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?UseTheToolsWeLikeOrLikeTheToolsWeUse c2.com]",
+            "id": "76b6968143ba65c85fea918e415333e0"
+          }
+        ]
+      }
+    }
+  ]
+}

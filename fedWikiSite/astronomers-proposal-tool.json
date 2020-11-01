@@ -1,0 +1,67 @@
+{
+  "title": "Astronomers Proposal Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "The [[Astronomers Proposal Tool]] is a [[Java Language]] application which allows astronomers to consider the scientific feasability of a particular set of observations and/or to plan how those observations are executed. The tool is currently designed to work on the [[Hubble Space Telescope]], but could be adapted to work on other telescopes or even multiple telescopes.",
+      "id": "6a2fb6e03b2aecf139fcafbf3f022526"
+    },
+    {
+      "type": "html",
+      "text": "\nFor more information, please consult the project Web page at [http://ra.stsci.edu/apst/apt/ ra.stsci.edu].",
+      "id": "a3262e3748734669f5fe282985e36f6a"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "055b4826273eb8142c8fd5488a63851f"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Science]]",
+      "id": "0592d06208216e3522454aa399ecad1b"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?AstronomersProposalTool c2.com]",
+      "id": "0475202578ff0d8f306bb8035f1e8ef0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1106039208000,
+      "id": "8eb550a60110d6128bd4dda7cdea1643",
+      "type": "create",
+      "item": {
+        "title": "Astronomers Proposal Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "The [[Astronomers Proposal Tool]] is a [[Java Language]] application which allows astronomers to consider the scientific feasability of a particular set of observations and/or to plan how those observations are executed. The tool is currently designed to work on the [[Hubble Space Telescope]], but could be adapted to work on other telescopes or even multiple telescopes.",
+            "id": "6a2fb6e03b2aecf139fcafbf3f022526"
+          },
+          {
+            "type": "html",
+            "text": "\nFor more information, please consult the project Web page at [http://ra.stsci.edu/apst/apt/ ra.stsci.edu].",
+            "id": "a3262e3748734669f5fe282985e36f6a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "055b4826273eb8142c8fd5488a63851f"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Science]]",
+            "id": "0592d06208216e3522454aa399ecad1b"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?AstronomersProposalTool c2.com]",
+            "id": "0475202578ff0d8f306bb8035f1e8ef0"
+          }
+        ]
+      }
+    }
+  ]
+}

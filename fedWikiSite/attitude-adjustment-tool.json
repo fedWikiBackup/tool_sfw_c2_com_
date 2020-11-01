@@ -1,0 +1,237 @@
+{
+  "title": "Attitude Adjustment Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "A device or method with which you correct incorrect attitudes.",
+      "id": "5eec2f8da8a9b23b8bdbb06388d6a5f2"
+    },
+    {
+      "type": "html",
+      "text": "\nIn rough order of severity:",
+      "id": "48ab0f864050bff2fe580a09ad4ac7f2"
+    },
+    {
+      "type": "html",
+      "text": " [[Gentle Sarcasm]]",
+      "id": "f04d92fff34bf060b5278e2a8af4c433"
+    },
+    {
+      "type": "html",
+      "text": " [[Zen Slap]]",
+      "id": "33923192308cdd14b9f499302115bbae"
+    },
+    {
+      "type": "html",
+      "text": " [[Whack On The Side Of The Head]]",
+      "id": "9574fa1f4039d0da1ecab24263e17961"
+    },
+    {
+      "type": "html",
+      "text": " [[Rolled Up Newspaper]]",
+      "id": "18738349d73f2b9b609536dac3a90ee3"
+    },
+    {
+      "type": "html",
+      "text": " [[Brutal Sarcasm]]",
+      "id": "dfe4c9cffdd55d4fdba0fc42c81ef76f"
+    },
+    {
+      "type": "html",
+      "text": " [[Clue By Four]]",
+      "id": "29eaace26d4a5a37a00e0bd206aa85e7"
+    },
+    {
+      "type": "html",
+      "text": " [[Clue Stick]]",
+      "id": "35dde5518c412af95e9daf4279c0c5e7"
+    },
+    {
+      "type": "html",
+      "text": " [[Two By Four]]",
+      "id": "35fe9adeb82dc8b62b8ef2cec8ea25bb"
+    },
+    {
+      "type": "html",
+      "text": " [[Luser Attitude Readjustment Tool]]",
+      "id": "7aed94282ae04ce5b52b68f7be809e88"
+    },
+    {
+      "type": "html",
+      "text": "\nAnd the last resort:",
+      "id": "51dcc1a6d128b887b6c84f264bf674ad"
+    },
+    {
+      "type": "html",
+      "text": " [[Remote Strangulation Protocol]]",
+      "id": "243a2071dbfe8b823f254aee30e223e3"
+    },
+    {
+      "type": "html",
+      "text": " [[Plasma To The Face]]",
+      "id": "ebee3e6a6d786ee23501b9786a6e0263"
+    },
+    {
+      "type": "html",
+      "text": " [[Parking Lot Therapy]]",
+      "id": "86e3509d0198a55ef9984a6cd441c9f3"
+    },
+    {
+      "type": "html",
+      "text": " [[De Fenestration]]",
+      "id": "552982ccd4a5b1e6553a556e13bf26bf"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9d276b43ee0d10b692e75d25577dcd32"
+    },
+    {
+      "type": "html",
+      "text": "And I thought [[Assume Good Faith]] was the best attitude adjustment tool via working by embarrassing people :o) -- [[Andrew Cates]]",
+      "id": "e5cdceea96d3234a517f08181fc923fb"
+    },
+    {
+      "type": "html",
+      "text": "<i>Ok. Then I forgive you. :-)</i>",
+      "id": "403a1b3e5f90bc947db3ec523e64601d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9d276b43ee0d10b692e75d25577dcd32"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Thinking Patterns]]",
+      "id": "e4f463de8429c3408bfe6944897eb730"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?AttitudeAdjustmentTool c2.com]",
+      "id": "6e1b79d9f89fa37666a4c43e4d5952f0"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1143569115000,
+      "id": "dcebc4abb573756cb54d627eb75edbd0",
+      "type": "create",
+      "item": {
+        "title": "Attitude Adjustment Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "A device or method with which you correct incorrect attitudes.",
+            "id": "5eec2f8da8a9b23b8bdbb06388d6a5f2"
+          },
+          {
+            "type": "html",
+            "text": "\nIn rough order of severity:",
+            "id": "48ab0f864050bff2fe580a09ad4ac7f2"
+          },
+          {
+            "type": "html",
+            "text": " [[Gentle Sarcasm]]",
+            "id": "f04d92fff34bf060b5278e2a8af4c433"
+          },
+          {
+            "type": "html",
+            "text": " [[Zen Slap]]",
+            "id": "33923192308cdd14b9f499302115bbae"
+          },
+          {
+            "type": "html",
+            "text": " [[Whack On The Side Of The Head]]",
+            "id": "9574fa1f4039d0da1ecab24263e17961"
+          },
+          {
+            "type": "html",
+            "text": " [[Rolled Up Newspaper]]",
+            "id": "18738349d73f2b9b609536dac3a90ee3"
+          },
+          {
+            "type": "html",
+            "text": " [[Brutal Sarcasm]]",
+            "id": "dfe4c9cffdd55d4fdba0fc42c81ef76f"
+          },
+          {
+            "type": "html",
+            "text": " [[Clue By Four]]",
+            "id": "29eaace26d4a5a37a00e0bd206aa85e7"
+          },
+          {
+            "type": "html",
+            "text": " [[Clue Stick]]",
+            "id": "35dde5518c412af95e9daf4279c0c5e7"
+          },
+          {
+            "type": "html",
+            "text": " [[Two By Four]]",
+            "id": "35fe9adeb82dc8b62b8ef2cec8ea25bb"
+          },
+          {
+            "type": "html",
+            "text": " [[Luser Attitude Readjustment Tool]]",
+            "id": "7aed94282ae04ce5b52b68f7be809e88"
+          },
+          {
+            "type": "html",
+            "text": "\nAnd the last resort:",
+            "id": "51dcc1a6d128b887b6c84f264bf674ad"
+          },
+          {
+            "type": "html",
+            "text": " [[Remote Strangulation Protocol]]",
+            "id": "243a2071dbfe8b823f254aee30e223e3"
+          },
+          {
+            "type": "html",
+            "text": " [[Plasma To The Face]]",
+            "id": "ebee3e6a6d786ee23501b9786a6e0263"
+          },
+          {
+            "type": "html",
+            "text": " [[Parking Lot Therapy]]",
+            "id": "86e3509d0198a55ef9984a6cd441c9f3"
+          },
+          {
+            "type": "html",
+            "text": " [[De Fenestration]]",
+            "id": "552982ccd4a5b1e6553a556e13bf26bf"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9d276b43ee0d10b692e75d25577dcd32"
+          },
+          {
+            "type": "html",
+            "text": "And I thought [[Assume Good Faith]] was the best attitude adjustment tool via working by embarrassing people :o) -- [[Andrew Cates]]",
+            "id": "e5cdceea96d3234a517f08181fc923fb"
+          },
+          {
+            "type": "html",
+            "text": "<i>Ok. Then I forgive you. :-)</i>",
+            "id": "403a1b3e5f90bc947db3ec523e64601d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9d276b43ee0d10b692e75d25577dcd32"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Thinking Patterns]]",
+            "id": "e4f463de8429c3408bfe6944897eb730"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?AttitudeAdjustmentTool c2.com]",
+            "id": "6e1b79d9f89fa37666a4c43e4d5952f0"
+          }
+        ]
+      }
+    }
+  ]
+}

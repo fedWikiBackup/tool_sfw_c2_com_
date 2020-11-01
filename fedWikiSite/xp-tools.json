@@ -1,0 +1,117 @@
+{
+  "title": "Xp Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "XP Tools is a company in [[Linkoping Sweden]] with the mission to produce software development tools designed to help [[Extreme Programmer]]s in their work. Currently we are working on a Next Generation [[Refactoring Browser]], called [[Code Morpher]] for Java.",
+      "id": "6d2d2c4b97c0ba6c39efd5548b462efe"
+    },
+    {
+      "type": "html",
+      "text": "\nThe company founders are all industrial entrepreneurs and academic researchers with expertise in relevant areas such as [[Extreme Programming]], compiler technology, industrial software engineering, programming environments etc.",
+      "id": "0d84259bf1cabb834bc39b7a87b70680"
+    },
+    {
+      "type": "html",
+      "text": "\nCheck out the website at [http://www.xptools.com/ www.xptools.com]",
+      "id": "b5f240b3c7e2c71fcec1ac0a62d1209b"
+    },
+    {
+      "type": "html",
+      "text": "\nThe staff of [[Xp Tools]] is:\n[[Andreas Sjostedt]], \n[[Jens Nordberg]], \n[[Jerker Hammarberg]], \n[[Karl Rosenbaum]], \n[[David Byers]], \n[[Peter Fritzson]], \n[[Jerker Wilander]]",
+      "id": "caefbe14cfe37ea8080ce0b6ef0c4ac3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "65bb1fe1da6f86b008fcc5ed721d00c3"
+    },
+    {
+      "type": "html",
+      "text": "Hey hey, you guys wrote the [[Python Refactoring Browser]] for [[Python Works]], awesome! I'm dying to see how you did it, since I'm the guy who started and sometimes still works on the mostly defunct [http://bicyclerepair.sourceforge.net/ bicyclerepair.sourceforge.net]",
+      "id": "0ea444429806442e88a0dada87c59506"
+    },
+    {
+      "type": "html",
+      "text": "\nI'd love to get into a discussion about [[Automated Refactoring]] with you guys. Would that be ok? --[[Shae Erisson]]",
+      "id": "425c3ef07d734a342455be4c428bdd09"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "65bb1fe1da6f86b008fcc5ed721d00c3"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Company]]",
+      "id": "71d5d7b684a6b7f36f0bfe7726321c61"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?XpTools c2.com]",
+      "id": "2d666c550f0207686dc68ef80d2b88e4"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1081474322000,
+      "id": "62525beb2186c5f909c08b20d8e40b1d",
+      "type": "create",
+      "item": {
+        "title": "Xp Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "XP Tools is a company in [[Linkoping Sweden]] with the mission to produce software development tools designed to help [[Extreme Programmer]]s in their work. Currently we are working on a Next Generation [[Refactoring Browser]], called [[Code Morpher]] for Java.",
+            "id": "6d2d2c4b97c0ba6c39efd5548b462efe"
+          },
+          {
+            "type": "html",
+            "text": "\nThe company founders are all industrial entrepreneurs and academic researchers with expertise in relevant areas such as [[Extreme Programming]], compiler technology, industrial software engineering, programming environments etc.",
+            "id": "0d84259bf1cabb834bc39b7a87b70680"
+          },
+          {
+            "type": "html",
+            "text": "\nCheck out the website at [http://www.xptools.com/ www.xptools.com]",
+            "id": "b5f240b3c7e2c71fcec1ac0a62d1209b"
+          },
+          {
+            "type": "html",
+            "text": "\nThe staff of [[Xp Tools]] is:\n[[Andreas Sjostedt]], \n[[Jens Nordberg]], \n[[Jerker Hammarberg]], \n[[Karl Rosenbaum]], \n[[David Byers]], \n[[Peter Fritzson]], \n[[Jerker Wilander]]",
+            "id": "caefbe14cfe37ea8080ce0b6ef0c4ac3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "65bb1fe1da6f86b008fcc5ed721d00c3"
+          },
+          {
+            "type": "html",
+            "text": "Hey hey, you guys wrote the [[Python Refactoring Browser]] for [[Python Works]], awesome! I'm dying to see how you did it, since I'm the guy who started and sometimes still works on the mostly defunct [http://bicyclerepair.sourceforge.net/ bicyclerepair.sourceforge.net]",
+            "id": "0ea444429806442e88a0dada87c59506"
+          },
+          {
+            "type": "html",
+            "text": "\nI'd love to get into a discussion about [[Automated Refactoring]] with you guys. Would that be ok? --[[Shae Erisson]]",
+            "id": "425c3ef07d734a342455be4c428bdd09"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "65bb1fe1da6f86b008fcc5ed721d00c3"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Company]]",
+            "id": "71d5d7b684a6b7f36f0bfe7726321c61"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?XpTools c2.com]",
+            "id": "2d666c550f0207686dc68ef80d2b88e4"
+          }
+        ]
+      }
+    }
+  ]
+}

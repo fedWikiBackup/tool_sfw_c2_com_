@@ -1,0 +1,367 @@
+{
+  "title": "Preparing The Tools For Sprint One",
+  "story": [
+    {
+      "type": "html",
+      "text": "I'll organize this topic by environments, servers and tools. \nI'll use the setup in the project I'm currently working on as an example.",
+      "id": "f5de9246436d7959e0578df27f2fbe8d"
+    },
+    {
+      "type": "html",
+      "text": " <i>An example for what? Could you please explain what this page is about.</i>",
+      "id": "67763391101d384bef81592b63b1da0f"
+    },
+    {
+      "type": "html",
+      "text": "<b>Development environment</b>",
+      "id": "56a0f033bfbaae435ccf0344671ecff9"
+    },
+    {
+      "type": "html",
+      "text": " <i>Developer workstation</i>",
+      "id": "465c54d82ac2ac69f94d4a73f05c65e1"
+    },
+    {
+      "type": "html",
+      "text": " Integrated development system (Microsoft Visual Studio)",
+      "id": "4f6a3ac87f313ab360511e57a087646d"
+    },
+    {
+      "type": "html",
+      "text": " Code editor ",
+      "id": "36869dac04a032e68603b6ce8adaa0f2"
+    },
+    {
+      "type": "html",
+      "text": " Visual component designer ",
+      "id": "72dfdd0b1e097f15abc5cd2108d69649"
+    },
+    {
+      "type": "html",
+      "text": " Compiler ",
+      "id": "de2bb9aa6a4aafd331c06da51d75a3b4"
+    },
+    {
+      "type": "html",
+      "text": " Debugger",
+      "id": "43f872cd2f77860131cb9e75e19e1003"
+    },
+    {
+      "type": "html",
+      "text": " Source control client (TortioseSVN)",
+      "id": "5c18085c358ec5481ef4914304612693"
+    },
+    {
+      "type": "html",
+      "text": " Continouos integration client ([[Thought Works]] [[Cruise Control]].Net)",
+      "id": "71c72950717aa9342a961658af4e1930"
+    },
+    {
+      "type": "html",
+      "text": " Unit test harness (Testdriven / NUnit)",
+      "id": "24e4a354b0b5d60934347abbf17f85f0"
+    },
+    {
+      "type": "html",
+      "text": " Application profiler (Redgate Ants Profiler)",
+      "id": "51fdfedc51ed757ed257f93028c5cdd3"
+    },
+    {
+      "type": "html",
+      "text": " Database client tools (Microsoft SQL Server Management Studio)",
+      "id": "bd1fea44db4be273831d2d703d20948c"
+    },
+    {
+      "type": "html",
+      "text": " <i>Source control server</i>",
+      "id": "872d8c6561916d640a056f5e482f8136"
+    },
+    {
+      "type": "html",
+      "text": " Source control system (Subversion)",
+      "id": "a8992cd7f5519938480355f29f161716"
+    },
+    {
+      "type": "html",
+      "text": " <i>Build server</i>",
+      "id": "1a78cb4cf04d33b92ef5d171c1ab57a2"
+    },
+    {
+      "type": "html",
+      "text": " Continouos integration server ([[Thought Works]] [[Cruise Control]].Net)",
+      "id": "121b289c2f3e04e18ac94e799ef6601c"
+    },
+    {
+      "type": "html",
+      "text": " Automated build system (NAnt)",
+      "id": "192313c2c8b2874db4cfab38ec2d3e3d"
+    },
+    {
+      "type": "html",
+      "text": " <i>Project management server</i>",
+      "id": "97fe59c8df137f82dfb7c3e79995ebb0"
+    },
+    {
+      "type": "html",
+      "text": " Project management system (Edgewall Trac)",
+      "id": "c6fac269cd48f0d3b318cf2da2f9c479"
+    },
+    {
+      "type": "html",
+      "text": " <i>Database server</i>",
+      "id": "8d840737d4e259b1b7526ef766ae2a12"
+    },
+    {
+      "type": "html",
+      "text": " Database management system (Microsoft SQL Server)",
+      "id": "a44bae0fa0ab2537b34932be788ba204"
+    },
+    {
+      "type": "html",
+      "text": "<b>Staging/production environment</b>",
+      "id": "6ebb0ad209e6f581d2dee0665997505f"
+    },
+    {
+      "type": "html",
+      "text": " <i>Database server</i>",
+      "id": "8d840737d4e259b1b7526ef766ae2a12"
+    },
+    {
+      "type": "html",
+      "text": " Database management system (Microsoft SQL Server)",
+      "id": "a44bae0fa0ab2537b34932be788ba204"
+    },
+    {
+      "type": "html",
+      "text": " <i>Application server</i>",
+      "id": "1dd954fc0c5383e5cb13106a582fd766"
+    },
+    {
+      "type": "html",
+      "text": " Application server system (Microsoft Internet Information Server)",
+      "id": "dbce3c7eb8db5c5496f01a72d651f767"
+    },
+    {
+      "type": "html",
+      "text": " <i>Integration server</i>",
+      "id": "37139c2f48d1fbf771140b3d452cdbd2"
+    },
+    {
+      "type": "html",
+      "text": " Integration server system (Microsoft [[Biz Talk]])",
+      "id": "39e8c085c6356d0af7c759acd7644554"
+    },
+    {
+      "type": "html",
+      "text": " <i>Portal server</i> ",
+      "id": "d5b938825c46676dba2844b12ea10983"
+    },
+    {
+      "type": "html",
+      "text": " Portal system (meaning collaboration or document sharing environment typically used as corporation intranet) (Microsoft [[Share Point]])",
+      "id": "0a0b015a2ff91a2f77afd3581dcd9d70"
+    },
+    {
+      "type": "html",
+      "text": " <i>Web server</i>",
+      "id": "c1cfc045b3a7aecc0712f262db89e86c"
+    },
+    {
+      "type": "html",
+      "text": " Web server system (Microsoft Internet Information Server)",
+      "id": "66896e2d7fc336bca73eecdbb826309e"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PreparingTheToolsForSprintOne c2.com]",
+      "id": "20f2b9b3a7dd5b04378a407068c6784b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1218104846000,
+      "id": "813d5ff0d29586a765e2a08c6ccbdaae",
+      "type": "create",
+      "item": {
+        "title": "Preparing The Tools For Sprint One",
+        "story": [
+          {
+            "type": "html",
+            "text": "I'll organize this topic by environments, servers and tools. \nI'll use the setup in the project I'm currently working on as an example.",
+            "id": "f5de9246436d7959e0578df27f2fbe8d"
+          },
+          {
+            "type": "html",
+            "text": " <i>An example for what? Could you please explain what this page is about.</i>",
+            "id": "67763391101d384bef81592b63b1da0f"
+          },
+          {
+            "type": "html",
+            "text": "<b>Development environment</b>",
+            "id": "56a0f033bfbaae435ccf0344671ecff9"
+          },
+          {
+            "type": "html",
+            "text": " <i>Developer workstation</i>",
+            "id": "465c54d82ac2ac69f94d4a73f05c65e1"
+          },
+          {
+            "type": "html",
+            "text": " Integrated development system (Microsoft Visual Studio)",
+            "id": "4f6a3ac87f313ab360511e57a087646d"
+          },
+          {
+            "type": "html",
+            "text": " Code editor ",
+            "id": "36869dac04a032e68603b6ce8adaa0f2"
+          },
+          {
+            "type": "html",
+            "text": " Visual component designer ",
+            "id": "72dfdd0b1e097f15abc5cd2108d69649"
+          },
+          {
+            "type": "html",
+            "text": " Compiler ",
+            "id": "de2bb9aa6a4aafd331c06da51d75a3b4"
+          },
+          {
+            "type": "html",
+            "text": " Debugger",
+            "id": "43f872cd2f77860131cb9e75e19e1003"
+          },
+          {
+            "type": "html",
+            "text": " Source control client (TortioseSVN)",
+            "id": "5c18085c358ec5481ef4914304612693"
+          },
+          {
+            "type": "html",
+            "text": " Continouos integration client ([[Thought Works]] [[Cruise Control]].Net)",
+            "id": "71c72950717aa9342a961658af4e1930"
+          },
+          {
+            "type": "html",
+            "text": " Unit test harness (Testdriven / NUnit)",
+            "id": "24e4a354b0b5d60934347abbf17f85f0"
+          },
+          {
+            "type": "html",
+            "text": " Application profiler (Redgate Ants Profiler)",
+            "id": "51fdfedc51ed757ed257f93028c5cdd3"
+          },
+          {
+            "type": "html",
+            "text": " Database client tools (Microsoft SQL Server Management Studio)",
+            "id": "bd1fea44db4be273831d2d703d20948c"
+          },
+          {
+            "type": "html",
+            "text": " <i>Source control server</i>",
+            "id": "872d8c6561916d640a056f5e482f8136"
+          },
+          {
+            "type": "html",
+            "text": " Source control system (Subversion)",
+            "id": "a8992cd7f5519938480355f29f161716"
+          },
+          {
+            "type": "html",
+            "text": " <i>Build server</i>",
+            "id": "1a78cb4cf04d33b92ef5d171c1ab57a2"
+          },
+          {
+            "type": "html",
+            "text": " Continouos integration server ([[Thought Works]] [[Cruise Control]].Net)",
+            "id": "121b289c2f3e04e18ac94e799ef6601c"
+          },
+          {
+            "type": "html",
+            "text": " Automated build system (NAnt)",
+            "id": "192313c2c8b2874db4cfab38ec2d3e3d"
+          },
+          {
+            "type": "html",
+            "text": " <i>Project management server</i>",
+            "id": "97fe59c8df137f82dfb7c3e79995ebb0"
+          },
+          {
+            "type": "html",
+            "text": " Project management system (Edgewall Trac)",
+            "id": "c6fac269cd48f0d3b318cf2da2f9c479"
+          },
+          {
+            "type": "html",
+            "text": " <i>Database server</i>",
+            "id": "8d840737d4e259b1b7526ef766ae2a12"
+          },
+          {
+            "type": "html",
+            "text": " Database management system (Microsoft SQL Server)",
+            "id": "a44bae0fa0ab2537b34932be788ba204"
+          },
+          {
+            "type": "html",
+            "text": "<b>Staging/production environment</b>",
+            "id": "6ebb0ad209e6f581d2dee0665997505f"
+          },
+          {
+            "type": "html",
+            "text": " <i>Database server</i>",
+            "id": "8d840737d4e259b1b7526ef766ae2a12"
+          },
+          {
+            "type": "html",
+            "text": " Database management system (Microsoft SQL Server)",
+            "id": "a44bae0fa0ab2537b34932be788ba204"
+          },
+          {
+            "type": "html",
+            "text": " <i>Application server</i>",
+            "id": "1dd954fc0c5383e5cb13106a582fd766"
+          },
+          {
+            "type": "html",
+            "text": " Application server system (Microsoft Internet Information Server)",
+            "id": "dbce3c7eb8db5c5496f01a72d651f767"
+          },
+          {
+            "type": "html",
+            "text": " <i>Integration server</i>",
+            "id": "37139c2f48d1fbf771140b3d452cdbd2"
+          },
+          {
+            "type": "html",
+            "text": " Integration server system (Microsoft [[Biz Talk]])",
+            "id": "39e8c085c6356d0af7c759acd7644554"
+          },
+          {
+            "type": "html",
+            "text": " <i>Portal server</i> ",
+            "id": "d5b938825c46676dba2844b12ea10983"
+          },
+          {
+            "type": "html",
+            "text": " Portal system (meaning collaboration or document sharing environment typically used as corporation intranet) (Microsoft [[Share Point]])",
+            "id": "0a0b015a2ff91a2f77afd3581dcd9d70"
+          },
+          {
+            "type": "html",
+            "text": " <i>Web server</i>",
+            "id": "c1cfc045b3a7aecc0712f262db89e86c"
+          },
+          {
+            "type": "html",
+            "text": " Web server system (Microsoft Internet Information Server)",
+            "id": "66896e2d7fc336bca73eecdbb826309e"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PreparingTheToolsForSprintOne c2.com]",
+            "id": "20f2b9b3a7dd5b04378a407068c6784b"
+          }
+        ]
+      }
+    }
+  ]
+}

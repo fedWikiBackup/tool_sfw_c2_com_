@@ -1,0 +1,97 @@
+{
+  "title": "Ejb Modeling Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Ejb Modeling Tools]] List",
+      "id": "61f856426a2edaeaf9bff1cc8e7cac49"
+    },
+    {
+      "type": "html",
+      "text": "[[Arc Styler]] Architectural IDE for server-independent development of EJB component based systems. ",
+      "id": "5b4fa0a590714b5b53d31f72edd0fc8b"
+    },
+    {
+      "type": "html",
+      "text": "[[Together Jtool]]",
+      "id": "16fa2f8bce262499fc81c2315fb09200"
+    },
+    {
+      "type": "html",
+      "text": "[[Structure Builder]]",
+      "id": "24716a66ec58c8203e8fbb4037165a03"
+    },
+    {
+      "type": "html",
+      "text": "[[Rational Rose]] together with the [[Visual Age]] for Java XMI Toolkit can generate Entity EJB's for [[Visual Age]] from Rational PTL files.",
+      "id": "7506d555927be5d829dd15badac3d935"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "8c5fbe084b4985a6542a4d34df0383f9"
+    },
+    {
+      "type": "html",
+      "text": "See [[Ejb Links]]",
+      "id": "79c6a33688e835fb1a3086239eccbc6c"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?EjbModelingTools c2.com]",
+      "id": "a5f69d1e84c6b0c1c6b87a313c6ddadf"
+    }
+  ],
+  "journal": [
+    {
+      "date": 969852271000,
+      "id": "6be64f160cbcd11bb8ed307171f175e8",
+      "type": "create",
+      "item": {
+        "title": "Ejb Modeling Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Ejb Modeling Tools]] List",
+            "id": "61f856426a2edaeaf9bff1cc8e7cac49"
+          },
+          {
+            "type": "html",
+            "text": "[[Arc Styler]] Architectural IDE for server-independent development of EJB component based systems. ",
+            "id": "5b4fa0a590714b5b53d31f72edd0fc8b"
+          },
+          {
+            "type": "html",
+            "text": "[[Together Jtool]]",
+            "id": "16fa2f8bce262499fc81c2315fb09200"
+          },
+          {
+            "type": "html",
+            "text": "[[Structure Builder]]",
+            "id": "24716a66ec58c8203e8fbb4037165a03"
+          },
+          {
+            "type": "html",
+            "text": "[[Rational Rose]] together with the [[Visual Age]] for Java XMI Toolkit can generate Entity EJB's for [[Visual Age]] from Rational PTL files.",
+            "id": "7506d555927be5d829dd15badac3d935"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "8c5fbe084b4985a6542a4d34df0383f9"
+          },
+          {
+            "type": "html",
+            "text": "See [[Ejb Links]]",
+            "id": "79c6a33688e835fb1a3086239eccbc6c"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?EjbModelingTools c2.com]",
+            "id": "a5f69d1e84c6b0c1c6b87a313c6ddadf"
+          }
+        ]
+      }
+    }
+  ]
+}

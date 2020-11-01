@@ -1,0 +1,97 @@
+{
+  "title": "Functional Tools For Object Oriented Tasks",
+  "story": [
+    {
+      "type": "html",
+      "text": "From [[Observer Pattern In Cee Plus Plus]]:",
+      "id": "7a41b56b1f2e8bac84391557cddfea36"
+    },
+    {
+      "type": "html",
+      "text": "\nIn this paper Yannis Smaragdakis and Brian Mc<b></b>Namara propose a different way of implementing the [[Observer Pattern]] using [[Functoids In Cpp]]. In this model the observers send the subject a functoid which wraps the member function of the observer to be called. This means that the subject needs only to collect the calls it needs to make when told to notify a change.",
+      "id": "6d3cf387462f558fdcc6cd7358a19d2a"
+    },
+    {
+      "type": "html",
+      "text": "\nThis can be applied to implement a [[Lazy Instantiation Pattern]] - see [[Lazy Ptr Proxy]].",
+      "id": "1e3da11440418ed808d324eca606a8eb"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://www-static.cc.gatech.edu/~yannis/fc++/funoo.pdf www-static.cc.gatech.edu]",
+      "id": "7c9210b70151fb85e3bef954cd051d00"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also [[Functional Pattern System For Object Oriented Design]], [[Deprecating The Observer Pattern]]",
+      "id": "c82b1cc5b2a6a915ec7e8f2274d3a25d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9949ba8f21beb62f36562294f2c3a8ba"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Paper]] [[Category Functional Programming]] [[Category Cpp]] [[Category Object Functional Patterns]] [[Category Multiparadigm]]",
+      "id": "268764298bb46b9294d7f8d58fb909e5"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?FunctionalToolsForObjectOrientedTasks c2.com]",
+      "id": "94403110a7bc7b84c2131092f15c4508"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1287613840000,
+      "id": "9676a2eaf73e2ce1b170ea7475164432",
+      "type": "create",
+      "item": {
+        "title": "Functional Tools For Object Oriented Tasks",
+        "story": [
+          {
+            "type": "html",
+            "text": "From [[Observer Pattern In Cee Plus Plus]]:",
+            "id": "7a41b56b1f2e8bac84391557cddfea36"
+          },
+          {
+            "type": "html",
+            "text": "\nIn this paper Yannis Smaragdakis and Brian Mc<b></b>Namara propose a different way of implementing the [[Observer Pattern]] using [[Functoids In Cpp]]. In this model the observers send the subject a functoid which wraps the member function of the observer to be called. This means that the subject needs only to collect the calls it needs to make when told to notify a change.",
+            "id": "6d3cf387462f558fdcc6cd7358a19d2a"
+          },
+          {
+            "type": "html",
+            "text": "\nThis can be applied to implement a [[Lazy Instantiation Pattern]] - see [[Lazy Ptr Proxy]].",
+            "id": "1e3da11440418ed808d324eca606a8eb"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://www-static.cc.gatech.edu/~yannis/fc++/funoo.pdf www-static.cc.gatech.edu]",
+            "id": "7c9210b70151fb85e3bef954cd051d00"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also [[Functional Pattern System For Object Oriented Design]], [[Deprecating The Observer Pattern]]",
+            "id": "c82b1cc5b2a6a915ec7e8f2274d3a25d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9949ba8f21beb62f36562294f2c3a8ba"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Paper]] [[Category Functional Programming]] [[Category Cpp]] [[Category Object Functional Patterns]] [[Category Multiparadigm]]",
+            "id": "268764298bb46b9294d7f8d58fb909e5"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?FunctionalToolsForObjectOrientedTasks c2.com]",
+            "id": "94403110a7bc7b84c2131092f15c4508"
+          }
+        ]
+      }
+    }
+  ]
+}
