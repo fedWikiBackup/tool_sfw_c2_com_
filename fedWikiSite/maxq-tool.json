@@ -1,0 +1,87 @@
+{
+  "title": "Maxq Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "MaxQ is a free Web [[Functional Test]]ing tool. It includes an HTTP proxy that records your test script, and a command line utility that can be used to playback tests. The proxy recorder automatically stores variables posted to forms, so you don't have to write that stuff by hand.  It is written in Java, and uses Jython and JUnit.  The generated test scripts are Python.",
+      "id": "ee130076561a6c1a5975fb8148c8a16b"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://maxq.tigris.org/ maxq.tigris.org]",
+      "id": "cf5e7f6f98cce3fe3b62b593407a2473"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "276059764e72c517c1e1852088223df4"
+    },
+    {
+      "type": "html",
+      "text": "See [[Web Testing]]",
+      "id": "3f0299d0f9ca196f611a319afd06f949"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "276059764e72c517c1e1852088223df4"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "ad7f3479d0bb4200e4fa99e98cbc96e7"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MaxqTool c2.com]",
+      "id": "ecebb21f632936cbe17071b48dab1258"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1051557099000,
+      "id": "c27ed31001c382e4eb573c81f3b2cfae",
+      "type": "create",
+      "item": {
+        "title": "Maxq Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "MaxQ is a free Web [[Functional Test]]ing tool. It includes an HTTP proxy that records your test script, and a command line utility that can be used to playback tests. The proxy recorder automatically stores variables posted to forms, so you don't have to write that stuff by hand.  It is written in Java, and uses Jython and JUnit.  The generated test scripts are Python.",
+            "id": "ee130076561a6c1a5975fb8148c8a16b"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://maxq.tigris.org/ maxq.tigris.org]",
+            "id": "cf5e7f6f98cce3fe3b62b593407a2473"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "276059764e72c517c1e1852088223df4"
+          },
+          {
+            "type": "html",
+            "text": "See [[Web Testing]]",
+            "id": "3f0299d0f9ca196f611a319afd06f949"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "276059764e72c517c1e1852088223df4"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "ad7f3479d0bb4200e4fa99e98cbc96e7"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MaxqTool c2.com]",
+            "id": "ecebb21f632936cbe17071b48dab1258"
+          }
+        ]
+      }
+    }
+  ]
+}
