@@ -1,0 +1,57 @@
+{
+  "title": "Category Software Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Pages that have to do with Tools which aid in the production of Software, may be added to this Categorization Tag.",
+      "id": "f2b1592b81a57c79015eb70f3df3e26c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "a342b6a0abb838521a4b94e64dbf1301"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Category]]",
+      "id": "601fd1d5b6bace00d5e9a6b07813cf87"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?CategorySoftwareTools c2.com]",
+      "id": "9c0987c6df1e9169b4cdacd4bf6701c7"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1416674500000,
+      "id": "ed5ca0eefa66fa70eadd07111f93e5cd",
+      "type": "create",
+      "item": {
+        "title": "Category Software Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Pages that have to do with Tools which aid in the production of Software, may be added to this Categorization Tag.",
+            "id": "f2b1592b81a57c79015eb70f3df3e26c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "a342b6a0abb838521a4b94e64dbf1301"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Category]]",
+            "id": "601fd1d5b6bace00d5e9a6b07813cf87"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?CategorySoftwareTools c2.com]",
+            "id": "9c0987c6df1e9169b4cdacd4bf6701c7"
+          }
+        ]
+      }
+    }
+  ]
+}
