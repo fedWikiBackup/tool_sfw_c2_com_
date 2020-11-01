@@ -1,0 +1,47 @@
+{
+  "title": "Toolmaker Koan",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Toolmaker Koan]] is the title of a novel (by John [[Mc Loughlin]],# ISBN-10: 067169779X. # ISBN-13: 978-0671697792) , and its central thesis.",
+      "id": "3b5120e906dbae4348e7c2b8f64b1b3c"
+    },
+    {
+      "type": "html",
+      "text": "\nThe idea is that the evolution of intelligence inevitably results in a global war that destroys the intelligent species, due to the factionalism that does not go away as the species increases it's destructive capacity.  The koan is that the intelligence that allows a species to reach for the stars is the same thing that brings them down.",
+      "id": "d949e21894df8fe58b88a5a4878dc8d6"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolmakerKoan c2.com]",
+      "id": "298a88c9e6bbef9f5c98f76449272087"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1234920552000,
+      "id": "b341f54427038e4436f8a5f16b233eb7",
+      "type": "create",
+      "item": {
+        "title": "Toolmaker Koan",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Toolmaker Koan]] is the title of a novel (by John [[Mc Loughlin]],# ISBN-10: 067169779X. # ISBN-13: 978-0671697792) , and its central thesis.",
+            "id": "3b5120e906dbae4348e7c2b8f64b1b3c"
+          },
+          {
+            "type": "html",
+            "text": "\nThe idea is that the evolution of intelligence inevitably results in a global war that destroys the intelligent species, due to the factionalism that does not go away as the species increases it's destructive capacity.  The koan is that the intelligence that allows a species to reach for the stars is the same thing that brings them down.",
+            "id": "d949e21894df8fe58b88a5a4878dc8d6"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolmakerKoan c2.com]",
+            "id": "298a88c9e6bbef9f5c98f76449272087"
+          }
+        ]
+      }
+    }
+  ]
+}
