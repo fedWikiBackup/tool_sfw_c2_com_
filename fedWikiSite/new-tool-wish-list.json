@@ -1,0 +1,377 @@
+{
+  "title": "New Tool Wish List",
+  "story": [
+    {
+      "type": "html",
+      "text": "Tools or languages you'd like to have or see researched, developed, and/or procrastinated on building yourself. Please try to be polite about others' lists. Feel free to add your own.",
+      "id": "bbc06558d9c3cd9a8df1df015b8d5255"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "006ec189fa52a596aa79ed626ad5e719"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Top Mind]]'s wish-list (May 2014) :",
+      "id": "20271ffc1486146df2e0c074c0651e96"
+    },
+    {
+      "type": "html",
+      "text": " [[Dynamic Relational]] (a possible form of [[Multi Paradigm Database]])",
+      "id": "60f102f41a43da23a3fe0887f03b5088"
+    },
+    {
+      "type": "html",
+      "text": " Masp - [[Masp Brainstorming]], perhaps merged with above.",
+      "id": "d91b9430e63ea2cd65fad8552caac073"
+    },
+    {
+      "type": "html",
+      "text": " More expressive relational query languages, such as [[Sme Ql]].",
+      "id": "a23ee9a7a568100311a1d8bf5e7d86bd"
+    },
+    {
+      "type": "html",
+      "text": " If we are stuck with SQL, then perhaps we should focus on languages or tools that [[Embrace Sql]].",
+      "id": "dfffa1afe48575a007acecb0681278f0"
+    },
+    {
+      "type": "html",
+      "text": " More \"WYSIWYG typing\" in dynamic languages. Dynamic \"type tags\" suck in my opinion. ([[Tag Free Typing Road Map]])",
+      "id": "b7a94fd8379712d5fc5eec804edd0894"
+    },
+    {
+      "type": "html",
+      "text": " Getting away from file trees to manage larger coding projects -- [[Separation And Grouping Are Archaic Concepts]]",
+      "id": "fc594ea77588a04a29fff296489f4f3b"
+    },
+    {
+      "type": "html",
+      "text": " An open-source MIDI tool that supports rendering of the GM2 standard to WAV, MP3, and/or OGG files, and easy-to-plug-in additional instrument and effects modules. Doesn't have to be real-time rendering, although a real-time \"draft\" mode would be nice.",
+      "id": "fbe446239baf7410dc4dcc0b9ae5fa7c"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Dave Voorhis]]'s wish-list (May 2014):",
+      "id": "c642d18b2e46932a3c94df01e9c33f3b"
+    },
+    {
+      "type": "html",
+      "text": " An image repository that supports explicit keyword tagging and image-recognition based searching.  I want to search for (say) \"cats\" and have it return all the images explicitly tagged with the \"cat\" keyword, along with cat pictures without the \"cat\" keyword.  Google+ does that a bit, but not very well.",
+      "id": "8d8644e23cedbc1c2616089e908838ca"
+    },
+    {
+      "type": "html",
+      "text": " Tools to facilitate creation of extemporaneous music, for live performance and composition, in-person or over the Internet.  I want \"smart instruments\" that are constrained by -- but not restricted by -- rules of harmony, key signatures, rhythm, what other smart instruments within earshot are currently playing, etc., so I can focus less on the mechanics of \"hitting the right notes right\" and more on the creative aspects of musical composition, improvisation, and performance.",
+      "id": "7c8032511fa70288715eb9e37e2b1e0e"
+    },
+    {
+      "type": "html",
+      "text": " Less [[Dynamically Typed]] \"scripting\" languages.",
+      "id": "05e3ab84e32408518af8b1e3884b6ea4"
+    },
+    {
+      "type": "html",
+      "text": " More Haskell.",
+      "id": "4fe7e0f600198199472b794001742a2b"
+    },
+    {
+      "type": "html",
+      "text": " More flexible, stricter [[Type Systems]].",
+      "id": "bdf0f869254f5a6da73289819c120ae9"
+    },
+    {
+      "type": "html",
+      "text": " The bloody Twitter and Facebook fads to end.",
+      "id": "eeaa503642ebb93b9a75d9da28a00678"
+    },
+    {
+      "type": "html",
+      "text": "\nYour Handle Here:",
+      "id": "f01efb9f94d976ce8de23e004ccf14f1"
+    },
+    {
+      "type": "html",
+      "text": " Example 1",
+      "id": "4bd83e40ce505112a3310ffa4e0e5d9c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "006ec189fa52a596aa79ed626ad5e719"
+    },
+    {
+      "type": "html",
+      "text": "<b>Comments </b>\nRe: \"I want \"smart instruments\" that are constrained by -- but not restricted by -- rules of harmony, key signatures, rhythm,...\" -- I suspect that's highly subjective. I studied chord progressions found on the web to try to tease out \"common\" rules/patterns, but realized that my own preferences are far from universal. Perhaps one can define some preset styles, such as Hendrix-like, Mozart-like, Gaga-like, etc. But without a reference point, it will be hard to please a general or random audience. -t",
+      "id": "e8922d46d7f6018250fab89c7c10d6f7"
+    },
+    {
+      "type": "html",
+      "text": " <i>I don't want to restrict melody. At the same time, I don't want to accidentally hit F-sharp when I'm playing in C minor, unless such an accidental fits the melody.  This is definitely an area that needs considerable further research, but I think there's something viable in it.  I had a student working in a related area earlier this year, with promising results.</i>",
+      "id": "0f37e9d19124953c80767b08bf4418f1"
+    },
+    {
+      "type": "html",
+      "text": " Jazz does stuff like that all time. As a general pattern, though, melodies sound more \"harmonic\" (in the traditional western sense) if the longer notes are \"on\" the current chord notes[1]. In other words, if you wander off the 3 chord notes, don't stay off them long and/or don't hit them often. If you make a tool to follow that rule, then pressing F-sharp for too long could result in the tool \"rounding up\" to G (which is part of the C chord) after a quarter note or so. But sometimes you DO want to violate such rules to add tension or variety; without that you get bland elevator-like or heaven-harp-like music: pleasant but not engaging. I made something like that  and it got \"old\" fast. Knowing when and where to \"bend the rules\" is part of the art. You gotta mix a little hell with heaven (or a lot if you like modern or jazz or thrasher music). -t",
+      "id": "74d0cbee334b1439be6021ae7299f02a"
+    },
+    {
+      "type": "html",
+      "text": " <i>Yes, I agree.  It took me 40 years to become a crappy extemporaneous jazz pianist, so I appreciate the complexities.  I don't expect to replace myself with a computer, a keyboard, and a rank beginner any time soon.  As a starting point, I envision something little more sophisticated than a modern version of an autoharp or accordion's chord buttons -- or like a Suzuki Omnichord and/or a Yamaha Tenori-on -- and evolving it from there. My goal (initially, at least) is computer-aided music, not computer-generated or computer-controlled music, but your points are well taken. Computer-aided creativity is non-trivial, and is a barely-explored area ripe for research and development.  Software-wise, we're tolerably good at creating tools to express human creativity (like graphics packages, music composition packages, soft synths, etc.)  We've barely touched on tools that augment human creativity, let alone act as a partner in the creative process.</i>",
+      "id": "c2439476c8b879bde69594605231a588"
+    },
+    {
+      "type": "html",
+      "text": " Another approach may be to make the keyboard vibrate, poke, or lightly shock your finger if you violate the \"pleasant\" rules. This way you can make a judgement call on whether you want to leave the note or give an intentional deviation for effect. But, that's hardware diddling, and I'm a software guy. Maybe a screen can flash goatse if you do the iffy things, but then you don't know which finger is the baddy. Or light up the problem key. But if you can light up the problem key, then you might as well light up just the chord keys to know what to focus on and skip the baddy calculations altogether. The ideal would be a tactile notice (above) so that you don't have to watch screens or lights.  -t",
+      "id": "ffa58bd96d5730f7bacdc11fc806e32e"
+    },
+    {
+      "type": "html",
+      "text": " <i>That's worth considering.</i>",
+      "id": "e7011a4c47885e8bc7cd646312091986"
+    },
+    {
+      "type": "html",
+      "text": "\nRe: \"The bloody Twitter and Facebook fads to end.\" -- It will only progress. See \"Time-line of social networks\" at [[Predict The Future]].",
+      "id": "e3976441e9671891dae3c3ba96cb4878"
+    },
+    {
+      "type": "html",
+      "text": "<i>Notably, teenagers and university-age students -- who tend to reflect near-future trends in technology use -- largely eschew Twitter and Facebook (or engage in Facebook in a minimally socially-acceptable fashion without much enthusiasm) in favour of alternatives.  There was a time when I had to kick every student off Facebook before starting a lab class.  Now I almost never see it, even on mobile devices.  Fellow lecturers, however, are often obsessed with it.  Students consider Twitter and Facebook to be for \"old\" people because it's what their parents and teachers use, though Facebook messenger is still quite popular amongst youth due to a perceived lack of equivalently-capable alternatives.</i>",
+      "id": "626647eb0ba05e8512f25fe91cb75547"
+    },
+    {
+      "type": "html",
+      "text": "\nSomething new and slightly different will replace them as social time-wasters. Mark my words.",
+      "id": "ee4033375aa54578ce8d846f350e378d"
+    },
+    {
+      "type": "html",
+      "text": "<i>Multiple things already have.</i>",
+      "id": "5d9119d99edad0b235fb2d2c78362b22"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "006ec189fa52a596aa79ed626ad5e719"
+    },
+    {
+      "type": "html",
+      "text": "\nFootnotes",
+      "id": "bd1176029e602920901e9156c4bd5332"
+    },
+    {
+      "type": "html",
+      "text": "[1] Actually, there's a kind of ranking of the \"harmonious\" notes per each chord (at least by \"western\" standards), the chord notes being the \"friendliest\". The lower the rank, the less time you want to \"sit\" at them (or have a lower probability of sitting on them long, per style). -t",
+      "id": "b7e16075de77942406392e2df8bbde72"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "006ec189fa52a596aa79ed626ad5e719"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Wish List]]",
+      "id": "28cef156dc4cc4c5e068a4267f2d0967"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?NewToolWishList c2.com]",
+      "id": "775cad756d0df350300ab8e3e01034f2"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1409363401000,
+      "id": "538b1c0d30f7b6fff9147bc5baa545de",
+      "type": "create",
+      "item": {
+        "title": "New Tool Wish List",
+        "story": [
+          {
+            "type": "html",
+            "text": "Tools or languages you'd like to have or see researched, developed, and/or procrastinated on building yourself. Please try to be polite about others' lists. Feel free to add your own.",
+            "id": "bbc06558d9c3cd9a8df1df015b8d5255"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "006ec189fa52a596aa79ed626ad5e719"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Top Mind]]'s wish-list (May 2014) :",
+            "id": "20271ffc1486146df2e0c074c0651e96"
+          },
+          {
+            "type": "html",
+            "text": " [[Dynamic Relational]] (a possible form of [[Multi Paradigm Database]])",
+            "id": "60f102f41a43da23a3fe0887f03b5088"
+          },
+          {
+            "type": "html",
+            "text": " Masp - [[Masp Brainstorming]], perhaps merged with above.",
+            "id": "d91b9430e63ea2cd65fad8552caac073"
+          },
+          {
+            "type": "html",
+            "text": " More expressive relational query languages, such as [[Sme Ql]].",
+            "id": "a23ee9a7a568100311a1d8bf5e7d86bd"
+          },
+          {
+            "type": "html",
+            "text": " If we are stuck with SQL, then perhaps we should focus on languages or tools that [[Embrace Sql]].",
+            "id": "dfffa1afe48575a007acecb0681278f0"
+          },
+          {
+            "type": "html",
+            "text": " More \"WYSIWYG typing\" in dynamic languages. Dynamic \"type tags\" suck in my opinion. ([[Tag Free Typing Road Map]])",
+            "id": "b7a94fd8379712d5fc5eec804edd0894"
+          },
+          {
+            "type": "html",
+            "text": " Getting away from file trees to manage larger coding projects -- [[Separation And Grouping Are Archaic Concepts]]",
+            "id": "fc594ea77588a04a29fff296489f4f3b"
+          },
+          {
+            "type": "html",
+            "text": " An open-source MIDI tool that supports rendering of the GM2 standard to WAV, MP3, and/or OGG files, and easy-to-plug-in additional instrument and effects modules. Doesn't have to be real-time rendering, although a real-time \"draft\" mode would be nice.",
+            "id": "fbe446239baf7410dc4dcc0b9ae5fa7c"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Dave Voorhis]]'s wish-list (May 2014):",
+            "id": "c642d18b2e46932a3c94df01e9c33f3b"
+          },
+          {
+            "type": "html",
+            "text": " An image repository that supports explicit keyword tagging and image-recognition based searching.  I want to search for (say) \"cats\" and have it return all the images explicitly tagged with the \"cat\" keyword, along with cat pictures without the \"cat\" keyword.  Google+ does that a bit, but not very well.",
+            "id": "8d8644e23cedbc1c2616089e908838ca"
+          },
+          {
+            "type": "html",
+            "text": " Tools to facilitate creation of extemporaneous music, for live performance and composition, in-person or over the Internet.  I want \"smart instruments\" that are constrained by -- but not restricted by -- rules of harmony, key signatures, rhythm, what other smart instruments within earshot are currently playing, etc., so I can focus less on the mechanics of \"hitting the right notes right\" and more on the creative aspects of musical composition, improvisation, and performance.",
+            "id": "7c8032511fa70288715eb9e37e2b1e0e"
+          },
+          {
+            "type": "html",
+            "text": " Less [[Dynamically Typed]] \"scripting\" languages.",
+            "id": "05e3ab84e32408518af8b1e3884b6ea4"
+          },
+          {
+            "type": "html",
+            "text": " More Haskell.",
+            "id": "4fe7e0f600198199472b794001742a2b"
+          },
+          {
+            "type": "html",
+            "text": " More flexible, stricter [[Type Systems]].",
+            "id": "bdf0f869254f5a6da73289819c120ae9"
+          },
+          {
+            "type": "html",
+            "text": " The bloody Twitter and Facebook fads to end.",
+            "id": "eeaa503642ebb93b9a75d9da28a00678"
+          },
+          {
+            "type": "html",
+            "text": "\nYour Handle Here:",
+            "id": "f01efb9f94d976ce8de23e004ccf14f1"
+          },
+          {
+            "type": "html",
+            "text": " Example 1",
+            "id": "4bd83e40ce505112a3310ffa4e0e5d9c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "006ec189fa52a596aa79ed626ad5e719"
+          },
+          {
+            "type": "html",
+            "text": "<b>Comments </b>\nRe: \"I want \"smart instruments\" that are constrained by -- but not restricted by -- rules of harmony, key signatures, rhythm,...\" -- I suspect that's highly subjective. I studied chord progressions found on the web to try to tease out \"common\" rules/patterns, but realized that my own preferences are far from universal. Perhaps one can define some preset styles, such as Hendrix-like, Mozart-like, Gaga-like, etc. But without a reference point, it will be hard to please a general or random audience. -t",
+            "id": "e8922d46d7f6018250fab89c7c10d6f7"
+          },
+          {
+            "type": "html",
+            "text": " <i>I don't want to restrict melody. At the same time, I don't want to accidentally hit F-sharp when I'm playing in C minor, unless such an accidental fits the melody.  This is definitely an area that needs considerable further research, but I think there's something viable in it.  I had a student working in a related area earlier this year, with promising results.</i>",
+            "id": "0f37e9d19124953c80767b08bf4418f1"
+          },
+          {
+            "type": "html",
+            "text": " Jazz does stuff like that all time. As a general pattern, though, melodies sound more \"harmonic\" (in the traditional western sense) if the longer notes are \"on\" the current chord notes[1]. In other words, if you wander off the 3 chord notes, don't stay off them long and/or don't hit them often. If you make a tool to follow that rule, then pressing F-sharp for too long could result in the tool \"rounding up\" to G (which is part of the C chord) after a quarter note or so. But sometimes you DO want to violate such rules to add tension or variety; without that you get bland elevator-like or heaven-harp-like music: pleasant but not engaging. I made something like that  and it got \"old\" fast. Knowing when and where to \"bend the rules\" is part of the art. You gotta mix a little hell with heaven (or a lot if you like modern or jazz or thrasher music). -t",
+            "id": "74d0cbee334b1439be6021ae7299f02a"
+          },
+          {
+            "type": "html",
+            "text": " <i>Yes, I agree.  It took me 40 years to become a crappy extemporaneous jazz pianist, so I appreciate the complexities.  I don't expect to replace myself with a computer, a keyboard, and a rank beginner any time soon.  As a starting point, I envision something little more sophisticated than a modern version of an autoharp or accordion's chord buttons -- or like a Suzuki Omnichord and/or a Yamaha Tenori-on -- and evolving it from there. My goal (initially, at least) is computer-aided music, not computer-generated or computer-controlled music, but your points are well taken. Computer-aided creativity is non-trivial, and is a barely-explored area ripe for research and development.  Software-wise, we're tolerably good at creating tools to express human creativity (like graphics packages, music composition packages, soft synths, etc.)  We've barely touched on tools that augment human creativity, let alone act as a partner in the creative process.</i>",
+            "id": "c2439476c8b879bde69594605231a588"
+          },
+          {
+            "type": "html",
+            "text": " Another approach may be to make the keyboard vibrate, poke, or lightly shock your finger if you violate the \"pleasant\" rules. This way you can make a judgement call on whether you want to leave the note or give an intentional deviation for effect. But, that's hardware diddling, and I'm a software guy. Maybe a screen can flash goatse if you do the iffy things, but then you don't know which finger is the baddy. Or light up the problem key. But if you can light up the problem key, then you might as well light up just the chord keys to know what to focus on and skip the baddy calculations altogether. The ideal would be a tactile notice (above) so that you don't have to watch screens or lights.  -t",
+            "id": "ffa58bd96d5730f7bacdc11fc806e32e"
+          },
+          {
+            "type": "html",
+            "text": " <i>That's worth considering.</i>",
+            "id": "e7011a4c47885e8bc7cd646312091986"
+          },
+          {
+            "type": "html",
+            "text": "\nRe: \"The bloody Twitter and Facebook fads to end.\" -- It will only progress. See \"Time-line of social networks\" at [[Predict The Future]].",
+            "id": "e3976441e9671891dae3c3ba96cb4878"
+          },
+          {
+            "type": "html",
+            "text": "<i>Notably, teenagers and university-age students -- who tend to reflect near-future trends in technology use -- largely eschew Twitter and Facebook (or engage in Facebook in a minimally socially-acceptable fashion without much enthusiasm) in favour of alternatives.  There was a time when I had to kick every student off Facebook before starting a lab class.  Now I almost never see it, even on mobile devices.  Fellow lecturers, however, are often obsessed with it.  Students consider Twitter and Facebook to be for \"old\" people because it's what their parents and teachers use, though Facebook messenger is still quite popular amongst youth due to a perceived lack of equivalently-capable alternatives.</i>",
+            "id": "626647eb0ba05e8512f25fe91cb75547"
+          },
+          {
+            "type": "html",
+            "text": "\nSomething new and slightly different will replace them as social time-wasters. Mark my words.",
+            "id": "ee4033375aa54578ce8d846f350e378d"
+          },
+          {
+            "type": "html",
+            "text": "<i>Multiple things already have.</i>",
+            "id": "5d9119d99edad0b235fb2d2c78362b22"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "006ec189fa52a596aa79ed626ad5e719"
+          },
+          {
+            "type": "html",
+            "text": "\nFootnotes",
+            "id": "bd1176029e602920901e9156c4bd5332"
+          },
+          {
+            "type": "html",
+            "text": "[1] Actually, there's a kind of ranking of the \"harmonious\" notes per each chord (at least by \"western\" standards), the chord notes being the \"friendliest\". The lower the rank, the less time you want to \"sit\" at them (or have a lower probability of sitting on them long, per style). -t",
+            "id": "b7e16075de77942406392e2df8bbde72"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "006ec189fa52a596aa79ed626ad5e719"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Wish List]]",
+            "id": "28cef156dc4cc4c5e068a4267f2d0967"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?NewToolWishList c2.com]",
+            "id": "775cad756d0df350300ab8e3e01034f2"
+          }
+        ]
+      }
+    }
+  ]
+}
