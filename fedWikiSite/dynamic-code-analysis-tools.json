@@ -1,0 +1,37 @@
+{
+  "title": "Dynamic Code Analysis Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "Does anybody have any experience with code analysis tools for dynamic languages, somewhat comparable to the C \"lint\" tool set? I'd be interested to here your anecdotes.",
+      "id": "3c17732e47a9a7277c1f8fa14a272ac6"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?DynamicCodeAnalysisTools c2.com]",
+      "id": "9e8a23a02de53b08b4913b49f3f9f0ac"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1219955872000,
+      "id": "1abf86b5c234d08a25f7e1c87069d517",
+      "type": "create",
+      "item": {
+        "title": "Dynamic Code Analysis Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "Does anybody have any experience with code analysis tools for dynamic languages, somewhat comparable to the C \"lint\" tool set? I'd be interested to here your anecdotes.",
+            "id": "3c17732e47a9a7277c1f8fa14a272ac6"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?DynamicCodeAnalysisTools c2.com]",
+            "id": "9e8a23a02de53b08b4913b49f3f9f0ac"
+          }
+        ]
+      }
+    }
+  ]
+}
