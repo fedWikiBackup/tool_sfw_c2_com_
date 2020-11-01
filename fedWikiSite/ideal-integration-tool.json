@@ -1,0 +1,127 @@
+{
+  "title": "Ideal Integration Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "The ideal integration tool:",
+      "id": "527e8c2493ae90969592ed70a310eda5"
+    },
+    {
+      "type": "html",
+      "text": " Lets me load the \"current\" version of the system. If my changes conflict, it shows which changes are mine and which are \"yours\".",
+      "id": "bd564a22886afd6f9ca2d03a04194621"
+    },
+    {
+      "type": "html",
+      "text": " Prevents me from releasing over someone else's changes",
+      "id": "619cb4077c955fd545efe73ffcc6ea4c"
+    },
+    {
+      "type": "html",
+      "text": " Is transactional. If I release a set of changes, all the changes go in or none.",
+      "id": "f5beb25789b8502343d5e81234027aea"
+    },
+    {
+      "type": "html",
+      "text": " Shows me diffs in terms of methods, classes, code (not only text diff).",
+      "id": "4c7e8d8ee33ac63cda505bc4cb15daff"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "54ea9a02b553f84b61fff0aacf45b2da"
+    },
+    {
+      "type": "html",
+      "text": "\nThe first three issues are addressed by the [[Jwam Integration Server]]. We work on the third. :-)",
+      "id": "15c9cd9668dc4063fc12a7416ea1798d"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Stefan Roock]]",
+      "id": "2efc18326431622565e7523a1f8de2fa"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "54ea9a02b553f84b61fff0aacf45b2da"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "0815d3b3f3dd13e574932980b73ab601"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?IdealIntegrationTool c2.com]",
+      "id": "5d04dd59a0fb9ead7c0e87bc19f95b0e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1143632217000,
+      "id": "84695284370aefd977ba8b187d4f423b",
+      "type": "create",
+      "item": {
+        "title": "Ideal Integration Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "The ideal integration tool:",
+            "id": "527e8c2493ae90969592ed70a310eda5"
+          },
+          {
+            "type": "html",
+            "text": " Lets me load the \"current\" version of the system. If my changes conflict, it shows which changes are mine and which are \"yours\".",
+            "id": "bd564a22886afd6f9ca2d03a04194621"
+          },
+          {
+            "type": "html",
+            "text": " Prevents me from releasing over someone else's changes",
+            "id": "619cb4077c955fd545efe73ffcc6ea4c"
+          },
+          {
+            "type": "html",
+            "text": " Is transactional. If I release a set of changes, all the changes go in or none.",
+            "id": "f5beb25789b8502343d5e81234027aea"
+          },
+          {
+            "type": "html",
+            "text": " Shows me diffs in terms of methods, classes, code (not only text diff).",
+            "id": "4c7e8d8ee33ac63cda505bc4cb15daff"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "54ea9a02b553f84b61fff0aacf45b2da"
+          },
+          {
+            "type": "html",
+            "text": "\nThe first three issues are addressed by the [[Jwam Integration Server]]. We work on the third. :-)",
+            "id": "15c9cd9668dc4063fc12a7416ea1798d"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Stefan Roock]]",
+            "id": "2efc18326431622565e7523a1f8de2fa"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "54ea9a02b553f84b61fff0aacf45b2da"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "0815d3b3f3dd13e574932980b73ab601"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?IdealIntegrationTool c2.com]",
+            "id": "5d04dd59a0fb9ead7c0e87bc19f95b0e"
+          }
+        ]
+      }
+    }
+  ]
+}
