@@ -1,0 +1,167 @@
+{
+  "title": "Tops Tool Objectivity Challenge",
+  "story": [
+    {
+      "type": "html",
+      "text": "I challenge anybody to name a study that proves a given [[Turing Complete]] programming-related tool, technique, or language is <b>objectively better</b> then another, overall (not just for a specific measurement), that does not involve [[Wet Ware]] components, such as psychology. If it does involve psychology, it must be shown that it's universal to nearly all human minds (at least anybody capable of programming). --top",
+      "id": "785439c2bf212ac97f8883a8ad8ddf52"
+    },
+    {
+      "type": "html",
+      "text": "<i>Define \"better\".</i>",
+      "id": "9b7fad0ed81e1841d75d3bf94942122b"
+    },
+    {
+      "type": "html",
+      "text": "\nI suggest we shift this partly to the reader/user in that \"we\" supply the results of various metrics, but let the reader assign weights to the metrics as they wish. Somewhere on this wiki there is a rocket analogy where one rocket customer may weigh fuel costs higher than rocket reliability. It's not our job to assign a weight to fuel costs versus reliability. The rocket (tool) customer will decide that. We just supply the metrics and the results, such as percent of rocket failures. -t",
+      "id": "6f2840522b14a0f9ca774372805cd2b3"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Rocket Analogy Problem]]",
+      "id": "d40cde46a0b604366ec483641776be68"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f9eb375c14c4fbb790ab76a895c2b1b1"
+    },
+    {
+      "type": "html",
+      "text": "<i>Well, read \"structured programming\" notes and articles from decades ago. The author presents tons of evidence for why jumping around in code with GOTO's causes programs to be objectively more difficult to reason about, whereas structured controls like WHILE loops are objectively easier to reason about. Did you even read the evidence? You realize that <b>you have to actually read papers</b> by the experts before shouting \"there is no evidence anywhere!\". This wiki contains informal rambling and you often have to read the evidence <b>elsewhere</b>. When we offer you reasoning, logic, or evidence, usually you yell [[Book Stop]] or you say that objective evidence is flawed anyway because it's all related to psychology or that [[Everything Is Relative]] so the evidence doesn't matter anyway because it can relate to people differently.</i>",
+      "id": "117aec52412d569f51111d70570112a2"
+    },
+    {
+      "type": "html",
+      "text": "\nTrue or false: it makes assumptions about the steps a human mind would typically take while reading code?",
+      "id": "b60701984b75a426068730b3461cd613"
+    },
+    {
+      "type": "html",
+      "text": "<i>I challenge anyone to find objective evidence that numbers are useful in math. Who has done a study to prove numbers are useful in math? I bet you won't find any objective evidence for numbers. Give me SCIENCE. Beat me with SCIENCE and logic. If you can't, then we should avoid using numbers entirely.</i>",
+      "id": "7478319f4ecb2b6363869fe36948e7a3"
+    },
+    {
+      "type": "html",
+      "text": "\nI asked for \"better than\", not \"useful\". Different topic.",
+      "id": "0aecf3024dcdc2c9d83d6094a5d66099"
+    },
+    {
+      "type": "html",
+      "text": "\nI've worked with a couple of \"goto\" programmers (due to language versions being used). Their productivity seemed average, including maintenance. I don't know how they reasoned about goto's in their head. But it appeared that they were just so familiar with goto's that they knew how to read and code them effectively and efficiently, at least as far as working with other goto programmers. Perhaps they developed goto patterns and goto conventions that simply became easily recognized after decades of use. Who knows. The \"Harmful\" author appeared to ignore this all. There's no evidence he studied the psychology or thought process of goto programmers, tried to document goto patterns, etc. It was a poorly-researched amateurish rant: the kind I'd make 15 years ago. -t",
+      "id": "056ec8f10b60e74dbebd32d41a5c65e9"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f9eb375c14c4fbb790ab76a895c2b1b1"
+    },
+    {
+      "type": "html",
+      "text": "See also: [[Objective Evidence Against Gotos]], [[How Can Something Be Super Great Without Producing External Evidence]]",
+      "id": "65461434301f5ee26b0b399ab2694aea"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "f9eb375c14c4fbb790ab76a895c2b1b1"
+    },
+    {
+      "type": "html",
+      "text": "[[March Twelve]]",
+      "id": "213fe6fbaafebe9385bae85de7c5ccb1"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TopsToolObjectivityChallenge c2.com]",
+      "id": "f304ef61c3327ef768dafa85ec5b43bc"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1331176206000,
+      "id": "16ae566afc1e1b7277f2eee0e42662c6",
+      "type": "create",
+      "item": {
+        "title": "Tops Tool Objectivity Challenge",
+        "story": [
+          {
+            "type": "html",
+            "text": "I challenge anybody to name a study that proves a given [[Turing Complete]] programming-related tool, technique, or language is <b>objectively better</b> then another, overall (not just for a specific measurement), that does not involve [[Wet Ware]] components, such as psychology. If it does involve psychology, it must be shown that it's universal to nearly all human minds (at least anybody capable of programming). --top",
+            "id": "785439c2bf212ac97f8883a8ad8ddf52"
+          },
+          {
+            "type": "html",
+            "text": "<i>Define \"better\".</i>",
+            "id": "9b7fad0ed81e1841d75d3bf94942122b"
+          },
+          {
+            "type": "html",
+            "text": "\nI suggest we shift this partly to the reader/user in that \"we\" supply the results of various metrics, but let the reader assign weights to the metrics as they wish. Somewhere on this wiki there is a rocket analogy where one rocket customer may weigh fuel costs higher than rocket reliability. It's not our job to assign a weight to fuel costs versus reliability. The rocket (tool) customer will decide that. We just supply the metrics and the results, such as percent of rocket failures. -t",
+            "id": "6f2840522b14a0f9ca774372805cd2b3"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Rocket Analogy Problem]]",
+            "id": "d40cde46a0b604366ec483641776be68"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f9eb375c14c4fbb790ab76a895c2b1b1"
+          },
+          {
+            "type": "html",
+            "text": "<i>Well, read \"structured programming\" notes and articles from decades ago. The author presents tons of evidence for why jumping around in code with GOTO's causes programs to be objectively more difficult to reason about, whereas structured controls like WHILE loops are objectively easier to reason about. Did you even read the evidence? You realize that <b>you have to actually read papers</b> by the experts before shouting \"there is no evidence anywhere!\". This wiki contains informal rambling and you often have to read the evidence <b>elsewhere</b>. When we offer you reasoning, logic, or evidence, usually you yell [[Book Stop]] or you say that objective evidence is flawed anyway because it's all related to psychology or that [[Everything Is Relative]] so the evidence doesn't matter anyway because it can relate to people differently.</i>",
+            "id": "117aec52412d569f51111d70570112a2"
+          },
+          {
+            "type": "html",
+            "text": "\nTrue or false: it makes assumptions about the steps a human mind would typically take while reading code?",
+            "id": "b60701984b75a426068730b3461cd613"
+          },
+          {
+            "type": "html",
+            "text": "<i>I challenge anyone to find objective evidence that numbers are useful in math. Who has done a study to prove numbers are useful in math? I bet you won't find any objective evidence for numbers. Give me SCIENCE. Beat me with SCIENCE and logic. If you can't, then we should avoid using numbers entirely.</i>",
+            "id": "7478319f4ecb2b6363869fe36948e7a3"
+          },
+          {
+            "type": "html",
+            "text": "\nI asked for \"better than\", not \"useful\". Different topic.",
+            "id": "0aecf3024dcdc2c9d83d6094a5d66099"
+          },
+          {
+            "type": "html",
+            "text": "\nI've worked with a couple of \"goto\" programmers (due to language versions being used). Their productivity seemed average, including maintenance. I don't know how they reasoned about goto's in their head. But it appeared that they were just so familiar with goto's that they knew how to read and code them effectively and efficiently, at least as far as working with other goto programmers. Perhaps they developed goto patterns and goto conventions that simply became easily recognized after decades of use. Who knows. The \"Harmful\" author appeared to ignore this all. There's no evidence he studied the psychology or thought process of goto programmers, tried to document goto patterns, etc. It was a poorly-researched amateurish rant: the kind I'd make 15 years ago. -t",
+            "id": "056ec8f10b60e74dbebd32d41a5c65e9"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f9eb375c14c4fbb790ab76a895c2b1b1"
+          },
+          {
+            "type": "html",
+            "text": "See also: [[Objective Evidence Against Gotos]], [[How Can Something Be Super Great Without Producing External Evidence]]",
+            "id": "65461434301f5ee26b0b399ab2694aea"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "f9eb375c14c4fbb790ab76a895c2b1b1"
+          },
+          {
+            "type": "html",
+            "text": "[[March Twelve]]",
+            "id": "213fe6fbaafebe9385bae85de7c5ccb1"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TopsToolObjectivityChallenge c2.com]",
+            "id": "f304ef61c3327ef768dafa85ec5b43bc"
+          }
+        ]
+      }
+    }
+  ]
+}
