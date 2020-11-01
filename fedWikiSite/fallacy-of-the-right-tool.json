@@ -1,0 +1,207 @@
+{
+  "title": "Fallacy Of The Right Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "<b>Tools go away. Materials stick.</b>",
+      "id": "482852d1d5fa60ceaead3dbe93f1a9da"
+    },
+    {
+      "type": "html",
+      "text": "\nProgramming languages are not analogous to 'tools' because we don't have much flexibility to change languages over the lifetime of a project. There are long maintenance cycles and spiral developments. We must understand the choice of language to be 'part of' the software product, not separate from it. This is doubly clear if we allow users to extend or modify the product, e.g. with plug-ins ([[Pluggable Architecture]]). Similar statements can be said of frameworks and paradigms.",
+      "id": "c895d6afb584cecf00ee2bb5c33f55a4"
+    },
+    {
+      "type": "html",
+      "text": "\nChoosing between programming languages is more 'Lego or Meccano' than 'Screwdriver or Hammer'...",
+      "id": "81262fea4dc45b621edb0059db44bce0"
+    },
+    {
+      "type": "html",
+      "text": "<i>[[Pick The Right Tool For The Job]]</i> is still fine advice, but we should be careful about where we apply it. With respect to languages, you might count a compiler or [[Integrated Development Environment]] or [[Refactoring Browser]]s among the 'tools'. ",
+      "id": "db3c0f8abc9b4fe5f3d443fe33da0f4b"
+    },
+    {
+      "type": "html",
+      "text": "\nSee: [http://schneide.wordpress.com/2009/12/21/the-fallacy-of-the-right-tool/ schneide.wordpress.com]",
+      "id": "16592b48492f78fc4bb6fc419b0da2f0"
+    },
+    {
+      "type": "html",
+      "text": "<i>It's a good principle, but must be weighed against many other principles. Good development is about balancing myriad trade-offs. Also multiple paradigms may have different problems than multiple languages, some which cover mostly the same paradigm. It's generally best to pick multiple complimentary tools and fulfill sufficiently different roles, such as a hammer and a saw, instead of two similar hammers. We also don't want to fill up our tool box with 10 hammers and 10 saws because then we don't have room/resources for others tools such as wrenches and drills. The article above seems to mostly be talking about the 10 hammer situation.</i>",
+      "id": "ca12a3a667d15ed90d979aaa836a5aea"
+    },
+    {
+      "type": "html",
+      "text": "<i>A good mix of development tools may be one database, one heavily-typed/compiled language, and one \"scriptish\" language to serve as glue and for cases where quick turn-around is the driving factor. We shouldn't have 5 different scriptish languages in the stack.</i>",
+      "id": "bcbf7ae98671ea11f39079af086b8ebc"
+    },
+    {
+      "type": "html",
+      "text": "\nThe article claims that the analogy of languages to tools is incorrect. Languages and frameworks are material. Libraries and modules are prefab units, assemble-on-site. Services and applications are the `tools`. Even a heavily-typed, compiled language like Haskell can be `scriptish` if supported by an interpreter services (e.g. Haskell has GHCi and Hugs), database or pubsub services, and other web services (like Yesod or Snap or Cloud Haskell). Granted, not all languages are equally adapted to supporting `scriptish` composition, and I would not claim Haskell as an ideal example in that role; I only mention it as an example of flexibility. There is no technical reason a single language cannot support both the hard and soft layers.",
+      "id": "3e3eae2cb7c082abdec3e81c5251527f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a3401de2a7c2c0136060cd66df23c32"
+    },
+    {
+      "type": "html",
+      "text": "About-Tools this wiki:",
+      "id": "eb016389b4a7be9bbc9cb1fe68fb8c77"
+    },
+    {
+      "type": "html",
+      "text": " [http://c2.com/cgi/wiki?search=tool c2.com]",
+      "id": "3fc1cd2748a6dfdbc48a581ee94d9947"
+    },
+    {
+      "type": "html",
+      "text": " [[You Are Using This Tool Because]]",
+      "id": "5345ce09967330ec10c5c2f3b723852c"
+    },
+    {
+      "type": "html",
+      "text": " [[Common Programmer Tools]]",
+      "id": "7e01421cc1338c3aa726de0cfc1dc547"
+    },
+    {
+      "type": "html",
+      "text": " [[Favorite Tools And Productivity]]",
+      "id": "93e450bbc32e8adb385e40010284a099"
+    },
+    {
+      "type": "html",
+      "text": " [[Wanted Pages]]",
+      "id": "d7daa98377dab74ea34d71f7c231728b"
+    },
+    {
+      "type": "html",
+      "text": " [[Suggested Tool]]",
+      "id": "50176675c627add38e9f479e0c2c6ff8"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "9a3401de2a7c2c0136060cd66df23c32"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Software Tool]]",
+      "id": "9f01107ffd4a2420fa9c1bb7f4329c72"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?FallacyOfTheRightTool c2.com]",
+      "id": "7dff3730d5ddfad1f5afe530e4a68751"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1320944896000,
+      "id": "56d2c3489f0b0bda3641e8b8a9e95d24",
+      "type": "create",
+      "item": {
+        "title": "Fallacy Of The Right Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "<b>Tools go away. Materials stick.</b>",
+            "id": "482852d1d5fa60ceaead3dbe93f1a9da"
+          },
+          {
+            "type": "html",
+            "text": "\nProgramming languages are not analogous to 'tools' because we don't have much flexibility to change languages over the lifetime of a project. There are long maintenance cycles and spiral developments. We must understand the choice of language to be 'part of' the software product, not separate from it. This is doubly clear if we allow users to extend or modify the product, e.g. with plug-ins ([[Pluggable Architecture]]). Similar statements can be said of frameworks and paradigms.",
+            "id": "c895d6afb584cecf00ee2bb5c33f55a4"
+          },
+          {
+            "type": "html",
+            "text": "\nChoosing between programming languages is more 'Lego or Meccano' than 'Screwdriver or Hammer'...",
+            "id": "81262fea4dc45b621edb0059db44bce0"
+          },
+          {
+            "type": "html",
+            "text": "<i>[[Pick The Right Tool For The Job]]</i> is still fine advice, but we should be careful about where we apply it. With respect to languages, you might count a compiler or [[Integrated Development Environment]] or [[Refactoring Browser]]s among the 'tools'. ",
+            "id": "db3c0f8abc9b4fe5f3d443fe33da0f4b"
+          },
+          {
+            "type": "html",
+            "text": "\nSee: [http://schneide.wordpress.com/2009/12/21/the-fallacy-of-the-right-tool/ schneide.wordpress.com]",
+            "id": "16592b48492f78fc4bb6fc419b0da2f0"
+          },
+          {
+            "type": "html",
+            "text": "<i>It's a good principle, but must be weighed against many other principles. Good development is about balancing myriad trade-offs. Also multiple paradigms may have different problems than multiple languages, some which cover mostly the same paradigm. It's generally best to pick multiple complimentary tools and fulfill sufficiently different roles, such as a hammer and a saw, instead of two similar hammers. We also don't want to fill up our tool box with 10 hammers and 10 saws because then we don't have room/resources for others tools such as wrenches and drills. The article above seems to mostly be talking about the 10 hammer situation.</i>",
+            "id": "ca12a3a667d15ed90d979aaa836a5aea"
+          },
+          {
+            "type": "html",
+            "text": "<i>A good mix of development tools may be one database, one heavily-typed/compiled language, and one \"scriptish\" language to serve as glue and for cases where quick turn-around is the driving factor. We shouldn't have 5 different scriptish languages in the stack.</i>",
+            "id": "bcbf7ae98671ea11f39079af086b8ebc"
+          },
+          {
+            "type": "html",
+            "text": "\nThe article claims that the analogy of languages to tools is incorrect. Languages and frameworks are material. Libraries and modules are prefab units, assemble-on-site. Services and applications are the `tools`. Even a heavily-typed, compiled language like Haskell can be `scriptish` if supported by an interpreter services (e.g. Haskell has GHCi and Hugs), database or pubsub services, and other web services (like Yesod or Snap or Cloud Haskell). Granted, not all languages are equally adapted to supporting `scriptish` composition, and I would not claim Haskell as an ideal example in that role; I only mention it as an example of flexibility. There is no technical reason a single language cannot support both the hard and soft layers.",
+            "id": "3e3eae2cb7c082abdec3e81c5251527f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a3401de2a7c2c0136060cd66df23c32"
+          },
+          {
+            "type": "html",
+            "text": "About-Tools this wiki:",
+            "id": "eb016389b4a7be9bbc9cb1fe68fb8c77"
+          },
+          {
+            "type": "html",
+            "text": " [http://c2.com/cgi/wiki?search=tool c2.com]",
+            "id": "3fc1cd2748a6dfdbc48a581ee94d9947"
+          },
+          {
+            "type": "html",
+            "text": " [[You Are Using This Tool Because]]",
+            "id": "5345ce09967330ec10c5c2f3b723852c"
+          },
+          {
+            "type": "html",
+            "text": " [[Common Programmer Tools]]",
+            "id": "7e01421cc1338c3aa726de0cfc1dc547"
+          },
+          {
+            "type": "html",
+            "text": " [[Favorite Tools And Productivity]]",
+            "id": "93e450bbc32e8adb385e40010284a099"
+          },
+          {
+            "type": "html",
+            "text": " [[Wanted Pages]]",
+            "id": "d7daa98377dab74ea34d71f7c231728b"
+          },
+          {
+            "type": "html",
+            "text": " [[Suggested Tool]]",
+            "id": "50176675c627add38e9f479e0c2c6ff8"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "9a3401de2a7c2c0136060cd66df23c32"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Software Tool]]",
+            "id": "9f01107ffd4a2420fa9c1bb7f4329c72"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?FallacyOfTheRightTool c2.com]",
+            "id": "7dff3730d5ddfad1f5afe530e4a68751"
+          }
+        ]
+      }
+    }
+  ]
+}
