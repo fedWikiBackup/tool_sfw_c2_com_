@@ -1,0 +1,307 @@
+{
+  "title": "Standard Tool Dependancy",
+  "story": [
+    {
+      "type": "html",
+      "text": "Based on [[Node Js And Hof Discussion]]",
+      "id": "68dc0c62772ea6e603e6417725f6093e"
+    },
+    {
+      "type": "html",
+      "text": " <i>Shouldn't one add one's comments to the correctly spelled page at [[Standard Tool Dependency]]?</i>",
+      "id": "d9083021d9b45ca0cf181d5e8ef709a1"
+    },
+    {
+      "type": "html",
+      "text": " Probably, but this one got all the discussion momentum and the misspelling makes it friendly and familiar, like an old sweater that's all comfortable and cozy despite (or, maybe, because of) the holes.",
+      "id": "f257697fc441687c579114d2f3f8177a"
+    },
+    {
+      "type": "html",
+      "text": "\nThere seems to be a general pattern in these discussions. I generally believe that our typical <b>supporting tools in CBA take care of a lot of issues</b> that [[Systems Software]]-oriented people think about more heavily. For example, the RDBMS takes care of a lot of parallelism, concurrency, and persistence issues. Web servers similarly. And (good) GUI systems make the most commonly-needed GUI activity either declarative or simple to code such that we don't have to write grunt code to micromanage a lot of that. ",
+      "id": "b952e33a3013944b344314e9fa8fa6f3"
+    },
+    {
+      "type": "html",
+      "text": "\nHowever, this kind of fell apart with the [[Html Stack]] such that we are forced to deal closer to the bare metal and/or antiquated standards, taking us out of our comfort zone. I'm arguing the industry should \"fix\" the fucked-up client to give us back our friendlier and safer tools that we are used to having, while you seem to be saying that one should live with or embrace the need to deal with the guts and low-level issues, and get/use more powerful and/or more \"meta\" languages to help us roll-our-own [[Systems Software]]-like services and tools. ",
+      "id": "6b38d9f00a24a3b2584988a0016728c6"
+    },
+    {
+      "type": "html",
+      "text": "\nWe CBA'ers want to glue powerful services together to deliver custom apps easier by focusing on the biz logic instead of infrastructure; but you are saying it's better to be closer to the guts of such tools and services both to gain incremental performance advantages and to better handle the occasional case that the industry messes up the tools (like the fucking [[Html Stack]]) or when new trends come along before the standardized services/tools are ready. ",
+      "id": "02e2bb6229dd82e722066e098c2ee18e"
+    },
+    {
+      "type": "html",
+      "text": "\nIt also allows some who are very adept at the guts to get fine-tuned performance and control over both resources (CPU & network)and control GUI subtleties. Whereas the standardization approach levels the playing field with \"adequate\" services, protecting the dullards by handling most of the hard or risky parts for them, but not allowing the cream of the crop to raise to the top because they are saddled with B-minus standards weighted down with safety padding to encourage consistency and prevent driving outside the lines.",
+      "id": "d222a8ea8a0a5ba2e298dc0763a6b0d1"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's almost like a conservative versus progressive viewpoint. The progressive wants the \"government\" (standardized tools) to create a safety net and provide commonly-needed services to society so that we can focus more on living rather than on not dying.",
+      "id": "d5c5880dcbb9869f8f10bb202b76db44"
+    },
+    {
+      "type": "html",
+      "text": "\nBut the conservative believes that battling in the fast-changing, rough-and-tumble, dog-eat-dog world of capitalism makes one wiser and hardier. It's not \"reinventing the wheel\", it's \"competition\".",
+      "id": "b49c38daf01e184ea77c4c2830206f1a"
+    },
+    {
+      "type": "html",
+      "text": "\nEach side views the world and human-nature differently such that there may likely never be agreement.",
+      "id": "33b5e5e328424ac98a4897057e5a0f01"
+    },
+    {
+      "type": "html",
+      "text": "--top",
+      "id": "f32eccfaa1ea2f6e616f41038ceafc4c"
+    },
+    {
+      "type": "html",
+      "text": "\nYes, you like databases, and think they can replace a lot of other stuff, we get it already.",
+      "id": "b36106ce7bec40ce13d7dc6cda01dc6c"
+    },
+    {
+      "type": "html",
+      "text": "<i>It's not just databases, it's web servers, file systems, GUI engines, and perhaps other new \"common\" services down the road, such as content indexers. -t</i>",
+      "id": "b74443bdc8b6f77f0eddff598c8bf6c2"
+    },
+    {
+      "type": "html",
+      "text": "[Management and users always want something faster, flashier, smoother, more distributed, more decentralised, more mobile, more social-network-ified, more whatever than previous applications.  This is because faster, flashier, smoother, more distributed and so on are seen to deliver competitive advantage. (Obviously, it doesn't matter whether they actually do or not.)  Inevitably, that means straightforward integration of mainstream, off-the-shelf, don't-do-anything-fancy databases, web servers, file systems, GUI engines, etc., simply isn't enough to differentiate your application from the average, let alone be considered a \"market leader\" or \"state of the art\" or \"cutting edge\" or whatever management demands.  Therefore, for many custom business application developers, systems programming and custom business application development are now indistinguishable.]",
+      "id": "c7a0bfc16495a8fe3f98df870201f75f"
+    },
+    {
+      "type": "html",
+      "text": "\nI have to mostly disagree. Maybe naive management will chase something flashy, but experience will eventually tell them that chasing the latest and greatest is not the economical way to set up in-house apps. Now maybe something that is public-facing may need to be snazzed up to keep up with fads, especially if you sell to the youth crowd, but that depends on the organization. And still they may rent or hire specialists in Snazz-Foo Whackadoodle 5000 to achieve it. My background is mostly in \"back-room\" apps that track and report on internal processes and objects, and thus I am not currently at the cutting edge of UI's. I will agree that the cutting edge may closer resemble [[Systems Software]] because you have to deal more with the guts of hardware and/or flaky new technology that has yet to mature and yet to be packaged into something standardized and more easily digestible. The cutting edge indeed tends to require more low-level control and machine-centric fiddling. I remember in the mid 90's web apps had to create their own HTTP headers and user session tracking, among other things. Now it's built in to the \"web languages\" and/or IIS/Apache. I generally prefer dealing at the biz logic level than tweaking servers to squeeze out a 15% improvement in performance or make the dancing avatar dance 15% smoother, especially if only 7 people will notice. <b>Lack of features is usually the biggest complaint for in-house apps</b>, not speed (if you plan the DB side right up front). I follow what the \"customer\" is concerned with and focus my thinking efforts there, not what I personally think is \"cool\". (I admit to adding occasional [[Mental Masturbation]] to apps, but don't pretend I am doing anything important or critical.) -t",
+      "id": "da5efc2705071e61ef73ee6113e10e2e"
+    },
+    {
+      "type": "html",
+      "text": "[IT is multifarious, no doubt about it.  There are developers who write COBOL for [[Green Screen]] monitors.  A friend of mine hand-optimised x86 assembly language used to scroll and zoom multi-terabyte image files.  Both are custom business application developers.  \"Custom business apps\" is a broad church.]",
+      "id": "f5c647dbeddca3e2ed33dde9cce0c63a"
+    },
+    {
+      "type": "html",
+      "text": "\nThe assembly thing sounds like a technology company hiring a graphics programming specialist. I don't see a reason why a typical company would ask for such unless it's part of their line-of-business (primary domain). If it's part of their line-of-business, then it's a graphics application first. I believe my working definition would cover that situation from another angle, but I'll have to find it again. I could be wrong, but it sounds like there's more to the picture than the description (no pun intended). ",
+      "id": "f77ebfc372c09963891969dba26ca405"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's difficult for a typical programmer to master low-level graphics guts and assembler, and then abandon it for a few years to do CRUD stuff in C-sharp and Java, and then go back into assembler etc. It's a long time to be away from such details. There are some who can pull that off, but I don't encounter many. Developers tend to either be \"bit heads\" or \"domain heads\" and prefer one or the other. The so-called bit-heads like the feel of being close to the hardware or OS. However, they tend not to relate to business and business people because they think technology first and domain second out of nature. You ask them a question about design and options and they rattle on about possible technical solutions too early in the game or at the inappropriate time. They just naturally gravitate toward the lower-level layers of abstractions (which is not necessarily the same as lower abstraction). They tend to work in the embedded world. -t",
+      "id": "c913530064bee9cf5ef0984f948be809"
+    },
+    {
+      "type": "html",
+      "text": "[The majority of business people do not distinguish one developer from another.  The average business manager only knows she needs a system to keep track of <i>these</i> purchase records, or needs a tool to help identify suitable helicopter landing places in <i>those</i> image files, and she needs a programmer to build it.  Certainly some programmers are generalists and some focus on particular specialisms, and some are highly technical and others are less technical, but \"custom business application\" developers are identified by only one common characteristic -- the ability to relate to business and business people.  \"Custom business applications\" are identified by only one common characteristic -- a specific business need that isn't met by a pre-existing application.]",
+      "id": "3ddeced2c8559082da435d60b05c9f14"
+    },
+    {
+      "type": "html",
+      "text": "\nIt's rare to need assembler-level graphics for run-of-the-mill business needs. I'm still skeptical of that anecdote, at least as a common or likely occurrence. My working definition implies interchangeability of CBA developers to some extent. You couldn't pull a random CBA developer from elsewhere in the org and have them work on assembler graphics. You can create your own working definition of CBA, and I'll stick with mine. Viva La Difference (pardon my french).",
+      "id": "59771e273a7bc873d956e6cd8b822ac2"
+    },
+    {
+      "type": "html",
+      "text": "[Sure, assembler-level graphics is certainly rarer than, say, custom inventory systems.  But it's probably not as uncommon as you think.  For example, I recently helped submit a bid to develop a custom business application for a warehouse that would use augmented reality on mobile devices to highlight inventory items on a shelf and then use videogame-like interaction to select them.  Gamification ([http://en.wikipedia.org/wiki/Gamification en.wikipedia.org]) is on the rise, and will continue to push technologies into custom business application development that haven't been seen there before.  Beware of narrowing your definition of CBA to exclude what it actually <i>is</i>, and only include what you know, what you do, what you are comfortable doing, or what you think is common.]",
+      "id": "9586c4879ef47e7d35a6e7caca9d907b"
+    },
+    {
+      "type": "html",
+      "text": "\nUntil those things become \"mainstream\", generally a contractor or implementer is hired/rented who specializes in such. Now granted, it may interact with an internal/local system such that internal developers may also be involved to say help hook it into the existing inventory system, but they are not going to be soldering chips into visors or fiddling with its embedded code.",
+      "id": "b8d19fe4f7d5b8bba21d7b24be1e2173"
+    },
+    {
+      "type": "html",
+      "text": "[Contractors have always been hired when a necessary skillset isn't available in-house, and I'm sure that won't change in the future.  I remember when contractors were hired to wrangle that newfangled \"SQL\" -- which was surely a passing fad -- when any <i>real</i> custom business application developer either used VAX Rdb/RMS or dBase III and (of course!) it would be that way forever.]   ",
+      "id": "9112bed033de0b717ab1ff5c60f05d38"
+    },
+    {
+      "type": "html",
+      "text": "\nOne thing that is fairly common is somebody who \"moonlights\" as a CBA developer but has another specialty that they go in and out of. For example, he/she may be a game developer or trying to get into game development, but do CBA to pay the bills in the meantime. It's comparable to other fields such as fashion where everybody and their dog wants to be a fashion designer, but because the competition for that position is stiff, one may become a fashion pattern maker, garment materials procurement manager, etc. to keep a foot in the industry.",
+      "id": "7369280c77590934b6524299566f746d"
+    },
+    {
+      "type": "html",
+      "text": "\nIn another case I've seen, a developer pulled some [[Gold Plating]] to install an AI system when AI was over-kill for the actual needs. It was pretty cool, until they left and nobody was around to maintain it.",
+      "id": "e946900e818936e8d593a7a1dc185722"
+    },
+    {
+      "type": "html",
+      "text": "[Yeah, that happens.  It's still true that \"custom business applications\" are most accurately defined as \"applications\" for \"business\" that are \"custom\".  Any other arbitrary constraints on the definition are inevitably inaccurate.]",
+      "id": "5d2391deb9ee24c02f52d1a5378ca60b"
+    },
+    {
+      "type": "html",
+      "text": "\nSee: [[Arguments For Refactoring That Makes Sense]] -- [[Donald Noyes]].[[Doing Stuff]].20130117 ",
+      "id": "456d215b54f4d07feaabddc2884dcddb"
+    },
+    {
+      "type": "html",
+      "text": "\nAnd [[Custom Business Application Definition]]. -- top",
+      "id": "11d98a0d317a4b5fff6cdb9f0747f522"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?StandardToolDependancy c2.com]",
+      "id": "ac3af742de9a1d5ce10240e02e4991e7"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1363880382000,
+      "id": "cf10c228fdeaf03404018ec3bebdd383",
+      "type": "create",
+      "item": {
+        "title": "Standard Tool Dependancy",
+        "story": [
+          {
+            "type": "html",
+            "text": "Based on [[Node Js And Hof Discussion]]",
+            "id": "68dc0c62772ea6e603e6417725f6093e"
+          },
+          {
+            "type": "html",
+            "text": " <i>Shouldn't one add one's comments to the correctly spelled page at [[Standard Tool Dependency]]?</i>",
+            "id": "d9083021d9b45ca0cf181d5e8ef709a1"
+          },
+          {
+            "type": "html",
+            "text": " Probably, but this one got all the discussion momentum and the misspelling makes it friendly and familiar, like an old sweater that's all comfortable and cozy despite (or, maybe, because of) the holes.",
+            "id": "f257697fc441687c579114d2f3f8177a"
+          },
+          {
+            "type": "html",
+            "text": "\nThere seems to be a general pattern in these discussions. I generally believe that our typical <b>supporting tools in CBA take care of a lot of issues</b> that [[Systems Software]]-oriented people think about more heavily. For example, the RDBMS takes care of a lot of parallelism, concurrency, and persistence issues. Web servers similarly. And (good) GUI systems make the most commonly-needed GUI activity either declarative or simple to code such that we don't have to write grunt code to micromanage a lot of that. ",
+            "id": "b952e33a3013944b344314e9fa8fa6f3"
+          },
+          {
+            "type": "html",
+            "text": "\nHowever, this kind of fell apart with the [[Html Stack]] such that we are forced to deal closer to the bare metal and/or antiquated standards, taking us out of our comfort zone. I'm arguing the industry should \"fix\" the fucked-up client to give us back our friendlier and safer tools that we are used to having, while you seem to be saying that one should live with or embrace the need to deal with the guts and low-level issues, and get/use more powerful and/or more \"meta\" languages to help us roll-our-own [[Systems Software]]-like services and tools. ",
+            "id": "6b38d9f00a24a3b2584988a0016728c6"
+          },
+          {
+            "type": "html",
+            "text": "\nWe CBA'ers want to glue powerful services together to deliver custom apps easier by focusing on the biz logic instead of infrastructure; but you are saying it's better to be closer to the guts of such tools and services both to gain incremental performance advantages and to better handle the occasional case that the industry messes up the tools (like the fucking [[Html Stack]]) or when new trends come along before the standardized services/tools are ready. ",
+            "id": "02e2bb6229dd82e722066e098c2ee18e"
+          },
+          {
+            "type": "html",
+            "text": "\nIt also allows some who are very adept at the guts to get fine-tuned performance and control over both resources (CPU & network)and control GUI subtleties. Whereas the standardization approach levels the playing field with \"adequate\" services, protecting the dullards by handling most of the hard or risky parts for them, but not allowing the cream of the crop to raise to the top because they are saddled with B-minus standards weighted down with safety padding to encourage consistency and prevent driving outside the lines.",
+            "id": "d222a8ea8a0a5ba2e298dc0763a6b0d1"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's almost like a conservative versus progressive viewpoint. The progressive wants the \"government\" (standardized tools) to create a safety net and provide commonly-needed services to society so that we can focus more on living rather than on not dying.",
+            "id": "d5c5880dcbb9869f8f10bb202b76db44"
+          },
+          {
+            "type": "html",
+            "text": "\nBut the conservative believes that battling in the fast-changing, rough-and-tumble, dog-eat-dog world of capitalism makes one wiser and hardier. It's not \"reinventing the wheel\", it's \"competition\".",
+            "id": "b49c38daf01e184ea77c4c2830206f1a"
+          },
+          {
+            "type": "html",
+            "text": "\nEach side views the world and human-nature differently such that there may likely never be agreement.",
+            "id": "33b5e5e328424ac98a4897057e5a0f01"
+          },
+          {
+            "type": "html",
+            "text": "--top",
+            "id": "f32eccfaa1ea2f6e616f41038ceafc4c"
+          },
+          {
+            "type": "html",
+            "text": "\nYes, you like databases, and think they can replace a lot of other stuff, we get it already.",
+            "id": "b36106ce7bec40ce13d7dc6cda01dc6c"
+          },
+          {
+            "type": "html",
+            "text": "<i>It's not just databases, it's web servers, file systems, GUI engines, and perhaps other new \"common\" services down the road, such as content indexers. -t</i>",
+            "id": "b74443bdc8b6f77f0eddff598c8bf6c2"
+          },
+          {
+            "type": "html",
+            "text": "[Management and users always want something faster, flashier, smoother, more distributed, more decentralised, more mobile, more social-network-ified, more whatever than previous applications.  This is because faster, flashier, smoother, more distributed and so on are seen to deliver competitive advantage. (Obviously, it doesn't matter whether they actually do or not.)  Inevitably, that means straightforward integration of mainstream, off-the-shelf, don't-do-anything-fancy databases, web servers, file systems, GUI engines, etc., simply isn't enough to differentiate your application from the average, let alone be considered a \"market leader\" or \"state of the art\" or \"cutting edge\" or whatever management demands.  Therefore, for many custom business application developers, systems programming and custom business application development are now indistinguishable.]",
+            "id": "c7a0bfc16495a8fe3f98df870201f75f"
+          },
+          {
+            "type": "html",
+            "text": "\nI have to mostly disagree. Maybe naive management will chase something flashy, but experience will eventually tell them that chasing the latest and greatest is not the economical way to set up in-house apps. Now maybe something that is public-facing may need to be snazzed up to keep up with fads, especially if you sell to the youth crowd, but that depends on the organization. And still they may rent or hire specialists in Snazz-Foo Whackadoodle 5000 to achieve it. My background is mostly in \"back-room\" apps that track and report on internal processes and objects, and thus I am not currently at the cutting edge of UI's. I will agree that the cutting edge may closer resemble [[Systems Software]] because you have to deal more with the guts of hardware and/or flaky new technology that has yet to mature and yet to be packaged into something standardized and more easily digestible. The cutting edge indeed tends to require more low-level control and machine-centric fiddling. I remember in the mid 90's web apps had to create their own HTTP headers and user session tracking, among other things. Now it's built in to the \"web languages\" and/or IIS/Apache. I generally prefer dealing at the biz logic level than tweaking servers to squeeze out a 15% improvement in performance or make the dancing avatar dance 15% smoother, especially if only 7 people will notice. <b>Lack of features is usually the biggest complaint for in-house apps</b>, not speed (if you plan the DB side right up front). I follow what the \"customer\" is concerned with and focus my thinking efforts there, not what I personally think is \"cool\". (I admit to adding occasional [[Mental Masturbation]] to apps, but don't pretend I am doing anything important or critical.) -t",
+            "id": "da5efc2705071e61ef73ee6113e10e2e"
+          },
+          {
+            "type": "html",
+            "text": "[IT is multifarious, no doubt about it.  There are developers who write COBOL for [[Green Screen]] monitors.  A friend of mine hand-optimised x86 assembly language used to scroll and zoom multi-terabyte image files.  Both are custom business application developers.  \"Custom business apps\" is a broad church.]",
+            "id": "f5c647dbeddca3e2ed33dde9cce0c63a"
+          },
+          {
+            "type": "html",
+            "text": "\nThe assembly thing sounds like a technology company hiring a graphics programming specialist. I don't see a reason why a typical company would ask for such unless it's part of their line-of-business (primary domain). If it's part of their line-of-business, then it's a graphics application first. I believe my working definition would cover that situation from another angle, but I'll have to find it again. I could be wrong, but it sounds like there's more to the picture than the description (no pun intended). ",
+            "id": "f77ebfc372c09963891969dba26ca405"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's difficult for a typical programmer to master low-level graphics guts and assembler, and then abandon it for a few years to do CRUD stuff in C-sharp and Java, and then go back into assembler etc. It's a long time to be away from such details. There are some who can pull that off, but I don't encounter many. Developers tend to either be \"bit heads\" or \"domain heads\" and prefer one or the other. The so-called bit-heads like the feel of being close to the hardware or OS. However, they tend not to relate to business and business people because they think technology first and domain second out of nature. You ask them a question about design and options and they rattle on about possible technical solutions too early in the game or at the inappropriate time. They just naturally gravitate toward the lower-level layers of abstractions (which is not necessarily the same as lower abstraction). They tend to work in the embedded world. -t",
+            "id": "c913530064bee9cf5ef0984f948be809"
+          },
+          {
+            "type": "html",
+            "text": "[The majority of business people do not distinguish one developer from another.  The average business manager only knows she needs a system to keep track of <i>these</i> purchase records, or needs a tool to help identify suitable helicopter landing places in <i>those</i> image files, and she needs a programmer to build it.  Certainly some programmers are generalists and some focus on particular specialisms, and some are highly technical and others are less technical, but \"custom business application\" developers are identified by only one common characteristic -- the ability to relate to business and business people.  \"Custom business applications\" are identified by only one common characteristic -- a specific business need that isn't met by a pre-existing application.]",
+            "id": "3ddeced2c8559082da435d60b05c9f14"
+          },
+          {
+            "type": "html",
+            "text": "\nIt's rare to need assembler-level graphics for run-of-the-mill business needs. I'm still skeptical of that anecdote, at least as a common or likely occurrence. My working definition implies interchangeability of CBA developers to some extent. You couldn't pull a random CBA developer from elsewhere in the org and have them work on assembler graphics. You can create your own working definition of CBA, and I'll stick with mine. Viva La Difference (pardon my french).",
+            "id": "59771e273a7bc873d956e6cd8b822ac2"
+          },
+          {
+            "type": "html",
+            "text": "[Sure, assembler-level graphics is certainly rarer than, say, custom inventory systems.  But it's probably not as uncommon as you think.  For example, I recently helped submit a bid to develop a custom business application for a warehouse that would use augmented reality on mobile devices to highlight inventory items on a shelf and then use videogame-like interaction to select them.  Gamification ([http://en.wikipedia.org/wiki/Gamification en.wikipedia.org]) is on the rise, and will continue to push technologies into custom business application development that haven't been seen there before.  Beware of narrowing your definition of CBA to exclude what it actually <i>is</i>, and only include what you know, what you do, what you are comfortable doing, or what you think is common.]",
+            "id": "9586c4879ef47e7d35a6e7caca9d907b"
+          },
+          {
+            "type": "html",
+            "text": "\nUntil those things become \"mainstream\", generally a contractor or implementer is hired/rented who specializes in such. Now granted, it may interact with an internal/local system such that internal developers may also be involved to say help hook it into the existing inventory system, but they are not going to be soldering chips into visors or fiddling with its embedded code.",
+            "id": "b8d19fe4f7d5b8bba21d7b24be1e2173"
+          },
+          {
+            "type": "html",
+            "text": "[Contractors have always been hired when a necessary skillset isn't available in-house, and I'm sure that won't change in the future.  I remember when contractors were hired to wrangle that newfangled \"SQL\" -- which was surely a passing fad -- when any <i>real</i> custom business application developer either used VAX Rdb/RMS or dBase III and (of course!) it would be that way forever.]   ",
+            "id": "9112bed033de0b717ab1ff5c60f05d38"
+          },
+          {
+            "type": "html",
+            "text": "\nOne thing that is fairly common is somebody who \"moonlights\" as a CBA developer but has another specialty that they go in and out of. For example, he/she may be a game developer or trying to get into game development, but do CBA to pay the bills in the meantime. It's comparable to other fields such as fashion where everybody and their dog wants to be a fashion designer, but because the competition for that position is stiff, one may become a fashion pattern maker, garment materials procurement manager, etc. to keep a foot in the industry.",
+            "id": "7369280c77590934b6524299566f746d"
+          },
+          {
+            "type": "html",
+            "text": "\nIn another case I've seen, a developer pulled some [[Gold Plating]] to install an AI system when AI was over-kill for the actual needs. It was pretty cool, until they left and nobody was around to maintain it.",
+            "id": "e946900e818936e8d593a7a1dc185722"
+          },
+          {
+            "type": "html",
+            "text": "[Yeah, that happens.  It's still true that \"custom business applications\" are most accurately defined as \"applications\" for \"business\" that are \"custom\".  Any other arbitrary constraints on the definition are inevitably inaccurate.]",
+            "id": "5d2391deb9ee24c02f52d1a5378ca60b"
+          },
+          {
+            "type": "html",
+            "text": "\nSee: [[Arguments For Refactoring That Makes Sense]] -- [[Donald Noyes]].[[Doing Stuff]].20130117 ",
+            "id": "456d215b54f4d07feaabddc2884dcddb"
+          },
+          {
+            "type": "html",
+            "text": "\nAnd [[Custom Business Application Definition]]. -- top",
+            "id": "11d98a0d317a4b5fff6cdb9f0747f522"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?StandardToolDependancy c2.com]",
+            "id": "ac3af742de9a1d5ce10240e02e4991e7"
+          }
+        ]
+      }
+    }
+  ]
+}
