@@ -1,0 +1,37 @@
+{
+  "title": "Favorite Object Relational Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": " O/R Broker, because it allows me to map my relational tables to true object-oriented classes, not just anemic [[Java Beans]]. And it allows me to store my SQL statements, with named parameters, in individual text files. [http://orbroker.sourceforge.net orbroker.sourceforge.net]",
+      "id": "59d1ad1271a853bad5fae6c9f0643f32"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?FavoriteObjectRelationalTools c2.com]",
+      "id": "7ad989b8d922f0858debff35b760863a"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1116351167000,
+      "id": "861b5b583c6ecd8dce8f9c51a68a77c0",
+      "type": "create",
+      "item": {
+        "title": "Favorite Object Relational Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": " O/R Broker, because it allows me to map my relational tables to true object-oriented classes, not just anemic [[Java Beans]]. And it allows me to store my SQL statements, with named parameters, in individual text files. [http://orbroker.sourceforge.net orbroker.sourceforge.net]",
+            "id": "59d1ad1271a853bad5fae6c9f0643f32"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?FavoriteObjectRelationalTools c2.com]",
+            "id": "7ad989b8d922f0858debff35b760863a"
+          }
+        ]
+      }
+    }
+  ]
+}
