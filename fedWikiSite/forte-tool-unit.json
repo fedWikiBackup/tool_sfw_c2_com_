@@ -1,0 +1,67 @@
+{
+  "title": "Forte Tool Unit",
+  "story": [
+    {
+      "type": "html",
+      "text": "Testing Framework for Forte 4GL (TOOL) based on jUnit.\nWritten by [[David Vydra]].",
+      "id": "d39ed21671467d4c5a5362c3580a8810"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://vydra.net/toolUnit vydra.net]",
+      "id": "3ee879246762e3f2db27ba404a7baf2c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "87912e302ceb9af7f551a6432731bfd7"
+    },
+    {
+      "type": "html",
+      "text": "[[Testing Framework]]",
+      "id": "7b8d32444233d685b965c9f66a38f34e"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ForteToolUnit c2.com]",
+      "id": "28aea9c44820e95fe25e77f3f8c450b7"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1075950746000,
+      "id": "11b2e0d2a615a684dc78d6b625a39d68",
+      "type": "create",
+      "item": {
+        "title": "Forte Tool Unit",
+        "story": [
+          {
+            "type": "html",
+            "text": "Testing Framework for Forte 4GL (TOOL) based on jUnit.\nWritten by [[David Vydra]].",
+            "id": "d39ed21671467d4c5a5362c3580a8810"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://vydra.net/toolUnit vydra.net]",
+            "id": "3ee879246762e3f2db27ba404a7baf2c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "87912e302ceb9af7f551a6432731bfd7"
+          },
+          {
+            "type": "html",
+            "text": "[[Testing Framework]]",
+            "id": "7b8d32444233d685b965c9f66a38f34e"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ForteToolUnit c2.com]",
+            "id": "28aea9c44820e95fe25e77f3f8c450b7"
+          }
+        ]
+      }
+    }
+  ]
+}
