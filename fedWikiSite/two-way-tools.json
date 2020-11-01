@@ -1,0 +1,107 @@
+{
+  "title": "Two Way Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "\"Borland (...) today announced that the United States Patent and Trademark Office has awarded Borland patent 6,185,728, the 94th in its portfolio, for its Two-Way-Tools� method for delegation of object events to event handlers.  This process reduces development time by maintaining synchronization between visual and code editors, guaranteeing that changes made in one editor, either visual or code, are reflected automatically in the other.\"",
+      "id": "07f158e37513d64454009777a2d4b130"
+    },
+    {
+      "type": "html",
+      "text": "\n[http://www.borland.com/about/press/2001/patent.html www.borland.com]\nMore details [http://community.borland.com/article/0,1410,27281,00.html community.borland.com]",
+      "id": "67c39a82712aaee4efb6bcafa5d6f028"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "becf50bc5d5bb45e760f351bcb0ae9e8"
+    },
+    {
+      "type": "html",
+      "text": "<i>Does this mean nobody else can write (formerly called) single-source tools!?</i>",
+      "id": "4f017c12ad20c060919e076d13f7edce"
+    },
+    {
+      "type": "html",
+      "text": "\nA tool that did that before is ADvance from IC&C.",
+      "id": "49a768393d67ee270a0e279f6842af8f"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "becf50bc5d5bb45e760f351bcb0ae9e8"
+    },
+    {
+      "type": "html",
+      "text": "<i>I read all of it, and it is a tricky patent that is probably undefendable. It is in two basic parts. Firstly it describes a particular syntax for assigning method pointers. This assignment compiles to a function pointer (execution entry point) plus an object pointer to the object which the method belongs to. This may seem odd but it is a simple way of implementing objects with class methods, and, I think, pretty much standard practice. Stuffing a full function address into the pointer, rather than an index into a virtual table, is unusual, but I would expect most compilers to optimise this out anyway.</i>",
+      "id": "88630794669f37be5620ece55d93ca03"
+    },
+    {
+      "type": "html",
+      "text": "<i>They then start going on about 2-way tools. The GUI system can express the syntax by code inspection and by generation. Thus GUI 'connections' exactly translate to these method assignments. This, again, doesn't sound particularly new. --[[Richard Henderson]].</i>",
+      "id": "1e14764cc6b33c48d2ce0948d4992333"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?TwoWayTools c2.com]",
+      "id": "3db71a380097993dc304332af097fce6"
+    }
+  ],
+  "journal": [
+    {
+      "date": 997300437000,
+      "id": "5a222ceeb3a9d56ed5bb6ad63507be66",
+      "type": "create",
+      "item": {
+        "title": "Two Way Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "\"Borland (...) today announced that the United States Patent and Trademark Office has awarded Borland patent 6,185,728, the 94th in its portfolio, for its Two-Way-Tools� method for delegation of object events to event handlers.  This process reduces development time by maintaining synchronization between visual and code editors, guaranteeing that changes made in one editor, either visual or code, are reflected automatically in the other.\"",
+            "id": "07f158e37513d64454009777a2d4b130"
+          },
+          {
+            "type": "html",
+            "text": "\n[http://www.borland.com/about/press/2001/patent.html www.borland.com]\nMore details [http://community.borland.com/article/0,1410,27281,00.html community.borland.com]",
+            "id": "67c39a82712aaee4efb6bcafa5d6f028"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "becf50bc5d5bb45e760f351bcb0ae9e8"
+          },
+          {
+            "type": "html",
+            "text": "<i>Does this mean nobody else can write (formerly called) single-source tools!?</i>",
+            "id": "4f017c12ad20c060919e076d13f7edce"
+          },
+          {
+            "type": "html",
+            "text": "\nA tool that did that before is ADvance from IC&C.",
+            "id": "49a768393d67ee270a0e279f6842af8f"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "becf50bc5d5bb45e760f351bcb0ae9e8"
+          },
+          {
+            "type": "html",
+            "text": "<i>I read all of it, and it is a tricky patent that is probably undefendable. It is in two basic parts. Firstly it describes a particular syntax for assigning method pointers. This assignment compiles to a function pointer (execution entry point) plus an object pointer to the object which the method belongs to. This may seem odd but it is a simple way of implementing objects with class methods, and, I think, pretty much standard practice. Stuffing a full function address into the pointer, rather than an index into a virtual table, is unusual, but I would expect most compilers to optimise this out anyway.</i>",
+            "id": "88630794669f37be5620ece55d93ca03"
+          },
+          {
+            "type": "html",
+            "text": "<i>They then start going on about 2-way tools. The GUI system can express the syntax by code inspection and by generation. Thus GUI 'connections' exactly translate to these method assignments. This, again, doesn't sound particularly new. --[[Richard Henderson]].</i>",
+            "id": "1e14764cc6b33c48d2ce0948d4992333"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?TwoWayTools c2.com]",
+            "id": "3db71a380097993dc304332af097fce6"
+          }
+        ]
+      }
+    }
+  ]
+}
