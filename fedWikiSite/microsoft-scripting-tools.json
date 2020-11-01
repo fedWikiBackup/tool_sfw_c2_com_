@@ -1,0 +1,157 @@
+{
+  "title": "Microsoft Scripting Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "[[Microsoft Scripting Tools]] refer to [[Scripting Language]]s for use in application development in [[Microsoft Windows]], including but not limited to [[Web Scripting]].",
+      "id": "f718d64cd38636608c4ad86b95517f61"
+    },
+    {
+      "type": "html",
+      "text": "\nAll? of the [[Microsoft Corporation]] tools come under the branding of [[Active Xscripting]], with the best well known one being [[Vb Script]]. See also [[Windows Scripting Host]]",
+      "id": "c72117720f3fad9705f815423b5ba687"
+    },
+    {
+      "type": "html",
+      "text": " <i>Has [[Microsoft Dot Net]] got an officially endorsed [[Scripting Language]]?</i>",
+      "id": "2e6e6796c5fd357faeec784ef52d1fc0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e16457f3111ffbbcc62ea128fde58786"
+    },
+    {
+      "type": "html",
+      "text": "<b>Scripting Tools from Other sources</b>",
+      "id": "a21a723ff9020e8abd4b2f42b2187e3d"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Java Script]] is the most widely used \"third party\" [[Scripting Language]].",
+      "id": "0edb3885c9f51e5e36971a765af7a899"
+    },
+    {
+      "type": "html",
+      "text": "\nDue to the market presence of MS, lots of srcipting tool providers from other environments often provide direct port of their application to [[Microsoft Windows]] (e.g. see [https://sourceforge.net/projects/pywin32/ sourceforge.net] ).",
+      "id": "74e13d6ad2e448a87c49bf94a53ea8ee"
+    },
+    {
+      "type": "html",
+      "text": "\nSome scripting tools from the Unix world can be used after a suitable emulator is installed (e.g. [[Cgy Win]]). And with Unix comes lots of [[Scripting Language]] variants.",
+      "id": "55507060790c52bf52a3cc8ff20e432b"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e16457f3111ffbbcc62ea128fde58786"
+    },
+    {
+      "type": "html",
+      "text": "<b>Resources</b>",
+      "id": "e6bc14f59ab23ed2e9972b2a36b73419"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.mvps.org/scripting/ www.mvps.org]",
+      "id": "9fef1383e9b4b31df8ab7cbdc3ede75c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "e16457f3111ffbbcc62ea128fde58786"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Microsoft]], [[Category Scripting]]",
+      "id": "2ee957e15ae0e75f7eb1c322e9034ecf"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MicrosoftScriptingTools c2.com]",
+      "id": "5f22e60e9091272af318058453342a8b"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1098162703000,
+      "id": "92d0519d879d15ea9f60114d00daf1ab",
+      "type": "create",
+      "item": {
+        "title": "Microsoft Scripting Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "[[Microsoft Scripting Tools]] refer to [[Scripting Language]]s for use in application development in [[Microsoft Windows]], including but not limited to [[Web Scripting]].",
+            "id": "f718d64cd38636608c4ad86b95517f61"
+          },
+          {
+            "type": "html",
+            "text": "\nAll? of the [[Microsoft Corporation]] tools come under the branding of [[Active Xscripting]], with the best well known one being [[Vb Script]]. See also [[Windows Scripting Host]]",
+            "id": "c72117720f3fad9705f815423b5ba687"
+          },
+          {
+            "type": "html",
+            "text": " <i>Has [[Microsoft Dot Net]] got an officially endorsed [[Scripting Language]]?</i>",
+            "id": "2e6e6796c5fd357faeec784ef52d1fc0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e16457f3111ffbbcc62ea128fde58786"
+          },
+          {
+            "type": "html",
+            "text": "<b>Scripting Tools from Other sources</b>",
+            "id": "a21a723ff9020e8abd4b2f42b2187e3d"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Java Script]] is the most widely used \"third party\" [[Scripting Language]].",
+            "id": "0edb3885c9f51e5e36971a765af7a899"
+          },
+          {
+            "type": "html",
+            "text": "\nDue to the market presence of MS, lots of srcipting tool providers from other environments often provide direct port of their application to [[Microsoft Windows]] (e.g. see [https://sourceforge.net/projects/pywin32/ sourceforge.net] ).",
+            "id": "74e13d6ad2e448a87c49bf94a53ea8ee"
+          },
+          {
+            "type": "html",
+            "text": "\nSome scripting tools from the Unix world can be used after a suitable emulator is installed (e.g. [[Cgy Win]]). And with Unix comes lots of [[Scripting Language]] variants.",
+            "id": "55507060790c52bf52a3cc8ff20e432b"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e16457f3111ffbbcc62ea128fde58786"
+          },
+          {
+            "type": "html",
+            "text": "<b>Resources</b>",
+            "id": "e6bc14f59ab23ed2e9972b2a36b73419"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.mvps.org/scripting/ www.mvps.org]",
+            "id": "9fef1383e9b4b31df8ab7cbdc3ede75c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "e16457f3111ffbbcc62ea128fde58786"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Microsoft]], [[Category Scripting]]",
+            "id": "2ee957e15ae0e75f7eb1c322e9034ecf"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MicrosoftScriptingTools c2.com]",
+            "id": "5f22e60e9091272af318058453342a8b"
+          }
+        ]
+      }
+    }
+  ]
+}
