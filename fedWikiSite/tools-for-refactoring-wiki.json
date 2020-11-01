@@ -1,0 +1,77 @@
+{
+  "title": "Tools For Refactoring Wiki",
+  "story": [
+    {
+      "type": "html",
+      "text": "Where are they?",
+      "id": "fdacffb2a614e45d3563798052fae853"
+    },
+    {
+      "type": "html",
+      "text": "\nI mean, we have 10 years of good stuff in wikis around the world; wikis themselves are getting more sophisticated, but usually only by trying to turn themselves into [[Content Management]] systems. But where are the editing and reading and refactoring tools? -- [[Phil Jones]]",
+      "id": "e2978a44414301193a62ef075b34b674"
+    },
+    {
+      "type": "html",
+      "text": "<b>A:</b> <i>Right behind your eyes and between your ears, your keyboard, and your fingers.  Yes, it is a very difficult job, and controversial too.</i>",
+      "id": "b269c9810236fb07743f4a94d3867131"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "66aa43540883ff1ad134a6474ab2ed91"
+    },
+    {
+      "type": "html",
+      "text": "[[Refactoring Wiki Isa Metaphor]], [[Refactoring Wiki Pages]]",
+      "id": "3d1f0e41fdd8824175e3d2a252f8b4c1"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ToolsForRefactoringWiki c2.com]",
+      "id": "b1bbd5303af21ce326927abdee3233b9"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1254106220000,
+      "id": "f3fe5d069775377cf5b865925c4c81b4",
+      "type": "create",
+      "item": {
+        "title": "Tools For Refactoring Wiki",
+        "story": [
+          {
+            "type": "html",
+            "text": "Where are they?",
+            "id": "fdacffb2a614e45d3563798052fae853"
+          },
+          {
+            "type": "html",
+            "text": "\nI mean, we have 10 years of good stuff in wikis around the world; wikis themselves are getting more sophisticated, but usually only by trying to turn themselves into [[Content Management]] systems. But where are the editing and reading and refactoring tools? -- [[Phil Jones]]",
+            "id": "e2978a44414301193a62ef075b34b674"
+          },
+          {
+            "type": "html",
+            "text": "<b>A:</b> <i>Right behind your eyes and between your ears, your keyboard, and your fingers.  Yes, it is a very difficult job, and controversial too.</i>",
+            "id": "b269c9810236fb07743f4a94d3867131"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "66aa43540883ff1ad134a6474ab2ed91"
+          },
+          {
+            "type": "html",
+            "text": "[[Refactoring Wiki Isa Metaphor]], [[Refactoring Wiki Pages]]",
+            "id": "3d1f0e41fdd8824175e3d2a252f8b4c1"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ToolsForRefactoringWiki c2.com]",
+            "id": "b1bbd5303af21ce326927abdee3233b9"
+          }
+        ]
+      }
+    }
+  ]
+}
