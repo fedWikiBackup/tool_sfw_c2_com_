@@ -1,0 +1,307 @@
+{
+  "title": "Make Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i>More pertinent stuff is happening at [[Make Program]].</i>",
+      "id": "87a5f4b26d064ae050b09959f3a5250e"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "76237c8879e8721fd98ded53ebd6f7c0"
+    },
+    {
+      "type": "html",
+      "text": "A [[Make Tool]] is a program which will organise the building of software from source code. There is detail about this in \n[[Gnu Make]], and how complicated it can be.",
+      "id": "b01edee2c11f9fb5a565d65014eda157"
+    },
+    {
+      "type": "html",
+      "text": "\nWhat is needed is a [[Make Make Tool]] which will generate the makefiles from a scripting language which the user can write.",
+      "id": "0f5461ad49b929862e82bc86dfa6c4f9"
+    },
+    {
+      "type": "html",
+      "text": "\nOne such tool is CMake ",
+      "id": "8ecead53fd08e6bb6945072672c449e5"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.cmake.org/HTML/Index.html www.cmake.org]",
+      "id": "14f687d70ed26585ed82ca07b8a6e215"
+    },
+    {
+      "type": "html",
+      "text": "-- [[John Fletcher]]",
+      "id": "423c4ab8418674df30d69e5c0e02f0a1"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also [[Rake Make]].",
+      "id": "c3b9c818b8855f41f1f9c136fcf5cb9c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "76237c8879e8721fd98ded53ebd6f7c0"
+    },
+    {
+      "type": "html",
+      "text": "automake/autoconf?",
+      "id": "dd3687c436671d7311ef638931bf1f32"
+    },
+    {
+      "type": "html",
+      "text": "\nOr, for real dinosaurs.... imake?",
+      "id": "563aa06c0a31e1321b67a7db6859ab3d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "76237c8879e8721fd98ded53ebd6f7c0"
+    },
+    {
+      "type": "html",
+      "text": "\nFirst off, I'll confess that I haven't had tons of experience with classic makefiles, but I have had some, and most of it has been not so great.  The biggest problem that I see is that dependencies have to be maintained by programmers, and it is not always obvious when a new dependency has been introduced.  Worse is that if you forget the dependency, the error doesn't surface in all cases and when it does it is a real nightmare.  For example a .h file in C is modified but not all .c files are recompiled due to a missing dependency and you have mismatched data structures.   Trying to figure this out while debugging is a real pain.  You usually just \"make all\" after getting really confused and the problem disappears, only to surface again the next time because its too difficult to track down the missing dependency.",
+      "id": "f7e26f1dbbe4dba446b3458e889aadf7"
+    },
+    {
+      "type": "html",
+      "text": "<i>Hand-maintaining source-file dependencies for more than [[Seven Plus Or Minus Two]] files is unlikely to work for any length of time. If you cannot reliably autogenerate this dependency information, then hand-coding it into your makefile will only give you a false sense of security and eventually lead to the type of pain described above.</i>",
+      "id": "16158ea5306c13b8d1e8eb43f10e631b"
+    },
+    {
+      "type": "html",
+      "text": "\nJava and Ant mostly eliminate this need, but most real world projects have other components that must be built and play into the dependencies of the final result. ",
+      "id": "d172f1b4709cd7ade5e77ec7739d18ae"
+    },
+    {
+      "type": "html",
+      "text": "<i>It is possible but non-trivial to write a makefile that handles dependencies for C and similar languages as reliably and transparently as Java and Ant. Such a makefile is described by [[Advanced Auto Dependency Generation]].</i>",
+      "id": "3eb59622d440b0863585c45718092c8a"
+    },
+    {
+      "type": "html",
+      "text": "\nIn my current and previous jobs, I've converted some fairly ad-hoc and error prone manual building procedures into fully automated source control to shipping deliverable builds, and I've not used dependencies at all!    When a developer needs to do an incremental build, he either *knows* what needs to be built because it's not that complex, or he builds more major chunks that are known to be a superset of what needs to be built.   It works very well.",
+      "id": "6b63a7911b52124bf6ab6c66ef922cd9"
+    },
+    {
+      "type": "html",
+      "text": "\nAn important point is that the build system <i>does</i> know all the independent steps and the <i>order</i> in which those steps must occur, so that the developer need not remember that.  He just specifies which source files he wish to build, and the steps associated with them occur in the right sequence.  ",
+      "id": "10bbfb71619a91500b07d266192010ce"
+    },
+    {
+      "type": "html",
+      "text": "\nAgain, this has worked very well, and no one ever has to worry about keeping dependencies up to date.",
+      "id": "1415b04bbc8579b3e66c63b62a03ff47"
+    },
+    {
+      "type": "html",
+      "text": "\nTools that automatically generate dependencies are fine, but they usually work in a limited domain.  When you have custom code generators involved in your build or some funky on-line help formatting tools, these will usually not work well.",
+      "id": "f988e48af904ca4ff4efc5ec4e0cb04d"
+    },
+    {
+      "type": "html",
+      "text": "<i>One way to deal with this is to develop your own dependency generators for these tools. How easy that is to do will depend on how much your tools behave like a compiler.</i>",
+      "id": "626b43b94904075a31374aa64113be2c"
+    },
+    {
+      "type": "html",
+      "text": "\nOur computers are fast enough that for small projects, always build everything when you are in doubt about what needs building. For large projects, sub-divide into sub-projects such that will be known that a sub-project is a superset of what needs to be compiled based on what you've changed.   ",
+      "id": "11617e0a5127355784f3588d3ed41f53"
+    },
+    {
+      "type": "html",
+      "text": "<i>Subdividing the project can lead to its own set of problems, described by [[Recursive Make Considered Harmful]] (the paper, less the wiki page).</i>",
+      "id": "110a521856daafc934adcaa5f705a62c"
+    },
+    {
+      "type": "html",
+      "text": "\nWith [[Continuous Integration]], you rarely have too much checked out, and so you know what needs to be compiled.   ",
+      "id": "a03879130495b483ae77b4621dbd35a1"
+    },
+    {
+      "type": "html",
+      "text": "\nThere are times, though few, where changes are made and the safest thing is to rebuild everything, because you don't know which sub-projects are sufficient.  But they don't happen often enough to warrant maintaining dependencies.",
+      "id": "1eccf365ad7c3e54c9dfe48098108157"
+    },
+    {
+      "type": "html",
+      "text": "<i>A different question is whether they happen often enough to warrant writing a makefile that maintains the dependencies for you. The answer to that depends on things like the size and complexity of the project, number of developers, and the frequency of updates from [[Version Control]].</i>",
+      "id": "bfe0866194ed16e3f27a13ff2f11ba16"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "76237c8879e8721fd98ded53ebd6f7c0"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Cpp]] [[Category Software Tool]]",
+      "id": "1c8306bf7ea6209987854dc5f6dafd7a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MakeTool c2.com]",
+      "id": "90bafb184009cb924370201f79794054"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1407654273000,
+      "id": "60cedfcb8d0f3614d9b0cf074c58d0db",
+      "type": "create",
+      "item": {
+        "title": "Make Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i>More pertinent stuff is happening at [[Make Program]].</i>",
+            "id": "87a5f4b26d064ae050b09959f3a5250e"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "76237c8879e8721fd98ded53ebd6f7c0"
+          },
+          {
+            "type": "html",
+            "text": "A [[Make Tool]] is a program which will organise the building of software from source code. There is detail about this in \n[[Gnu Make]], and how complicated it can be.",
+            "id": "b01edee2c11f9fb5a565d65014eda157"
+          },
+          {
+            "type": "html",
+            "text": "\nWhat is needed is a [[Make Make Tool]] which will generate the makefiles from a scripting language which the user can write.",
+            "id": "0f5461ad49b929862e82bc86dfa6c4f9"
+          },
+          {
+            "type": "html",
+            "text": "\nOne such tool is CMake ",
+            "id": "8ecead53fd08e6bb6945072672c449e5"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.cmake.org/HTML/Index.html www.cmake.org]",
+            "id": "14f687d70ed26585ed82ca07b8a6e215"
+          },
+          {
+            "type": "html",
+            "text": "-- [[John Fletcher]]",
+            "id": "423c4ab8418674df30d69e5c0e02f0a1"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also [[Rake Make]].",
+            "id": "c3b9c818b8855f41f1f9c136fcf5cb9c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "76237c8879e8721fd98ded53ebd6f7c0"
+          },
+          {
+            "type": "html",
+            "text": "automake/autoconf?",
+            "id": "dd3687c436671d7311ef638931bf1f32"
+          },
+          {
+            "type": "html",
+            "text": "\nOr, for real dinosaurs.... imake?",
+            "id": "563aa06c0a31e1321b67a7db6859ab3d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "76237c8879e8721fd98ded53ebd6f7c0"
+          },
+          {
+            "type": "html",
+            "text": "\nFirst off, I'll confess that I haven't had tons of experience with classic makefiles, but I have had some, and most of it has been not so great.  The biggest problem that I see is that dependencies have to be maintained by programmers, and it is not always obvious when a new dependency has been introduced.  Worse is that if you forget the dependency, the error doesn't surface in all cases and when it does it is a real nightmare.  For example a .h file in C is modified but not all .c files are recompiled due to a missing dependency and you have mismatched data structures.   Trying to figure this out while debugging is a real pain.  You usually just \"make all\" after getting really confused and the problem disappears, only to surface again the next time because its too difficult to track down the missing dependency.",
+            "id": "f7e26f1dbbe4dba446b3458e889aadf7"
+          },
+          {
+            "type": "html",
+            "text": "<i>Hand-maintaining source-file dependencies for more than [[Seven Plus Or Minus Two]] files is unlikely to work for any length of time. If you cannot reliably autogenerate this dependency information, then hand-coding it into your makefile will only give you a false sense of security and eventually lead to the type of pain described above.</i>",
+            "id": "16158ea5306c13b8d1e8eb43f10e631b"
+          },
+          {
+            "type": "html",
+            "text": "\nJava and Ant mostly eliminate this need, but most real world projects have other components that must be built and play into the dependencies of the final result. ",
+            "id": "d172f1b4709cd7ade5e77ec7739d18ae"
+          },
+          {
+            "type": "html",
+            "text": "<i>It is possible but non-trivial to write a makefile that handles dependencies for C and similar languages as reliably and transparently as Java and Ant. Such a makefile is described by [[Advanced Auto Dependency Generation]].</i>",
+            "id": "3eb59622d440b0863585c45718092c8a"
+          },
+          {
+            "type": "html",
+            "text": "\nIn my current and previous jobs, I've converted some fairly ad-hoc and error prone manual building procedures into fully automated source control to shipping deliverable builds, and I've not used dependencies at all!    When a developer needs to do an incremental build, he either *knows* what needs to be built because it's not that complex, or he builds more major chunks that are known to be a superset of what needs to be built.   It works very well.",
+            "id": "6b63a7911b52124bf6ab6c66ef922cd9"
+          },
+          {
+            "type": "html",
+            "text": "\nAn important point is that the build system <i>does</i> know all the independent steps and the <i>order</i> in which those steps must occur, so that the developer need not remember that.  He just specifies which source files he wish to build, and the steps associated with them occur in the right sequence.  ",
+            "id": "10bbfb71619a91500b07d266192010ce"
+          },
+          {
+            "type": "html",
+            "text": "\nAgain, this has worked very well, and no one ever has to worry about keeping dependencies up to date.",
+            "id": "1415b04bbc8579b3e66c63b62a03ff47"
+          },
+          {
+            "type": "html",
+            "text": "\nTools that automatically generate dependencies are fine, but they usually work in a limited domain.  When you have custom code generators involved in your build or some funky on-line help formatting tools, these will usually not work well.",
+            "id": "f988e48af904ca4ff4efc5ec4e0cb04d"
+          },
+          {
+            "type": "html",
+            "text": "<i>One way to deal with this is to develop your own dependency generators for these tools. How easy that is to do will depend on how much your tools behave like a compiler.</i>",
+            "id": "626b43b94904075a31374aa64113be2c"
+          },
+          {
+            "type": "html",
+            "text": "\nOur computers are fast enough that for small projects, always build everything when you are in doubt about what needs building. For large projects, sub-divide into sub-projects such that will be known that a sub-project is a superset of what needs to be compiled based on what you've changed.   ",
+            "id": "11617e0a5127355784f3588d3ed41f53"
+          },
+          {
+            "type": "html",
+            "text": "<i>Subdividing the project can lead to its own set of problems, described by [[Recursive Make Considered Harmful]] (the paper, less the wiki page).</i>",
+            "id": "110a521856daafc934adcaa5f705a62c"
+          },
+          {
+            "type": "html",
+            "text": "\nWith [[Continuous Integration]], you rarely have too much checked out, and so you know what needs to be compiled.   ",
+            "id": "a03879130495b483ae77b4621dbd35a1"
+          },
+          {
+            "type": "html",
+            "text": "\nThere are times, though few, where changes are made and the safest thing is to rebuild everything, because you don't know which sub-projects are sufficient.  But they don't happen often enough to warrant maintaining dependencies.",
+            "id": "1eccf365ad7c3e54c9dfe48098108157"
+          },
+          {
+            "type": "html",
+            "text": "<i>A different question is whether they happen often enough to warrant writing a makefile that maintains the dependencies for you. The answer to that depends on things like the size and complexity of the project, number of developers, and the frequency of updates from [[Version Control]].</i>",
+            "id": "bfe0866194ed16e3f27a13ff2f11ba16"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "76237c8879e8721fd98ded53ebd6f7c0"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Cpp]] [[Category Software Tool]]",
+            "id": "1c8306bf7ea6209987854dc5f6dafd7a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MakeTool c2.com]",
+            "id": "90bafb184009cb924370201f79794054"
+          }
+        ]
+      }
+    }
+  ]
+}
