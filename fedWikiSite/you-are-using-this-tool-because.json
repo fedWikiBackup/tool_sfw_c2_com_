@@ -1,0 +1,487 @@
+{
+  "title": "You Are Using This Tool Because",
+  "story": [
+    {
+      "type": "html",
+      "text": "(This discussion applies to some extent to tools other than Rose)",
+      "id": "54c97f81e583ef33a038081c5e06e941"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "953b1c64aa63e7dffe9563795b8c2b08"
+    },
+    {
+      "type": "html",
+      "text": "If you can keep a straight face while talking about <i>any</i> part of Rose you are doing better than me. And it's not a smile that's on my face. -- [[Keith Braithwaite]]",
+      "id": "f19e5fa26bd324655bb7411ffafe893e"
+    },
+    {
+      "type": "html",
+      "text": "\nOk, so this is interesting. Here you are, self-respecting software builders who take pride in your work. And [[You Are Using This Tool Because]] ....???? Don't bother trying to save face, that's not the interesting part. The interesting part is that you are using this tool <b>anyway</b>. Let's talk about that, because that is a force to be reckoned with. -- [[Alistair Cockburn]]",
+      "id": "05ff2718144d54b8dfb83b72913b447c"
+    },
+    {
+      "type": "html",
+      "text": "\nOK: the project current when this came up was a [[Sold About Six Months Ago]] job. The proposal (I had nothing to do with it) specified Rose. So now, the client wants to see Rose models. The proposal also said [[Rational Unified Process]], and specified a bunch of [[Big Design Up Front]] deliverables, so we are doing those too. When the client gets to see these deliverables, we get to invoice them. [[No Model No Money]].",
+      "id": "3cee4519df6dfd80741be7285ae5b131"
+    },
+    {
+      "type": "html",
+      "text": "\nI've been round the Lets Not Use XXX (for example, [[Lets Not Use Rose]]) loop too many times now. Rose is visible in the same way that OODBMSs are invisible. Clients, managers and (our) marketers will not allow themselves to be distracted by the facts. Bottom line: using Rose is currently less effort than finding another job. Finding another job would require me to be active, and at the time I wrote this I preferred to sit here a passive lump a play [[Aint It Awful]]. -- [[Keith Braithwaite]]",
+      "id": "101c9d105db27459e4c0c5322e7c76d0"
+    },
+    {
+      "type": "html",
+      "text": "\nThat's my reading, too. And you'll be hard pressed to find a job where that force isn't in effect. <i>Too true.</i> Except that it turned out not to have been.",
+      "id": "b946196eec9e38c525b6549a91b6bc3d"
+    },
+    {
+      "type": "html",
+      "text": "\nTime passes, and I went to another company, and had enough seniority to say \"we will not use Rose, here are the alternatives\" and get my way. And that company's clients were flexible enough to accept that. Now, about all these man-months of business analysis before we start development...",
+      "id": "f8d12981850a3b7dd0d0c7311d84202f"
+    },
+    {
+      "type": "html",
+      "text": "\nTime passes, and now I do XP.",
+      "id": "29f101750f60ffb0f8829d363f5ba34d"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "953b1c64aa63e7dffe9563795b8c2b08"
+    },
+    {
+      "type": "html",
+      "text": "<i>\"I want a [[Morgatrond Thumpwhistle]] attached to my antenna.\"</i>",
+      "id": "f528c61ea04ab13a7a7beebb805f446e"
+    },
+    {
+      "type": "html",
+      "text": "<i>\"Don't you know the [[Morgatrond Thumpwhistle]] is full of static and has high maintenance costs? Do without a thumpwhistle entirely, or at least use a [[Hafferdasher Thumpwhistle]].\"</i>",
+      "id": "304d6065c6ca431b808922e75fd472f6"
+    },
+    {
+      "type": "html",
+      "text": "<i>\"No, I read somewhere that [[Morgatrond Thumpwhistle]]s are becoming the industry standard. Why, they're made by Morgatrond, a gigadollar consortium! Make sure it's a [[Morgatrond Thumpwhistle]] that you put on my antenna.\"</i>",
+      "id": "8df7ab5ff74de088f99fcb6bb371a2b7"
+    },
+    {
+      "type": "html",
+      "text": "\nSee also: [[Self Fulfilling Prophecy]]",
+      "id": "28fd41015c8529005c10c171731c3007"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "953b1c64aa63e7dffe9563795b8c2b08"
+    },
+    {
+      "type": "html",
+      "text": "\nThe few times I've seen [[Rational Rose]] used, it was for drawing UML and\ngenerating a starting point for Java classes. The same could have been done for far less money with [[Argo Uml]]. -- [[Dave Smith]] ",
+      "id": "a42898572398cf9f28ba63e4412f2792"
+    },
+    {
+      "type": "html",
+      "text": "\nOr [[Gd Pro]], or [[Magic Draw]], or [[Together Jay]], or...",
+      "id": "2b4177f8a03fef14d6d98bc7fd5640da"
+    },
+    {
+      "type": "html",
+      "text": "<i>But the boss wants a genuine [[Morgatrond Thumpwhistle]]! Never mind its deficiencies!</i>",
+      "id": "15b7eaed2077baf3012c52826650af53"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "953b1c64aa63e7dffe9563795b8c2b08"
+    },
+    {
+      "type": "html",
+      "text": "\nHere's an interesting little exchange that Keith and his then colleagues had with a client once:",
+      "id": "31456eb8296099ef76f692b16ff6320b"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> You don't have any corporate standards for development tools you'd want us to follow, do you?",
+      "id": "10387b9e37266c02efbd526a4c2b09ed"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> No, no, you are the experts. We do want you to use Side<b></b>Shackle and Transparent<b></b>Box, because we already use those extensively, but otherwise work out what you think will be best and let us know.",
+      "id": "1bf1990700752bc407a83f46dbb50e19"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> OK",
+      "id": "93c3915712a630b860e8a089ba25aa8f"
+    },
+    {
+      "type": "html",
+      "text": "...eight weeks of installation, familiarization, evaluations, prototyping, writing developers' guides etc...",
+      "id": "56cf7824ea807abf9209948efffa5641"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> Right, these are the tools we think will be best suited to your problem: Audio<b></b>Teashop and Spider<b></b>Ball",
+      "id": "f9ba7ae721ac34bd01f59e2d2c0a9669"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> Actually, we think we might like to have some corporate standards after all. We like Tactile<b></b>Geriatric and Cobweb<b></b>Algebra. But maybe not. We'll let you know in a month or so.",
+      "id": "1906faa03b584609cf3284e05e95db6f"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> What!? We already know that the versions of Cobweb<b></b>Algebra we've seen don't support Side<b></b>Shackle. Plus we don't know how to make Tactile<b></b>Geriatric talk to Transparent<b></b>Box (and we all hate it). And a lot of our work will have to be redone if we change tools in a month's time.",
+      "id": "2763452fef5256e478e8ab709915c6cb"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> Well, that's what we want. Do your evaluation exercises again.",
+      "id": "4350e4c3599576730645bf0e4947fdb1"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> It'll cost you.",
+      "id": "fe29940b0b695cff4ee12bb2b7001677"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> Money is no object, these standards are really important to us",
+      "id": "e7a3927c7f55a4e4315cb4fdd9a20f08"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> It'll also take four to six weeks",
+      "id": "db8f3dcd6fccfe43a6860b271b104f5f"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> Six weeks is an unacceptable slip, we'll make a decision by the end of the week.",
+      "id": "8c5533fec34adc482e14fa46ec3cc973"
+    },
+    {
+      "type": "html",
+      "text": "...the end of the week comes and goes...",
+      "id": "109defd4b7fe7ca842eb3fd001f83235"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> So, what about it?",
+      "id": "ea334c0ea9455a9ef87cd1e64e1c4ea8"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> Um, um, give us a few more days.",
+      "id": "cac2ed144ad844e7d11d16ad8a95535a"
+    },
+    {
+      "type": "html",
+      "text": "<i>us</i> Ok. The meter is running.",
+      "id": "11319efddb3a212fcaafbf58fe2caeea"
+    },
+    {
+      "type": "html",
+      "text": "...a few days later... (all development work has stopped , and we were all writing documents, in order to avoid too much re-work. Morale was very low at this point)",
+      "id": "7a4ca20d7bb3c1d298900f75ce8cc88c"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> OK, do it your way.",
+      "id": "852200662ee3e1618959099693b9834c"
+    },
+    {
+      "type": "html",
+      "text": "\nNow, the point of this little story is that, sometimes, when it comes to tools and techniques (and, by extension, methods), we can strive as hard as can be to be [[Courageous Developers]], the client will still want to do things their way, and only money or time will change their minds. The question is: which is more trouble at the moment, staying or moving?",
+      "id": "ed0c0b92da957e2dbe343f6857e93ddb"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "953b1c64aa63e7dffe9563795b8c2b08"
+    },
+    {
+      "type": "html",
+      "text": "<i>me</i> What the hell are you paying me for if it's not to do the job like I showed up knowing how to do it?",
+      "id": "8aaa1c7f815738d782e650950c874048"
+    },
+    {
+      "type": "html",
+      "text": "<i>them</i> We are paying you to do what we want, the way we want it done. We are paying you to stroke our egos. We are paying you to demonstrate to our co-workers that we can. Your engagement manager seems happy enough with that, so what's your problem, you trouble-making asocial non-team-playing worm?",
+      "id": "1baa5283fc2de68e9ab4de8a2782d067"
+    },
+    {
+      "type": "html",
+      "text": "<i>me</i> Okay. No problem. ... But in future, remember to bring this kind of thing up during the interviews.",
+      "id": "ab1e9060953f34eb70cb162a1471a902"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "953b1c64aa63e7dffe9563795b8c2b08"
+    },
+    {
+      "type": "html",
+      "text": "See also:",
+      "id": "fb7c4ef0086ba035818d71f94a4c8c01"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Anti Productivity Tool]]",
+      "id": "1074fbe44ce736c5f9942d231cf907b0"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?YouAreUsingThisToolBecause c2.com]",
+      "id": "0a35fe1af76affd1587805ce089c09df"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1266637884000,
+      "id": "6894d7782530ff850167835f9bb8ccc6",
+      "type": "create",
+      "item": {
+        "title": "You Are Using This Tool Because",
+        "story": [
+          {
+            "type": "html",
+            "text": "(This discussion applies to some extent to tools other than Rose)",
+            "id": "54c97f81e583ef33a038081c5e06e941"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "953b1c64aa63e7dffe9563795b8c2b08"
+          },
+          {
+            "type": "html",
+            "text": "If you can keep a straight face while talking about <i>any</i> part of Rose you are doing better than me. And it's not a smile that's on my face. -- [[Keith Braithwaite]]",
+            "id": "f19e5fa26bd324655bb7411ffafe893e"
+          },
+          {
+            "type": "html",
+            "text": "\nOk, so this is interesting. Here you are, self-respecting software builders who take pride in your work. And [[You Are Using This Tool Because]] ....???? Don't bother trying to save face, that's not the interesting part. The interesting part is that you are using this tool <b>anyway</b>. Let's talk about that, because that is a force to be reckoned with. -- [[Alistair Cockburn]]",
+            "id": "05ff2718144d54b8dfb83b72913b447c"
+          },
+          {
+            "type": "html",
+            "text": "\nOK: the project current when this came up was a [[Sold About Six Months Ago]] job. The proposal (I had nothing to do with it) specified Rose. So now, the client wants to see Rose models. The proposal also said [[Rational Unified Process]], and specified a bunch of [[Big Design Up Front]] deliverables, so we are doing those too. When the client gets to see these deliverables, we get to invoice them. [[No Model No Money]].",
+            "id": "3cee4519df6dfd80741be7285ae5b131"
+          },
+          {
+            "type": "html",
+            "text": "\nI've been round the Lets Not Use XXX (for example, [[Lets Not Use Rose]]) loop too many times now. Rose is visible in the same way that OODBMSs are invisible. Clients, managers and (our) marketers will not allow themselves to be distracted by the facts. Bottom line: using Rose is currently less effort than finding another job. Finding another job would require me to be active, and at the time I wrote this I preferred to sit here a passive lump a play [[Aint It Awful]]. -- [[Keith Braithwaite]]",
+            "id": "101c9d105db27459e4c0c5322e7c76d0"
+          },
+          {
+            "type": "html",
+            "text": "\nThat's my reading, too. And you'll be hard pressed to find a job where that force isn't in effect. <i>Too true.</i> Except that it turned out not to have been.",
+            "id": "b946196eec9e38c525b6549a91b6bc3d"
+          },
+          {
+            "type": "html",
+            "text": "\nTime passes, and I went to another company, and had enough seniority to say \"we will not use Rose, here are the alternatives\" and get my way. And that company's clients were flexible enough to accept that. Now, about all these man-months of business analysis before we start development...",
+            "id": "f8d12981850a3b7dd0d0c7311d84202f"
+          },
+          {
+            "type": "html",
+            "text": "\nTime passes, and now I do XP.",
+            "id": "29f101750f60ffb0f8829d363f5ba34d"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "953b1c64aa63e7dffe9563795b8c2b08"
+          },
+          {
+            "type": "html",
+            "text": "<i>\"I want a [[Morgatrond Thumpwhistle]] attached to my antenna.\"</i>",
+            "id": "f528c61ea04ab13a7a7beebb805f446e"
+          },
+          {
+            "type": "html",
+            "text": "<i>\"Don't you know the [[Morgatrond Thumpwhistle]] is full of static and has high maintenance costs? Do without a thumpwhistle entirely, or at least use a [[Hafferdasher Thumpwhistle]].\"</i>",
+            "id": "304d6065c6ca431b808922e75fd472f6"
+          },
+          {
+            "type": "html",
+            "text": "<i>\"No, I read somewhere that [[Morgatrond Thumpwhistle]]s are becoming the industry standard. Why, they're made by Morgatrond, a gigadollar consortium! Make sure it's a [[Morgatrond Thumpwhistle]] that you put on my antenna.\"</i>",
+            "id": "8df7ab5ff74de088f99fcb6bb371a2b7"
+          },
+          {
+            "type": "html",
+            "text": "\nSee also: [[Self Fulfilling Prophecy]]",
+            "id": "28fd41015c8529005c10c171731c3007"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "953b1c64aa63e7dffe9563795b8c2b08"
+          },
+          {
+            "type": "html",
+            "text": "\nThe few times I've seen [[Rational Rose]] used, it was for drawing UML and\ngenerating a starting point for Java classes. The same could have been done for far less money with [[Argo Uml]]. -- [[Dave Smith]] ",
+            "id": "a42898572398cf9f28ba63e4412f2792"
+          },
+          {
+            "type": "html",
+            "text": "\nOr [[Gd Pro]], or [[Magic Draw]], or [[Together Jay]], or...",
+            "id": "2b4177f8a03fef14d6d98bc7fd5640da"
+          },
+          {
+            "type": "html",
+            "text": "<i>But the boss wants a genuine [[Morgatrond Thumpwhistle]]! Never mind its deficiencies!</i>",
+            "id": "15b7eaed2077baf3012c52826650af53"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "953b1c64aa63e7dffe9563795b8c2b08"
+          },
+          {
+            "type": "html",
+            "text": "\nHere's an interesting little exchange that Keith and his then colleagues had with a client once:",
+            "id": "31456eb8296099ef76f692b16ff6320b"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> You don't have any corporate standards for development tools you'd want us to follow, do you?",
+            "id": "10387b9e37266c02efbd526a4c2b09ed"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> No, no, you are the experts. We do want you to use Side<b></b>Shackle and Transparent<b></b>Box, because we already use those extensively, but otherwise work out what you think will be best and let us know.",
+            "id": "1bf1990700752bc407a83f46dbb50e19"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> OK",
+            "id": "93c3915712a630b860e8a089ba25aa8f"
+          },
+          {
+            "type": "html",
+            "text": "...eight weeks of installation, familiarization, evaluations, prototyping, writing developers' guides etc...",
+            "id": "56cf7824ea807abf9209948efffa5641"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> Right, these are the tools we think will be best suited to your problem: Audio<b></b>Teashop and Spider<b></b>Ball",
+            "id": "f9ba7ae721ac34bd01f59e2d2c0a9669"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> Actually, we think we might like to have some corporate standards after all. We like Tactile<b></b>Geriatric and Cobweb<b></b>Algebra. But maybe not. We'll let you know in a month or so.",
+            "id": "1906faa03b584609cf3284e05e95db6f"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> What!? We already know that the versions of Cobweb<b></b>Algebra we've seen don't support Side<b></b>Shackle. Plus we don't know how to make Tactile<b></b>Geriatric talk to Transparent<b></b>Box (and we all hate it). And a lot of our work will have to be redone if we change tools in a month's time.",
+            "id": "2763452fef5256e478e8ab709915c6cb"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> Well, that's what we want. Do your evaluation exercises again.",
+            "id": "4350e4c3599576730645bf0e4947fdb1"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> It'll cost you.",
+            "id": "fe29940b0b695cff4ee12bb2b7001677"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> Money is no object, these standards are really important to us",
+            "id": "e7a3927c7f55a4e4315cb4fdd9a20f08"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> It'll also take four to six weeks",
+            "id": "db8f3dcd6fccfe43a6860b271b104f5f"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> Six weeks is an unacceptable slip, we'll make a decision by the end of the week.",
+            "id": "8c5533fec34adc482e14fa46ec3cc973"
+          },
+          {
+            "type": "html",
+            "text": "...the end of the week comes and goes...",
+            "id": "109defd4b7fe7ca842eb3fd001f83235"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> So, what about it?",
+            "id": "ea334c0ea9455a9ef87cd1e64e1c4ea8"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> Um, um, give us a few more days.",
+            "id": "cac2ed144ad844e7d11d16ad8a95535a"
+          },
+          {
+            "type": "html",
+            "text": "<i>us</i> Ok. The meter is running.",
+            "id": "11319efddb3a212fcaafbf58fe2caeea"
+          },
+          {
+            "type": "html",
+            "text": "...a few days later... (all development work has stopped , and we were all writing documents, in order to avoid too much re-work. Morale was very low at this point)",
+            "id": "7a4ca20d7bb3c1d298900f75ce8cc88c"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> OK, do it your way.",
+            "id": "852200662ee3e1618959099693b9834c"
+          },
+          {
+            "type": "html",
+            "text": "\nNow, the point of this little story is that, sometimes, when it comes to tools and techniques (and, by extension, methods), we can strive as hard as can be to be [[Courageous Developers]], the client will still want to do things their way, and only money or time will change their minds. The question is: which is more trouble at the moment, staying or moving?",
+            "id": "ed0c0b92da957e2dbe343f6857e93ddb"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "953b1c64aa63e7dffe9563795b8c2b08"
+          },
+          {
+            "type": "html",
+            "text": "<i>me</i> What the hell are you paying me for if it's not to do the job like I showed up knowing how to do it?",
+            "id": "8aaa1c7f815738d782e650950c874048"
+          },
+          {
+            "type": "html",
+            "text": "<i>them</i> We are paying you to do what we want, the way we want it done. We are paying you to stroke our egos. We are paying you to demonstrate to our co-workers that we can. Your engagement manager seems happy enough with that, so what's your problem, you trouble-making asocial non-team-playing worm?",
+            "id": "1baa5283fc2de68e9ab4de8a2782d067"
+          },
+          {
+            "type": "html",
+            "text": "<i>me</i> Okay. No problem. ... But in future, remember to bring this kind of thing up during the interviews.",
+            "id": "ab1e9060953f34eb70cb162a1471a902"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "953b1c64aa63e7dffe9563795b8c2b08"
+          },
+          {
+            "type": "html",
+            "text": "See also:",
+            "id": "fb7c4ef0086ba035818d71f94a4c8c01"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Anti Productivity Tool]]",
+            "id": "1074fbe44ce736c5f9942d231cf907b0"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?YouAreUsingThisToolBecause c2.com]",
+            "id": "0a35fe1af76affd1587805ce089c09df"
+          }
+        ]
+      }
+    }
+  ]
+}
