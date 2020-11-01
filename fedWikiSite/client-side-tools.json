@@ -1,0 +1,207 @@
+{
+  "title": "Client Side Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "<i> regarding - [[Micro Soft Data Engine]] and [[Sql Server Desktop Engine]]</i>",
+      "id": "c58401bd607ed90d107332b43f834ef0"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "b758840583b4ea06e9b2abeb7580ad15"
+    },
+    {
+      "type": "html",
+      "text": "\nMSDE is a good engine & quality Client / Management tools are coming online; or write your own.",
+      "id": "c93cad1d58f78faa5c6df4fb308778d9"
+    },
+    {
+      "type": "html",
+      "text": " The distribution license is free (Good on you Bill)",
+      "id": "32397efd7bbf00c791afffafae08bcd1"
+    },
+    {
+      "type": "html",
+      "text": " For MSDE stuff check out:",
+      "id": "f808c25e5660f550dd9e80e6fc85a558"
+    },
+    {
+      "type": "html",
+      "text": " [http://msdn.microsoft.com/library/default.asp?url=/library/en-us/distsql/distsql_84xl.asp msdn.microsoft.com]",
+      "id": "e3763be834fd0a11976660f5252ce3c1"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.microsoft.com/sql/msde/default.asp www.microsoft.com]",
+      "id": "684633402277deacb773137d4b3c3f17"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.microsoft.com/downloads/results.aspx?productID=&freetext=msde&DisplayLang=en www.microsoft.com]",
+      "id": "b7dc66d5790024617f7b687319dea065"
+    },
+    {
+      "type": "html",
+      "text": " Best regards - Gary",
+      "id": "82533ab5dcd870a5f32d92b21000e844"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "b758840583b4ea06e9b2abeb7580ad15"
+    },
+    {
+      "type": "html",
+      "text": "--- <b>A short blurb</b>",
+      "id": "895b2a0eeba36c3ed67085311bcaee1a"
+    },
+    {
+      "type": "html",
+      "text": "<i>MSDE is a relational database management system developed by Microsoft</i>",
+      "id": "c21766d39cfe9915cee0f948a7d62a69"
+    },
+    {
+      "type": "html",
+      "text": " It is a scaled-down version of Microsoft SQL Server 7.0 or 2000 which is free for non-commercial use as well as certain limited commercial use",
+      "id": "4e12d3a4a5a0b7a29529cf834e5a6813"
+    },
+    {
+      "type": "html",
+      "text": " [[Time Context]]: ",
+      "id": "b0081cff2dfc82126c6b93bf89f7c534"
+    },
+    {
+      "type": "html",
+      "text": " It was introduced at Microsoft [[Tech Ed]] in May 1999, and was included as part of Microsoft Office 2000 Developer Edition. ",
+      "id": "306b09a481f4fdb8b8dbe3df527cfa08"
+    },
+    {
+      "type": "html",
+      "text": " Its successor, SQL Server Express was released in November 2005.",
+      "id": "d68c39715afaf654f4634f5512b7195a"
+    },
+    {
+      "type": "html",
+      "text": " Vendor support of MSDE ended on April 8, 2008",
+      "id": "1704c708a718b045361b8b6a07e646ab"
+    },
+    {
+      "type": "html",
+      "text": " [http://en.wikipedia.org/wiki/MSDE en.wikipedia.org]",
+      "id": "f47a008da31a04635bab9de650883cb6"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?ClientSideTools c2.com]",
+      "id": "d8dd7d84a8b0e3c434a5f95fc0df22e3"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1412370390000,
+      "id": "28dd06df8b1b5b7a47a2bb0580a4ef19",
+      "type": "create",
+      "item": {
+        "title": "Client Side Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "<i> regarding - [[Micro Soft Data Engine]] and [[Sql Server Desktop Engine]]</i>",
+            "id": "c58401bd607ed90d107332b43f834ef0"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "b758840583b4ea06e9b2abeb7580ad15"
+          },
+          {
+            "type": "html",
+            "text": "\nMSDE is a good engine & quality Client / Management tools are coming online; or write your own.",
+            "id": "c93cad1d58f78faa5c6df4fb308778d9"
+          },
+          {
+            "type": "html",
+            "text": " The distribution license is free (Good on you Bill)",
+            "id": "32397efd7bbf00c791afffafae08bcd1"
+          },
+          {
+            "type": "html",
+            "text": " For MSDE stuff check out:",
+            "id": "f808c25e5660f550dd9e80e6fc85a558"
+          },
+          {
+            "type": "html",
+            "text": " [http://msdn.microsoft.com/library/default.asp?url=/library/en-us/distsql/distsql_84xl.asp msdn.microsoft.com]",
+            "id": "e3763be834fd0a11976660f5252ce3c1"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.microsoft.com/sql/msde/default.asp www.microsoft.com]",
+            "id": "684633402277deacb773137d4b3c3f17"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.microsoft.com/downloads/results.aspx?productID=&freetext=msde&DisplayLang=en www.microsoft.com]",
+            "id": "b7dc66d5790024617f7b687319dea065"
+          },
+          {
+            "type": "html",
+            "text": " Best regards - Gary",
+            "id": "82533ab5dcd870a5f32d92b21000e844"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "b758840583b4ea06e9b2abeb7580ad15"
+          },
+          {
+            "type": "html",
+            "text": "--- <b>A short blurb</b>",
+            "id": "895b2a0eeba36c3ed67085311bcaee1a"
+          },
+          {
+            "type": "html",
+            "text": "<i>MSDE is a relational database management system developed by Microsoft</i>",
+            "id": "c21766d39cfe9915cee0f948a7d62a69"
+          },
+          {
+            "type": "html",
+            "text": " It is a scaled-down version of Microsoft SQL Server 7.0 or 2000 which is free for non-commercial use as well as certain limited commercial use",
+            "id": "4e12d3a4a5a0b7a29529cf834e5a6813"
+          },
+          {
+            "type": "html",
+            "text": " [[Time Context]]: ",
+            "id": "b0081cff2dfc82126c6b93bf89f7c534"
+          },
+          {
+            "type": "html",
+            "text": " It was introduced at Microsoft [[Tech Ed]] in May 1999, and was included as part of Microsoft Office 2000 Developer Edition. ",
+            "id": "306b09a481f4fdb8b8dbe3df527cfa08"
+          },
+          {
+            "type": "html",
+            "text": " Its successor, SQL Server Express was released in November 2005.",
+            "id": "d68c39715afaf654f4634f5512b7195a"
+          },
+          {
+            "type": "html",
+            "text": " Vendor support of MSDE ended on April 8, 2008",
+            "id": "1704c708a718b045361b8b6a07e646ab"
+          },
+          {
+            "type": "html",
+            "text": " [http://en.wikipedia.org/wiki/MSDE en.wikipedia.org]",
+            "id": "f47a008da31a04635bab9de650883cb6"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?ClientSideTools c2.com]",
+            "id": "d8dd7d84a8b0e3c434a5f95fc0df22e3"
+          }
+        ]
+      }
+    }
+  ]
+}
