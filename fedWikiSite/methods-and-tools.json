@@ -1,0 +1,67 @@
+{
+  "title": "Methods And Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "[http://www.methodsandtools.com www.methodsandtools.com]",
+      "id": "3486eff56cf28e9069b3d7d72eaafc6f"
+    },
+    {
+      "type": "html",
+      "text": "\nMethods and Tools is a free e-newsletter for software developers",
+      "id": "ae3ba9c3a74d023392dacef13013aae3"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "de20dfd80acdd6824a44db3e7234e978"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Magazine]]",
+      "id": "7a54992c241f821cf3beb262f67685e2"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MethodsAndTools c2.com]",
+      "id": "b41637f9d62593035fdfbb5273f1da39"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1086781145000,
+      "id": "4838476eabf923bf0739495e09e8a433",
+      "type": "create",
+      "item": {
+        "title": "Methods And Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "[http://www.methodsandtools.com www.methodsandtools.com]",
+            "id": "3486eff56cf28e9069b3d7d72eaafc6f"
+          },
+          {
+            "type": "html",
+            "text": "\nMethods and Tools is a free e-newsletter for software developers",
+            "id": "ae3ba9c3a74d023392dacef13013aae3"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "de20dfd80acdd6824a44db3e7234e978"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Magazine]]",
+            "id": "7a54992c241f821cf3beb262f67685e2"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MethodsAndTools c2.com]",
+            "id": "b41637f9d62593035fdfbb5273f1da39"
+          }
+        ]
+      }
+    }
+  ]
+}
