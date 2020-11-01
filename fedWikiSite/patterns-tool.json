@@ -1,0 +1,157 @@
+{
+  "title": "Patterns Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "A topic that people are starting to think about more and \nmore often these days is the idea of a [[Patterns Tool]] that you \ncan use along with more conventional OO design tools and \nlanguages to help you utilize patterns.",
+      "id": "b6fd26a43a8199f828d234d19e21523b"
+    },
+    {
+      "type": "html",
+      "text": "\nThe ultimate [[Patterns Tool]] (to me) would work in forward and\nreverse engineering mode.  In forward engineering mode it would\nhelp code your classes from a description of how classes would \ninteract.",
+      "id": "d76df2de2f9942fbec9cae27814ec1f0"
+    },
+    {
+      "type": "html",
+      "text": "\nFor instance you might give the [[Patterns Tool]] a set of class names\nand say \"These classes are a composite -- this one's a composite class, these\nover here are primitive classes, now generate me the class definitions\nand method stubs to represent that.\"  ",
+      "id": "97c20bcbbdea4e1f6e9c07818d8ce0d2"
+    },
+    {
+      "type": "html",
+      "text": "\nIn reverse-engineering mode it would look through your code and design\ndiagrams and tell you \"You implemented a Chain of Responsibility here, etc.\"",
+      "id": "367a385c3272bf17a98964dc73dda294"
+    },
+    {
+      "type": "html",
+      "text": "\nAny thoughts?",
+      "id": "f5ab7ea26e35cffdb9bf2b710c65b34e"
+    },
+    {
+      "type": "html",
+      "text": "--[[Kyle Brown]]",
+      "id": "b0c68b6ef2ab4783d0f5d3434e2b3c6c"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "fa8859660dd061534eea6ffc7b864ec1"
+    },
+    {
+      "type": "html",
+      "text": "\nIn the future I want to describe to my computer (by voice of course ;-) what to build.  It will need to understand a language (alas, full english is just to ambiguous).  I use to think that language would be a subset of english, but nowadays I wonder if a [[Pattern Language]] would do the trick.\nHowever, I think that I am looking <b>far</b> into the future here.",
+      "id": "3124685c623c8471c60d4273039fe328"
+    },
+    {
+      "type": "html",
+      "text": "\nIn the meantime, I think that it may be premature to suggest that [[Design Patterns]] have been taken far enough to start programming machines to <i>help</i> us generate code using them.  Then again, it may be my prejudices against [[Case Tool]]s talking here....",
+      "id": "0ee62bd4be35086bc2f295457d045d34"
+    },
+    {
+      "type": "html",
+      "text": "\nI like the reverse engineering bit though.  Hmmm... I wonder how I could feed new [[Design Patterns]] to the tool...",
+      "id": "f81d0c9cb472b1759855d77adda1e600"
+    },
+    {
+      "type": "html",
+      "text": "-- [[Todd Coram]] ",
+      "id": "fc68db99f626d79a581280e557da5f76"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "fa8859660dd061534eea6ffc7b864ec1"
+    },
+    {
+      "type": "html",
+      "text": "\nSince I originally wrote the above I've found out that there are several university groups working on different kinds of [[Patterns Tool]].  If you're interested, we've established a patterns-tool mailing list out of UIUC.  Send email to mailto:patterns-tool-request@cs.uiuc.edu to subscribe.",
+      "id": "a101b5c0a502cdbf05b38c856834097a"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?PatternsTool c2.com]",
+      "id": "37a83333ce2c342d1e62701d40b83e86"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1113253866000,
+      "id": "6d6f26bce4aded1056d43353c9f35d20",
+      "type": "create",
+      "item": {
+        "title": "Patterns Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "A topic that people are starting to think about more and \nmore often these days is the idea of a [[Patterns Tool]] that you \ncan use along with more conventional OO design tools and \nlanguages to help you utilize patterns.",
+            "id": "b6fd26a43a8199f828d234d19e21523b"
+          },
+          {
+            "type": "html",
+            "text": "\nThe ultimate [[Patterns Tool]] (to me) would work in forward and\nreverse engineering mode.  In forward engineering mode it would\nhelp code your classes from a description of how classes would \ninteract.",
+            "id": "d76df2de2f9942fbec9cae27814ec1f0"
+          },
+          {
+            "type": "html",
+            "text": "\nFor instance you might give the [[Patterns Tool]] a set of class names\nand say \"These classes are a composite -- this one's a composite class, these\nover here are primitive classes, now generate me the class definitions\nand method stubs to represent that.\"  ",
+            "id": "97c20bcbbdea4e1f6e9c07818d8ce0d2"
+          },
+          {
+            "type": "html",
+            "text": "\nIn reverse-engineering mode it would look through your code and design\ndiagrams and tell you \"You implemented a Chain of Responsibility here, etc.\"",
+            "id": "367a385c3272bf17a98964dc73dda294"
+          },
+          {
+            "type": "html",
+            "text": "\nAny thoughts?",
+            "id": "f5ab7ea26e35cffdb9bf2b710c65b34e"
+          },
+          {
+            "type": "html",
+            "text": "--[[Kyle Brown]]",
+            "id": "b0c68b6ef2ab4783d0f5d3434e2b3c6c"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "fa8859660dd061534eea6ffc7b864ec1"
+          },
+          {
+            "type": "html",
+            "text": "\nIn the future I want to describe to my computer (by voice of course ;-) what to build.  It will need to understand a language (alas, full english is just to ambiguous).  I use to think that language would be a subset of english, but nowadays I wonder if a [[Pattern Language]] would do the trick.\nHowever, I think that I am looking <b>far</b> into the future here.",
+            "id": "3124685c623c8471c60d4273039fe328"
+          },
+          {
+            "type": "html",
+            "text": "\nIn the meantime, I think that it may be premature to suggest that [[Design Patterns]] have been taken far enough to start programming machines to <i>help</i> us generate code using them.  Then again, it may be my prejudices against [[Case Tool]]s talking here....",
+            "id": "0ee62bd4be35086bc2f295457d045d34"
+          },
+          {
+            "type": "html",
+            "text": "\nI like the reverse engineering bit though.  Hmmm... I wonder how I could feed new [[Design Patterns]] to the tool...",
+            "id": "f81d0c9cb472b1759855d77adda1e600"
+          },
+          {
+            "type": "html",
+            "text": "-- [[Todd Coram]] ",
+            "id": "fc68db99f626d79a581280e557da5f76"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "fa8859660dd061534eea6ffc7b864ec1"
+          },
+          {
+            "type": "html",
+            "text": "\nSince I originally wrote the above I've found out that there are several university groups working on different kinds of [[Patterns Tool]].  If you're interested, we've established a patterns-tool mailing list out of UIUC.  Send email to mailto:patterns-tool-request@cs.uiuc.edu to subscribe.",
+            "id": "a101b5c0a502cdbf05b38c856834097a"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?PatternsTool c2.com]",
+            "id": "37a83333ce2c342d1e62701d40b83e86"
+          }
+        ]
+      }
+    }
+  ]
+}
