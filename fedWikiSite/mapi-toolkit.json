@@ -1,0 +1,87 @@
+{
+  "title": "Mapi Toolkit",
+  "story": [
+    {
+      "type": "html",
+      "text": "A [[Gnu General Public License]] toolkit for creating applications that use the Microsoft Messaging [[Application Programming Interface]].",
+      "id": "5708b6e484f6f02da09abd162960f48f"
+    },
+    {
+      "type": "html",
+      "text": "\nThe toolkit and other resources are available at [http://www.sourcextreme.com/resources.html www.sourcextreme.com]",
+      "id": "e505f1f257e74e2ecc7a370b0cfc5366"
+    },
+    {
+      "type": "html",
+      "text": "\nThe code started out as part of a project to build an [[Open Source]] MAPI transport and MAPI message store. The code has evolved, predominantly using [[Test Driven Development]].",
+      "id": "e2092c03232b2f2d78c7242b1bc8f0ef"
+    },
+    {
+      "type": "html",
+      "text": "\nThis toolkit is [[Free Software]] and [[Open Source]]. It was originally authored by [[Jason Nocks]] and is provided by [[Source Xtreme]], Inc. Commercial support is also available. Contact mailto:info@sourcextreme.com. Or, visit [http://www.sourcextreme.com/ www.sourcextreme.com] for more information about [[Source Xtreme]].",
+      "id": "7a960a8520d44b4b8fdc1d0dd53277b4"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "24eae21b87f3fda0d17984b9ea5ff3a6"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Project]]",
+      "id": "49b174f83fb68f786dff548ef80f9505"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?MapiToolkit c2.com]",
+      "id": "cdce7b7f685a26134a72002347957327"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1081618401000,
+      "id": "1fa8c5e956b3464003e4279b56bbf18a",
+      "type": "create",
+      "item": {
+        "title": "Mapi Toolkit",
+        "story": [
+          {
+            "type": "html",
+            "text": "A [[Gnu General Public License]] toolkit for creating applications that use the Microsoft Messaging [[Application Programming Interface]].",
+            "id": "5708b6e484f6f02da09abd162960f48f"
+          },
+          {
+            "type": "html",
+            "text": "\nThe toolkit and other resources are available at [http://www.sourcextreme.com/resources.html www.sourcextreme.com]",
+            "id": "e505f1f257e74e2ecc7a370b0cfc5366"
+          },
+          {
+            "type": "html",
+            "text": "\nThe code started out as part of a project to build an [[Open Source]] MAPI transport and MAPI message store. The code has evolved, predominantly using [[Test Driven Development]].",
+            "id": "e2092c03232b2f2d78c7242b1bc8f0ef"
+          },
+          {
+            "type": "html",
+            "text": "\nThis toolkit is [[Free Software]] and [[Open Source]]. It was originally authored by [[Jason Nocks]] and is provided by [[Source Xtreme]], Inc. Commercial support is also available. Contact mailto:info@sourcextreme.com. Or, visit [http://www.sourcextreme.com/ www.sourcextreme.com] for more information about [[Source Xtreme]].",
+            "id": "7a960a8520d44b4b8fdc1d0dd53277b4"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "24eae21b87f3fda0d17984b9ea5ff3a6"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Project]]",
+            "id": "49b174f83fb68f786dff548ef80f9505"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?MapiToolkit c2.com]",
+            "id": "cdce7b7f685a26134a72002347957327"
+          }
+        ]
+      }
+    }
+  ]
+}
