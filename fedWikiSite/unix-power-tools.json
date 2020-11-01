@@ -1,0 +1,87 @@
+{
+  "title": "Unix Power Tools",
+  "story": [
+    {
+      "type": "html",
+      "text": "by Tim O'Reilly, Mike Loukides, Jerry Peek ISBN: 1565922603",
+      "id": "9509f03a0e94f5e151961c35fd0d921e"
+    },
+    {
+      "type": "html",
+      "text": "\nUNIX Tools, 2nd Edition, consists of tips, tricks, concepts, and freeware (CD-ROM included). It also covers add-on utilities and how to take advantage of clever features in the most popular UNIX utilities.",
+      "id": "99d7e933c3bf88429812849a02313abe"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4d31fa4de0a42f97e0dd7ef913a1be2a"
+    },
+    {
+      "type": "html",
+      "text": "See also: [[Power Tool]]",
+      "id": "1b26bd6d7741fc14791143ba903dcc90"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "4d31fa4de0a42f97e0dd7ef913a1be2a"
+    },
+    {
+      "type": "html",
+      "text": "[[Category Book]]",
+      "id": "35ebc96a29732b87f3526c87886f25e4"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?UnixPowerTools c2.com]",
+      "id": "b1ec9da0e19e2af30a0fa3129a6561de"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1147000687000,
+      "id": "08ba1baf4839390c80fd42957604bfa2",
+      "type": "create",
+      "item": {
+        "title": "Unix Power Tools",
+        "story": [
+          {
+            "type": "html",
+            "text": "by Tim O'Reilly, Mike Loukides, Jerry Peek ISBN: 1565922603",
+            "id": "9509f03a0e94f5e151961c35fd0d921e"
+          },
+          {
+            "type": "html",
+            "text": "\nUNIX Tools, 2nd Edition, consists of tips, tricks, concepts, and freeware (CD-ROM included). It also covers add-on utilities and how to take advantage of clever features in the most popular UNIX utilities.",
+            "id": "99d7e933c3bf88429812849a02313abe"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4d31fa4de0a42f97e0dd7ef913a1be2a"
+          },
+          {
+            "type": "html",
+            "text": "See also: [[Power Tool]]",
+            "id": "1b26bd6d7741fc14791143ba903dcc90"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "4d31fa4de0a42f97e0dd7ef913a1be2a"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Book]]",
+            "id": "35ebc96a29732b87f3526c87886f25e4"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?UnixPowerTools c2.com]",
+            "id": "b1ec9da0e19e2af30a0fa3129a6561de"
+          }
+        ]
+      }
+    }
+  ]
+}
