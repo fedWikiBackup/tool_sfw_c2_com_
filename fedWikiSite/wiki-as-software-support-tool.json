@@ -1,0 +1,147 @@
+{
+  "title": "Wiki As Software Support Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "Wikis seems well-suited to replacing certain newsgroups that primarily enable inexperienced software users or developers to find answers to their questions.  I see the following benefits:",
+      "id": "aec05918e367164c525e3c7080a10de8"
+    },
+    {
+      "type": "html",
+      "text": " You can edit out wrong answers",
+      "id": "72a4f2441166558746c335c6749719a7"
+    },
+    {
+      "type": "html",
+      "text": " Connecting related threads will be a little more seamless",
+      "id": "392397048fc152a2ee9259324e67b1f8"
+    },
+    {
+      "type": "html",
+      "text": " The ability to look up a topic or phrase and getting a page list with matches",
+      "id": "c72a8ffe34c68585c7a708f8706cee4a"
+    },
+    {
+      "type": "html",
+      "text": " The advantage being in the \"Wiki Now\" with hyperlinked external related material available with a click  ",
+      "id": "419fcef173902b01fa5cb65b46c049ec"
+    },
+    {
+      "type": "html",
+      "text": " You can adapt the script (or scripts, depending on what clone you start with) to do all manner of neat things. [[Auto Tracker]] is one example.",
+      "id": "4140dd11d284cbeeae149fb7506843e6"
+    },
+    {
+      "type": "html",
+      "text": " There is no obstacle to contributing (like logins, etc.), so everyone is both a reader and a potential contributor, and are likely to do so",
+      "id": "33a729671a7135171e82087654e3b2ff"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "5b434ef5bccfe31268d9374213761af7"
+    },
+    {
+      "type": "html",
+      "text": "\nI'm finding it difficult to get people to use wiki. It's just different enough to put them off :-(",
+      "id": "0ee96cc031e069aac3dcbca190b98f84"
+    },
+    {
+      "type": "html",
+      "text": "<i>I've found it hard to get people to start using a sparsely populated wiki. Unless some people get immediate value, they won't come back. If you can start with a small number of people who \"get it,\" work with them to populate the wiki, and then bring others in. If people see immediate value, getting them to the next step--where they see the value of actively participating--is a lot easier. --  [[Dave Smith]]</i>",
+      "id": "0bbf279ab089bb2d51c076778ca99970"
+    },
+    {
+      "type": "html",
+      "text": "\nFor some strategies to deal with this problem, see [[Why Dont Others Get Wiki]] and [[Promoting Wiki]].",
+      "id": "318a355d9edda6e8221aa674e381669c"
+    },
+    {
+      "type": "html",
+      "text": "<i>Also see [[Core Contributor Foundation]]</i>.  After the initial work has been put in, then it becomes self-sustaining, especially if you allow [[Wiki Home Page]]s.  People will identify more with Wiki because a small part of it is \"theirs\".  My $0.02.  I fully agree with the above-mentioned advantages of Wiki.'' -- [[Carlos Ns Rodrigues]]",
+      "id": "c49d537e53020678297e2d2d0080daed"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?WikiAsSoftwareSupportTool c2.com]",
+      "id": "ae6cd9dec5083101e56fcbc315394016"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1081463586000,
+      "id": "b4ac7404132d49056298089b72daa972",
+      "type": "create",
+      "item": {
+        "title": "Wiki As Software Support Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "Wikis seems well-suited to replacing certain newsgroups that primarily enable inexperienced software users or developers to find answers to their questions.  I see the following benefits:",
+            "id": "aec05918e367164c525e3c7080a10de8"
+          },
+          {
+            "type": "html",
+            "text": " You can edit out wrong answers",
+            "id": "72a4f2441166558746c335c6749719a7"
+          },
+          {
+            "type": "html",
+            "text": " Connecting related threads will be a little more seamless",
+            "id": "392397048fc152a2ee9259324e67b1f8"
+          },
+          {
+            "type": "html",
+            "text": " The ability to look up a topic or phrase and getting a page list with matches",
+            "id": "c72a8ffe34c68585c7a708f8706cee4a"
+          },
+          {
+            "type": "html",
+            "text": " The advantage being in the \"Wiki Now\" with hyperlinked external related material available with a click  ",
+            "id": "419fcef173902b01fa5cb65b46c049ec"
+          },
+          {
+            "type": "html",
+            "text": " You can adapt the script (or scripts, depending on what clone you start with) to do all manner of neat things. [[Auto Tracker]] is one example.",
+            "id": "4140dd11d284cbeeae149fb7506843e6"
+          },
+          {
+            "type": "html",
+            "text": " There is no obstacle to contributing (like logins, etc.), so everyone is both a reader and a potential contributor, and are likely to do so",
+            "id": "33a729671a7135171e82087654e3b2ff"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "5b434ef5bccfe31268d9374213761af7"
+          },
+          {
+            "type": "html",
+            "text": "\nI'm finding it difficult to get people to use wiki. It's just different enough to put them off :-(",
+            "id": "0ee96cc031e069aac3dcbca190b98f84"
+          },
+          {
+            "type": "html",
+            "text": "<i>I've found it hard to get people to start using a sparsely populated wiki. Unless some people get immediate value, they won't come back. If you can start with a small number of people who \"get it,\" work with them to populate the wiki, and then bring others in. If people see immediate value, getting them to the next step--where they see the value of actively participating--is a lot easier. --  [[Dave Smith]]</i>",
+            "id": "0bbf279ab089bb2d51c076778ca99970"
+          },
+          {
+            "type": "html",
+            "text": "\nFor some strategies to deal with this problem, see [[Why Dont Others Get Wiki]] and [[Promoting Wiki]].",
+            "id": "318a355d9edda6e8221aa674e381669c"
+          },
+          {
+            "type": "html",
+            "text": "<i>Also see [[Core Contributor Foundation]]</i>.  After the initial work has been put in, then it becomes self-sustaining, especially if you allow [[Wiki Home Page]]s.  People will identify more with Wiki because a small part of it is \"theirs\".  My $0.02.  I fully agree with the above-mentioned advantages of Wiki.'' -- [[Carlos Ns Rodrigues]]",
+            "id": "c49d537e53020678297e2d2d0080daed"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?WikiAsSoftwareSupportTool c2.com]",
+            "id": "ae6cd9dec5083101e56fcbc315394016"
+          }
+        ]
+      }
+    }
+  ]
+}
