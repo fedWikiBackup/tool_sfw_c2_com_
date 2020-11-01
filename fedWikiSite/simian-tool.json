@@ -1,0 +1,87 @@
+{
+  "title": "Simian Tool",
+  "story": [
+    {
+      "type": "html",
+      "text": "Simian (Similarity Analyser) identifies [[Duplicated Code]] in Java, C#, C, CPP, COBOL, JSP, HTML source code and even plain text files. It costs money.",
+      "id": "57ae15dfce597eaed0713bda13758f6b"
+    },
+    {
+      "type": "html",
+      "text": "\nRuns under any Java2 1.3 or higher virtual machine",
+      "id": "935211c61562b59cbaff85787feb52d0"
+    },
+    {
+      "type": "html",
+      "text": "\nSee ",
+      "id": "ec281be22ef1c52b0bbcd440a23f7d36"
+    },
+    {
+      "type": "html",
+      "text": " [http://www.redhillconsulting.com.au/products/simian www.redhillconsulting.com.au] ( [[Broken Link]] )",
+      "id": "c2d5a17ff9d7591cdf08c9cad24f52f5"
+    },
+    {
+      "type": "html",
+      "text": "<hr>",
+      "id": "23d4beca04c4d93c9995b3d9b1a22bf6"
+    },
+    {
+      "type": "html",
+      "text": "This is one of many tools for finding code duplication.  For others (some free), see [[Category Duplication Finding Tool]].",
+      "id": "de65970fa9ca30f313788e5dc75688f6"
+    },
+    {
+      "type": "html",
+      "text": "See original on  [http://c2.com/cgi/wiki?SimianTool c2.com]",
+      "id": "e7bebadf6815aa6a7cd240d1cdba387e"
+    }
+  ],
+  "journal": [
+    {
+      "date": 1406523464000,
+      "id": "6700d8cdac27f52ab2833d5b84250131",
+      "type": "create",
+      "item": {
+        "title": "Simian Tool",
+        "story": [
+          {
+            "type": "html",
+            "text": "Simian (Similarity Analyser) identifies [[Duplicated Code]] in Java, C#, C, CPP, COBOL, JSP, HTML source code and even plain text files. It costs money.",
+            "id": "57ae15dfce597eaed0713bda13758f6b"
+          },
+          {
+            "type": "html",
+            "text": "\nRuns under any Java2 1.3 or higher virtual machine",
+            "id": "935211c61562b59cbaff85787feb52d0"
+          },
+          {
+            "type": "html",
+            "text": "\nSee ",
+            "id": "ec281be22ef1c52b0bbcd440a23f7d36"
+          },
+          {
+            "type": "html",
+            "text": " [http://www.redhillconsulting.com.au/products/simian www.redhillconsulting.com.au] ( [[Broken Link]] )",
+            "id": "c2d5a17ff9d7591cdf08c9cad24f52f5"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "23d4beca04c4d93c9995b3d9b1a22bf6"
+          },
+          {
+            "type": "html",
+            "text": "This is one of many tools for finding code duplication.  For others (some free), see [[Category Duplication Finding Tool]].",
+            "id": "de65970fa9ca30f313788e5dc75688f6"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?SimianTool c2.com]",
+            "id": "e7bebadf6815aa6a7cd240d1cdba387e"
+          }
+        ]
+      }
+    }
+  ]
+}
